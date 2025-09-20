@@ -1,0 +1,560 @@
+name,country_of_citizenship,position,foot,height_in_cm,current_club_domestic_competition_id,current_club_name,market_value_in_eur,yellow_cards,red_cards,minutes_played,age,saves,goals_conceded
+Giorgi Mamardashvili,Georgia,Goalkeeper,left,197.0,ES1,Valencia CF,45000000.0,3,1,3285,24,164,31
+Diogo Costa,Portugal,Goalkeeper,right,186.0,PO1,FC Porto,45000000.0,0,1,3785,25,151,58
+Gianluigi Donnarumma,Italy,Goalkeeper,right,196.0,FR1,Paris Saint-Germain,40000000.0,5,1,3340,25,105,55
+Gregor Kobel,Switzerland,Goalkeeper,right,196.0,L1,Borussia Dortmund,40000000.0,1,0,3716,27,156,57
+Mike Maignan,France,Goalkeeper,right,191.0,IT1,AC Milan,38000000.0,3,1,3702,29,187,25
+David Raya,Spain,Goalkeeper,right,183.0,GB1,Arsenal FC,35000000.0,2,0,3720,29,120,40
+Guglielmo Vicario,Italy,Goalkeeper,right,194.0,GB1,Tottenham Hotspur,35000000.0,2,0,3600,28,156,25
+Ederson,Brazil,Goalkeeper,left,188.0,GB1,Manchester City,35000000.0,5,0,3718,31,112,43
+André Onana,Cameroon,Goalkeeper,right,190.0,GB1,Manchester United,35000000.0,6,0,4650,28,187,58
+Unai Simón,Spain,Goalkeeper,right,190.0,ES1,Athletic Bilbao,30000000.0,2,0,3184,27,80,22
+Alisson,Brazil,Goalkeeper,right,193.0,GB1,Liverpool FC,28000000.0,1,0,2880,32,85,28
+Jan Oblak,Slovenia,Goalkeeper,right,188.0,ES1,Atlético de Madrid,28000000.0,1,0,4950,32,169,51
+Marc-André ter Stegen,Germany,Goalkeeper,right,187.0,ES1,FC Barcelona,28000000.0,3,0,3240,32,164,33
+Thibaut Courtois,Belgium,Goalkeeper,left,200.0,ES1,Real Madrid,28000000.0,0,0,423,32,19,5
+Emiliano Martínez,Argentina,Goalkeeper,right,195.0,GB1,Aston Villa,28000000.0,6,0,4060,32,161,40
+Álex Remiro,Spain,Goalkeeper,right,191.0,ES1,Real Sociedad,25000000.0,2,1,4386,29,195,49
+Lucas Chevalier,France,Goalkeeper,right,189.0,FR1,LOSC Lille,25000000.0,1,0,3180,23,100,40
+Andriy Lunin,Ukraine,Goalkeeper,right,191.0,ES1,Real Madrid,25000000.0,2,0,2850,25,84,43
+Aaron Ramsdale,England,Goalkeeper,right,190.0,GB1,Arsenal FC,25000000.0,0,0,990,26,28,15
+Anatoliy Trubin,Ukraine,Goalkeeper,right,199.0,PO1,SL Benfica,25000000.0,2,0,3900,23,200,49
+Jordan Pickford,England,Goalkeeper,left,185.0,GB1,Everton FC,22000000.0,5,0,3780,30,181,41
+Marcin Bulka,Poland,Goalkeeper,right,199.0,FR1,OGC Nice,20000000.0,2,0,3060,25,153,45
+Djordje Petrovic,Serbia,Goalkeeper,right,194.0,GB1,Chelsea FC,20000000.0,4,0,2736,25,148,35
+Caoimhín Kelleher,Ireland,Goalkeeper,right,188.0,GB1,Liverpool FC,20000000.0,2,0,2400,26,73,39
+Robert Sánchez,Spain,Goalkeeper,right,197.0,GB1,Chelsea FC,20000000.0,1,0,1884,27,84,27
+Matvey Safonov,Russia,Goalkeeper,right,192.0,RU1,FK Krasnodar,20000000.0,0,0,2655,25,70,36
+Filip Jørgensen,Denmark,Goalkeeper,right,190.0,ES1,Villarreal CF,20000000.0,4,0,3330,22,181,32
+Diant Ramaj,Germany,Goalkeeper,both,189.0,NL1,Ajax Amsterdam,18000000.0,0,0,2272,23,55,26
+Guillaume Restes,France,Goalkeeper,left,188.0,FR1,FC Toulouse,18000000.0,5,0,3870,19,124,36
+Bart Verbruggen,Netherlands,Goalkeeper,right,194.0,GB1,Brighton & Hove Albion,18000000.0,3,0,2430,22,69,39
+James Trafford,England,Goalkeeper,right,197.0,GB1,Burnley FC,18000000.0,2,0,2520,22,114,14
+Michele Di Gregorio,Italy,Goalkeeper,right,187.0,IT1,AC Monza,18000000.0,0,0,2964,27,116,22
+Nick Pope,England,Goalkeeper,right,198.0,GB1,Newcastle United,16000000.0,3,0,1886,32,43,14
+Marco Carnesecchi,Italy,Goalkeeper,right,191.0,IT1,Atalanta BC,16000000.0,0,0,2870,24,119,32
+Brice Samba,France,Goalkeeper,left,187.0,FR1,RC Lens,15000000.0,5,0,3720,30,194,40
+Ivan Provedel,Italy,Goalkeeper,right,194.0,IT1,SS Lazio,14000000.0,0,0,3600,30,160,34
+José Sá,Portugal,Goalkeeper,right,192.0,GB1,Wolverhampton Wanderers,14000000.0,2,0,3518,32,112,29
+Walter Benítez,Argentina,Goalkeeper,right,191.0,NL1,PSV Eindhoven,13000000.0,1,0,4135,32,213,36
+Bernd Leno,Germany,Goalkeeper,right,190.0,GB1,Fulham FC,13000000.0,4,0,3690,32,194,36
+Justin Bijlow,Netherlands,Goalkeeper,right,188.0,NL1,Feyenoord Rotterdam,13000000.0,1,0,2094,27,88,30
+Dean Henderson,England,Goalkeeper,right,188.0,GB1,Crystal Palace,12000000.0,2,0,1729,27,59,13
+Mark Flekken,Netherlands,Goalkeeper,both,195.0,GB1,Brentford FC,12000000.0,3,0,3375,31,114,36
+Kamil Grabara,Poland,Goalkeeper,right,195.0,DK1,FC Copenhagen,12000000.0,2,0,3540,26,82,23
+Alexander Nübel,Germany,Goalkeeper,right,193.0,L1,VfB Stuttgart,12000000.0,1,0,3060,28,80,49
+Kepa Arrizabalaga,Spain,Goalkeeper,right,188.0,ES1,Real Madrid,12000000.0,2,0,1767,30,61,19
+Alex Meret,Italy,Goalkeeper,left,190.0,IT1,SSC Napoli,12000000.0,0,0,3494,27,116,26
+Álvaro Valles,Spain,Goalkeeper,right,191.0,ES1,UD Las Palmas,12000000.0,2,1,3264,27,155,23
+Maarten Vandevoordt,Belgium,Goalkeeper,right,192.0,BE1,KRC Genk,11000000.0,0,0,3300,22,119,26
+Dominik Livakovic,Croatia,Goalkeeper,right,188.0,TR1,Fenerbahce,11000000.0,1,0,3419,30,147,41
+Sam Johnstone,England,Goalkeeper,right,193.0,GB1,Crystal Palace,10000000.0,1,0,2048,31,86,30
+Alphonse Areola,France,Goalkeeper,right,195.0,GB1,West Ham United,10000000.0,1,0,2880,31,108,25
+Noah Atubolu,Germany,Goalkeeper,right,190.0,L1,SC Freiburg,10000000.0,0,0,4080,22,174,46
+Predrag Rajkovic,Serbia,Goalkeeper,right,191.0,ES1,RCD Mallorca,10000000.0,2,0,3240,29,139,23
+Altay Bayındır,Türkiye,Goalkeeper,right,198.0,TR1,Fenerbahce,10000000.0,0,0,450,26,12,6
+Pau López,Spain,Goalkeeper,left,189.0,FR1,Olympique Marseille,10000000.0,2,0,4350,30,178,26
+Alban Lafont,France,Goalkeeper,right,196.0,FR1,FC Nantes,9000000.0,2,0,2497,26,96,36
+Stefan Ortega,Germany,Goalkeeper,right,185.0,GB1,Manchester City,9000000.0,0,0,1622,32,56,9
+Mile Svilar,Serbia,Goalkeeper,right,189.0,IT1,AS Roma,9000000.0,2,0,2730,25,103,21
+Bono,Morocco,Goalkeeper,left,195.0,ES1,Sevilla FC,9000000.0,0,0,180,33,7,2
+Rui Silva,Portugal,Goalkeeper,left,191.0,ES1,Real Betis Balompié,8000000.0,4,0,3105,30,91,27
+Iñaki Peña,Spain,Goalkeeper,right,184.0,ES1,FC Barcelona,8000000.0,0,0,1560,25,55,8
+Uğurcan Çakır,Türkiye,Goalkeeper,right,191.0,TR1,Trabzonspor,8000000.0,4,0,3134,28,136,47
+Jean Butez,France,Goalkeeper,right,189.0,BE1,Royal Antwerp FC,8000000.0,1,0,3420,29,96,37
+Yehvann Diouf,France,Goalkeeper,right,190.0,FR1,Stade Reims,8000000.0,0,0,3060,25,121,50
+Josep Martínez,Spain,Goalkeeper,right,191.0,IT1,Genoa CFC,8000000.0,4,0,3240,26,106,51
+Dmytro Riznyk,Ukraine,Goalkeeper,right,191.0,UKR1,Shakhtar Donetsk,7000000.0,3,0,3510,26,157,19
+Matt Turner,United States,Goalkeeper,right,191.0,GB1,Nottingham Forest,7000000.0,1,0,1920,30,56,24
+Matz Sels,Belgium,Goalkeeper,right,188.0,FR1,RC Strasbourg Alsace,7000000.0,3,0,3150,32,88,40
+Arijanet Muric,Kosovo,Goalkeeper,right,198.0,GB1,Burnley FC,7000000.0,1,0,1260,26,49,8
+Odysseas Vlachodimos,Greece,Goalkeeper,right,191.0,PO1,SL Benfica,7000000.0,1,0,840,30,33,7
+Matej Kovar,Czech Republic,Goalkeeper,right,196.0,L1,Bayer 04 Leverkusen,7000000.0,1,0,1530,24,80,9
+Stefano Turati,Italy,Goalkeeper,right,188.0,IT1,Frosinone Calcio,7000000.0,0,0,2835,23,144,30
+Timon Wellenreuther,Germany,Goalkeeper,right,188.0,NL1,Feyenoord Rotterdam,7000000.0,3,0,2256,29,91,18
+Georgiy Bushchan,Ukraine,Goalkeeper,right,196.0,UKR1,Dynamo Kyiv,7000000.0,2,0,2730,30,95,19
+Antonio Sivera,Spain,Goalkeeper,right,185.0,ES1,Deportivo Alavés,6000000.0,3,0,3150,28,127,39
+Luiz Júnior,Brazil,Goalkeeper,left,192.0,PO1,FC Famalicão,6000000.0,2,0,3060,24,141,35
+Elia Caprile,Italy,Goalkeeper,right,191.0,IT1,FC Empoli,6000000.0,0,0,2160,23,73,32
+Matheus,Brazil,Goalkeeper,right,190.0,PO1,SC Braga,6000000.0,3,0,4350,32,142,35
+Arnaud Bodart,Belgium,Goalkeeper,right,187.0,BE1,Standard Liège,6000000.0,0,0,2610,26,73,38
+Sergio Herrera,Spain,Goalkeeper,right,192.0,ES1,CA Osasuna,6000000.0,3,0,3050,31,121,47
+Jonas Omlin,Switzerland,Goalkeeper,right,190.0,L1,Borussia Mönchengladbach,6000000.0,1,0,720,31,33,6
+Wojciech Szczęsny,Poland,Goalkeeper,right,196.0,IT1,Juventus FC,6000000.0,1,0,3150,34,130,23
+Koen Casteels,Belgium,Goalkeeper,left,197.0,L1,VfL Wolfsburg,6000000.0,2,0,2460,32,112,22
+Radoslaw Majecki,Poland,Goalkeeper,right,193.0,FR1,AS Monaco,5000000.0,1,0,1080,25,43,8
+Julen Agirrezabala,Spain,Goalkeeper,left,187.0,ES1,Athletic Bilbao,5000000.0,0,0,1016,24,49,6
+Augusto Batalla,Argentina,Goalkeeper,right,186.0,ES1,Granada CF,5000000.0,3,0,1530,28,40,19
+Juan Musso,Argentina,Goalkeeper,right,191.0,IT1,Atalanta BC,5000000.0,0,0,2160,30,64,35
+Conan Ledesma,Argentina,Goalkeeper,right,186.0,ES1,Cádiz CF,5000000.0,0,0,3049,31,129,50
+Finn Dahmen,Germany,Goalkeeper,right,186.0,L1,FC Augsburg,5000000.0,4,0,2880,26,136,41
+Vanja Milinković-Savić,Serbia,Goalkeeper,right,202.0,IT1,Torino FC,5000000.0,2,0,3330,27,173,42
+Philipp Köhn,Switzerland,Goalkeeper,right,190.0,FR1,AS Monaco,5000000.0,0,0,1980,26,89,23
+David Soria,Spain,Goalkeeper,right,192.0,ES1,Getafe CF,5000000.0,3,0,3594,31,150,48
+Emil Audero,Italy,Goalkeeper,right,192.0,IT1,Inter Milan,5000000.0,0,0,548,28,17,3
+Arnau Tenas,Spain,Goalkeeper,right,185.0,FR1,Paris Saint-Germain,5000000.0,0,0,528,23,23,4
+Gerónimo Rulli,Argentina,Goalkeeper,right,189.0,NL1,Ajax Amsterdam,5000000.0,0,0,572,32,26,4
+Dominik Kotarski,Croatia,Goalkeeper,right,189.0,GR1,PAOK Thessaloniki,5000000.0,2,0,2910,24,117,48
+Yann Sommer,Switzerland,Goalkeeper,right,183.0,IT1,Inter Milan,5000000.0,1,0,3900,36,157,49
+Luís Maximiano,Portugal,Goalkeeper,both,190.0,ES1,UD Almería,5000000.0,1,0,3060,26,96,49
+Wladimiro Falcone,Italy,Goalkeeper,right,195.0,IT1,US Lecce,5000000.0,0,0,3510,29,88,55
+Frederik Rönnow,Denmark,Goalkeeper,right,188.0,L1,1.FC Union Berlin,4500000.0,2,0,3690,32,132,38
+Warleson,Brazil,Goalkeeper,right,190.0,BE1,Cercle Brugge,4500000.0,0,0,2700,28,112,37
+Maduka Okoye,Nigeria,Goalkeeper,right,197.0,IT1,Udinese Calcio,4000000.0,2,0,2010,25,68,33
+Kevin Trapp,Germany,Goalkeeper,right,189.0,L1,Eintracht Frankfurt,4000000.0,2,0,3240,34,104,32
+Stole Dimitrievski,North Macedonia,Goalkeeper,right,188.0,ES1,Rayo Vallecano,4000000.0,1,0,3330,31,131,42
+Marco Bizot,Netherlands,Goalkeeper,right,193.0,FR1,Stade Brestois 29,4000000.0,3,1,2877,33,81,19
+Marvin Schwäbe,Germany,Goalkeeper,right,190.0,L1,1.FC Köln,4000000.0,0,0,3270,29,124,51
+Nick Olij,Netherlands,Goalkeeper,right,184.0,NL1,Sparta Rotterdam,4000000.0,0,0,3240,29,87,24
+Gabriel Slonina,United States,Goalkeeper,right,193.0,BE1,KAS Eupen,4000000.0,2,0,2520,20,132,15
+Pierluigi Gollini,Italy,Goalkeeper,right,194.0,IT1,SSC Napoli,4000000.0,0,0,900,29,36,12
+Paulo Gazzaniga,Argentina,Goalkeeper,right,195.0,ES1,Girona FC,4000000.0,2,0,3420,33,102,49
+Anthony Lopes,Portugal,Goalkeeper,left,184.0,FR1,Olympique Lyon,4000000.0,0,0,2790,34,79,30
+Manuel Neuer,Germany,Goalkeeper,right,193.0,L1,Bayern Munich,4000000.0,1,0,2954,38,123,40
+Bruno Varela,Cape Verde,Goalkeeper,right,191.0,PO1,Vitória Guimarães SC,4000000.0,2,0,2685,30,80,23
+Lorenzo Montipò,Italy,Goalkeeper,right,191.0,IT1,Hellas Verona,3500000.0,0,0,3420,28,130,30
+Lars Unnerstall,Germany,Goalkeeper,right,198.0,NL1,Twente Enschede FC,3500000.0,2,0,3540,34,164,49
+Ilya Lantratov,Russia,Goalkeeper,right,194.0,RU1,Lokomotiv Moscow,3500000.0,2,0,3060,29,135,43
+Franco Israel,Uruguay,Goalkeeper,right,190.0,PO1,Sporting CP,3500000.0,0,0,1530,24,44,17
+Mathew Ryan,Australia,Goalkeeper,right,184.0,NL1,AZ Alkmaar,3500000.0,1,0,3090,32,107,25
+Benjamin Lecomte,France,Goalkeeper,left,186.0,FR1,Montpellier HSC,3500000.0,1,0,2700,33,84,23
+Lukasz Skorupski,Poland,Goalkeeper,right,188.0,IT1,Bologna FC 1909,3500000.0,2,0,3090,33,87,28
+Jason Steele,England,Goalkeeper,right,188.0,GB1,Brighton & Hove Albion,3500000.0,1,0,2070,34,64,32
+Mark Travers,Ireland,Goalkeeper,right,191.0,GB1,AFC Bournemouth,3500000.0,1,0,750,25,30,10
+Ivo Grbic,Croatia,Goalkeeper,right,195.0,GB1,Sheffield United,3500000.0,1,0,862,29,32,5
+Christos Mandas,Greece,Goalkeeper,right,189.0,GR1,OFI Crete FC,3000000.0,0,0,1171,23,47,8
+Oliver Baumann,Germany,Goalkeeper,right,187.0,L1,TSG 1899 Hoffenheim,3000000.0,1,0,3240,34,109,47
+Daniel Peretz,Israel,Goalkeeper,right,190.0,L1,Bayern Munich,3000000.0,0,0,556,24,21,6
+Samuel Soares,Portugal,Goalkeeper,right,190.0,PO1,SL Benfica,3000000.0,0,0,450,22,14,7
+Marek Rodák,Slovakia,Goalkeeper,right,194.0,GB1,Fulham FC,3000000.0,0,0,450,28,18,3
+Patrick Pentz,Austria,Goalkeeper,left,183.0,DK1,Bröndby IF,3000000.0,1,0,1800,28,47,29
+Thomas Strakosha,Albania,Goalkeeper,right,193.0,GB1,Brentford FC,3000000.0,0,0,345,29,16,5
+Oliver Christensen,Denmark,Goalkeeper,right,190.0,IT1,ACF Fiorentina,3000000.0,0,0,600,25,21,6
+Péter Gulácsi,Hungary,Goalkeeper,right,190.0,L1,RB Leipzig,3000000.0,0,0,1620,34,53,9
+Ricardo Velho,Portugal,Goalkeeper,right,188.0,PO1,SC Farense,3000000.0,3,0,3150,26,143,25
+Robin Zentner,Germany,Goalkeeper,right,195.0,L1,1.FSV Mainz 05,3000000.0,3,0,2880,30,82,34
+Mattia Perin,Italy,Goalkeeper,right,188.0,IT1,Juventus FC,3000000.0,0,0,675,32,17,5
+Andrew,Brazil,Goalkeeper,right,188.0,PO1,Gil Vicente FC,3000000.0,0,0,2970,23,151,49
+Yvon Mvogo,Switzerland,Goalkeeper,right,190.0,FR1,FC Lorient,3000000.0,1,0,3060,30,76,48
+Andrei Radu,Romania,Goalkeeper,right,188.0,GB1,AFC Bournemouth,3000000.0,0,0,450,27,19,3
+Jack Butland,England,Goalkeeper,right,196.0,SC1,Rangers FC,3000000.0,1,0,4410,31,171,47
+Jeffrey de Lange,Netherlands,Goalkeeper,right,190.0,NL1,Go Ahead Eagles,3000000.0,3,0,3240,26,93,31
+Vasilios Barkas,Greece,Goalkeeper,left,196.0,NL1,FC Utrecht,3000000.0,2,0,2610,30,108,14
+Bilal Bayazıt,Türkiye,Goalkeeper,right,185.0,TR1,Kayserispor,2800000.0,5,0,3150,25,130,41
+Tobe Leysen,Belgium,Goalkeeper,left,189.0,BE1,Oud-Heverlee Leuven,2500000.0,0,0,1440,22,37,13
+Pietro Terracciano,Italy,Goalkeeper,right,193.0,IT1,ACF Fiorentina,2500000.0,3,0,3420,34,179,50
+Neto,Brazil,Goalkeeper,right,190.0,GB1,AFC Bournemouth,2500000.0,19,0,5252,35,245,34
+Paul Nardi,France,Goalkeeper,right,188.0,BE1,KAA Gent,2500000.0,0,0,990,30,43,8
+Aleksandr Maksimenko,Russia,Goalkeeper,left,187.0,RU1,Spartak Moscow,2500000.0,2,0,2565,26,130,28
+Joël Drommel,Netherlands,Goalkeeper,right,192.0,NL1,PSV Eindhoven,2500000.0,0,0,270,28,8,3
+Gaëtan Coucke,Belgium,Goalkeeper,right,187.0,BE1,KV Mechelen,2500000.0,2,0,2790,26,133,32
+Lukas Hradecky,Finland,Goalkeeper,right,192.0,L1,Bayer 04 Leverkusen,2500000.0,3,0,3150,35,117,25
+Dominik Greif,Slovakia,Goalkeeper,right,197.0,ES1,RCD Mallorca,2500000.0,1,0,810,27,29,12
+Moritz Nicolas,Germany,Goalkeeper,right,193.0,L1,Borussia Mönchengladbach,2500000.0,2,0,2730,27,102,43
+Arthur Desmas,France,Goalkeeper,right,196.0,FR1,Le Havre AC,2500000.0,2,0,2970,30,123,22
+Simone Scuffet,Italy,Goalkeeper,right,193.0,IT1,Cagliari Calcio,2500000.0,3,0,2790,28,93,43
+Zion Suzuki,Japan,Goalkeeper,right,190.0,BE1,Sint-Truidense VV,2500000.0,0,0,1980,22,49,27
+Bartlomiej Dragowski,Poland,Goalkeeper,right,191.0,GR1,Panathinaikos FC,2500000.0,0,0,960,27,32,6
+Paul Bernardoni,France,Goalkeeper,left,193.0,TR1,Konyaspor,2200000.0,0,0,1530,27,66,13
+Lukas Hornicek,Czech Republic,Goalkeeper,right,198.0,PO1,SC Braga,2000000.0,0,0,180,22,7,2
+Konstantinos Tzolakis,Greece,Goalkeeper,both,193.0,GR1,Olympiacos Piraeus,2000000.0,0,0,180,22,8,2
+Hervé Koffi,Burkina Faso,Goalkeeper,right,186.0,BE1,R Charleroi SC,2000000.0,1,0,2340,28,88,27
+Ivan Lomaev,Russia,Goalkeeper,right,190.0,RU1,Krylya Sovetov Samara,2000000.0,3,0,2160,26,63,18
+Ruslan Neshcheret,Ukraine,Goalkeeper,right,190.0,UKR1,Dynamo Kyiv,2000000.0,0,0,450,23,18,5
+Alaa Bellaarouch,Morocco,Goalkeeper,right,188.0,FR1,RC Strasbourg Alsace,2000000.0,1,0,1350,22,36,12
+Anthony Moris,Luxembourg,Goalkeeper,left,186.0,BE1,Union Saint-Gilloise,2000000.0,1,1,3310,34,122,37
+Simon Mignolet,Belgium,Goalkeeper,right,193.0,BE1,Club Brugge KV,2000000.0,3,0,2980,36,101,43
+Janis Blaswich,Germany,Goalkeeper,right,193.0,L1,RB Leipzig,2000000.0,0,0,2430,33,102,30
+Ilya Pomazun,Russia,Goalkeeper,right,195.0,RU1,Ural Yekaterinburg,2000000.0,3,0,2970,28,116,18
+Ignacio de Arruabarrena,Uruguay,Goalkeeper,right,185.0,PO1,FC Arouca,2000000.0,4,0,3060,28,113,48
+Ersin Destanoğlu,Türkiye,Goalkeeper,right,195.0,TR1,Besiktas JK,2000000.0,1,0,874,24,41,14
+Ivor Pandur,Croatia,Goalkeeper,right,187.0,NL1,Fortuna Sittard,2000000.0,1,0,1575,24,48,24
+Rubén Blanco,Spain,Goalkeeper,right,188.0,FR1,Olympique Marseille,2000000.0,0,0,211,29,7,1
+Arthur Okonkwo,England,Goalkeeper,right,198.0,GB1,Arsenal FC,1800000.0,0,0,270,23,13,3
+Aitor Fernández,Spain,Goalkeeper,right,182.0,ES1,CA Osasuna,1800000.0,2,0,850,33,35,13
+Dani Cárdenas,Spain,Goalkeeper,right,186.0,ES1,Rayo Vallecano,1800000.0,0,0,480,27,17,5
+Mory Diaw,Senegal,Goalkeeper,right,197.0,FR1,Clermont Foot 63,1800000.0,3,0,2700,31,72,33
+Muhammed Şengezer,Türkiye,Goalkeeper,right,192.0,TR1,Basaksehir FK,1700000.0,0,0,1260,28,46,20
+Gökhan Akkan,Türkiye,Goalkeeper,right,188.0,TR1,Caykur Rizespor,1600000.0,2,0,2730,30,111,19
+Andries Noppert,Netherlands,Goalkeeper,left,203.0,NL1,SC Heerenveen,1500000.0,0,0,1980,30,79,14
+Cican Stankovic,Austria,Goalkeeper,right,187.0,GR1,AEK Athens,1500000.0,0,1,2487,32,103,26
+Davy Roef,Belgium,Goalkeeper,right,187.0,BE1,KAA Gent,1500000.0,0,0,1530,30,51,15
+Kewin,Brazil,Goalkeeper,right,189.0,PO1,Moreirense FC,1500000.0,1,0,2777,30,75,34
+Etienne Vaessen,Suriname,Goalkeeper,right,189.0,NL1,RKC Waalwijk,1500000.0,3,1,2645,29,123,31
+Keylor Navas,Costa Rica,Goalkeeper,right,185.0,FR1,Paris Saint-Germain,1500000.0,0,0,360,38,11,2
+Maxime Dupé,France,Goalkeeper,right,188.0,FR1,OGC Nice,1500000.0,0,0,630,31,27,3
+Rémy Descamps,France,Goalkeeper,left,196.0,FR1,FC Nantes,1500000.0,1,0,540,28,22,4
+Evgeniy Latyshonok,Russia,Goalkeeper,right,189.0,RU1,Baltika Kaliningrad,1500000.0,4,0,2948,26,112,36
+İrfan Can Eğribayat,Türkiye,Goalkeeper,right,193.0,TR1,Fenerbahce,1500000.0,1,0,540,26,17,5
+Alessio Cragno,Italy,Goalkeeper,right,184.0,IT1,US Sassuolo,1500000.0,0,0,480,30,13,4
+Hugo Souza,Brazil,Goalkeeper,right,199.0,PO1,GD Chaves,1500000.0,5,0,2430,26,123,39
+Senne Lammens,Belgium,Goalkeeper,right,193.0,BE1,Royal Antwerp FC,1500000.0,0,0,90,22,2,0
+Marco Sportiello,Italy,Goalkeeper,right,192.0,IT1,AC Milan,1500000.0,0,0,708,32,23,5
+Jay Gorter,Netherlands,Goalkeeper,right,190.0,NL1,Ajax Amsterdam,1500000.0,0,0,1026,24,55,13
+Lucas Lund,Denmark,Goalkeeper,right,195.0,DK1,Viborg FF,1500000.0,1,0,1665,24,46,27
+Cláudio Ramos,Portugal,Goalkeeper,right,183.0,PO1,FC Porto,1500000.0,0,0,293,33,9,3
+Jiri Pavlenka,Czech Republic,Goalkeeper,right,196.0,L1,SV Werder Bremen,1500000.0,0,0,720,32,22,10
+Robin Olsen,Sweden,Goalkeeper,right,196.0,GB1,Aston Villa,1500000.0,0,0,630,35,21,8
+Alberto Brignoli,Italy,Goalkeeper,left,188.0,GR1,Panathinaikos FC,1500000.0,2,0,1880,33,80,28
+Aleksandr Selikhov,Russia,Goalkeeper,right,190.0,RU1,Spartak Moscow,1500000.0,2,0,855,30,31,13
+Fernando Muslera,Uruguay,Goalkeeper,right,190.0,TR1,Galatasaray,1400000.0,4,0,4560,38,185,50
+Ørjan Nyland,Norway,Goalkeeper,right,192.0,ES1,Sevilla FC,1400000.0,1,0,2520,34,93,32
+Jasper Schendelaar,Netherlands,Goalkeeper,right,186.0,NL1,PEC Zwolle,1300000.0,1,0,2880,24,146,46
+Jasper Cillessen,Netherlands,Goalkeeper,right,187.0,NL1,NEC Nijmegen,1300000.0,1,0,2851,35,108,39
+Lucas Chaves,Argentina,Goalkeeper,right,182.0,GR1,Panetolikos GFS,1200000.0,0,0,465,29,14,6
+Vinícius,Brazil,Goalkeeper,right,195.0,PO1,Portimonense SC,1200000.0,2,0,1620,30,59,18
+Gauthier Gallon,France,Goalkeeper,right,187.0,FR1,Stade Rennais FC,1200000.0,0,0,90,31,4,0
+Iván Villar,Spain,Goalkeeper,right,186.0,ES1,Celta de Vigo,1200000.0,0,1,1375,27,60,11
+Fraser Forster,England,Goalkeeper,right,201.0,GB1,Tottenham Hotspur,1200000.0,0,0,90,36,3,0
+Mert Günok,Türkiye,Goalkeeper,right,196.0,TR1,Besiktas JK,1200000.0,4,1,3084,35,146,32
+Dimitry Bertaud,DR Congo,Goalkeeper,right,180.0,FR1,Montpellier HSC,1200000.0,0,0,360,26,10,5
+Bailey Peacock-Farrell,Northern Ireland,Goalkeeper,left,194.0,DK1,Aarhus GF,1200000.0,1,1,1790,28,73,17
+Nico Mantl,Germany,Goalkeeper,right,193.0,DK1,Viborg FF,1200000.0,0,0,450,24,23,4
+Florian Müller,Germany,Goalkeeper,left,190.0,L1,SC Freiburg,1200000.0,0,0,90,27,3,1
+Tommaso Martinelli,Italy,Goalkeeper,right,194.0,IT1,ACF Fiorentina,1000000.0,0,0,90,19,3,1
+Vladislav Torop,Russia,Goalkeeper,left,191.0,RU1,CSKA Moscow,1000000.0,1,0,1386,21,42,8
+Nathan Trott,England,Goalkeeper,left,188.0,DK1,Vejle Boldklub,1000000.0,2,0,1980,26,63,27
+Helton Leite,Brazil,Goalkeeper,right,196.0,TR1,Antalyaspor,1000000.0,1,0,3060,34,162,24
+Andreas Hansen,Denmark,Goalkeeper,right,186.0,DK1,FC Nordsjaelland,1000000.0,2,0,2310,29,97,18
+Boris Radunović,Serbia,Goalkeeper,right,194.0,IT1,Cagliari Calcio,1000000.0,0,0,960,28,35,14
+Daniel Schmidt,Japan,Goalkeeper,right,197.0,BE1,Sint-Truidense VV,1000000.0,0,0,1080,32,36,8
+Okan Kocuk,Türkiye,Goalkeeper,right,187.0,TR1,Samsunspor,1000000.0,2,0,3240,29,110,44
+Dani Figueira,Portugal,Goalkeeper,right,189.0,PO1,GD Estoril Praia,1000000.0,2,0,1529,26,45,17
+Georgios Athanasiadis,Greece,Goalkeeper,right,191.0,GR1,AEK Athens,1000000.0,2,0,961,31,27,7
+Erdem Canpolat,Türkiye,Goalkeeper,right,194.0,TR1,Pendikspor,1000000.0,6,0,3060,23,88,50
+Fabian Bredlow,Germany,Goalkeeper,both,190.0,L1,VfB Stuttgart,1000000.0,0,0,360,29,11,2
+Mio Backhaus,Germany,Goalkeeper,right,194.0,NL1,FC Volendam,1000000.0,3,0,2971,20,79,22
+Jesús Owono,Equatorial Guinea,Goalkeeper,both,181.0,ES1,Deportivo Alavés,1000000.0,1,0,630,23,29,7
+Stanislav Agkatsev,Russia,Goalkeeper,right,189.0,RU1,FK Krasnodar,1000000.0,2,0,675,23,27,8
+Aarón Escandell,Spain,Goalkeeper,right,184.0,ES1,UD Las Palmas,1000000.0,1,0,452,29,17,7
+Federico Ravaglia,Italy,Goalkeeper,right,196.0,IT1,Bologna FC 1909,1000000.0,0,0,746,25,31,5
+Bahadır Güngördü,Türkiye,Goalkeeper,right,190.0,TR1,MKE Ankaragücü,1000000.0,2,0,2837,29,90,42
+Maxence Prévot,France,Goalkeeper,right,187.0,BE1,Oud-Heverlee Leuven,1000000.0,0,0,990,27,49,9
+Guillermo Ochoa,Mexico,Goalkeeper,right,185.0,IT1,US Salernitana 1919,1000000.0,0,0,1890,39,78,17
+Loris Karius,Germany,Goalkeeper,right,191.0,GB1,Newcastle United,1000000.0,0,0,90,31,2,0
+Marco Silvestri,Italy,Goalkeeper,right,191.0,IT1,Udinese Calcio,1000000.0,0,0,1620,33,54,26
+Kevin Müller,Germany,Goalkeeper,right,190.0,L1,1.FC Heidenheim 1846,1000000.0,1,0,3150,33,123,39
+Kasper Schmeichel,Denmark,Goalkeeper,right,189.0,BE1,RSC Anderlecht,1000000.0,1,0,2070,38,50,29
+Igor Akinfeev,Russia,Goalkeeper,right,187.0,RU1,CSKA Moscow,1000000.0,0,0,2430,38,63,21
+Martin Dúbravka,Slovakia,Goalkeeper,right,191.0,GB1,Newcastle United,1000000.0,1,0,2644,36,117,15
+Rui Patrício,Portugal,Goalkeeper,left,190.0,IT1,AS Roma,1000000.0,1,0,2160,36,90,16
+Valentin Cojocaru,Romania,Goalkeeper,right,195.0,BE1,Oud-Heverlee Leuven,900000.0,0,0,270,29,12,2
+Nikolay Sysuev,Russia,Goalkeeper,right,190.0,RU1,FK Orenburg,900000.0,3,0,2340,25,118,26
+Rome Jayden Owusu-Oduro,Netherlands,Goalkeeper,right,189.0,NL1,AZ Alkmaar,900000.0,0,0,600,20,16,4
+Kiril Fesyun,Ukraine,Goalkeeper,right,191.0,UKR1,Kolos Kovalivka,900000.0,0,0,2610,22,83,39
+Shahrudin Mahammadaliyev,Azerbaijan,Goalkeeper,right,185.0,TR1,Adana Demirspor,900000.0,3,0,2677,30,70,15
+Marko Dmitrovic,Serbia,Goalkeeper,left,189.0,ES1,Sevilla FC,900000.0,1,0,1710,33,46,11
+Wes Foderingham,England,Goalkeeper,left,185.0,GB1,Sheffield United,900000.0,2,0,2738,34,110,43
+Daniel Fuzato,Brazil,Goalkeeper,right,190.0,ES1,Getafe CF,900000.0,0,0,186,27,8,2
+Denis Adamov,Russia,Goalkeeper,right,196.0,RU1,FC Sochi,900000.0,0,0,1440,26,36,15
+Nordin Jackers,Belgium,Goalkeeper,right,187.0,BE1,Club Brugge KV,900000.0,0,0,260,27,8,1
+Marcel Schuhen,Germany,Goalkeeper,right,188.0,L1,SV Darmstadt 98,800000.0,2,0,2880,32,133,29
+Jhonatan,Brazil,Goalkeeper,right,190.0,PO1,Rio Ave FC,800000.0,4,0,2520,33,118,21
+Patrik Carlgren,Sweden,Goalkeeper,right,189.0,DK1,Randers FC,800000.0,2,0,2070,33,88,14
+Alexandros Paschalakis,Greece,Goalkeeper,right,197.0,GR1,Olympiacos Piraeus,800000.0,3,0,3230,35,80,30
+Andrea Consigli,Italy,Goalkeeper,right,189.0,IT1,US Sassuolo,800000.0,1,0,3270,38,94,45
+Vicente Guaita,Spain,Goalkeeper,right,190.0,ES1,Celta de Vigo,800000.0,2,0,2402,38,91,16
+Steve Mandanda,France,Goalkeeper,right,187.0,FR1,Stade Rennais FC,800000.0,2,0,3690,39,156,44
+André Ferreira,Portugal,Goalkeeper,right,193.0,ES1,Granada CF,800000.0,1,0,1339,28,56,9
+Agustín Marchesín,Argentina,Goalkeeper,right,188.0,ES1,Celta de Vigo,800000.0,0,0,90,36,4,1
+Yevgen Volynets,Ukraine,Goalkeeper,right,188.0,UKR1,SK Dnipro-1,800000.0,2,0,2136,31,99,13
+João Virgínia,Portugal,Goalkeeper,left,192.0,GB1,Everton FC,800000.0,1,0,270,25,12,3
+Claudio Bravo,Chile,Goalkeeper,right,184.0,ES1,Real Betis Balompié,800000.0,1,0,810,41,25,11
+Stijn van Gassel,Netherlands,Goalkeeper,left,186.0,NL1,Excelsior Rotterdam,800000.0,0,0,3060,28,84,45
+Matthew Cox,England,Goalkeeper,right,183.0,GB1,Brentford FC,800000.0,0,0,450,21,21,5
+Nordin Bakker,Netherlands,Goalkeeper,right,196.0,NL1,Almere City FC,800000.0,0,0,2687,27,72,43
+Alessandro Sorrentino,Italy,Goalkeeper,right,190.0,IT1,AC Monza,800000.0,0,0,546,22,18,8
+Tomas Koubek,Czech Republic,Goalkeeper,right,197.0,L1,FC Augsburg,800000.0,0,0,270,32,12,3
+Jaume Doménech,Spain,Goalkeeper,right,185.0,ES1,Valencia CF,800000.0,0,0,469,34,21,4
+Alexander Meyer,Germany,Goalkeeper,right,195.0,L1,Borussia Dortmund,800000.0,0,0,784,33,26,5
+Liam Kelly,Scotland,Goalkeeper,right,184.0,SC1,Motherwell FC,800000.0,3,0,3150,29,92,38
+Viljar Myhra,Norway,Goalkeeper,right,194.0,DK1,Odense Boldklub,750000.0,0,0,450,28,20,3
+David Gil,Spain,Goalkeeper,right,186.0,ES1,Cádiz CF,700000.0,1,0,491,31,20,4
+Mads Kikkenborg,Denmark,Goalkeeper,right,197.0,DK1,Lyngby BK,700000.0,0,0,1830,25,49,14
+Fernando Martínez,Spain,Goalkeeper,right,183.0,ES1,UD Almería,700000.0,0,0,360,34,10,5
+Pavlo Isenko,Ukraine,Goalkeeper,right,195.0,UKR1,Vorskla Poltava,700000.0,4,0,3150,21,108,19
+Michele Cerofolini,Italy,Goalkeeper,right,188.0,IT1,Frosinone Calcio,700000.0,1,0,975,26,31,12
+Lukasz Fabianski,Poland,Goalkeeper,right,190.0,GB1,West Ham United,700000.0,0,0,1891,39,72,15
+João Gonçalves,Portugal,Goalkeeper,right,188.0,PO1,Boavista FC,700000.0,4,0,3150,24,126,19
+Kosuke Nakamura,Japan,Goalkeeper,right,185.0,PO1,Portimonense SC,700000.0,1,0,1800,29,53,25
+Artur Nigmatullin,Russia,Goalkeeper,right,194.0,RU1,FC Pari Nizhniy Novgorod,700000.0,3,0,2610,33,101,36
+Alexander Schwolow,Germany,Goalkeeper,right,190.0,L1,1.FC Union Berlin,700000.0,0,0,90,32,4,1
+Rúnar Alex Rúnarsson,Iceland,Goalkeeper,right,186.0,DK1,FC Copenhagen,700000.0,0,0,180,29,6,2
+Michael Brouwer,Netherlands,Goalkeeper,right,189.0,NL1,Heracles Almelo,700000.0,0,0,3060,32,120,20
+Zander Clark,Scotland,Goalkeeper,right,191.0,SC1,Heart of Midlothian FC,700000.0,0,0,3240,32,149,46
+Oleksandr Saputin,Ukraine,Goalkeeper,right,197.0,UKR1,Zorya Lugansk,700000.0,1,1,1799,21,69,13
+Dmytro Ledviy,Ukraine,Goalkeeper,right,192.0,UKR1,Rukh Lviv,700000.0,1,0,2520,21,92,19
+Jakub Slowik,Poland,Goalkeeper,right,190.0,TR1,Konyaspor,700000.0,3,0,1260,33,38,18
+Sven Ulreich,Germany,Goalkeeper,right,192.0,L1,Bayern Munich,700000.0,1,0,1350,36,47,15
+Theo Sander,Denmark,Goalkeeper,both,192.0,DK1,FC Copenhagen,700000.0,0,0,90,20,4,1
+Michael Verrips,Netherlands,Goalkeeper,right,196.0,NL1,Fortuna Sittard,650000.0,0,0,1290,28,47,16
+Manuel Riemann,Germany,Goalkeeper,right,186.0,L1,VfL Bochum,600000.0,5,0,3090,36,98,45
+Samuele Perisan,Italy,Goalkeeper,left,192.0,IT1,FC Empoli,600000.0,0,0,90,27,2,0
+Fabijan Buntic,Croatia,Goalkeeper,left,194.0,PO1,FC Vizela,600000.0,1,0,2675,27,113,35
+Igor Leshchuk,Russia,Goalkeeper,left,188.0,RU1,Dynamo Moscow,600000.0,1,0,1800,28,51,23
+Tom Vandenberghe,Belgium,Goalkeeper,right,190.0,BE1,KV Kortrijk,600000.0,0,0,1890,32,74,21
+Pepe Reina,Spain,Goalkeeper,right,188.0,ES1,Villarreal CF,600000.0,1,0,1140,42,56,12
+Robin Roefs,Netherlands,Goalkeeper,left,193.0,NL1,NEC Nijmegen,600000.0,0,0,779,22,36,10
+Günay Güvenç,Türkiye,Goalkeeper,right,187.0,TR1,Galatasaray,600000.0,0,0,120,33,4,1
+Viljami Sinisalo,Finland,Goalkeeper,right,190.0,GB1,Aston Villa,600000.0,1,0,450,23,14,6
+Guillaume Dietsch,France,Goalkeeper,right,184.0,FR1,FC Metz,600000.0,0,0,72,23,3,0
+Benoît Costil,France,Goalkeeper,right,188.0,IT1,US Salernitana 1919,600000.0,0,0,1350,37,58,13
+Bogdan Ovsyannikov,Russia,Goalkeeper,right,189.0,RU1,Krylya Sovetov Samara,600000.0,0,0,900,26,36,13
+Andrey Kudravets,Belarus,Goalkeeper,right,191.0,RU1,Dynamo Moscow,600000.0,0,0,630,21,32,7
+Yakiv Kinareykin,Ukraine,Goalkeeper,right,190.0,UKR1,SK Dnipro-1,600000.0,1,0,1254,21,38,8
+Mattijs Branderhorst,Netherlands,Goalkeeper,right,192.0,NL1,FC Utrecht,600000.0,0,0,630,31,22,8
+Nicola Leali,Italy,Goalkeeper,right,188.0,IT1,Genoa CFC,600000.0,1,0,477,31,17,7
+Théo Defourny,Belgium,Goalkeeper,right,196.0,BE1,RWD Molenbeek,550000.0,1,1,2680,32,117,20
+Maksim Rudakov,Russia,Goalkeeper,right,190.0,RU1,FC Sochi,500000.0,0,0,630,29,18,4
+Dimitar Mitov,Bulgaria,Goalkeeper,right,193.0,SC1,St. Johnstone FC,500000.0,3,0,3060,28,144,36
+Robby McCrorie,Scotland,Goalkeeper,right,188.0,SC1,Rangers FC,500000.0,0,0,90,26,3,0
+Andriy Klishchuk,Ukraine,Goalkeeper,right,190.0,UKR1,Kryvbas Kryvyi Rig,500000.0,0,0,2070,32,57,31
+Sergey Pesjakov,Russia,Goalkeeper,right,199.0,RU1,FK Rostov,500000.0,1,0,2220,36,94,33
+Dmytro Matsapura,Ukraine,Goalkeeper,right,189.0,UKR1,Zorya Lugansk,500000.0,0,0,90,24,3,0
+Yuriy Dyupin,Russia,Goalkeeper,both,187.0,RU1,Rubin Kazan,500000.0,2,0,2610,36,90,15
+Diogo Pinto,Portugal,Goalkeeper,right,194.0,PO1,Sporting CP,500000.0,0,0,415,20,11,2
+Andreas Gianniotis,Greece,Goalkeeper,right,191.0,TR1,Kasimpasa,500000.0,3,0,2790,32,112,25
+Fran Vieites,Spain,Goalkeeper,left,196.0,ES1,Real Betis Balompié,500000.0,0,0,315,25,14,3
+Joe Hart,England,Goalkeeper,right,196.0,SC1,Celtic FC,500000.0,1,1,3838,37,177,52
+Tim Krul,Netherlands,Goalkeeper,left,193.0,GB1,Luton Town,500000.0,0,0,540,36,24,6
+Giorgiy Shelia,Russia,Goalkeeper,left,190.0,RU1,Akhmat Grozny,500000.0,2,0,2475,36,106,38
+Nikita Medvedev,Russia,Goalkeeper,right,192.0,RU1,FK Rostov,500000.0,1,0,1470,30,71,23
+Sinan Bolat,Türkiye,Goalkeeper,right,186.0,BE1,KVC Westerlo,500000.0,5,0,2340,36,65,35
+Etrit Berisha,Albania,Goalkeeper,left,194.0,IT1,FC Empoli,500000.0,0,0,1260,35,32,18
+Mickey van der Hart,Netherlands,Goalkeeper,left,188.0,NL1,SC Heerenveen,500000.0,0,0,1260,30,58,12
+Alexandre Oukidja,Algeria,Goalkeeper,right,184.0,FR1,FC Metz,500000.0,3,0,2988,36,97,43
+Remi Matthews,England,Goalkeeper,right,192.0,GB1,Crystal Palace,500000.0,0,0,3,30,0,0
+Adam Davies,Wales,Goalkeeper,right,185.0,GB1,Sheffield United,500000.0,0,0,90,32,4,0
+Kelle Roos,Netherlands,Goalkeeper,right,196.0,SC1,Aberdeen FC,500000.0,3,0,3450,32,98,48
+Antonio Adán,Spain,Goalkeeper,left,190.0,PO1,Sporting CP,500000.0,1,0,2520,37,71,34
+Fabian de Keijzer,Netherlands,Goalkeeper,right,193.0,NL1,Heracles Almelo,500000.0,0,0,90,24,2,1
+Noam Baumann,Dominican Republic,Goalkeeper,right,194.0,GR1,OFI Crete FC,450000.0,2,0,2115,28,116,12
+Julián Cuesta,Spain,Goalkeeper,right,196.0,GR1,Aris Thessaloniki,450000.0,3,0,2730,33,115,24
+Aleksey Mamin,Russia,Goalkeeper,right,189.0,RU1,Ural Yekaterinburg,450000.0,1,0,540,25,17,8
+Alexei Koselev,Moldova,Goalkeeper,right,200.0,GR1,PAS Lamia 1964,450000.0,2,0,2250,31,60,30
+Antonis Tsiftsis,Greece,Goalkeeper,both,191.0,GR1,Asteras Aktor,450000.0,0,0,241,25,7,2
+Erce Kardeşler,Türkiye,Goalkeeper,right,184.0,TR1,Hatayspor,425000.0,6,0,3109,30,119,43
+Batuhan Şen,Türkiye,Goalkeeper,right,194.0,TR1,Gaziantep FK,425000.0,0,0,360,25,12,3
+Nikita Goylo,Russia,Goalkeeper,right,189.0,RU1,FC Sochi,400000.0,0,0,900,26,30,11
+Danylo Varakuta,Ukraine,Goalkeeper,right,190.0,UKR1,Chornomorets Odessa,400000.0,1,0,2430,23,109,36
+Ilya Svinov,Russia,Goalkeeper,right,192.0,RU1,Spartak Moscow,400000.0,0,0,270,24,10,4
+Mykyta Turbayevskyi,Ukraine,Goalkeeper,right,193.0,UKR1,Zorya Lugansk,400000.0,1,0,1171,22,49,15
+Cezary Miszta,Poland,Goalkeeper,right,193.0,PO1,Rio Ave FC,400000.0,0,0,90,23,3,1
+Aleksey Kenyaykin,Russia,Goalkeeper,right,199.0,RU1,FK Orenburg,400000.0,2,1,644,26,28,8
+Maksim Borisko,Russia,Goalkeeper,right,196.0,RU1,Baltika Kaliningrad,400000.0,0,0,536,24,25,7
+Grégoire Coudert,France,Goalkeeper,left,188.0,FR1,Stade Brestois 29,400000.0,0,0,181,25,9,1
+Martin Fraisl,Austria,Goalkeeper,right,188.0,DK1,FC Midtjylland,400000.0,0,0,667,31,28,9
+Oleg Mozil,Ukraine,Goalkeeper,left,185.0,UKR1,Metalist 1925 Kharkiv,400000.0,2,1,2098,28,84,17
+Nikita Contini,Italy,Goalkeeper,right,190.0,IT1,SSC Napoli,400000.0,0,0,16,28,0,0
+Jonas Lössl,Denmark,Goalkeeper,right,195.0,DK1,FC Midtjylland,400000.0,1,0,2183,35,73,16
+Oleg Kudryk,Ukraine,Goalkeeper,right,185.0,UKR1,Polissya Zhytomyr,400000.0,0,0,810,28,31,12
+Jack Walton,England,Goalkeeper,right,184.0,GB1,Luton Town,400000.0,0,0,120,26,3,1
+Mikhail Kerzhakov,Russia,Goalkeeper,right,190.0,RU1,Zenit St. Petersburg,400000.0,0,0,2070,38,61,14
+German Penkov,Ukraine,Goalkeeper,right,187.0,UKR1,LNZ Cherkasy,400000.0,3,0,1980,30,88,19
+Volodymyr Makhankov,Ukraine,Goalkeeper,right,195.0,UKR1,Kryvbas Kryvyi Rig,400000.0,0,0,630,27,26,10
+Anton Shunin,Russia,Goalkeeper,left,193.0,RU1,Dynamo Moscow,400000.0,3,0,1800,38,82,10
+Mykyta Shevchenko,Ukraine,Goalkeeper,right,187.0,UKR1,FK Oleksandriya,400000.0,3,0,2100,32,69,15
+Alexander Brunst,Germany,Goalkeeper,right,195.0,L1,SV Darmstadt 98,400000.0,0,0,270,29,10,3
+Nicolai Larsen,Denmark,Goalkeeper,right,187.0,DK1,Silkeborg IF,400000.0,0,0,2520,33,70,37
+Samuel Sahin-Radlinger,Austria,Goalkeeper,right,198.0,NL1,Almere City FC,400000.0,0,0,643,32,28,8
+Hobie Verhulst,Netherlands,Goalkeeper,left,192.0,NL1,AZ Alkmaar,400000.0,0,0,90,31,3,0
+Rafal Gikiewicz,Poland,Goalkeeper,right,190.0,TR1,MKE Ankaragücü,400000.0,0,0,450,37,22,6
+Stefanos Kapino,Greece,Goalkeeper,right,196.0,GR1,Panetolikos GFS,400000.0,0,0,1800,30,61,27
+Lucas Pirard,Belgium,Goalkeeper,right,191.0,BE1,KV Kortrijk,400000.0,0,0,810,29,40,6
+Yuriy Lodygin,Russia,Goalkeeper,right,187.0,GR1,Panathinaikos FC,400000.0,0,0,1380,34,42,12
+Lefteris Choutesiotis,Greece,Goalkeeper,right,192.0,GR1,Aris Thessaloniki,400000.0,2,0,660,30,22,5
+Guillaume Hubert,Belgium,Goalkeeper,right,198.0,BE1,RWD Molenbeek,400000.0,0,0,16,31,0,0
+Ross Laidlaw,Scotland,Goalkeeper,right,201.0,SC1,Ross County FC,375000.0,0,0,1800,32,51,13
+Nick Gillekens,Belgium,Goalkeeper,right,186.0,BE1,KVC Westerlo,350000.0,0,0,360,29,11,4
+Daniel Batz,Germany,Goalkeeper,both,191.0,L1,1.FSV Mainz 05,350000.0,0,0,360,34,13,5
+Deniz Ertaş,Türkiye,Goalkeeper,right,193.0,TR1,Konyaspor,350000.0,2,0,630,19,25,4
+Marcelo Carné,Brazil,Goalkeeper,right,188.0,PO1,GD Estoril Praia,350000.0,3,1,2070,34,58,20
+Mikhail Oparin,Russia,Goalkeeper,left,197.0,RU1,Akhmat Grozny,350000.0,1,0,945,31,28,6
+Visar Bekaj,Kosovo,Goalkeeper,right,191.0,TR1,Hatayspor,350000.0,1,0,311,27,10,3
+Adrian Chovan,Slovakia,Goalkeeper,right,192.0,GR1,Panserraikos,350000.0,3,0,2250,29,94,17
+Vitaliy Gudiev,Russia,Goalkeeper,left,192.0,RU1,Fakel Voronezh,350000.0,0,0,990,29,29,10
+Antonis Stergiakis,Greece,Goalkeeper,right,196.0,GR1,Panetolikos GFS,350000.0,1,0,735,25,23,9
+Will Dennis,England,Goalkeeper,right,188.0,SC1,Kilmarnock FC,350000.0,1,0,3014,24,72,38
+Aleksandr Vasyutin,Russia,Goalkeeper,right,190.0,RU1,Zenit St. Petersburg,350000.0,0,0,450,29,12,4
+Tarık Çetin,Türkiye,Goalkeeper,right,193.0,TR1,Caykur Rizespor,325000.0,1,0,690,28,33,8
+Emre Bilgin,Türkiye,Goalkeeper,left,188.0,TR1,Fatih Karagümrük,325000.0,0,0,900,20,28,5
+Nazariy Fedorivskyi,Ukraine,Goalkeeper,right,188.0,UKR1,Obolon Kyiv,300000.0,0,0,1245,28,40,12
+Matías Dituro,Argentina,Goalkeeper,right,191.0,TR1,Fatih Karagümrük,300000.0,1,0,990,37,40,9
+Andreas Luthe,Germany,Goalkeeper,right,195.0,L1,VfL Bochum,300000.0,0,0,90,37,3,1
+Ellery Balcombe,England,Goalkeeper,right,190.0,GB1,Brentford FC,300000.0,0,0,90,25,2,0
+Gergely Nagy,Hungary,Goalkeeper,left,197.0,GR1,PAS Lamia 1964,300000.0,1,0,242,30,9,2
+Markus Schubert,Germany,Goalkeeper,right,184.0,NL1,Vitesse Arnhem,300000.0,0,0,360,26,8,4
+Laurent Henkinet,Belgium,Goalkeeper,right,188.0,BE1,Standard Liège,300000.0,0,0,90,32,4,0
+Panagiotis Tsintotas,Greece,Goalkeeper,right,194.0,GR1,Atromitos Athens,300000.0,3,0,2430,31,89,14
+Alexandros Anagnostopoulos,Greece,Goalkeeper,right,186.0,GR1,AE Kifisias,300000.0,1,0,1800,30,87,29
+Ertaç Özbir,Türkiye,Goalkeeper,right,187.0,TR1,MKE Ankaragücü,300000.0,3,2,1197,35,54,9
+Pavao Pervan,Austria,Goalkeeper,both,194.0,L1,VfL Wolfsburg,300000.0,2,0,900,37,24,5
+Ali Emre Yanar,Türkiye,Goalkeeper,right,190.0,TR1,Kasimpasa,300000.0,2,0,630,26,19,6
+Raffaele Di Gennaro,Italy,Goalkeeper,right,188.0,IT1,Inter Milan,300000.0,0,0,22,31,0,0
+Ivan Zlobin,Russia,Goalkeeper,right,191.0,PO1,FC Famalicão,300000.0,0,0,90,27,4,0
+Hans Christian Bernat,Denmark,Goalkeeper,right,192.0,DK1,Odense Boldklub,300000.0,1,0,855,24,45,9
+Deniz Dilmen,Türkiye,Goalkeeper,left,200.0,TR1,Basaksehir FK,300000.0,0,0,90,19,4,0
+Diego Mariño,Spain,Goalkeeper,right,185.0,ES1,UD Almería,300000.0,0,0,180,34,5,1
+Heinz Lindner,Austria,Goalkeeper,right,187.0,BE1,Union Saint-Gilloise,300000.0,0,0,90,34,2,0
+Denys Boyko,Ukraine,Goalkeeper,right,197.0,UKR1,Polissya Zhytomyr,300000.0,2,0,2310,37,104,24
+Magrão,Brazil,Goalkeeper,right,197.0,PO1,Rio Ave FC,300000.0,0,0,630,24,27,9
+Eloy Room,Curacao,Goalkeeper,right,190.0,NL1,Vitesse Arnhem,300000.0,1,0,3060,35,146,36
+Andreas Gülstorff,Denmark,Goalkeeper,left,185.0,DK1,FC Nordsjaelland,300000.0,0,0,270,22,7,3
+Charles,Brazil,Goalkeeper,right,186.0,PO1,Vitória Guimarães SC,300000.0,5,0,1417,30,62,19
+Shamal George,England,Goalkeeper,right,198.0,SC1,Livingston FC,300000.0,2,0,2487,27,84,30
+Denys Tvardovskyi,Ukraine,Goalkeeper,right,206.0,UKR1,Shakhtar Donetsk,300000.0,0,0,180,21,8,1
+Diogo Dias,Portugal,Goalkeeper,right,188.0,PO1,GD Estoril Praia,300000.0,0,0,1,21,0,0
+Pierre Patron,France,Goalkeeper,right,191.0,BE1,R Charleroi SC,300000.0,0,0,360,27,18,5
+Francesco Ruberto,Switzerland,Goalkeeper,right,186.0,PO1,FC Vizela,300000.0,2,0,565,31,25,9
+Marc Martínez,Spain,Goalkeeper,right,186.0,ES1,Granada CF,300000.0,0,0,270,34,7,4
+Unai Marrero,Spain,Goalkeeper,right,189.0,ES1,Real Sociedad,300000.0,1,0,411,23,11,5
+Rodrigo Moura,Brazil,Goalkeeper,right,198.0,PO1,GD Chaves,300000.0,0,0,630,29,16,8
+Marios Siampanis,Greece,Goalkeeper,left,188.0,GR1,Volos NPS,300000.0,1,0,450,25,18,3
+Carljohan Eriksson,Finland,Goalkeeper,right,191.0,DK1,FC Nordsjaelland,300000.0,0,0,300,29,13,2
+Toni Fuidias,Spain,Goalkeeper,right,195.0,ES1,Girona FC,300000.0,0,0,180,23,6,1
+Boris Kleyman,Israel,Goalkeeper,left,185.0,GR1,PAS Giannina,300000.0,1,0,1800,34,71,19
+Luca Gemello,Italy,Goalkeeper,right,190.0,IT1,Torino FC,300000.0,0,0,300,24,7,3
+Alberto Flores,Spain,Goalkeeper,left,187.0,ES1,Sevilla FC,300000.0,0,0,90,21,2,0
+Bruno Brígido,Brazil,Goalkeeper,right,187.0,PO1,CF Estrela Amadora SAD,300000.0,0,0,2430,33,101,25
+Vitaliy Botnar,Russia,Goalkeeper,left,187.0,RU1,FC Pari Nizhniy Novgorod,275000.0,1,0,360,23,14,3
+Salvatore Sirigu,Italy,Goalkeeper,right,192.0,TR1,Fatih Karagümrük,275000.0,0,0,1530,38,45,22
+Ross Doohan,Scotland,Goalkeeper,right,186.0,SC1,Aberdeen FC,250000.0,0,0,90,26,3,1
+Niklas Lomb,Germany,Goalkeeper,right,186.0,L1,Bayer 04 Leverkusen,250000.0,0,0,90,31,3,0
+Dániel Kovács,Hungary,Goalkeeper,right,190.0,GR1,Volos NPS,250000.0,0,0,720,31,16,6
+Igor Vekic,Slovenia,Goalkeeper,right,192.0,DK1,Vejle Boldklub,250000.0,0,0,300,26,13,3
+Scott Bain,Scotland,Goalkeeper,right,183.0,SC1,Celtic FC,250000.0,0,0,150,33,6,1
+Jon McCracken,Scotland,Goalkeeper,right,190.0,SC1,Dundee FC,250000.0,0,0,840,24,36,12
+Djordje Nikolic,Serbia,Goalkeeper,right,195.0,TR1,Sivasspor,250000.0,0,0,450,27,11,5
+Ali Şaşal Vural,Türkiye,Goalkeeper,both,187.0,TR1,Sivasspor,250000.0,3,0,2970,34,114,48
+Nikolaos Papadopoulos,Greece,Goalkeeper,right,196.0,GR1,Asteras Aktor,250000.0,3,0,1634,34,50,23
+Christos Talichmanidis,Greece,Goalkeeper,right,187.0,GR1,PAOK Thessaloniki,250000.0,0,0,4,23,0,0
+Abdul Nurudeen,Ghana,Goalkeeper,right,189.0,BE1,KAS Eupen,250000.0,2,0,180,25,6,1
+Yevgeniy Kucherenko,Ukraine,Goalkeeper,left,192.0,UKR1,LNZ Cherkasy,250000.0,1,0,1080,25,35,9
+Zivko Zivkovic,Serbia,Goalkeeper,right,194.0,GR1,PAOK Thessaloniki,250000.0,0,0,536,35,12,6
+Gabriele Marchegiani,Italy,Goalkeeper,right,189.0,GR1,Atromitos Athens,250000.0,0,0,360,28,9,3
+Guilherme,Russia,Goalkeeper,right,197.0,RU1,Lokomotiv Moscow,250000.0,0,0,3717,39,133,33
+Nikolay Zabolotnyi,Russia,Goalkeeper,right,184.0,RU1,FC Sochi,250000.0,2,0,1890,34,84,19
+Vitus Eicher,Germany,Goalkeeper,left,191.0,L1,1.FC Heidenheim 1846,250000.0,0,0,90,34,4,0
+Rémy Riou,France,Goalkeeper,right,191.0,FR1,Olympique Lyon,250000.0,0,0,270,37,11,4
+Jeroen Houwen,Netherlands,Goalkeeper,right,188.0,NL1,RKC Waalwijk,250000.0,0,0,321,28,10,5
+Aleksandr Belenov,Russia,Goalkeeper,right,198.0,RU1,Fakel Voronezh,250000.0,2,0,2250,38,117,26
+Luuk Koopmans,Netherlands,Goalkeeper,right,190.0,NL1,Fortuna Sittard,225000.0,0,0,495,31,21,6
+Onurcan Piri,Türkiye,Goalkeeper,right,190.0,TR1,Kayserispor,225000.0,0,0,270,30,13,2
+Florin Niță,Romania,Goalkeeper,right,184.0,TR1,Gaziantep FK,225000.0,3,0,3060,37,168,41
+Artur Rudko,Ukraine,Goalkeeper,right,198.0,UKR1,Shakhtar Donetsk,200000.0,0,0,90,32,3,1
+Panagiotis Katsikas,Greece,Goalkeeper,right,190.0,GR1,Panserraikos,200000.0,0,0,540,25,23,6
+Oskar Snorre,Denmark,Goalkeeper,right,191.0,DK1,Randers FC,200000.0,0,0,120,26,3,0
+João Valido,Portugal,Goalkeeper,right,185.0,PO1,FC Arouca,200000.0,0,0,135,24,4,1
+Dida,Brazil,Goalkeeper,right,188.0,PO1,CF Estrela Amadora SAD,200000.0,0,1,431,26,13,2
+Symeon Papadopoulos,Greece,Goalkeeper,both,193.0,GR1,Volos NPS,200000.0,1,0,450,24,18,3
+Luiz Felipe,Brazil,Goalkeeper,left,198.0,PO1,SC Farense,200000.0,2,0,450,27,21,3
+Georgiy Yermakov,Ukraine,Goalkeeper,right,191.0,UKR1,FK Oleksandriya,200000.0,2,0,810,22,25,6
+Mathieu Gorgelin,France,Goalkeeper,left,187.0,FR1,Le Havre AC,200000.0,1,0,90,34,2,0
+Vito Mannone,Italy,Goalkeeper,right,189.0,FR1,FC Lorient,200000.0,0,0,91,36,3,0
+Ataberk Dadakdeniz,Türkiye,Goalkeeper,right,186.0,TR1,Antalyaspor,200000.0,1,0,360,25,17,5
+David Jensen,Denmark,Goalkeeper,right,195.0,DK1,Lyngby BK,200000.0,0,0,1710,32,49,12
+Nicola Bagnolini,Italy,Goalkeeper,right,194.0,IT1,Bologna FC 1909,200000.0,0,0,4,20,0,0
+Jack Hamilton,Scotland,Goalkeeper,right,190.0,SC1,Livingston FC,200000.0,0,0,360,30,10,3
+Miguel Carvalho,Portugal,Goalkeeper,right,189.0,PO1,SC Farense,200000.0,0,0,180,28,6,2
+Cristian Rivero,Spain,Goalkeeper,right,188.0,ES1,Valencia CF,200000.0,0,0,56,26,1,0
+Federico Brancolini,Italy,Goalkeeper,right,192.0,IT1,US Lecce,200000.0,0,0,90,23,2,1
+Jo Coppens,Belgium,Goalkeeper,left,190.0,BE1,Sint-Truidense VV,200000.0,0,0,360,34,15,5
+Egor Shamov,Russia,Goalkeeper,left,190.0,RU1,Rubin Kazan,200000.0,0,0,270,30,8,3
+Yuriy-Volodymyr Gereta,Ukraine,Goalkeeper,right,189.0,UKR1,Rukh Lviv,200000.0,0,0,360,21,14,3
+Nikolaos Christogeorgos,Greece,Goalkeeper,right,193.0,GR1,OFI Crete FC,200000.0,0,0,90,25,4,0
+Simone Perilli,Italy,Goalkeeper,right,196.0,IT1,Hellas Verona,200000.0,0,0,180,30,8,2
+Nikita Yanovich,Russia,Goalkeeper,right,186.0,RU1,Rubin Kazan,200000.0,0,0,360,21,16,3
+Lucas Paes,Brazil,Goalkeeper,right,193.0,PO1,Casa Pia AC,200000.0,2,0,452,27,14,3
+Ivan Konovalov,Russia,Goalkeeper,right,191.0,RU1,Baltika Kaliningrad,200000.0,0,0,750,30,32,4
+Jens Grahl,Germany,Goalkeeper,right,192.0,L1,Eintracht Frankfurt,200000.0,0,0,270,36,10,2
+Vinícius,Brazil,Goalkeeper,right,188.0,PO1,Gil Vicente FC,200000.0,2,0,1620,27,55,18
+Jean-Louis Leca,France,Goalkeeper,right,180.0,FR1,RC Lens,200000.0,0,0,90,39,3,0
+Caio Secco,Brazil,Goalkeeper,right,195.0,PO1,Moreirense FC,200000.0,0,0,360,34,10,3
+Oleksandr Kemkin,Ukraine,Goalkeeper,right,187.0,UKR1,FK Minaj,200000.0,1,0,1350,22,67,8
+Thiago Silva,Brazil,Goalkeeper,right,188.0,PO1,FC Arouca,200000.0,6,0,3331,28,82,39
+Ivan Kostic,Serbia,Goalkeeper,right,191.0,GR1,Volos NPS,200000.0,2,0,990,29,43,10
+Carlo Pinsoglio,Italy,Goalkeeper,left,194.0,IT1,Juventus FC,200000.0,0,0,45,34,1,0
+Vasilios Chatziemmanouil,Greece,Goalkeeper,left,187.0,GR1,PAS Lamia 1964,200000.0,0,0,90,25,3,1
+Adri López,Spain,Goalkeeper,right,188.0,ES1,Granada CF,200000.0,1,0,90,26,2,1
+Raúl Fernández,Spain,Goalkeeper,right,195.0,ES1,Granada CF,200000.0,0,0,281,36,8,3
+Evgeniy Goshev,Russia,Goalkeeper,right,202.0,RU1,FK Orenburg,175000.0,0,0,163,27,7,1
+Oleksiy Shevchenko,Ukraine,Goalkeeper,right,188.0,UKR1,Chornomorets Odessa,175000.0,0,0,480,32,20,4
+Vasilios Athanasiou,Greece,Goalkeeper,right,188.0,GR1,PAS Giannina,175000.0,1,0,180,25,7,1
+Oleksandr Bandura,Ukraine,Goalkeeper,right,186.0,UKR1,FK Minaj,150000.0,0,1,1316,38,55,10
+Taha Tepe,Türkiye,Goalkeeper,right,186.0,TR1,Trabzonspor,150000.0,1,0,270,24,7,2
+Craig Gordon,Scotland,Goalkeeper,left,193.0,SC1,Heart of Midlothian FC,150000.0,0,0,450,42,20,4
+George Wickens,England,Goalkeeper,right,198.0,SC1,Ross County FC,150000.0,1,0,1260,23,46,13
+Barry Lauwers,Netherlands,Goalkeeper,left,187.0,NL1,FC Volendam,150000.0,0,0,90,25,4,0
+Oleg Bilyk,Ukraine,Goalkeeper,right,187.0,UKR1,Chornomorets Odessa,150000.0,1,0,180,27,5,1
+Vasilios Soulis,Greece,Goalkeeper,left,199.0,GR1,PAS Giannina,150000.0,2,0,298,30,9,3
+Kieran O'Hara,Ireland,Goalkeeper,right,193.0,SC1,Kilmarnock FC,150000.0,0,0,226,28,8,1
+Vincenzo Fiorillo,Italy,Goalkeeper,left,190.0,IT1,US Salernitana 1919,150000.0,1,0,450,35,14,5
+Lapo Nava,Italy,Goalkeeper,right,197.0,IT1,AC Milan,150000.0,0,0,2,21,0,0
+Trevor Carson,Northern Ireland,Goalkeeper,right,185.0,SC1,Dundee FC,150000.0,1,0,2250,36,77,17
+Norbert Alblas,Netherlands,Goalkeeper,right,186.0,NL1,Excelsior Rotterdam,150000.0,0,0,330,30,8,1
+Kirill Samoylenko,Ukraine,Goalkeeper,right,197.0,UKR1,LNZ Cherkasy,150000.0,1,0,270,23,11,3
+Erwin Mulder,Netherlands,Goalkeeper,right,193.0,NL1,Go Ahead Eagles,150000.0,0,0,120,35,5,0
+Jacob Pryts,Denmark,Goalkeeper,left,191.0,DK1,Silkeborg IF,150000.0,0,0,180,26,8,2
+Martin Hansen,Denmark,Goalkeeper,right,190.0,DK1,Odense Boldklub,150000.0,0,0,945,34,36,8
+Ögmundur Kristinsson,Iceland,Goalkeeper,right,193.0,GR1,AE Kifisias,150000.0,1,0,720,35,19,10
+Valentyn Gorokh,Ukraine,Goalkeeper,both,187.0,UKR1,Kolos Kovalivka,150000.0,0,0,210,23,4,3
+Ivan Kukushkin,Russia,Goalkeeper,left,196.0,RU1,FC Pari Nizhniy Novgorod,150000.0,0,0,270,22,8,4
+Ilya Olkhovyi,Ukraine,Goalkeeper,right,199.0,UKR1,FK Minaj,125000.0,0,0,122,21,3,1
+Andrey Khodanovich,Russia,Goalkeeper,right,195.0,RU1,FK Orenburg,100000.0,0,0,540,20,18,5
+Ilya Kuptsov,Russia,Goalkeeper,both,198.0,RU1,Dynamo Moscow,100000.0,0,0,90,23,2,1
+Denys Sydorenko,Ukraine,Goalkeeper,right,190.0,UKR1,Metalist 1925 Kharkiv,100000.0,0,0,360,35,13,2
+Dimitrios Sotiriou,Greece,Goalkeeper,right,185.0,GR1,OFI Crete FC,100000.0,1,0,405,37,17,3
+Vadym Yushchyshyn,Ukraine,Goalkeeper,right,190.0,UKR1,NK Veres Rivne,100000.0,1,0,299,25,10,3
+Aleksandr Degtev,Russia,Goalkeeper,right,195.0,RU1,FC Sochi,100000.0,0,0,90,19,4,0
+Volkan Babacan,Türkiye,Goalkeeper,right,192.0,TR1,Basaksehir FK,100000.0,1,0,2070,36,78,19
+Şamil Öztürk,Türkiye,Goalkeeper,right,194.0,TR1,Kayserispor,100000.0,0,0,1,19,0,0
+Bogdan Khoma,Ukraine,Goalkeeper,right,196.0,UKR1,Kryvbas Kryvyi Rig,100000.0,0,0,90,21,3,0
+Oleksandr Rybka,Ukraine,Goalkeeper,right,193.0,UKR1,Obolon Kyiv,100000.0,1,1,552,37,18,8
+Evgeniy Frolov,Russia,Goalkeeper,right,194.0,RU1,Krylya Sovetov Samara,100000.0,0,0,180,36,5,1
+Gonçalo Pinto,Portugal,Goalkeeper,right,194.0,PO1,GD Chaves,100000.0,0,0,90,24,3,1
+Soslan Dzhanaev,Russia,Goalkeeper,right,190.0,RU1,Baltika Kaliningrad,100000.0,0,0,296,37,10,4
+Artem Kychak,Ukraine,Goalkeeper,left,198.0,UKR1,Obolon Kyiv,100000.0,3,0,1170,35,41,17
+Daniele Sommariva,Italy,Goalkeeper,right,185.0,IT1,Genoa CFC,100000.0,0,0,4,27,0,0
+Jannich Storch,Denmark,Goalkeeper,right,189.0,DK1,Lyngby BK,100000.0,0,0,210,31,10,2
+Iván Cuéllar,Spain,Goalkeeper,left,187.0,ES1,RCD Mallorca,100000.0,0,0,180,40,6,2
+Artem Pospelov,Ukraine,Goalkeeper,right,190.0,UKR1,Polissya Zhytomyr,100000.0,0,0,90,27,2,1
+Alp Arda,Türkiye,Goalkeeper,left,192.0,TR1,Istanbulspor,100000.0,3,0,1767,29,68,20
+Francesco Rossi,Italy,Goalkeeper,right,193.0,IT1,Atalanta BC,100000.0,0,0,10,33,0,0
+Przemyslaw Tyton,Poland,Goalkeeper,right,195.0,NL1,Twente Enschede FC,100000.0,0,0,180,38,9,1
+Denis Petric,Slovenia,Goalkeeper,right,187.0,FR1,FC Nantes,100000.0,0,0,23,36,1,0
+Mika,Portugal,Goalkeeper,left,195.0,PO1,Moreirense FC,100000.0,0,0,13,33,0,0
+Danil Beltyukov,Russia,Goalkeeper,right,192.0,RU1,Krylya Sovetov Samara,100000.0,0,0,270,22,11,3
+Harry Sharp,Scotland,Goalkeeper,right,189.0,SC1,Dundee FC,100000.0,0,0,143,23,5,1
+Antonio Mirante,Italy,Goalkeeper,right,193.0,IT1,AC Milan,100000.0,0,0,268,41,11,1
+Victor Aznar,Brazil,Goalkeeper,right,192.0,ES1,Cádiz CF,100000.0,0,0,90,22,2,1
+Goran Karacic,Bosnia-Herzegovina,Goalkeeper,right,196.0,TR1,Adana Demirspor,100000.0,0,0,510,28,22,5
+Bogdan Kogut,Ukraine,Goalkeeper,right,190.0,UKR1,NK Veres Rivne,100000.0,2,0,1237,37,50,12
+Yevgen Past,Ukraine,Goalkeeper,left,188.0,UKR1,NK Veres Rivne,100000.0,1,0,1344,36,38,10
+Pierluigi Frattali,Italy,Goalkeeper,right,185.0,IT1,Frosinone Calcio,100000.0,0,0,90,39,3,1
+Ricardo Batista,Portugal,Goalkeeper,left,192.0,PO1,Casa Pia AC,100000.0,2,1,2966,38,139,49
+Jesper Hansen,Denmark,Goalkeeper,right,188.0,DK1,Aarhus GF,100000.0,1,0,998,39,34,13
+Jakub Szumski,Poland,Goalkeeper,right,194.0,TR1,Samsunspor,100000.0,0,0,180,32,4,1
+Emmanuel Ogura,Ghana,Goalkeeper,right,182.0,DK1,Randers FC,100000.0,0,0,90,22,3,0
+Mücahit Serbest,Türkiye,Goalkeeper,right,190.0,TR1,Istanbulspor,75000.0,0,0,377,20,17,5
+Ertuğrul Taşkıran,Türkiye,Goalkeeper,right,191.0,TR1,Alanyaspor,75000.0,3,0,3060,35,97,28
+Mike Hauptmeijer,Netherlands,Goalkeeper,left,190.0,NL1,PEC Zwolle,75000.0,0,0,270,27,10,1
+Simone Aresti,Italy,Goalkeeper,right,187.0,IT1,Cagliari Calcio,75000.0,0,0,1,38,0,0
+Yılmaz Aktaş,Türkiye,Goalkeeper,right,191.0,TR1,Adana Demirspor,50000.0,0,0,90,21,3,0
+Pere García,Spain,Goalkeeper,right,193.0,ES1,RCD Mallorca,50000.0,1,0,90,22,4,0
+Vladimir Shaykhutdinov,Russia,Goalkeeper,right,195.0,RU1,CSKA Moscow,50000.0,0,0,54,20,1,0
+Kayne van Oevelen,Netherlands,Goalkeeper,both,199.0,NL1,FC Volendam,50000.0,0,0,90,21,3,0
+Burak Öğür,Türkiye,Goalkeeper,left,189.0,TR1,Pendikspor,50000.0,0,0,360,35,13,3
+Furkan Akyüz,Türkiye,Goalkeeper,right,191.0,TR1,Fenerbahce,50000.0,0,0,1,19,0,0
+Oleksandr Domolega,Ukraine,Goalkeeper,right,189.0,UKR1,Vorskla Poltava,50000.0,0,0,90,21,4,0
+Igor Potimkov,Ukraine,Goalkeeper,left,187.0,UKR1,Metalist 1925 Kharkiv,50000.0,0,0,180,21,6,2
+Yaroslav Protsenko,Ukraine,Goalkeeper,right,188.0,UKR1,Metalist 1925 Kharkiv,50000.0,0,0,442,23,15,6
+Boy Waterman,Netherlands,Goalkeeper,right,188.0,NL1,PSV Eindhoven,50000.0,0,0,5,41,0,0
+Tom Hendriks,Netherlands,Goalkeeper,right,198.0,NL1,Fortuna Sittard,50000.0,0,0,90,22,3,0
+António Filipe,Portugal,Goalkeeper,left,187.0,PO1,CF Estrela Amadora SAD,50000.0,0,0,270,39,8,2
+David Marshall,Scotland,Goalkeeper,right,187.0,SC1,Hibernian FC,50000.0,1,0,3490,39,160,49
+Harry Stone,Scotland,Goalkeeper,right,191.0,SC1,Heart of Midlothian FC,50000.0,0,0,210,22,6,2
+Michael McGovern,Northern Ireland,Goalkeeper,right,190.0,SC1,Livingston FC,50000.0,0,0,423,40,20,5
+Vedat Karakuş,Türkiye,Goalkeeper,left,183.0,TR1,Adana Demirspor,50000.0,1,0,180,26,6,1
+Yusuf Karagöz,Türkiye,Goalkeeper,right,195.0,TR1,Alanyaspor,50000.0,0,0,360,25,11,3
+Maksymilian Boruc,Poland,Goalkeeper,right,196.0,SC1,Hibernian FC,25000.0,0,0,129,22,5,1
+Thomas Mikkelsen,Denmark,Goalkeeper,right,190.0,DK1,Bröndby IF,25000.0,0,0,540,41,19,7
