@@ -1,0 +1,1923 @@
+name,country_of_citizenship,position,foot,height_in_cm,current_club_domestic_competition_id,current_club_name,market_value_in_eur,yellow_cards,red_cards,goals,assists,minutes_played,age
+Jude Bellingham,England,Midfield,right,186.0,ES1,Real Madrid,180000000.0,9,1,23,13,3644,21
+Jamal Musiala,Germany,Midfield,right,184.0,L1,Bayern Munich,130000000.0,3,0,12,8,2860,21
+Florian Wirtz,Germany,Midfield,right,177.0,L1,Bayer 04 Leverkusen,130000000.0,7,0,18,20,3475,21
+Rodri,Spain,Midfield,right,191.0,GB1,Manchester City,130000000.0,10,1,9,14,4327,28
+Federico Valverde,Uruguay,Midfield,right,182.0,ES1,Real Madrid,120000000.0,2,0,3,8,4280,26
+Declan Rice,England,Midfield,right,188.0,GB1,Arsenal FC,120000000.0,7,0,7,10,4274,26
+Martin Ødegaard,Norway,Midfield,left,178.0,GB1,Arsenal FC,110000000.0,2,0,11,11,4053,26
+Aurélien Tchouaméni,France,Midfield,right,188.0,ES1,Real Madrid,100000000.0,10,0,3,1,2809,25
+Eduardo Camavinga,France,Midfield,left,182.0,ES1,Real Madrid,100000000.0,13,0,0,4,2824,22
+Gavi,Spain,Midfield,right,173.0,ES1,FC Barcelona,90000000.0,8,0,2,1,1172,20
+Bruno Guimarães,Brazil,Midfield,right,182.0,GB1,Newcastle United,85000000.0,14,0,7,10,4360,27
+Pedri,Spain,Midfield,right,174.0,ES1,FC Barcelona,80000000.0,3,0,4,5,2027,22
+Xavi Simons,Netherlands,Midfield,right,179.0,L1,RB Leipzig,80000000.0,12,0,10,15,3468,21
+Cole Palmer,England,Midfield,left,189.0,GB1,Manchester City,80000000.0,8,0,27,15,3734,22
+Nicolò Barella,Italy,Midfield,right,175.0,IT1,Inter Milan,80000000.0,10,0,2,7,3502,27
+Dominik Szoboszlai,Hungary,Midfield,right,187.0,GB1,Liverpool FC,75000000.0,1,0,7,4,2704,24
+Moisés Caicedo,Ecuador,Midfield,right,178.0,GB1,Chelsea FC,75000000.0,15,0,1,4,3899,23
+Enzo Fernández,Argentina,Midfield,right,178.0,GB1,Chelsea FC,75000000.0,10,0,7,3,3093,24
+Alexis Mac Allister,Argentina,Midfield,right,176.0,GB1,Liverpool FC,75000000.0,10,1,7,7,3501,26
+Bruno Fernandes,Portugal,Midfield,right,179.0,GB1,Manchester United,70000000.0,12,0,15,13,4285,30
+James Maddison,England,Midfield,right,175.0,GB1,Tottenham Hotspur,70000000.0,5,0,4,9,2179,28
+Douglas Luiz,Brazil,Midfield,right,177.0,GB1,Aston Villa,70000000.0,13,0,10,6,3451,26
+Bernardo Silva,Portugal,Midfield,left,173.0,GB1,Manchester City,70000000.0,9,0,11,10,3798,30
+Frenkie de Jong,Netherlands,Midfield,right,181.0,ES1,FC Barcelona,70000000.0,10,0,2,0,2512,27
+Kai Havertz,Germany,Midfield,left,193.0,GB1,Arsenal FC,70000000.0,14,0,14,7,3827,25
+Christopher Nkunku,France,Midfield,right,177.0,GB1,Chelsea FC,65000000.0,0,0,3,0,516,27
+Lucas Paquetá,Brazil,Midfield,left,180.0,GB1,West Ham United,65000000.0,13,0,8,7,3478,27
+Warren Zaïre-Emery,France,Midfield,right,178.0,FR1,Paris Saint-Germain,60000000.0,5,0,3,6,2957,18
+Dani Olmo,Spain,Midfield,right,179.0,L1,RB Leipzig,60000000.0,1,0,8,5,1715,26
+João Neves,Portugal,Midfield,right,174.0,PO1,SL Benfica,55000000.0,4,0,3,2,3769,20
+Vitinha,Portugal,Midfield,right,172.0,FR1,Paris Saint-Germain,55000000.0,7,0,15,8,4647,24
+João Palhinha,Portugal,Midfield,right,190.0,GB1,Fulham FC,55000000.0,13,0,4,1,3178,29
+Kobbie Mainoo,England,Midfield,right,180.0,GB1,Manchester United,55000000.0,4,0,5,1,2405,19
+Eberechi Eze,England,Midfield,right,178.0,GB1,Crystal Palace,55000000.0,4,0,11,6,2285,26
+Martín Zubimendi,Spain,Midfield,right,181.0,ES1,Real Sociedad,50000000.0,5,0,4,1,3735,25
+Mikel Merino,Spain,Midfield,left,189.0,ES1,Real Sociedad,50000000.0,14,0,8,5,3601,28
+Kevin De Bruyne,Belgium,Midfield,right,181.0,GB1,Manchester City,50000000.0,3,0,6,18,1750,33
+Teun Koopmeiners,Netherlands,Midfield,left,184.0,IT1,Atalanta BC,50000000.0,7,0,15,7,3924,26
+Mohammed Kudus,Ghana,Midfield,left,177.0,NL1,Ajax Amsterdam,50000000.0,7,0,18,7,3781,24
+Jeremie Frimpong,Netherlands,Midfield,right,172.0,L1,Bayer 04 Leverkusen,50000000.0,7,0,14,12,3364,24
+Amadou Onana,Belgium,Midfield,right,195.0,GB1,Everton FC,50000000.0,5,0,3,1,2698,23
+Conor Gallagher,England,Midfield,right,182.0,GB1,Chelsea FC,50000000.0,10,0,7,9,4036,24
+Matheus Nunes,Portugal,Midfield,right,183.0,GB1,Wolverhampton Wanderers,50000000.0,3,0,0,5,1540,26
+Manuel Ugarte,Uruguay,Midfield,right,182.0,FR1,Paris Saint-Germain,45000000.0,7,0,0,3,2325,23
+Pape Matar Sarr,Senegal,Midfield,right,184.0,GB1,Tottenham Hotspur,45000000.0,9,0,3,3,2103,22
+Exequiel Palacios,Argentina,Midfield,right,178.0,L1,Bayer 04 Leverkusen,45000000.0,8,0,6,5,2661,26
+Hakan Çalhanoğlu,Türkiye,Midfield,right,178.0,IT1,Inter Milan,45000000.0,9,0,15,3,3260,30
+Joelinton,Brazil,Midfield,right,186.0,GB1,Newcastle United,40000000.0,9,0,3,4,1844,28
+Julian Brandt,Germany,Midfield,right,185.0,L1,Borussia Dortmund,40000000.0,2,0,10,16,3247,28
+Éderson,Brazil,Midfield,right,183.0,IT1,Atalanta BC,40000000.0,10,0,7,1,4177,25
+Morgan Gibbs-White,England,Midfield,right,171.0,GB1,Nottingham Forest,40000000.0,9,0,6,10,3526,25
+Brais Méndez,Spain,Midfield,left,184.0,ES1,Real Sociedad,40000000.0,8,0,8,9,3318,28
+Joey Veerman,Netherlands,Midfield,right,185.0,NL1,PSV Eindhoven,40000000.0,3,0,7,19,3420,26
+Álex Baena,Spain,Midfield,right,174.0,ES1,Villarreal CF,40000000.0,15,1,5,18,3137,23
+Morten Hjulmand,Denmark,Midfield,right,185.0,PO1,Sporting CP,40000000.0,12,0,3,2,3006,25
+Brahim Díaz,Morocco,Midfield,both,170.0,ES1,Real Madrid,40000000.0,2,0,12,9,2066,25
+Sandro Tonali,Italy,Midfield,right,181.0,GB1,Newcastle United,38000000.0,3,0,1,0,692,24
+Boubacar Kamara,France,Midfield,right,184.0,GB1,Aston Villa,38000000.0,7,1,1,1,2085,25
+Harvey Elliott,England,Midfield,left,170.0,GB1,Liverpool FC,35000000.0,4,0,4,11,2786,21
+Fabián Ruiz,Spain,Midfield,left,189.0,FR1,Paris Saint-Germain,35000000.0,5,0,1,5,1817,28
+Mason Mount,England,Midfield,right,181.0,GB1,Manchester United,35000000.0,2,0,1,1,756,26
+Ryan Gravenberch,Netherlands,Midfield,right,190.0,L1,Bayern Munich,35000000.0,2,0,4,2,1848,22
+Cheick Doucouré,Mali,Midfield,right,180.0,GB1,Crystal Palace,35000000.0,2,0,0,0,982,25
+Alan Varela,Argentina,Midfield,right,177.0,PO1,FC Porto,35000000.0,8,0,2,3,2945,23
+Jacob Ramsey,England,Midfield,right,180.0,GB1,Aston Villa,35000000.0,2,0,1,2,960,23
+Adrien Rabiot,France,Midfield,left,188.0,IT1,Juventus FC,35000000.0,8,0,5,3,3012,29
+João Gomes,Brazil,Midfield,right,176.0,GB1,Wolverhampton Wanderers,35000000.0,11,1,2,1,2865,23
+Oihan Sancet,Spain,Midfield,right,188.0,ES1,Athletic Bilbao,35000000.0,7,1,6,6,2496,24
+Rodrigo Bentancur,Uruguay,Midfield,right,187.0,GB1,Tottenham Hotspur,35000000.0,7,0,1,1,1163,27
+Davide Frattesi,Italy,Midfield,right,178.0,IT1,Inter Milan,35000000.0,3,0,8,7,1555,25
+Edson Álvarez,Mexico,Midfield,right,190.0,GB1,West Ham United,35000000.0,17,0,2,2,3155,27
+Georgiy Sudakov,Ukraine,Midfield,both,177.0,UKR1,Shakhtar Donetsk,35000000.0,7,0,10,6,2743,22
+Roméo Lavia,Belgium,Midfield,right,181.0,GB1,Chelsea FC,35000000.0,0,0,0,0,32,21
+Curtis Jones,England,Midfield,right,185.0,GB1,Liverpool FC,35000000.0,3,1,5,3,2032,24
+Yves Bissouma,Mali,Midfield,right,182.0,GB1,Tottenham Hotspur,35000000.0,10,1,0,0,2083,28
+Khéphren Thuram,France,Midfield,right,192.0,FR1,OGC Nice,35000000.0,7,0,1,1,2114,23
+Charles De Ketelaere,Belgium,Midfield,left,192.0,IT1,Atalanta BC,34000000.0,1,0,14,11,2940,23
+Scott McTominay,Scotland,Midfield,right,191.0,GB1,Manchester United,32000000.0,4,0,10,3,2775,28
+Pedro Gonçalves,Portugal,Midfield,right,173.0,PO1,Sporting CP,32000000.0,5,0,14,16,3238,26
+Mats Wieffer,Netherlands,Midfield,right,188.0,NL1,Feyenoord Rotterdam,30000000.0,6,0,6,4,3720,25
+James Ward-Prowse,England,Midfield,right,177.0,GB1,West Ham United,30000000.0,5,0,7,11,4022,30
+Joe Willock,England,Midfield,right,186.0,GB1,Newcastle United,30000000.0,1,0,2,0,707,25
+Aleksandr Golovin,Russia,Midfield,right,178.0,FR1,AS Monaco,30000000.0,9,1,6,6,2156,28
+Mateo Kovacic,Croatia,Midfield,right,177.0,GB1,Manchester City,30000000.0,5,0,3,1,2713,30
+Tomas Soucek,Czech Republic,Midfield,right,192.0,GB1,West Ham United,30000000.0,9,0,10,3,3996,29
+Konrad Laimer,Austria,Midfield,right,180.0,L1,Bayern Munich,30000000.0,5,0,1,4,2713,27
+Ibrahim Sangaré,Cote d'Ivoire,Midfield,right,191.0,NL1,PSV Eindhoven,30000000.0,6,0,2,1,1668,27
+Tijjani Reijnders,Netherlands,Midfield,right,185.0,IT1,AC Milan,30000000.0,9,0,4,4,3871,26
+Ismaël Bennacer,Algeria,Midfield,left,175.0,IT1,AC Milan,30000000.0,2,0,2,2,1335,27
+Rodrigo de Paul,Argentina,Midfield,right,180.0,ES1,Atlético de Madrid,30000000.0,11,0,4,6,3211,30
+John McGinn,Scotland,Midfield,left,178.0,GB1,Aston Villa,30000000.0,9,1,6,4,3422,30
+Marcos Llorente,Spain,Midfield,right,184.0,ES1,Atlético de Madrid,30000000.0,6,0,6,6,3602,30
+Adam Wharton,England,Midfield,left,182.0,GB1,Crystal Palace,30000000.0,2,0,0,3,1560,20
+Fermín López,Spain,Midfield,right,174.0,ES1,FC Barcelona,30000000.0,4,0,11,1,1901,21
+Bilal El Khannouss,Morocco,Midfield,right,180.0,BE1,KRC Genk,30000000.0,4,0,3,6,2685,20
+Youssouf Fofana,France,Midfield,right,185.0,FR1,AS Monaco,30000000.0,3,0,4,4,2703,26
+Aleksandar Pavlovic,Germany,Midfield,both,188.0,L1,Bayern Munich,30000000.0,6,0,2,2,1435,20
+Enzo Millot,France,Midfield,left,174.0,L1,VfB Stuttgart,30000000.0,5,0,6,11,2492,22
+Leon Goretzka,Germany,Midfield,right,189.0,L1,Bayern Munich,30000000.0,5,0,6,11,3106,29
+Xaver Schlager,Austria,Midfield,left,174.0,L1,RB Leipzig,28000000.0,10,0,1,7,3299,27
+Danilo,Brazil,Midfield,left,177.0,GB1,Nottingham Forest,28000000.0,12,0,9,8,6093,23
+Manuel Locatelli,Italy,Midfield,right,185.0,IT1,Juventus FC,28000000.0,8,0,1,6,3343,27
+Weston McKennie,United States,Midfield,right,185.0,IT1,Juventus FC,28000000.0,6,0,0,10,2952,26
+Mathias Jensen,Denmark,Midfield,right,180.0,GB1,Brentford FC,28000000.0,5,0,4,3,2439,29
+Stanislav Lobotka,Slovakia,Midfield,right,168.0,IT1,SSC Napoli,28000000.0,4,0,0,1,4191,30
+Quinten Timber,Netherlands,Midfield,right,179.0,NL1,Feyenoord Rotterdam,28000000.0,8,0,8,10,3730,23
+Jerdy Schouten,Netherlands,Midfield,right,185.0,NL1,PSV Eindhoven,28000000.0,5,0,4,0,3296,28
+Hugo Larsson,Sweden,Midfield,right,187.0,L1,Eintracht Frankfurt,28000000.0,1,0,2,2,2063,20
+Frank Anguissa,Cameroon,Midfield,right,184.0,IT1,SSC Napoli,27000000.0,3,0,1,3,3421,29
+Orkun Kökçü,Türkiye,Midfield,both,175.0,PO1,SL Benfica,27000000.0,11,0,7,10,2446,24
+Johnny Cardoso,United States,Midfield,right,186.0,ES1,Real Betis Balompié,25000000.0,3,0,1,2,1332,23
+Sean Longstaff,England,Midfield,right,187.0,GB1,Newcastle United,25000000.0,8,0,8,2,3643,27
+Lorenzo Pellegrini,Italy,Midfield,right,186.0,IT1,AS Roma,25000000.0,10,0,10,5,2731,28
+Ruben Loftus-Cheek,England,Midfield,right,191.0,IT1,AC Milan,25000000.0,6,0,10,2,2860,29
+Maghnes Akliouche,France,Midfield,left,183.0,FR1,AS Monaco,25000000.0,5,0,7,4,1619,22
+Pablo Barrios,Spain,Midfield,right,181.0,ES1,Atlético de Madrid,25000000.0,5,0,1,2,1978,21
+Angel Gomes,England,Midfield,right,168.0,FR1,LOSC Lille,25000000.0,5,0,0,8,2795,24
+Rayan Cherki,France,Midfield,both,177.0,FR1,Olympique Lyon,25000000.0,0,0,1,6,1718,21
+Lesley Ugochukwu,France,Midfield,right,190.0,GB1,Chelsea FC,25000000.0,3,0,0,0,567,20
+Aleix García,Spain,Midfield,right,173.0,ES1,Girona FC,25000000.0,4,1,3,6,3326,27
+Mattéo Guendouzi,France,Midfield,right,185.0,FR1,Olympique Marseille,25000000.0,6,1,3,4,3342,25
+Yangel Herrera,Venezuela,Midfield,right,184.0,ES1,Girona FC,25000000.0,9,0,5,0,2228,27
+Otávio,Portugal,Midfield,right,172.0,PO1,FC Porto,25000000.0,8,0,2,2,2861,29
+Kang-in Lee,"Korea, South",Midfield,left,173.0,FR1,Paris Saint-Germain,25000000.0,3,0,5,5,1904,23
+Gabri Veiga,Spain,Midfield,right,185.0,ES1,Celta de Vigo,25000000.0,0,0,0,0,17,22
+Denis Zakaria,Switzerland,Midfield,right,190.0,FR1,AS Monaco,25000000.0,13,0,4,0,2142,28
+Youri Tielemans,Belgium,Midfield,right,177.0,GB1,Aston Villa,25000000.0,4,0,2,6,1965,27
+Arthur Vermeeren,Belgium,Midfield,right,180.0,BE1,Royal Antwerp FC,25000000.0,5,0,2,6,2843,19
+Kalvin Phillips,England,Midfield,right,179.0,GB1,West Ham United,25000000.0,5,0,1,0,639,29
+Denzel Dumfries,Netherlands,Midfield,right,188.0,IT1,Inter Milan,24000000.0,3,1,4,6,1965,28
+Lewis Ferguson,Scotland,Midfield,right,181.0,IT1,Bologna FC 1909,24000000.0,9,0,6,5,2928,25
+Emile Smith Rowe,England,Midfield,right,182.0,GB1,Arsenal FC,22000000.0,0,0,0,2,475,24
+Lewis Miley,England,Midfield,right,189.0,GB1,Newcastle United,22000000.0,1,0,1,4,1729,18
+Philip Billing,Denmark,Midfield,left,193.0,GB1,AFC Bournemouth,22000000.0,4,1,2,4,1753,28
+Vitaly Janelt,Germany,Midfield,left,184.0,GB1,Brentford FC,22000000.0,8,0,1,3,3452,26
+Piotr Zieliński,Poland,Midfield,both,180.0,IT1,SSC Napoli,22000000.0,2,0,4,3,2427,30
+Samuele Ricci,Italy,Midfield,right,181.0,IT1,Torino FC,22000000.0,8,0,1,4,2479,23
+Fábio Vieira,Portugal,Midfield,left,170.0,GB1,Arsenal FC,22000000.0,0,1,1,3,471,24
+Julio Enciso,Paraguay,Midfield,right,173.0,GB1,Brighton & Hove Albion,22000000.0,2,0,0,2,590,21
+Carlos Baleba,Cameroon,Midfield,left,179.0,FR1,LOSC Lille,22000000.0,8,0,0,0,1543,21
+Sofyan Amrabat,Morocco,Midfield,right,185.0,IT1,ACF Fiorentina,22000000.0,9,0,0,0,1545,28
+Carlos Augusto,Brazil,Midfield,left,184.0,IT1,Inter Milan,22000000.0,2,0,1,3,2326,26
+Jesper Lindstrøm,Denmark,Midfield,right,182.0,IT1,SSC Napoli,22000000.0,2,0,0,1,759,24
+Pepelu,Spain,Midfield,right,186.0,ES1,Valencia CF,22000000.0,5,0,8,1,3495,26
+James Garner,England,Midfield,right,182.0,GB1,Everton FC,22000000.0,7,0,2,2,3635,23
+Yunus Musah,United States,Midfield,right,178.0,IT1,AC Milan,22000000.0,9,0,0,2,2241,22
+Javi Guerra,Spain,Midfield,right,187.0,ES1,Valencia CF,20000000.0,3,1,4,1,2735,21
+Matt O'Riley,Denmark,Midfield,left,189.0,SC1,Celtic FC,20000000.0,4,0,14,16,3782,24
+Eljif Elmas,North Macedonia,Midfield,right,184.0,IT1,SSC Napoli,20000000.0,2,0,2,0,752,25
+Lazar Samardžić,Serbia,Midfield,left,184.0,IT1,Udinese Calcio,20000000.0,3,0,6,2,2382,22
+Orel Mangala,Belgium,Midfield,right,178.0,FR1,Olympique Lyon,20000000.0,6,0,3,0,2177,26
+Lovro Majer,Croatia,Midfield,left,178.0,FR1,Stade Rennais FC,20000000.0,5,0,5,5,2148,27
+Sander Berge,Norway,Midfield,right,195.0,GB1,Burnley FC,20000000.0,11,0,2,2,3218,26
+Marcel Sabitzer,Austria,Midfield,right,178.0,L1,Borussia Dortmund,20000000.0,5,1,6,9,3034,30
+Malik Tillman,United States,Midfield,right,187.0,NL1,PSV Eindhoven,20000000.0,4,0,9,15,2232,22
+Felix Nmecha,Germany,Midfield,right,190.0,L1,Borussia Dortmund,20000000.0,4,0,2,2,1385,24
+Florentino,Portugal,Midfield,right,184.0,PO1,SL Benfica,20000000.0,10,0,0,0,2305,25
+Amadou Haidara,Mali,Midfield,right,175.0,L1,RB Leipzig,20000000.0,5,0,2,2,1886,26
+Fredrik Aursnes,Norway,Midfield,right,181.0,PO1,SL Benfica,20000000.0,3,0,2,9,4190,29
+Eduard Spertsyan,Armenia,Midfield,right,178.0,RU1,FK Krasnodar,20000000.0,6,1,11,7,2724,24
+Alex Scott,England,Midfield,right,178.0,GB1,AFC Bournemouth,20000000.0,6,0,2,4,1384,21
+Manu Koné,France,Midfield,right,185.0,L1,Borussia Mönchengladbach,20000000.0,4,1,2,2,1717,23
+Carlos Soler,Spain,Midfield,right,180.0,FR1,Paris Saint-Germain,20000000.0,1,0,2,2,1097,28
+Jefferson Lerma,Colombia,Midfield,right,179.0,GB1,Crystal Palace,20000000.0,9,0,1,1,2649,30
+Bryan Cristante,Italy,Midfield,right,186.0,IT1,AS Roma,20000000.0,13,0,4,5,4540,29
+Nicolò Zaniolo,Italy,Midfield,left,190.0,TR1,Galatasaray,20000000.0,8,0,2,0,993,25
+Angelo Stiller,Germany,Midfield,left,183.0,L1,TSG 1899 Hoffenheim,20000000.0,5,0,1,6,3141,23
+Mohamed Camara,Mali,Midfield,right,173.0,FR1,AS Monaco,20000000.0,4,0,1,2,1041,25
+Guido Rodríguez,Argentina,Midfield,right,185.0,ES1,Real Betis Balompié,20000000.0,9,0,2,1,2241,30
+Wendel,Brazil,Midfield,right,180.0,RU1,Zenit St. Petersburg,20000000.0,6,0,4,10,2894,27
+Casemiro,Brazil,Midfield,right,185.0,GB1,Manchester United,20000000.0,11,0,5,3,2578,32
+Beñat Turrientes,Spain,Midfield,right,181.0,ES1,Real Sociedad,20000000.0,4,0,0,1,2174,22
+Matteo Ruggeri,Italy,Midfield,left,187.0,IT1,Atalanta BC,20000000.0,4,0,2,6,3658,22
+Marcus Tavernier,England,Midfield,left,178.0,GB1,AFC Bournemouth,20000000.0,3,0,4,4,2346,25
+Granit Xhaka,Switzerland,Midfield,left,186.0,L1,Bayer 04 Leverkusen,20000000.0,7,0,4,2,4156,32
+Andreas Pereira,Brazil,Midfield,right,178.0,GB1,Fulham FC,20000000.0,7,0,3,9,3035,29
+Maxence Caqueret,France,Midfield,right,174.0,FR1,Olympique Lyon,20000000.0,1,0,1,3,3026,24
+Nicolò Fagioli,Italy,Midfield,right,178.0,IT1,Juventus FC,20000000.0,1,0,0,2,439,23
+Sebastian Szymanski,Poland,Midfield,left,174.0,TR1,Fenerbahce,19000000.0,4,0,13,15,3260,25
+Billy Gilmour,Scotland,Midfield,right,170.0,GB1,Brighton & Hove Albion,18000000.0,8,1,0,2,2926,23
+Andrea Colpani,Italy,Midfield,left,184.0,IT1,AC Monza,18000000.0,1,0,8,4,2751,25
+Christian Nørgaard,Denmark,Midfield,right,187.0,GB1,Brentford FC,18000000.0,8,0,2,1,2588,30
+Enzo Le Fée,France,Midfield,right,173.0,FR1,Stade Rennais FC,18000000.0,3,0,0,4,1855,24
+Thomas Partey,Ghana,Midfield,right,185.0,GB1,Arsenal FC,18000000.0,5,0,0,0,883,31
+Benjamin Bourigeaud,France,Midfield,right,178.0,FR1,Stade Rennais FC,18000000.0,4,0,12,7,2911,31
+Claudinho,Brazil,Midfield,right,170.0,RU1,Zenit St. Petersburg,18000000.0,7,0,5,9,2964,28
+Farès Chaïbi,Algeria,Midfield,right,183.0,FR1,FC Toulouse,18000000.0,3,0,2,7,2151,22
+Habib Diarra,Senegal,Midfield,right,178.0,FR1,RC Strasbourg Alsace,18000000.0,3,0,3,1,2313,21
+Edoardo Bove,Italy,Midfield,right,181.0,IT1,AS Roma,18000000.0,5,0,1,2,2627,22
+Pierre-Emile Højbjerg,Denmark,Midfield,right,185.0,GB1,Tottenham Hotspur,18000000.0,4,0,0,0,1486,29
+Daichi Kamada,Japan,Midfield,right,184.0,IT1,SS Lazio,18000000.0,3,0,2,2,1897,28
+Nicolò Rovella,Italy,Midfield,right,179.0,IT1,SS Lazio,18000000.0,9,0,0,2,1621,23
+Giovanni Reyna,United States,Midfield,right,185.0,L1,Borussia Dortmund,18000000.0,1,0,0,2,592,22
+Facundo Buonanotte,Argentina,Midfield,left,174.0,GB1,Brighton & Hove Albion,18000000.0,8,0,4,1,1862,20
+Arsen Zakharyan,Russia,Midfield,right,183.0,RU1,Dynamo Moscow,18000000.0,2,0,3,3,2116,21
+Kristjan Asllani,Albania,Midfield,right,175.0,IT1,Inter Milan,18000000.0,3,0,1,2,1066,22
+Christoph Baumgartner,Austria,Midfield,right,180.0,L1,RB Leipzig,18000000.0,3,0,5,3,1287,25
+Ivan Ilić,Serbia,Midfield,left,186.0,IT1,Torino FC,18000000.0,3,0,4,2,2244,23
+Nicolás Domínguez,Argentina,Midfield,right,179.0,IT1,Bologna FC 1909,17000000.0,6,0,3,2,1950,26
+Hamed Junior Traorè,Cote d'Ivoire,Midfield,right,177.0,IT1,SSC Napoli,17000000.0,2,0,1,0,664,24
+Leandro Barreiro,Luxembourg,Midfield,right,174.0,L1,1.FSV Mainz 05,17000000.0,8,0,4,1,2767,25
+Fred,Brazil,Midfield,both,169.0,TR1,Fenerbahce,17000000.0,5,1,3,4,2232,31
+Robert Andrich,Germany,Midfield,right,187.0,L1,Bayer 04 Leverkusen,17000000.0,8,0,6,5,2917,30
+Nicolas Seiwald,Austria,Midfield,right,179.0,L1,RB Leipzig,16000000.0,1,0,0,2,1134,23
+Jack Hinshelwood,England,Midfield,right,182.0,GB1,Brighton & Hove Albion,16000000.0,1,0,3,0,1217,19
+Giovani Lo Celso,Argentina,Midfield,left,177.0,GB1,Tottenham Hotspur,16000000.0,2,0,2,2,597,28
+Ismael Saibari,Morocco,Midfield,right,185.0,NL1,PSV Eindhoven,16000000.0,1,0,8,5,1622,24
+Beñat Prados,Spain,Midfield,right,180.0,ES1,Athletic Bilbao,15000000.0,3,0,0,0,2004,23
+Paul Pogba,France,Midfield,both,191.0,IT1,Juventus FC,15000000.0,0,0,0,0,52,31
+Oliver Skipp,England,Midfield,right,175.0,GB1,Tottenham Hotspur,15000000.0,4,0,0,0,861,24
+Harrison Reed,England,Midfield,right,181.0,GB1,Fulham FC,15000000.0,7,0,0,2,1737,30
+Calvin Stengs,Netherlands,Midfield,left,187.0,NL1,Feyenoord Rotterdam,15000000.0,5,0,8,18,3223,26
+Albert Sambi Lokonga,Belgium,Midfield,right,183.0,GB1,Luton Town,15000000.0,4,0,1,3,1443,25
+Gedson Fernandes,Portugal,Midfield,right,183.0,TR1,Besiktas JK,15000000.0,8,0,3,5,3000,26
+Elliot Anderson,Scotland,Midfield,right,179.0,GB1,Newcastle United,15000000.0,3,0,0,2,1100,22
+Hidemasa Morita,Japan,Midfield,right,177.0,PO1,Sporting CP,15000000.0,4,0,2,4,2587,29
+Carney Chukwuemeka,England,Midfield,right,187.0,GB1,Chelsea FC,15000000.0,2,0,2,1,254,21
+Aimar Oroz,Spain,Midfield,right,177.0,ES1,CA Osasuna,15000000.0,3,0,2,1,2656,23
+Aaron Ramsey,England,Midfield,right,181.0,GB1,Burnley FC,15000000.0,1,0,0,0,651,22
+Anton Stach,Germany,Midfield,both,194.0,L1,TSG 1899 Hoffenheim,15000000.0,4,0,2,4,2677,26
+Nico González,Spain,Midfield,right,188.0,PO1,FC Porto,15000000.0,8,0,2,1,1958,23
+Romain Faivre,France,Midfield,left,180.0,FR1,FC Lorient,15000000.0,2,0,5,1,1505,26
+Tommaso Baldanzi,Italy,Midfield,left,170.0,IT1,FC Empoli,15000000.0,3,0,2,0,1374,21
+Amine Harit,Morocco,Midfield,right,180.0,FR1,Olympique Marseille,15000000.0,6,0,2,8,3075,27
+Kenneth Taylor,Netherlands,Midfield,both,182.0,NL1,Ajax Amsterdam,15000000.0,5,0,7,6,3499,22
+Josh Brownhill,England,Midfield,right,179.0,GB1,Burnley FC,15000000.0,5,1,4,3,2374,29
+Giannis Konstantelias,Greece,Midfield,both,178.0,GR1,PAOK Thessaloniki,15000000.0,3,0,11,5,2276,21
+Iván Martín,Spain,Midfield,left,178.0,ES1,Girona FC,15000000.0,5,0,5,4,2931,25
+André Almeida,Portugal,Midfield,right,176.0,ES1,Valencia CF,15000000.0,0,0,2,1,968,24
+Lucas Torreira,Uruguay,Midfield,right,166.0,TR1,Galatasaray,15000000.0,8,1,1,3,3820,28
+Jean-Ricner Bellegarde,France,Midfield,right,172.0,FR1,RC Strasbourg Alsace,15000000.0,2,1,4,3,1533,26
+Carlos Alcaraz,Argentina,Midfield,right,183.0,IT1,Juventus FC,15000000.0,1,0,1,3,590,22
+Youssouf Ndayishimiye,Burundi,Midfield,right,183.0,FR1,OGC Nice,15000000.0,6,1,0,0,1713,26
+Morten Frendrup,Denmark,Midfield,right,178.0,IT1,Genoa CFC,15000000.0,8,0,2,6,3311,23
+Arthur Melo,Brazil,Midfield,right,172.0,IT1,ACF Fiorentina,15000000.0,3,0,2,4,2365,28
+Yacine Adli,France,Midfield,right,186.0,IT1,AC Milan,15000000.0,4,0,1,2,1860,24
+Matheus França,Brazil,Midfield,right,184.0,GB1,Crystal Palace,15000000.0,1,0,0,1,322,20
+Andrey Santos,Brazil,Midfield,right,180.0,FR1,RC Strasbourg Alsace,15000000.0,3,0,1,0,928,20
+Jordan Veretout,France,Midfield,right,177.0,FR1,Olympique Marseille,15000000.0,5,0,4,4,3388,31
+Gustavo Hamer,Netherlands,Midfield,right,169.0,GB1,Sheffield United,15000000.0,10,0,5,7,3147,27
+Cameron Puertas,Spain,Midfield,right,178.0,BE1,Union Saint-Gilloise,15000000.0,4,0,7,19,3099,26
+Eliesse Ben Seghir,Morocco,Midfield,right,178.0,FR1,AS Monaco,15000000.0,0,1,2,2,424,19
+Matteo Pessina,Italy,Midfield,left,187.0,IT1,AC Monza,15000000.0,5,0,6,3,3319,27
+Tyler Adams,United States,Midfield,right,175.0,GB1,AFC Bournemouth,15000000.0,0,0,0,0,138,25
+Alberto Moleiro,Spain,Midfield,right,171.0,ES1,UD Las Palmas,15000000.0,2,0,4,4,1908,21
+İlkay Gündoğan,Germany,Midfield,right,180.0,ES1,FC Barcelona,15000000.0,6,0,5,14,4180,34
+Fabio Miretti,Italy,Midfield,right,180.0,IT1,Juventus FC,15000000.0,3,0,2,2,1271,21
+Valentín Carboni,Argentina,Midfield,left,185.0,IT1,AC Monza,15000000.0,2,0,2,4,1178,19
+Boubakary Soumaré,France,Midfield,right,188.0,ES1,Sevilla FC,14000000.0,12,0,0,1,2682,25
+Moatasem Al-Musrati,Libya,Midfield,right,189.0,PO1,SC Braga,14000000.0,2,1,4,1,1852,28
+Pablo Fornals,Spain,Midfield,right,178.0,GB1,West Ham United,14000000.0,3,0,3,2,2120,28
+Giovanni Fabbian,Italy,Midfield,right,186.0,IT1,Bologna FC 1909,14000000.0,5,0,5,2,1263,22
+Fábio Carvalho,Portugal,Midfield,right,170.0,L1,RB Leipzig,14000000.0,0,0,0,0,360,22
+Wataru Endo,Japan,Midfield,right,178.0,L1,VfB Stuttgart,13000000.0,12,0,3,1,2848,31
+Mandela Keita,Belgium,Midfield,right,180.0,BE1,Oud-Heverlee Leuven,13000000.0,4,0,0,2,1996,22
+Mario Pasalic,Croatia,Midfield,right,188.0,IT1,Atalanta BC,13000000.0,3,0,8,7,2729,29
+Ernest Muci,Albania,Midfield,both,180.0,TR1,Besiktas JK,13000000.0,4,0,5,0,1204,23
+Guus Til,Netherlands,Midfield,right,187.0,NL1,PSV Eindhoven,12000000.0,1,0,10,6,2454,27
+Azor Matusiwa,Netherlands,Midfield,right,173.0,FR1,Stade Reims,12000000.0,5,0,1,1,2292,26
+Rodrigo Zalazar,Uruguay,Midfield,right,178.0,PO1,SC Braga,12000000.0,6,0,6,9,2598,25
+Azzedine Ounahi,Morocco,Midfield,right,182.0,FR1,Olympique Marseille,12000000.0,5,0,2,1,1968,24
+Bitello,Brazil,Midfield,right,179.0,RU1,Dynamo Moscow,12000000.0,1,0,10,2,2204,25
+Atakan Karazor,Germany,Midfield,right,191.0,L1,VfB Stuttgart,12000000.0,10,0,0,4,2986,28
+Jorginho,Italy,Midfield,right,178.0,GB1,Arsenal FC,12000000.0,2,0,1,2,1681,33
+Kirian Rodríguez,Spain,Midfield,right,178.0,ES1,UD Las Palmas,12000000.0,8,0,6,2,3242,28
+Valentin Rongier,France,Midfield,right,172.0,FR1,Olympique Marseille,12000000.0,2,0,0,0,1266,30
+Junior Dina Ebimbe,France,Midfield,right,184.0,L1,Eintracht Frankfurt,12000000.0,7,0,7,3,2311,24
+Mattias Svanberg,Sweden,Midfield,right,185.0,L1,VfL Wolfsburg,12000000.0,8,0,1,4,1869,26
+Nicola Zalewski,Poland,Midfield,both,175.0,IT1,AS Roma,12000000.0,4,0,0,3,1546,23
+Emil Holm,Sweden,Midfield,right,191.0,IT1,Atalanta BC,12000000.0,7,0,1,4,1525,24
+Aster Vranckx,Belgium,Midfield,right,183.0,L1,VfL Wolfsburg,12000000.0,7,0,0,0,1339,22
+James McAtee,England,Midfield,left,180.0,GB1,Sheffield United,12000000.0,2,0,5,4,1945,22
+Timothy Weah,United States,Midfield,right,183.0,IT1,Juventus FC,12000000.0,6,0,1,2,1381,24
+Ryan Christie,Scotland,Midfield,left,178.0,GB1,AFC Bournemouth,12000000.0,6,0,1,5,3251,29
+Robin Gosens,Germany,Midfield,left,183.0,L1,1.FC Union Berlin,12000000.0,11,0,7,4,2748,30
+Wilmar Barrios,Colombia,Midfield,right,178.0,RU1,Zenit St. Petersburg,12000000.0,3,1,0,2,3355,31
+Marlon Gomes,Brazil,Midfield,right,184.0,UKR1,Shakhtar Donetsk,12000000.0,0,0,4,1,502,21
+Vini Souza,Brazil,Midfield,right,187.0,GB1,Sheffield United,12000000.0,3,0,1,0,2699,25
+Ryan Yates,England,Midfield,right,190.0,GB1,Nottingham Forest,12000000.0,8,0,1,3,2412,27
+Geoffrey Kondogbia,Central African Republic,Midfield,left,188.0,FR1,Olympique Marseille,12000000.0,6,0,1,1,2620,31
+Lewis Cook,England,Midfield,right,175.0,GB1,AFC Bournemouth,12000000.0,6,1,0,3,3207,27
+Rodrigo Gomes,Portugal,Midfield,right,175.0,PO1,GD Estoril Praia,12000000.0,5,1,7,8,2704,21
+İsmail Yüksek,Türkiye,Midfield,right,183.0,TR1,Fenerbahce,12000000.0,10,0,1,6,2775,26
+Merlin Röhl,Germany,Midfield,right,192.0,L1,SC Freiburg,12000000.0,3,1,3,4,1869,22
+Koke,Spain,Midfield,right,176.0,ES1,Atlético de Madrid,12000000.0,9,0,0,6,3787,33
+Brenden Aaronson,United States,Midfield,right,177.0,L1,1.FC Union Berlin,12000000.0,3,0,2,2,1446,24
+Ellyes Skhiri,Tunisia,Midfield,right,185.0,L1,Eintracht Frankfurt,11000000.0,2,0,4,2,2531,29
+Luis Alberto,Spain,Midfield,right,183.0,IT1,SS Lazio,11000000.0,8,0,5,11,3171,32
+Stefan Bajcetic,Spain,Midfield,right,185.0,GB1,Liverpool FC,11000000.0,1,0,0,0,97,20
+Stephen Eustaquio,Canada,Midfield,right,177.0,PO1,FC Porto,11000000.0,6,0,3,3,2211,28
+Michel Aebischer,Switzerland,Midfield,right,183.0,IT1,Bologna FC 1909,11000000.0,8,0,0,1,2594,28
+Maximilian Eggestein,Germany,Midfield,right,181.0,L1,SC Freiburg,10000000.0,6,0,3,5,3961,28
+Mahdi Camara,France,Midfield,right,178.0,FR1,Stade Brestois 29,10000000.0,7,0,7,4,2038,26
+Tommy Doyle,England,Midfield,right,172.0,GB1,Wolverhampton Wanderers,10000000.0,2,0,1,0,1750,23
+Emre Can,Germany,Midfield,right,186.0,L1,Borussia Dortmund,10000000.0,10,0,2,2,3049,31
+Nabil Fekir,France,Midfield,left,173.0,ES1,Real Betis Balompié,10000000.0,1,0,1,2,1128,31
+Santiago Hezze,Argentina,Midfield,right,182.0,GR1,Olympiacos Piraeus,10000000.0,7,0,0,1,2404,23
+Thomas Lemar,France,Midfield,left,171.0,ES1,Atlético de Madrid,10000000.0,0,0,0,0,167,29
+Thiago Alcántara,Spain,Midfield,right,174.0,GB1,Liverpool FC,10000000.0,0,0,0,0,5,33
+Cesare Casadei,Italy,Midfield,right,185.0,GB1,Chelsea FC,10000000.0,0,0,1,2,308,22
+Reo Hatate,Japan,Midfield,right,172.0,SC1,Celtic FC,10000000.0,0,0,3,3,892,27
+Lamine Camara,Senegal,Midfield,right,173.0,FR1,FC Metz,10000000.0,3,0,1,4,2266,21
+Dion Lopy,Senegal,Midfield,right,184.0,ES1,UD Almería,10000000.0,5,0,0,0,2098,22
+Nico Paz,Argentina,Midfield,left,186.0,ES1,Real Madrid,10000000.0,0,0,1,0,128,20
+Romano Schmid,Austria,Midfield,right,168.0,L1,SV Werder Bremen,10000000.0,5,0,4,7,2705,25
+Sergio Arribas,Spain,Midfield,left,174.0,ES1,UD Almería,10000000.0,1,0,9,5,2192,23
+Mario Lemina,Gabon,Midfield,right,184.0,GB1,Wolverhampton Wanderers,10000000.0,12,0,5,1,3261,31
+Josh Dasilva,England,Midfield,left,184.0,GB1,Brentford FC,10000000.0,0,0,0,1,148,26
+Matteo Prati,Italy,Midfield,right,185.0,IT1,Cagliari Calcio,10000000.0,4,0,1,1,1973,21
+Simone Pafundi,Italy,Midfield,left,166.0,IT1,Udinese Calcio,10000000.0,0,0,0,0,60,18
+Marshall Munetsi,Zimbabwe,Midfield,right,188.0,FR1,Stade Reims,10000000.0,5,0,4,4,2178,28
+Toni Kroos,Germany,Midfield,right,183.0,ES1,Real Madrid,10000000.0,5,0,1,10,3181,35
+Bryan Heynen,Belgium,Midfield,right,183.0,BE1,KRC Genk,10000000.0,4,0,6,3,2248,27
+Aleksey Miranchuk,Russia,Midfield,left,182.0,IT1,Atalanta BC,10000000.0,2,0,4,12,1851,29
+Joris Chotard,France,Midfield,right,179.0,FR1,Montpellier HSC,10000000.0,5,0,0,3,2593,23
+Samú Costa,Portugal,Midfield,left,185.0,ES1,RCD Mallorca,10000000.0,9,0,1,1,2649,24
+Yegor Yarmolyuk,Ukraine,Midfield,right,180.0,GB1,Brentford FC,10000000.0,2,0,0,0,799,20
+Salih Özcan,Türkiye,Midfield,right,183.0,L1,Borussia Dortmund,10000000.0,3,0,0,0,1785,27
+Jens Cajuste,Sweden,Midfield,right,188.0,IT1,SSC Napoli,10000000.0,9,0,0,2,1408,25
+Jakub Moder,Poland,Midfield,right,191.0,GB1,Brighton & Hove Albion,10000000.0,2,0,0,0,732,25
+Baptiste Santamaria,France,Midfield,right,183.0,FR1,Stade Rennais FC,10000000.0,4,0,0,2,2287,29
+Sem Steijn,Netherlands,Midfield,right,173.0,NL1,Twente Enschede FC,10000000.0,1,0,19,3,2802,23
+Alfie Doughty,England,Midfield,left,183.0,GB1,Luton Town,10000000.0,5,0,3,8,3392,25
+Raphael Onyedika,Nigeria,Midfield,right,184.0,BE1,Club Brugge KV,10000000.0,6,0,0,2,2036,23
+Josh Cullen,Ireland,Midfield,right,175.0,GB1,Burnley FC,10000000.0,10,0,2,3,2271,28
+Nikola Vlašić,Croatia,Midfield,right,179.0,IT1,Torino FC,10000000.0,3,0,3,2,2759,27
+Houssem Aouar,Algeria,Midfield,right,175.0,IT1,AS Roma,10000000.0,3,0,4,0,1171,26
+Rocco Reitz,Germany,Midfield,right,176.0,L1,Borussia Mönchengladbach,10000000.0,2,0,6,3,2359,22
+Pierre Lees-Melou,France,Midfield,right,185.0,FR1,Stade Brestois 29,10000000.0,12,0,4,0,2521,31
+Jonas Hofmann,Germany,Midfield,right,176.0,L1,Bayer 04 Leverkusen,10000000.0,4,0,8,12,2768,32
+André Gomes,Portugal,Midfield,right,188.0,GB1,Everton FC,10000000.0,4,0,2,0,582,31
+Mario Stroeykens,Belgium,Midfield,right,177.0,BE1,RSC Anderlecht,10000000.0,4,0,4,5,1697,20
+Abdoulaye Doucouré,Mali,Midfield,right,183.0,GB1,Everton FC,10000000.0,7,0,7,2,2759,32
+Nabil Bentaleb,Algeria,Midfield,left,187.0,FR1,LOSC Lille,10000000.0,7,0,0,3,1967,30
+Tommaso Pobega,Italy,Midfield,left,188.0,IT1,AC Milan,10000000.0,0,0,0,0,464,25
+Saša Lukić,Serbia,Midfield,right,182.0,GB1,Fulham FC,10000000.0,5,0,1,0,1397,28
+Yusuf Yazıcı,Türkiye,Midfield,left,184.0,FR1,LOSC Lille,10000000.0,5,0,5,2,1347,28
+Ryan Sessegnon,England,Midfield,left,178.0,GB1,Tottenham Hotspur,10000000.0,0,0,0,0,7,24
+Batista Mendy,France,Midfield,right,191.0,TR1,Trabzonspor,9500000.0,10,0,1,0,2756,25
+Ramiz Zerrouki,Algeria,Midfield,right,183.0,NL1,Feyenoord Rotterdam,9000000.0,5,0,1,0,2080,26
+Frank Onyeka,Nigeria,Midfield,right,183.0,GB1,Brentford FC,9000000.0,8,0,1,2,1294,27
+Máximo Perrone,Argentina,Midfield,left,177.0,GB1,Manchester City,9000000.0,6,0,0,0,1692,22
+Przemyslaw Frankowski,Poland,Midfield,right,175.0,FR1,RC Lens,9000000.0,5,0,4,4,2884,29
+Mykola Shaparenko,Ukraine,Midfield,right,178.0,UKR1,Dynamo Kyiv,9000000.0,8,0,5,8,2008,26
+Hicham Boudaoui,Algeria,Midfield,right,175.0,FR1,OGC Nice,9000000.0,5,0,2,0,1609,25
+Hannibal,Tunisia,Midfield,right,183.0,ES1,Sevilla FC,9000000.0,5,0,1,0,430,22
+Artem Bondarenko,Ukraine,Midfield,left,182.0,UKR1,Shakhtar Donetsk,9000000.0,2,2,6,8,2300,24
+Marc Roca,Spain,Midfield,left,184.0,ES1,Real Betis Balompié,9000000.0,7,0,4,3,2622,28
+Luis Chávez,Mexico,Midfield,left,178.0,RU1,Dynamo Moscow,9000000.0,5,0,4,2,2205,29
+Andy Diouf,France,Midfield,left,187.0,FR1,RC Lens,9000000.0,2,0,1,0,1436,21
+Arne Engels,Belgium,Midfield,right,185.0,L1,FC Augsburg,9000000.0,1,1,3,5,1486,21
+Will Hughes,England,Midfield,left,185.0,GB1,Crystal Palace,9000000.0,6,0,0,1,2039,29
+Ivan Oblyakov,Russia,Midfield,left,176.0,RU1,CSKA Moscow,9000000.0,1,0,4,5,3076,26
+Hyun-seok Hong,"Korea, South",Midfield,left,177.0,BE1,KAA Gent,9000000.0,1,0,5,5,2004,25
+Djibril Sow,Switzerland,Midfield,right,184.0,ES1,Sevilla FC,9000000.0,5,0,1,2,2094,27
+Flynn Downes,England,Midfield,right,178.0,GB1,West Ham United,9000000.0,0,0,0,0,78,26
+Téji Savanier,France,Midfield,right,172.0,FR1,Montpellier HSC,9000000.0,7,1,9,7,2778,33
+Michael Folorunsho,Italy,Midfield,right,190.0,IT1,Hellas Verona,8500000.0,5,0,5,1,2794,26
+Todd Cantwell,England,Midfield,right,180.0,SC1,Rangers FC,8500000.0,9,0,6,6,2393,26
+Rolando Mandragora,Italy,Midfield,left,183.0,IT1,ACF Fiorentina,8500000.0,9,0,4,3,2021,27
+Matheus Henrique,Brazil,Midfield,right,175.0,IT1,US Sassuolo,8500000.0,8,0,2,3,2622,27
+Callum McGregor,Scotland,Midfield,left,178.0,SC1,Celtic FC,8500000.0,6,0,2,5,3248,31
+Morgan Sanson,France,Midfield,right,180.0,FR1,OGC Nice,8000000.0,4,0,2,3,1980,30
+Benjamin André,France,Midfield,right,180.0,FR1,LOSC Lille,8000000.0,9,0,4,0,2785,34
+Danilo Pereira,Portugal,Midfield,right,188.0,FR1,Paris Saint-Germain,8000000.0,2,0,0,0,2152,33
+Daler Kuzyaev,Russia,Midfield,right,182.0,FR1,Le Havre AC,8000000.0,1,0,2,2,2100,32
+Ruslan Malinovskyi,Ukraine,Midfield,left,181.0,IT1,Genoa CFC,8000000.0,7,0,4,2,1599,31
+Sandi Lovric,Slovenia,Midfield,right,180.0,IT1,Udinese Calcio,8000000.0,1,1,2,3,2146,26
+Michal Sadílek,Czech Republic,Midfield,left,169.0,NL1,Twente Enschede FC,8000000.0,8,0,1,3,3345,25
+Ross Barkley,England,Midfield,right,189.0,GB1,Luton Town,8000000.0,6,0,5,6,2998,31
+Isco,Spain,Midfield,right,176.0,ES1,Real Betis Balompié,8000000.0,11,0,9,7,2791,32
+Dmitriy Barinov,Russia,Midfield,both,181.0,RU1,Lokomotiv Moscow,8000000.0,12,0,2,1,2841,28
+Christian Eriksen,Denmark,Midfield,right,182.0,GB1,Manchester United,8000000.0,1,0,1,3,1432,32
+Pascal Groß,Germany,Midfield,right,181.0,GB1,Brighton & Hove Albion,8000000.0,7,0,5,13,4104,33
+Leandro Paredes,Argentina,Midfield,right,180.0,IT1,AS Roma,8000000.0,18,1,5,7,3854,30
+Gustavo Scarpa,Brazil,Midfield,left,177.0,GR1,Olympiacos Piraeus,8000000.0,1,0,0,0,422,31
+Naouirou Ahamada,France,Midfield,right,183.0,GB1,Crystal Palace,8000000.0,4,0,0,0,432,22
+Neil El Aynaoui,Morocco,Midfield,right,185.0,FR1,RC Lens,8000000.0,2,0,1,3,1913,23
+Tajon Buchanan,Canada,Midfield,right,183.0,BE1,Club Brugge KV,8000000.0,2,0,4,2,1375,25
+Danil Glebov,Russia,Midfield,right,178.0,RU1,FK Rostov,8000000.0,1,0,2,2,3074,25
+Hugo Guillamón,Spain,Midfield,right,178.0,ES1,Valencia CF,8000000.0,7,0,1,0,1558,25
+Fabian Rieder,Switzerland,Midfield,left,179.0,FR1,Stade Rennais FC,8000000.0,1,0,3,1,671,22
+Jorge Carrascal,Colombia,Midfield,right,180.0,RU1,Dynamo Moscow,8000000.0,7,0,1,7,1841,26
+Daniel Bragança,Portugal,Midfield,left,178.0,PO1,Sporting CP,8000000.0,3,0,4,3,1660,25
+Mateus Fernandes,Portugal,Midfield,right,178.0,PO1,Sporting CP,8000000.0,8,0,1,2,2563,20
+Ethan Nwaneri,England,Midfield,left,176.0,GB1,Arsenal FC,8000000.0,0,0,0,0,13,17
+Iván Jaime,Spain,Midfield,right,180.0,PO1,FC Porto,8000000.0,0,0,1,0,731,24
+Gustavo Sá,Portugal,Midfield,right,189.0,PO1,FC Famalicão,8000000.0,8,0,3,5,1953,20
+Tanguy Ndombélé,France,Midfield,right,181.0,TR1,Galatasaray,8000000.0,0,0,0,1,547,28
+Kristian Thorstvedt,Norway,Midfield,left,189.0,IT1,US Sassuolo,8000000.0,7,0,6,1,2471,25
+David Pereira da Costa,Portugal,Midfield,right,168.0,FR1,RC Lens,8000000.0,3,0,5,3,1765,24
+Daniil Fomin,Russia,Midfield,right,187.0,RU1,Dynamo Moscow,8000000.0,6,0,3,7,2377,27
+Pablo Rosario,Netherlands,Midfield,right,185.0,FR1,OGC Nice,8000000.0,4,0,0,1,2005,28
+Salis Abdul Samed,Ghana,Midfield,right,179.0,FR1,RC Lens,8000000.0,4,0,0,0,2138,24
+Saúl Ñíguez,Spain,Midfield,left,184.0,ES1,Atlético de Madrid,7500000.0,11,0,2,5,2064,30
+Eric Martel,Germany,Midfield,right,188.0,L1,1.FC Köln,7500000.0,8,0,1,2,2652,22
+Antonio Blanco,Spain,Midfield,right,176.0,ES1,Deportivo Alavés,7500000.0,6,1,0,1,2548,24
+Enzo Barrenechea,Argentina,Midfield,right,186.0,IT1,Frosinone Calcio,7500000.0,10,0,1,1,2979,23
+Maxime López,France,Midfield,right,167.0,IT1,ACF Fiorentina,7500000.0,2,1,0,0,1282,27
+Jens Stage,Denmark,Midfield,right,187.0,L1,SV Werder Bremen,7500000.0,6,1,3,3,2426,28
+Kevin Paredes,United States,Midfield,left,175.0,L1,VfL Wolfsburg,7500000.0,5,0,3,0,1454,21
+Julien De Sart,Belgium,Midfield,right,187.0,BE1,KAA Gent,7500000.0,4,0,5,1,3033,30
+Philippe Coutinho,Brazil,Midfield,right,172.0,GB1,Aston Villa,7500000.0,0,0,0,0,24,32
+Orbelín Pineda,Mexico,Midfield,right,169.0,GR1,AEK Athens,7000000.0,3,0,3,2,2482,28
+Angelo Fulgini,France,Midfield,right,182.0,FR1,RC Lens,7000000.0,4,0,3,2,1724,28
+Leander Dendoncker,Belgium,Midfield,right,188.0,IT1,SSC Napoli,7000000.0,0,0,1,0,276,29
+Umut Tohumcu,Germany,Midfield,both,175.0,L1,TSG 1899 Hoffenheim,7000000.0,5,0,0,2,1023,20
+Jeffrey Schlupp,Ghana,Midfield,left,178.0,GB1,Crystal Palace,7000000.0,1,0,2,3,1609,32
+Marten de Roon,Netherlands,Midfield,right,185.0,IT1,Atalanta BC,7000000.0,14,0,0,5,3938,33
+Gaetano Castrovilli,Italy,Midfield,right,187.0,IT1,ACF Fiorentina,7000000.0,0,0,1,2,370,27
+Kacper Urbanski,Poland,Midfield,right,183.0,IT1,Bologna FC 1909,7000000.0,3,0,0,1,1079,20
+Kristian Hlynsson,Iceland,Midfield,right,179.0,NL1,Ajax Amsterdam,7000000.0,3,0,7,3,2099,21
+Florian Neuhaus,Germany,Midfield,right,185.0,L1,Borussia Mönchengladbach,7000000.0,4,0,4,4,1412,27
+Teddy Teuma,Malta,Midfield,left,176.0,FR1,Stade Reims,7000000.0,7,0,6,3,2124,31
+Abdülkadir Ömür,Türkiye,Midfield,left,168.0,TR1,Trabzonspor,7000000.0,1,0,0,6,1117,25
+Hans Vanaken,Belgium,Midfield,right,195.0,BE1,Club Brugge KV,7000000.0,6,0,6,9,2989,32
+Tomás Händel,Portugal,Midfield,left,180.0,PO1,Vitória Guimarães SC,7000000.0,6,0,2,1,2680,24
+Maximilian Arnold,Germany,Midfield,left,184.0,L1,VfL Wolfsburg,7000000.0,10,0,2,1,2678,30
+Imrân Louza,Morocco,Midfield,left,178.0,FR1,FC Lorient,7000000.0,1,0,1,3,966,25
+Tomas Suslov,Slovakia,Midfield,left,174.0,IT1,Hellas Verona,7000000.0,7,0,3,5,2164,22
+Dmytro Kryskiv,Ukraine,Midfield,right,180.0,UKR1,Shakhtar Donetsk,7000000.0,7,0,5,6,2739,24
+Lucas Tousart,France,Midfield,right,184.0,L1,1.FC Union Berlin,7000000.0,9,0,0,1,1822,27
+Hugo Magnetti,France,Midfield,right,180.0,FR1,Stade Brestois 29,7000000.0,6,0,2,0,2359,26
+Lucas Robertone,Argentina,Midfield,right,169.0,ES1,UD Almería,7000000.0,11,0,0,5,2426,27
+Grischa Prömel,Germany,Midfield,right,184.0,L1,TSG 1899 Hoffenheim,7000000.0,10,0,4,5,2287,30
+José Cifuentes,Ecuador,Midfield,right,178.0,SC1,Rangers FC,7000000.0,0,1,0,2,1067,25
+Nadiem Amiri,Germany,Midfield,right,180.0,L1,1.FSV Mainz 05,7000000.0,5,0,1,5,1465,28
+Senne Lynen,Belgium,Midfield,right,185.0,BE1,Union Saint-Gilloise,7000000.0,7,0,0,3,1973,25
+Pedro Chirivella,Spain,Midfield,right,178.0,FR1,FC Nantes,7000000.0,5,0,1,1,2601,27
+Matías Galarza,Argentina,Midfield,right,180.0,BE1,KRC Genk,7000000.0,6,0,1,1,1689,22
+Daniel Boloca,Italy,Midfield,right,185.0,IT1,US Sassuolo,7000000.0,6,1,2,0,2054,26
+Jon Moncayola,Spain,Midfield,right,182.0,ES1,CA Osasuna,7000000.0,3,1,1,5,2107,26
+Patrick Osterhage,Germany,Midfield,left,186.0,L1,VfL Bochum,7000000.0,5,0,2,2,1878,24
+Junior Mwanga,France,Midfield,both,184.0,FR1,RC Strasbourg Alsace,7000000.0,3,0,1,1,1456,21
+Hugo Vetlesen,Norway,Midfield,right,174.0,BE1,Club Brugge KV,7000000.0,8,0,2,4,2254,24
+Mitchel Bakker,Netherlands,Midfield,left,185.0,IT1,Atalanta BC,6500000.0,2,0,1,0,556,24
+Enis Bardhi,North Macedonia,Midfield,right,172.0,TR1,Trabzonspor,6500000.0,3,0,7,4,2347,29
+Florian Grillitsch,Austria,Midfield,right,187.0,L1,TSG 1899 Hoffenheim,6500000.0,8,0,1,6,2373,29
+Kristijan Jakic,Croatia,Midfield,right,184.0,L1,FC Augsburg,6500000.0,5,0,2,1,1297,27
+Amir Hadziahmetovic,Bosnia-Herzegovina,Midfield,right,179.0,TR1,Besiktas JK,6500000.0,5,0,0,5,1821,27
+Nicolas Raskin,Belgium,Midfield,right,178.0,SC1,Rangers FC,6500000.0,4,0,1,1,1611,23
+Sven Mijnans,Netherlands,Midfield,left,190.0,NL1,AZ Alkmaar,6500000.0,3,0,5,5,2790,24
+Nair Tiknizyan,Armenia,Midfield,left,181.0,RU1,Lokomotiv Moscow,6500000.0,5,0,9,6,1948,25
+Remo Freuler,Switzerland,Midfield,right,180.0,IT1,Bologna FC 1909,6500000.0,9,0,1,1,2778,32
+Renato Sanches,Portugal,Midfield,right,176.0,IT1,AS Roma,6500000.0,2,0,1,0,262,27
+Filip Kostić,Serbia,Midfield,left,184.0,IT1,Juventus FC,6500000.0,3,0,0,4,2107,32
+Sivert Mannsverk,Norway,Midfield,right,185.0,NL1,Ajax Amsterdam,6000000.0,7,0,0,0,1443,22
+Warren Bondo,France,Midfield,right,177.0,IT1,AC Monza,6000000.0,9,0,1,1,1471,21
+Mahmoud Dahoud,Syria,Midfield,right,178.0,L1,VfB Stuttgart,6000000.0,1,1,1,1,910,29
+Óliver Torres,Spain,Midfield,right,175.0,ES1,Sevilla FC,6000000.0,4,0,0,2,2108,30
+Daniil Utkin,Russia,Midfield,left,183.0,RU1,FK Rostov,6000000.0,3,0,1,4,2165,25
+Ibrahima Sissoko,Mali,Midfield,right,193.0,FR1,RC Strasbourg Alsace,6000000.0,7,0,0,1,1641,27
+Dirk Proper,Netherlands,Midfield,right,167.0,NL1,NEC Nijmegen,6000000.0,4,0,7,4,2755,22
+Branco van den Boomen,Netherlands,Midfield,right,188.0,NL1,Ajax Amsterdam,6000000.0,1,0,2,1,1174,29
+Berat Özdemir,Türkiye,Midfield,right,187.0,TR1,Trabzonspor,6000000.0,4,0,1,1,2378,26
+Pape Gueye,Senegal,Midfield,left,189.0,FR1,Olympique Marseille,6000000.0,2,0,1,0,766,26
+Mady Camara,Guinea,Midfield,right,182.0,GR1,Olympiacos Piraeus,6000000.0,10,0,1,1,2231,27
+Santi Comesaña,Spain,Midfield,both,188.0,ES1,Villarreal CF,6000000.0,11,1,3,0,2246,28
+Julian Weigl,Germany,Midfield,right,186.0,L1,Borussia Mönchengladbach,6000000.0,10,0,2,3,3131,29
+Jacopo Fazzini,Italy,Midfield,right,178.0,IT1,FC Empoli,6000000.0,6,0,1,2,1226,21
+Artem Karpukas,Russia,Midfield,right,184.0,RU1,Lokomotiv Moscow,6000000.0,7,0,1,0,1997,22
+Antoni Milambo,Netherlands,Midfield,right,179.0,NL1,Feyenoord Rotterdam,6000000.0,0,0,1,1,277,19
+Luka Modric,Croatia,Midfield,right,172.0,ES1,Real Madrid,6000000.0,2,0,2,8,2243,39
+Johann Lepenant,France,Midfield,right,176.0,FR1,Olympique Lyon,6000000.0,1,0,0,0,250,22
+Muhammed Cham,Austria,Midfield,left,180.0,FR1,Clermont Foot 63,6000000.0,4,0,8,4,2565,24
+Anastasios Bakasetas,Greece,Midfield,left,181.0,GR1,Panathinaikos FC,6000000.0,6,1,6,3,2279,31
+Rade Krunic,Bosnia-Herzegovina,Midfield,right,184.0,TR1,Fenerbahce,6000000.0,5,0,0,0,1667,31
+Lucien Agoumé,France,Midfield,right,185.0,ES1,Sevilla FC,6000000.0,3,0,0,0,791,22
+Robert Navarro,Spain,Midfield,right,178.0,ES1,Cádiz CF,6000000.0,0,1,1,1,2042,22
+Anton Miranchuk,Russia,Midfield,right,185.0,RU1,Lokomotiv Moscow,6000000.0,4,0,8,7,2282,29
+Fran Beltrán,Spain,Midfield,right,165.0,ES1,Celta de Vigo,6000000.0,2,0,0,0,2713,25
+Davide Zappacosta,Italy,Midfield,right,182.0,IT1,Atalanta BC,6000000.0,7,0,2,5,2845,32
+Henrikh Mkhitaryan,Armenia,Midfield,both,177.0,IT1,Inter Milan,6000000.0,6,0,2,11,3526,36
+Nicolai Vallys,Denmark,Midfield,right,189.0,DK1,Bröndby IF,6000000.0,1,0,10,7,2168,28
+Marko Grujic,Serbia,Midfield,right,191.0,PO1,FC Porto,6000000.0,3,0,0,1,527,28
+Boubacar Traoré,Mali,Midfield,right,183.0,GB1,Wolverhampton Wanderers,6000000.0,5,0,0,0,997,23
+Douglas Augusto,Brazil,Midfield,left,173.0,GR1,PAOK Thessaloniki,6000000.0,7,1,0,0,1822,28
+Nemanja Maksimovic,Serbia,Midfield,right,189.0,ES1,Getafe CF,6000000.0,4,0,4,0,3446,30
+Aïssa Laïdouni,Tunisia,Midfield,right,184.0,L1,1.FC Union Berlin,6000000.0,3,0,0,4,1489,28
+Sergi Darder,Spain,Midfield,right,180.0,ES1,RCD Mallorca,6000000.0,4,0,2,5,2521,31
+Jean-Victor Makengo,France,Midfield,left,177.0,FR1,FC Lorient,6000000.0,0,0,0,0,478,26
+Alessio Castro-Montes,Belgium,Midfield,right,175.0,BE1,Union Saint-Gilloise,6000000.0,2,0,3,3,2523,27
+Dani Ceballos,Spain,Midfield,right,179.0,ES1,Real Madrid,6000000.0,2,0,1,2,864,28
+Amir Richardson,Morocco,Midfield,left,197.0,FR1,Stade Reims,6000000.0,4,0,3,1,1350,23
+Gianluca Gaetano,Italy,Midfield,right,183.0,IT1,Cagliari Calcio,6000000.0,4,1,5,2,1048,24
+Ayyoub Bouaddi,France,Midfield,right,185.0,FR1,LOSC Lille,6000000.0,3,0,0,0,126,17
+Unai Gómez,Spain,Midfield,left,183.0,ES1,Athletic Bilbao,6000000.0,2,0,2,0,1183,21
+Walace,Brazil,Midfield,right,188.0,IT1,Udinese Calcio,6000000.0,7,0,2,0,3333,29
+Abbosbek Fayzullaev,Uzbekistan,Midfield,right,170.0,RU1,CSKA Moscow,6000000.0,4,0,5,14,2245,21
+Isaac Babadi,Netherlands,Midfield,right,179.0,NL1,PSV Eindhoven,6000000.0,1,0,2,0,508,19
+Diogo Gonçalves,Portugal,Midfield,right,178.0,DK1,FC Copenhagen,5500000.0,5,0,9,6,2203,27
+Danilo Cataldi,Italy,Midfield,right,180.0,IT1,SS Lazio,5500000.0,9,0,1,0,1713,30
+Mario Götze,Germany,Midfield,right,176.0,L1,Eintracht Frankfurt,5500000.0,5,0,4,4,2388,32
+Senny Mayulu,France,Midfield,both,183.0,FR1,Paris Saint-Germain,5000000.0,0,0,0,1,323,18
+Lazare Amani,Cote d'Ivoire,Midfield,right,172.0,BE1,Union Saint-Gilloise,5000000.0,4,0,0,5,1966,26
+Lewis O'Brien,England,Midfield,left,173.0,GB1,Nottingham Forest,5000000.0,0,0,0,0,109,26
+Renato Tapia,Peru,Midfield,right,185.0,ES1,Celta de Vigo,5000000.0,5,0,0,0,1449,29
+Adrien Thomasson,France,Midfield,right,175.0,FR1,RC Lens,5000000.0,3,1,2,3,1415,31
+Vitor Carvalho,Brazil,Midfield,right,183.0,PO1,SC Braga,5000000.0,8,0,1,1,2215,27
+Félix Lemaréchal,France,Midfield,right,180.0,FR1,AS Monaco,5000000.0,4,0,0,3,1564,21
+Zaydou Youssouf,France,Midfield,left,182.0,PO1,FC Famalicão,5000000.0,10,0,2,1,2774,25
+Yassine Kechta,Morocco,Midfield,left,174.0,FR1,Le Havre AC,5000000.0,4,0,2,1,1860,22
+Kevin Stöger,Austria,Midfield,left,175.0,L1,VfL Bochum,5000000.0,8,0,7,11,2798,31
+Donny van de Beek,Netherlands,Midfield,right,184.0,L1,Eintracht Frankfurt,5000000.0,1,0,0,0,378,27
+Dejan Ljubicic,Austria,Midfield,right,187.0,L1,1.FC Köln,5000000.0,6,0,0,2,2111,27
+Kacper Kozlowski,Poland,Midfield,right,182.0,NL1,Vitesse Arnhem,5000000.0,4,0,3,5,2319,21
+Yannik Keitel,Germany,Midfield,both,186.0,L1,SC Freiburg,5000000.0,0,0,1,0,1020,24
+Lennard Maloney,United States,Midfield,right,188.0,L1,1.FC Heidenheim 1846,5000000.0,1,0,2,1,2429,25
+Théo Leoni,Belgium,Midfield,left,174.0,BE1,RSC Anderlecht,5000000.0,4,0,3,7,1901,24
+Adem Zorgane,Algeria,Midfield,right,184.0,BE1,R Charleroi SC,5000000.0,2,0,2,4,1841,25
+Vitaliy Buyalskyi,Ukraine,Midfield,right,175.0,UKR1,Dynamo Kyiv,5000000.0,4,0,10,9,2287,32
+Adrien Tamèze,Cameroon,Midfield,right,182.0,IT1,Torino FC,5000000.0,6,1,0,2,2230,30
+Ruslan Litvinov,Russia,Midfield,right,184.0,RU1,Spartak Moscow,5000000.0,3,0,0,1,1651,23
+André Horta,Portugal,Midfield,right,174.0,GR1,Olympiacos Piraeus,5000000.0,0,0,2,3,1210,28
+Marco Reus,Germany,Midfield,right,180.0,L1,Borussia Dortmund,5000000.0,2,0,9,10,2281,35
+Ander Guevara,Spain,Midfield,right,180.0,ES1,Deportivo Alavés,5000000.0,7,0,1,1,3134,27
+Corentin Tolisso,France,Midfield,right,181.0,FR1,Olympique Lyon,5000000.0,5,0,2,1,1752,30
+Marvelous Nakamba,Zimbabwe,Midfield,left,177.0,GB1,Luton Town,5000000.0,5,0,0,0,1154,31
+Aleksandr Chernikov,Russia,Midfield,right,184.0,RU1,FK Krasnodar,5000000.0,13,0,1,0,2591,24
+Robert Skov,Denmark,Midfield,left,185.0,L1,TSG 1899 Hoffenheim,5000000.0,2,0,3,5,1260,28
+Kristijan Belic,Serbia,Midfield,right,177.0,NL1,AZ Alkmaar,5000000.0,9,0,0,1,1249,23
+Dani de Wit,Netherlands,Midfield,right,184.0,NL1,AZ Alkmaar,5000000.0,10,1,11,4,3198,27
+Williot Swedberg,Sweden,Midfield,right,187.0,ES1,Celta de Vigo,5000000.0,2,0,5,1,861,20
+Olivier Deman,Belgium,Midfield,left,181.0,BE1,Cercle Brugge,5000000.0,5,0,2,1,1741,24
+Suat Serdar,Germany,Midfield,right,184.0,IT1,Hellas Verona,5000000.0,8,1,0,2,1788,27
+John Lundstram,England,Midfield,right,181.0,SC1,Rangers FC,5000000.0,4,0,2,6,3756,30
+Benjamin Tahirovic,Bosnia-Herzegovina,Midfield,right,191.0,NL1,Ajax Amsterdam,5000000.0,5,0,2,5,2280,21
+Alhassan Yusuf,Nigeria,Midfield,right,173.0,BE1,Royal Antwerp FC,5000000.0,4,0,1,3,1568,24
+Hayao Kawabe,Japan,Midfield,right,178.0,BE1,Standard Liège,5000000.0,2,0,7,5,1944,29
+Khalil Fayad,Morocco,Midfield,right,172.0,FR1,Montpellier HSC,5000000.0,2,0,3,0,1023,20
+Alex Král,Czech Republic,Midfield,right,186.0,L1,1.FC Union Berlin,5000000.0,2,0,1,1,1714,26
+Ilia Gruev,Bulgaria,Midfield,left,185.0,L1,SV Werder Bremen,5000000.0,0,0,0,0,303,24
+Arne Maier,Germany,Midfield,right,186.0,L1,FC Augsburg,5000000.0,0,0,2,3,1059,26
+Tom Davies,England,Midfield,right,180.0,GB1,Sheffield United,5000000.0,2,0,0,0,464,26
+Iñigo Ruiz de Galarreta,Spain,Midfield,right,175.0,ES1,Athletic Bilbao,5000000.0,9,0,1,2,2419,31
+Mathias Kjølø,Norway,Midfield,right,174.0,NL1,Twente Enschede FC,5000000.0,4,0,1,1,2744,23
+Iker Muniain,Spain,Midfield,right,169.0,ES1,Athletic Bilbao,5000000.0,1,0,3,0,952,32
+Kamory Doumbia,Mali,Midfield,right,170.0,FR1,Stade Brestois 29,5000000.0,1,0,6,5,869,21
+Iker Muñoz,Spain,Midfield,right,180.0,ES1,CA Osasuna,5000000.0,6,0,4,0,1926,22
+Luke Cundle,England,Midfield,right,171.0,GB1,Wolverhampton Wanderers,5000000.0,1,0,2,1,219,22
+András Schäfer,Hungary,Midfield,right,178.0,L1,1.FC Union Berlin,5000000.0,1,1,1,2,1219,25
+Oleksandr Pikhalyonok,Ukraine,Midfield,left,179.0,UKR1,SK Dnipro-1,5000000.0,4,0,6,6,2480,27
+Nahitan Nández,Uruguay,Midfield,right,172.0,IT1,Cagliari Calcio,5000000.0,7,0,2,3,2411,29
+Mathias Delorge,Belgium,Midfield,left,189.0,BE1,Sint-Truidense VV,5000000.0,4,0,1,3,2663,20
+Angelo Preciado,Ecuador,Midfield,right,173.0,BE1,KRC Genk,5000000.0,2,0,2,3,769,26
+Volodymyr Brazhko,Ukraine,Midfield,right,184.0,UKR1,Dynamo Kyiv,5000000.0,4,0,6,5,2152,23
+Kevin Castaño,Colombia,Midfield,right,177.0,RU1,FK Krasnodar,5000000.0,0,0,0,0,594,24
+Eliot Matazo,Belgium,Midfield,right,170.0,FR1,AS Monaco,5000000.0,2,0,0,1,117,22
+Noah Sadiki,DR Congo,Midfield,right,183.0,BE1,Union Saint-Gilloise,5000000.0,3,0,0,1,1503,20
+Nikola Moro,Croatia,Midfield,right,184.0,IT1,Bologna FC 1909,5000000.0,0,0,2,0,1103,26
+Mauro Arambarri,Uruguay,Midfield,right,175.0,ES1,Getafe CF,5000000.0,2,0,0,0,337,29
+Rani Khedira,Germany,Midfield,right,189.0,L1,1.FC Union Berlin,5000000.0,7,1,0,0,1721,31
+Kerem Demirbay,Germany,Midfield,left,183.0,TR1,Galatasaray,4800000.0,3,0,7,4,2562,31
+Kaan Ayhan,Türkiye,Midfield,right,185.0,TR1,Galatasaray,4700000.0,6,1,1,3,2727,30
+Martín Payero,Argentina,Midfield,right,182.0,IT1,Udinese Calcio,4500000.0,7,1,2,3,1875,26
+Daniel Maldini,Italy,Midfield,right,188.0,IT1,FC Empoli,4500000.0,1,0,4,1,588,23
+Charles Vanhoutte,Belgium,Midfield,right,182.0,BE1,Union Saint-Gilloise,4500000.0,12,0,0,3,2775,26
+Jurgen Ekkelenkamp,Netherlands,Midfield,right,188.0,BE1,Royal Antwerp FC,4500000.0,3,1,5,1,2528,24
+Paxten Aaronson,United States,Midfield,right,175.0,NL1,Vitesse Arnhem,4500000.0,4,0,4,2,1440,21
+Danil Prutsev,Russia,Midfield,right,174.0,RU1,Spartak Moscow,4500000.0,4,0,2,4,2348,24
+Joan González,Spain,Midfield,right,190.0,IT1,US Lecce,4500000.0,6,0,1,1,1372,22
+Viktor Claesson,Sweden,Midfield,right,183.0,DK1,FC Copenhagen,4500000.0,2,0,6,0,1779,33
+Antonín Barák,Czech Republic,Midfield,left,190.0,IT1,ACF Fiorentina,4500000.0,2,0,2,3,930,30
+Antoine Makoumbou,Congo,Midfield,right,187.0,IT1,Cagliari Calcio,4500000.0,5,1,1,0,3003,26
+Jordan Ferri,France,Midfield,right,173.0,FR1,Montpellier HSC,4500000.0,5,0,1,1,2038,32
+Can Bozdogan,Germany,Midfield,left,174.0,NL1,FC Utrecht,4500000.0,4,0,3,1,2051,23
+Leonardo Lopes,Portugal,Midfield,right,168.0,BE1,Cercle Brugge,4500000.0,4,0,2,2,1797,26
+Stijn Spierings,Netherlands,Midfield,right,188.0,FR1,FC Toulouse,4500000.0,8,0,0,1,1888,28
+Nedim Bajrami,Albania,Midfield,right,179.0,IT1,US Sassuolo,4500000.0,0,0,3,2,1498,25
+Joshua Kitolano,Norway,Midfield,right,170.0,NL1,Sparta Rotterdam,4500000.0,2,0,5,2,2292,23
+Yasin Ayari,Sweden,Midfield,right,172.0,GB1,Brighton & Hove Albion,4500000.0,1,0,0,0,95,21
+Niclas Eliasson,Sweden,Midfield,left,178.0,GR1,AEK Athens,4500000.0,2,0,5,10,2107,29
+Víctor Méndez,Chile,Midfield,right,172.0,RU1,CSKA Moscow,4500000.0,2,0,1,0,2603,25
+Youssef Maleh,Morocco,Midfield,left,179.0,IT1,FC Empoli,4500000.0,11,0,0,1,2610,26
+Cristian Volpato,Italy,Midfield,left,187.0,IT1,US Sassuolo,4500000.0,3,0,1,1,826,21
+Roman Zobnin,Russia,Midfield,right,182.0,RU1,Spartak Moscow,4500000.0,1,0,3,0,1776,30
+Alex Oxlade-Chamberlain,England,Midfield,right,180.0,TR1,Besiktas JK,4200000.0,0,0,4,1,999,31
+Berkay Özcan,Türkiye,Midfield,right,178.0,TR1,Basaksehir FK,4200000.0,2,0,2,3,2825,26
+Gaetano Oristanio,Italy,Midfield,left,174.0,IT1,Cagliari Calcio,4000000.0,2,0,2,1,1263,22
+Óscar Valentín,Spain,Midfield,right,177.0,ES1,Rayo Vallecano,4000000.0,8,0,2,0,2923,30
+Tim Iroegbunam,England,Midfield,right,183.0,GB1,Aston Villa,4000000.0,0,0,0,0,161,21
+Ramón Terrats,Spain,Midfield,left,181.0,ES1,Villarreal CF,4000000.0,5,0,0,2,1035,24
+João Mário,Portugal,Midfield,right,179.0,PO1,SL Benfica,4000000.0,14,0,9,5,6032,32
+Enzo Loiodice,France,Midfield,left,177.0,ES1,UD Las Palmas,4000000.0,2,0,0,1,2011,24
+Alfred Duncan,Ghana,Midfield,left,178.0,IT1,ACF Fiorentina,4000000.0,2,0,2,5,2127,31
+Manuel Lazzari,Italy,Midfield,right,174.0,IT1,SS Lazio,4000000.0,4,1,0,2,2249,31
+Patrick Ciurria,Italy,Midfield,both,178.0,IT1,AC Monza,4000000.0,2,0,0,2,1692,29
+Luca Mazzitelli,Italy,Midfield,right,184.0,IT1,Frosinone Calcio,4000000.0,6,0,5,1,2463,29
+Robert Ljubicic,Croatia,Midfield,left,178.0,GR1,AEK Athens,4000000.0,1,0,3,1,686,25
+Luca Lipani,Italy,Midfield,right,185.0,IT1,US Sassuolo,4000000.0,0,0,0,0,500,19
+Emiliano Martínez,Uruguay,Midfield,right,185.0,DK1,FC Midtjylland,4000000.0,6,0,0,0,4060,25
+Jordan Henderson,England,Midfield,right,187.0,NL1,Ajax Amsterdam,4000000.0,0,0,0,3,754,34
+Mikel Vesga,Spain,Midfield,left,191.0,ES1,Athletic Bilbao,4000000.0,2,0,3,1,1818,31
+Han-Noah Massengo,France,Midfield,right,178.0,GB1,Burnley FC,4000000.0,0,0,0,0,38,23
+Yann Gboho,France,Midfield,right,178.0,FR1,FC Toulouse,4000000.0,1,0,3,7,2757,24
+Niklas Dorsch,Germany,Midfield,right,178.0,L1,FC Augsburg,4000000.0,5,0,0,0,1449,27
+Ibrahim Sulemana,Ghana,Midfield,right,180.0,IT1,Cagliari Calcio,4000000.0,4,0,2,0,1586,21
+Lucas Torró,Spain,Midfield,right,190.0,ES1,CA Osasuna,4000000.0,6,0,1,0,2141,30
+Yannick Gerhardt,Germany,Midfield,left,184.0,L1,VfL Wolfsburg,4000000.0,6,0,3,1,1928,30
+Chiquinho,Portugal,Midfield,right,175.0,GR1,Olympiacos Piraeus,4000000.0,13,1,5,5,2558,29
+Filippo Ranocchia,Italy,Midfield,both,186.0,IT1,FC Empoli,4000000.0,3,0,0,0,477,23
+Denis Huseinbasic,Bosnia-Herzegovina,Midfield,right,184.0,L1,1.FC Köln,4000000.0,5,0,0,4,1703,23
+Vincent Sierro,Switzerland,Midfield,right,185.0,FR1,FC Toulouse,4000000.0,9,0,6,3,3066,29
+Steven Alzate,Colombia,Midfield,right,180.0,BE1,Standard Liège,4000000.0,4,0,1,4,1671,26
+Davy Klaassen,Netherlands,Midfield,right,179.0,NL1,Ajax Amsterdam,4000000.0,1,0,1,0,475,31
+Jean Onana,Cameroon,Midfield,right,189.0,TR1,Besiktas JK,4000000.0,1,0,1,1,681,25
+Mohamed Diomandé,Cote d'Ivoire,Midfield,left,183.0,DK1,FC Nordsjaelland,4000000.0,7,0,2,5,2320,23
+Jon Guridi,Spain,Midfield,left,179.0,ES1,Deportivo Alavés,4000000.0,2,0,3,4,2724,29
+Skelly Alvero,France,Midfield,right,202.0,FR1,Olympique Lyon,4000000.0,3,0,2,0,546,22
+Ondrej Duda,Slovakia,Midfield,right,180.0,IT1,Hellas Verona,4000000.0,14,0,1,4,2483,30
+Ylber Ramadani,Albania,Midfield,right,185.0,IT1,US Lecce,4000000.0,13,0,1,0,3157,28
+Miguel Crespo,Portugal,Midfield,right,186.0,TR1,Fenerbahce,4000000.0,7,0,0,1,1234,28
+Cher Ndour,Italy,Midfield,both,190.0,PO1,SC Braga,4000000.0,3,0,1,0,309,20
+Marcos Antônio,Brazil,Midfield,right,166.0,GR1,PAOK Thessaloniki,4000000.0,0,0,2,0,511,24
+Cristian Cásseres Jr.,Venezuela,Midfield,right,176.0,FR1,FC Toulouse,4000000.0,2,0,1,3,2526,25
+Tom Krauß,Germany,Midfield,right,182.0,L1,1.FSV Mainz 05,4000000.0,5,0,1,2,1442,23
+Salih Uçan,Türkiye,Midfield,right,182.0,TR1,Besiktas JK,4000000.0,7,0,2,6,1983,31
+Christopher Martins Pereira,Luxembourg,Midfield,right,188.0,RU1,Spartak Moscow,4000000.0,5,0,5,4,1887,27
+Sasa Zdjelar,Serbia,Midfield,right,184.0,RU1,CSKA Moscow,4000000.0,6,0,1,0,3225,29
+Loïc Lapoussin,Madagascar,Midfield,right,181.0,BE1,Union Saint-Gilloise,4000000.0,8,0,5,5,2707,28
+Ayman Kari,France,Midfield,right,176.0,FR1,FC Lorient,4000000.0,1,0,1,1,902,20
+David Turnbull,Scotland,Midfield,right,185.0,SC1,Celtic FC,3800000.0,2,0,7,0,706,25
+Berkan Kutlu,Türkiye,Midfield,left,186.0,TR1,Galatasaray,3800000.0,4,0,2,1,1746,27
+Kevin Kampl,Slovenia,Midfield,right,178.0,L1,RB Leipzig,3500000.0,4,0,1,2,1746,34
+Niccolò Pisilli,Italy,Midfield,right,180.0,IT1,AS Roma,3500000.0,0,0,1,0,26,20
+Giulio Maggiore,Italy,Midfield,right,184.0,IT1,US Salernitana 1919,3500000.0,10,0,4,2,1977,26
+Tom Bischof,Germany,Midfield,left,176.0,L1,TSG 1899 Hoffenheim,3500000.0,0,0,0,1,171,19
+Metinho,Brazil,Midfield,right,178.0,NL1,Sparta Rotterdam,3500000.0,3,0,2,1,1373,21
+Julien Ponceau,France,Midfield,right,170.0,FR1,FC Lorient,3500000.0,5,0,3,2,2253,24
+Marco Brescianini,Italy,Midfield,left,188.0,IT1,Frosinone Calcio,3500000.0,1,0,4,2,2554,25
+Youri Regeer,Netherlands,Midfield,right,177.0,NL1,Twente Enschede FC,3500000.0,3,1,2,2,2009,21
+Ivan Rakitic,Croatia,Midfield,right,184.0,ES1,Sevilla FC,3500000.0,7,0,2,4,2037,36
+Fredrik Jensen,Finland,Midfield,right,183.0,L1,FC Augsburg,3500000.0,1,0,2,5,1352,27
+Mohamed Kaba,France,Midfield,right,185.0,IT1,US Lecce,3500000.0,4,0,0,0,1383,23
+Elvis Rexhbecaj,Kosovo,Midfield,left,182.0,L1,FC Augsburg,3500000.0,4,0,2,0,2024,27
+Ondrej Lingr,Czech Republic,Midfield,right,175.0,NL1,Feyenoord Rotterdam,3500000.0,1,0,4,1,502,26
+Răzvan Marin,Romania,Midfield,right,178.0,IT1,FC Empoli,3500000.0,3,0,0,3,1876,28
+Luis Milla,Spain,Midfield,right,175.0,ES1,Getafe CF,3500000.0,6,0,1,2,2393,30
+Adam Gnezda Cerin,Slovenia,Midfield,right,180.0,GR1,Panathinaikos FC,3500000.0,2,0,2,3,1972,25
+Reinier,Brazil,Midfield,right,185.0,IT1,Frosinone Calcio,3500000.0,3,0,3,2,1108,23
+Matus Bero,Slovakia,Midfield,right,181.0,L1,VfL Bochum,3500000.0,7,0,1,2,1743,29
+Rémi Oudin,France,Midfield,left,186.0,IT1,US Lecce,3500000.0,3,0,3,2,1891,28
+Paulo Bernardo,Portugal,Midfield,right,180.0,SC1,Celtic FC,3500000.0,2,0,4,3,1413,23
+Woo-yeong Jeong,"Korea, South",Midfield,right,179.0,L1,VfB Stuttgart,3500000.0,1,0,2,3,715,25
+Rémy Cabella,France,Midfield,right,172.0,FR1,LOSC Lille,3500000.0,0,0,2,2,1675,34
+Matisse Samoise,Belgium,Midfield,right,180.0,BE1,KAA Gent,3500000.0,4,0,6,2,2703,23
+Hans Hateboer,Netherlands,Midfield,right,185.0,IT1,Atalanta BC,3500000.0,5,0,0,1,1413,31
+Dário Essugo,Portugal,Midfield,right,178.0,PO1,GD Chaves,3500000.0,4,0,0,0,1274,19
+Lassana Coulibaly,Mali,Midfield,right,183.0,IT1,US Salernitana 1919,3500000.0,5,0,0,1,2176,28
+Magnus Mattsson,Denmark,Midfield,both,174.0,DK1,FC Copenhagen,3500000.0,3,0,16,6,2490,25
+Alexis Claude-Maurice,France,Midfield,right,174.0,FR1,OGC Nice,3500000.0,1,0,0,0,495,26
+Nikita Krivtsov,Russia,Midfield,right,186.0,RU1,FK Krasnodar,3500000.0,5,0,3,0,1899,22
+Samuele Vignato,Italy,Midfield,right,172.0,IT1,AC Monza,3500000.0,2,0,1,0,371,20
+Georgios Kyriakopoulos,Greece,Midfield,left,186.0,IT1,AC Monza,3500000.0,3,0,0,3,1773,28
+Damian Szymanski,Poland,Midfield,right,185.0,GR1,AEK Athens,3500000.0,9,0,1,4,1962,29
+Yunus Emre Konak,Türkiye,Midfield,right,181.0,TR1,Sivasspor,3500000.0,2,0,0,1,1330,19
+Karol Linetty,Poland,Midfield,right,175.0,IT1,Torino FC,3500000.0,12,0,0,0,1926,29
+Fernando Costanza,Brazil,Midfield,both,182.0,RU1,Krylya Sovetov Samara,3500000.0,10,0,3,2,2512,26
+Soualiho Meïté,France,Midfield,right,187.0,GR1,PAOK Thessaloniki,3500000.0,5,0,1,1,1647,30
+Ísak Jóhannesson,Iceland,Midfield,left,184.0,DK1,FC Copenhagen,3500000.0,2,0,3,4,336,21
+Valentino Lazaro,Austria,Midfield,right,181.0,IT1,Torino FC,3500000.0,3,0,0,4,2041,28
+Mohamed Elneny,Egypt,Midfield,right,179.0,GB1,Arsenal FC,3500000.0,0,0,0,0,96,32
+Mats Rits,Belgium,Midfield,right,178.0,BE1,Club Brugge KV,3500000.0,4,0,1,1,2311,31
+Casper Nielsen,Denmark,Midfield,right,182.0,BE1,Club Brugge KV,3500000.0,2,0,2,1,1345,30
+Mirko Topic,Serbia,Midfield,right,190.0,PO1,FC Famalicão,3500000.0,6,0,0,2,2440,23
+Omri Gandelman,Israel,Midfield,left,188.0,BE1,KAA Gent,3500000.0,1,1,6,4,802,24
+Joan Jordán,Spain,Midfield,right,185.0,ES1,Sevilla FC,3500000.0,0,0,0,1,729,30
+Philippe Rommens,Belgium,Midfield,right,175.0,NL1,Go Ahead Eagles,3500000.0,1,0,4,5,1847,27
+Patrik Hrosovsky,Slovakia,Midfield,right,173.0,BE1,KRC Genk,3500000.0,4,0,0,5,2674,32
+Willum Thór Willumsson,Iceland,Midfield,left,194.0,NL1,Go Ahead Eagles,3000000.0,1,1,7,3,2859,26
+Filip Krastev,Bulgaria,Midfield,right,178.0,NL1,PEC Zwolle,3000000.0,2,0,2,1,902,23
+Ngal'ayel Mukau,DR Congo,Midfield,left,188.0,BE1,KV Mechelen,3000000.0,2,0,0,0,1233,20
+Samuel Moutoussamy,DR Congo,Midfield,left,176.0,FR1,FC Nantes,3000000.0,2,0,1,1,1100,28
+Tonny Vilhena,Netherlands,Midfield,left,175.0,GR1,Panathinaikos FC,3000000.0,3,0,1,1,1904,30
+Mahamadou Diawara,France,Midfield,left,187.0,FR1,Olympique Lyon,3000000.0,2,0,0,0,355,19
+Sotiris Alexandropoulos,Greece,Midfield,right,186.0,GR1,Olympiacos Piraeus,3000000.0,7,0,2,0,1157,23
+Alexis Blin,France,Midfield,right,186.0,IT1,US Lecce,3000000.0,4,0,0,2,1648,28
+Unai López,Spain,Midfield,right,170.0,ES1,Rayo Vallecano,3000000.0,9,0,1,3,2301,29
+Stefano Sensi,Italy,Midfield,right,168.0,IT1,Inter Milan,3000000.0,0,0,0,1,80,29
+Morten Thorsby,Norway,Midfield,right,188.0,IT1,Genoa CFC,3000000.0,2,0,2,2,1368,28
+William Carvalho,Portugal,Midfield,right,187.0,ES1,Real Betis Balompié,3000000.0,2,0,1,4,1115,32
+Gustavo Puerta,Colombia,Midfield,right,173.0,L1,Bayer 04 Leverkusen,3000000.0,0,0,0,0,229,21
+Roberto Gagliardini,Italy,Midfield,right,188.0,IT1,AC Monza,3000000.0,5,0,1,2,2455,30
+Kike Pérez,Spain,Midfield,left,184.0,ES1,Rayo Vallecano,3000000.0,6,0,1,0,937,27
+Du Queiroz,Brazil,Midfield,right,171.0,RU1,Zenit St. Petersburg,3000000.0,2,0,1,0,614,25
+Lovro Zvonarek,Croatia,Midfield,right,180.0,L1,Bayern Munich,3000000.0,0,0,1,0,161,19
+Mijat Gacinovic,Serbia,Midfield,right,175.0,GR1,AEK Athens,3000000.0,11,0,4,1,1727,29
+Kirill Shchetinin,Russia,Midfield,right,178.0,RU1,FK Rostov,3000000.0,3,0,4,3,2119,23
+Giacomo Bonaventura,Italy,Midfield,right,180.0,IT1,ACF Fiorentina,3000000.0,8,0,8,3,2772,35
+Umut Güneş,Türkiye,Midfield,left,177.0,TR1,Alanyaspor,3000000.0,0,0,0,0,945,24
+Konstantinos Fortounis,Greece,Midfield,both,183.0,GR1,Olympiacos Piraeus,3000000.0,8,0,9,14,2391,32
+Dominik Kohr,Germany,Midfield,right,183.0,L1,1.FSV Mainz 05,3000000.0,15,0,1,0,2300,30
+Mathias Normann,Norway,Midfield,right,179.0,RU1,Dynamo Moscow,3000000.0,0,0,0,0,45,28
+Daniel Svensson,Sweden,Midfield,left,183.0,DK1,FC Nordsjaelland,3000000.0,4,0,1,6,2663,22
+Jan Schöppner,Germany,Midfield,right,190.0,L1,1.FC Heidenheim 1846,3000000.0,3,0,2,2,2045,25
+Joseph Nonge,Belgium,Midfield,left,184.0,IT1,Juventus FC,3000000.0,1,0,0,0,49,19
+Tom Louchet,France,Midfield,both,178.0,FR1,OGC Nice,3000000.0,1,0,1,2,399,21
+Oscar Fraulo,Denmark,Midfield,right,180.0,NL1,FC Utrecht,3000000.0,4,0,3,4,2212,21
+Zanocelo,Brazil,Midfield,right,185.0,PO1,GD Estoril Praia,3000000.0,3,0,1,0,1121,24
+Ilaix Moriba,Guinea,Midfield,right,185.0,L1,RB Leipzig,3000000.0,4,0,0,2,608,22
+Pep Biel,Spain,Midfield,left,172.0,GR1,Olympiacos Piraeus,3000000.0,4,0,2,4,1145,28
+Javi Muñoz,Spain,Midfield,right,177.0,ES1,UD Las Palmas,3000000.0,6,0,2,3,2646,29
+Nemanja Matic,Serbia,Midfield,left,194.0,FR1,Olympique Lyon,3000000.0,9,0,0,3,2726,36
+Gerard Gumbau,Spain,Midfield,left,188.0,ES1,Granada CF,3000000.0,12,0,0,3,2716,30
+Reda Khadra,Germany,Midfield,right,175.0,FR1,Stade Reims,3000000.0,1,0,1,3,1364,23
+Rifat Zhemaletdinov,Russia,Midfield,right,184.0,RU1,Lokomotiv Moscow,3000000.0,3,0,5,1,803,28
+Carles Aleñá,Spain,Midfield,left,180.0,ES1,Getafe CF,3000000.0,6,0,1,4,1181,27
+Kanya Fujimoto,Japan,Midfield,left,176.0,PO1,Gil Vicente FC,3000000.0,0,0,3,7,2088,25
+Nadir Zortea,Italy,Midfield,right,175.0,IT1,Frosinone Calcio,3000000.0,4,0,2,5,1498,25
+Nampalys Mendy,Senegal,Midfield,right,168.0,FR1,RC Lens,3000000.0,4,0,0,1,1430,32
+Alexis Flips,France,Midfield,right,173.0,TR1,MKE Ankaragücü,3000000.0,3,0,0,1,828,25
+Mërgim Vojvoda,Kosovo,Midfield,right,187.0,IT1,Torino FC,3000000.0,4,0,1,4,1582,29
+Jairo Riedewald,Netherlands,Midfield,left,182.0,GB1,Crystal Palace,3000000.0,0,0,0,0,391,28
+Thom Haye,Indonesia,Midfield,right,187.0,NL1,SC Heerenveen,3000000.0,4,1,4,5,2793,29
+Janik Haberer,Germany,Midfield,right,186.0,L1,1.FC Union Berlin,3000000.0,7,0,2,1,1611,30
+Martim Neto,Portugal,Midfield,right,185.0,PO1,Gil Vicente FC,3000000.0,7,0,0,2,1873,22
+Niklas Schmidt,Germany,Midfield,both,184.0,FR1,FC Toulouse,3000000.0,6,0,1,1,1685,26
+Tygo Land,Netherlands,Midfield,right,178.0,NL1,PSV Eindhoven,3000000.0,0,0,0,1,19,19
+Rodri Sánchez,Spain,Midfield,left,175.0,ES1,Real Betis Balompié,3000000.0,0,0,3,2,1271,24
+Abdoulaye Touré,Guinea,Midfield,right,188.0,FR1,Le Havre AC,3000000.0,4,0,2,0,2288,30
+Gino Infantino,Argentina,Midfield,left,178.0,IT1,ACF Fiorentina,3000000.0,2,0,0,0,185,21
+Gaius Makouta,Congo,Midfield,right,180.0,PO1,Boavista FC,3000000.0,9,0,2,2,2424,27
+Tiago Silva,Portugal,Midfield,right,172.0,PO1,Vitória Guimarães SC,3000000.0,8,0,5,5,2495,31
+Gonzalo Villar,Spain,Midfield,right,181.0,ES1,Granada CF,3000000.0,8,0,1,4,1843,26
+Laurent Abergel,France,Midfield,right,170.0,FR1,FC Lorient,3000000.0,4,0,2,1,2862,31
+Pablo Torre,Spain,Midfield,right,173.0,ES1,Girona FC,3000000.0,1,0,1,2,802,21
+Andrew Moran,Ireland,Midfield,right,177.0,GB1,Brighton & Hove Albion,3000000.0,1,0,2,3,470,21
+Gonçalo Franco,Portugal,Midfield,right,176.0,PO1,Moreirense FC,3000000.0,7,0,2,4,2825,24
+Emirhan İlkhan,Türkiye,Midfield,right,175.0,TR1,Basaksehir FK,3000000.0,4,0,1,2,1039,20
+Nicolás Castro,Argentina,Midfield,right,182.0,BE1,KRC Genk,3000000.0,0,0,0,0,62,24
+Scott Twine,England,Midfield,right,174.0,GB1,Burnley FC,3000000.0,0,0,0,0,59,25
+Alan,Brazil,Midfield,right,165.0,PO1,Moreirense FC,3000000.0,5,0,3,5,2564,24
+Mateusz Legowski,Poland,Midfield,right,181.0,IT1,US Salernitana 1919,3000000.0,3,0,0,1,1417,22
+Dennis Geiger,Germany,Midfield,right,173.0,L1,TSG 1899 Hoffenheim,3000000.0,1,0,0,0,62,26
+Lukas Lerager,Denmark,Midfield,right,188.0,DK1,FC Copenhagen,3000000.0,7,0,7,3,2173,31
+Hans Nicolussi Caviglia,Italy,Midfield,right,184.0,IT1,Juventus FC,3000000.0,1,0,0,1,356,24
+Tiago Dantas,Portugal,Midfield,right,170.0,NL1,AZ Alkmaar,3000000.0,0,0,1,1,811,24
+Tim Breithaupt,Germany,Midfield,right,192.0,L1,FC Augsburg,3000000.0,3,0,0,0,716,22
+Koba Koindredi,France,Midfield,left,184.0,PO1,Sporting CP,3000000.0,1,0,0,0,969,23
+Alexandru Cicâldău,Romania,Midfield,right,178.0,TR1,Konyaspor,3000000.0,0,0,1,2,2025,27
+Aljoscha Kemlein,Germany,Midfield,right,185.0,L1,1.FC Union Berlin,3000000.0,0,0,0,0,108,20
+Idrissa Gueye,Senegal,Midfield,right,174.0,GB1,Everton FC,3000000.0,8,0,4,0,2057,35
+Linton Maina,Germany,Midfield,right,180.0,L1,1.FC Köln,3000000.0,4,0,1,3,1976,25
+Lucas Vera,Argentina,Midfield,right,164.0,RU1,FK Orenburg,3000000.0,3,0,1,5,1979,27
+Luca de la Torre,United States,Midfield,right,177.0,ES1,Celta de Vigo,3000000.0,4,0,3,6,2179,26
+Jhon Solís,Colombia,Midfield,right,186.0,ES1,Girona FC,3000000.0,0,0,0,1,690,20
+Maksim Mukhin,Russia,Midfield,right,183.0,RU1,CSKA Moscow,2800000.0,2,0,2,1,1095,23
+Toma Bašić,Croatia,Midfield,left,190.0,IT1,US Salernitana 1919,2800000.0,5,0,0,0,1175,28
+Olivier Ntcham,Cameroon,Midfield,right,180.0,TR1,Samsunspor,2800000.0,5,0,6,0,1867,28
+Mathias Rasmussen,Norway,Midfield,left,180.0,BE1,Union Saint-Gilloise,2800000.0,3,0,2,3,1797,27
+Haris Hajradinovic,Bosnia-Herzegovina,Midfield,left,178.0,TR1,Kasimpasa,2700000.0,3,0,5,16,3310,30
+Arno Verschueren,Belgium,Midfield,right,185.0,NL1,Sparta Rotterdam,2700000.0,4,1,9,3,2460,27
+Abdou Harroui,Morocco,Midfield,both,182.0,IT1,Frosinone Calcio,2700000.0,3,0,4,3,1185,27
+Oliver Sørensen,Denmark,Midfield,left,184.0,DK1,FC Midtjylland,2700000.0,4,0,5,4,2426,22
+Kartal Yılmaz,Türkiye,Midfield,right,178.0,TR1,Kayserispor,2700000.0,8,0,0,2,2409,24
+Jonjo Shelvey,England,Midfield,right,184.0,TR1,Caykur Rizespor,2600000.0,6,0,3,6,2652,32
+Pathé Ciss,Senegal,Midfield,right,186.0,ES1,Rayo Vallecano,2500000.0,10,0,1,1,1676,30
+Jordy Clasie,Netherlands,Midfield,right,169.0,NL1,AZ Alkmaar,2500000.0,6,0,2,3,2983,33
+Silvano Vos,Netherlands,Midfield,right,189.0,NL1,Ajax Amsterdam,2500000.0,5,0,0,0,480,19
+Joe Rothwell,England,Midfield,right,185.0,GB1,AFC Bournemouth,2500000.0,0,0,1,1,725,30
+Amar Rahmanovic,Bosnia-Herzegovina,Midfield,left,191.0,RU1,Krylya Sovetov Samara,2500000.0,6,0,7,4,1949,30
+Noah Mbamba,Belgium,Midfield,right,187.0,L1,Bayer 04 Leverkusen,2500000.0,0,0,0,2,104,20
+Andre Brooks,England,Midfield,left,180.0,GB1,Sheffield United,2500000.0,1,0,0,0,1090,21
+Florian Kainz,Austria,Midfield,both,176.0,L1,1.FC Köln,2500000.0,4,1,5,5,2363,32
+Anis Slimane,Tunisia,Midfield,both,188.0,GB1,Sheffield United,2500000.0,2,0,0,0,412,23
+Oussama El Azzouzi,Morocco,Midfield,right,189.0,IT1,Bologna FC 1909,2500000.0,4,0,2,2,617,23
+Sergi Roberto,Spain,Midfield,right,178.0,ES1,FC Barcelona,2500000.0,9,0,3,3,1313,32
+Ignacio Miramón,Argentina,Midfield,right,173.0,FR1,LOSC Lille,2500000.0,0,0,0,0,40,21
+Shandon Baptiste,Grenada,Midfield,right,180.0,GB1,Brentford FC,2500000.0,1,0,1,1,299,26
+Anouar Ait El Hadj,Belgium,Midfield,right,167.0,BE1,KRC Genk,2500000.0,2,0,2,0,389,22
+Leonardo Bittencourt,Germany,Midfield,right,171.0,L1,SV Werder Bremen,2500000.0,9,0,1,2,1655,31
+Arthur Piedfort,Belgium,Midfield,right,180.0,BE1,KVC Westerlo,2500000.0,5,0,0,1,1475,19
+Jens Jönsson,Denmark,Midfield,right,182.0,GR1,AEK Athens,2500000.0,4,0,2,0,1900,32
+Pablo Ibáñez,Spain,Midfield,right,179.0,ES1,CA Osasuna,2500000.0,4,0,1,2,1260,26
+Matías Vecino,Uruguay,Midfield,right,187.0,IT1,SS Lazio,2500000.0,12,0,7,1,1908,33
+Marc Casadó,Spain,Midfield,right,172.0,ES1,FC Barcelona,2500000.0,0,0,0,0,35,21
+Sérgio Oliveira,Portugal,Midfield,right,181.0,TR1,Galatasaray,2500000.0,6,0,2,2,952,32
+Antonio Sánchez,Spain,Midfield,right,179.0,ES1,RCD Mallorca,2500000.0,4,0,3,3,1883,27
+Kristoffer Olsson,Sweden,Midfield,right,180.0,DK1,FC Midtjylland,2500000.0,5,0,0,5,1814,29
+Hugo Sotelo,Spain,Midfield,right,180.0,ES1,Celta de Vigo,2500000.0,1,0,0,1,988,21
+Dani Parejo,Spain,Midfield,right,182.0,ES1,Villarreal CF,2500000.0,6,0,4,5,3241,35
+Simone Verdi,Italy,Midfield,both,174.0,IT1,Torino FC,2500000.0,0,0,0,0,28,32
+Oussama Targhalline,Morocco,Midfield,right,186.0,FR1,Le Havre AC,2500000.0,5,0,0,0,1032,22
+Taras Stepanenko,Ukraine,Midfield,left,181.0,UKR1,Shakhtar Donetsk,2500000.0,6,0,0,1,2162,35
+Thomas Delaney,Denmark,Midfield,left,182.0,BE1,RSC Anderlecht,2500000.0,3,0,1,1,915,33
+Pierre Dwomoh,Belgium,Midfield,right,188.0,BE1,RWD Molenbeek,2500000.0,6,0,1,1,2290,20
+Abdelkahar Kadri,Algeria,Midfield,right,170.0,BE1,KV Kortrijk,2500000.0,4,0,4,3,2287,24
+Edouard Michut,France,Midfield,right,177.0,TR1,Adana Demirspor,2500000.0,6,0,0,2,1732,21
+Riccardo Pagano,Italy,Midfield,right,175.0,IT1,AS Roma,2500000.0,0,0,0,0,117,20
+Rassoul Ndiaye,Senegal,Midfield,right,179.0,FR1,Le Havre AC,2500000.0,4,1,0,0,524,23
+Sergi Altimira,Spain,Midfield,right,188.0,ES1,Real Betis Balompié,2500000.0,1,0,1,0,796,23
+Óscar Rodríguez,Spain,Midfield,right,174.0,ES1,Getafe CF,2500000.0,10,0,5,2,1206,26
+Nicolas Madsen,Denmark,Midfield,right,192.0,BE1,KVC Westerlo,2500000.0,4,0,12,0,2114,24
+Jae-sung Lee,"Korea, South",Midfield,left,180.0,L1,1.FSV Mainz 05,2500000.0,6,0,6,4,2267,32
+Guga,Portugal,Midfield,right,168.0,PO1,Rio Ave FC,2500000.0,8,0,2,2,3112,27
+Ryotaro Ito,Japan,Midfield,right,175.0,BE1,Sint-Truidense VV,2500000.0,0,0,4,1,1796,26
+Artem Timofeev,Russia,Midfield,right,185.0,RU1,Akhmat Grozny,2500000.0,9,0,2,2,2240,31
+Willian Arão,Brazil,Midfield,right,181.0,GR1,Panathinaikos FC,2500000.0,7,0,3,2,2475,32
+Mikhail Ignatov,Russia,Midfield,right,187.0,RU1,Spartak Moscow,2500000.0,5,0,4,7,1678,24
+Uroš Račić,Serbia,Midfield,both,193.0,IT1,US Sassuolo,2500000.0,2,0,1,1,903,26
+Habib Maïga,Cote d'Ivoire,Midfield,right,181.0,FR1,FC Metz,2500000.0,0,0,0,0,142,29
+Olivier Kemen,Cameroon,Midfield,right,179.0,TR1,Kayserispor,2500000.0,3,0,4,3,1738,28
+Marvin Mehlem,Germany,Midfield,right,174.0,L1,SV Darmstadt 98,2500000.0,3,0,3,2,1584,27
+Njegos Petrovic,Serbia,Midfield,right,185.0,ES1,Granada CF,2500000.0,0,0,0,0,238,25
+Kevin Sessa,Germany,Midfield,right,175.0,L1,1.FC Heidenheim 1846,2500000.0,1,0,3,0,1121,24
+Szymon Żurkowski,Poland,Midfield,right,185.0,IT1,FC Empoli,2500000.0,4,0,4,0,928,27
+Miguel Cardoso,Portugal,Midfield,right,176.0,TR1,Kayserispor,2500000.0,4,0,1,7,2523,30
+Nail Umyarov,Russia,Midfield,right,182.0,RU1,Spartak Moscow,2500000.0,8,0,1,0,1603,24
+Fabian Nürnberger,Germany,Midfield,left,181.0,L1,SV Darmstadt 98,2500000.0,2,0,1,2,1607,25
+Kady Borges,Brazil,Midfield,left,173.0,RU1,FK Krasnodar,2500000.0,7,0,4,3,1513,28
+Manu García,Spain,Midfield,right,169.0,GR1,Aris Thessaloniki,2500000.0,1,0,0,2,591,27
+Martin Hongla,Cameroon,Midfield,right,182.0,IT1,Hellas Verona,2500000.0,0,0,0,0,1806,26
+Manu Morlanes,Spain,Midfield,right,178.0,ES1,RCD Mallorca,2500000.0,2,0,0,3,1919,26
+Ilzat Akhmetov,Russia,Midfield,right,173.0,RU1,FK Krasnodar,2500000.0,4,0,3,2,1250,27
+Finn Ole Becker,Germany,Midfield,left,177.0,L1,TSG 1899 Hoffenheim,2500000.0,2,0,0,0,611,24
+Miha Zajc,Slovenia,Midfield,right,178.0,TR1,Fenerbahce,2400000.0,1,0,0,0,661,30
+Dal Varesanovic,Bosnia-Herzegovina,Midfield,right,177.0,TR1,Caykur Rizespor,2400000.0,6,0,10,2,2261,23
+Rúben Vinagre,Portugal,Midfield,left,174.0,IT1,Hellas Verona,2400000.0,0,0,0,0,321,25
+Carel Eiting,Netherlands,Midfield,left,179.0,NL1,Twente Enschede FC,2300000.0,2,0,0,3,854,26
+Gabriel Florentín,Argentina,Midfield,right,173.0,RU1,FK Orenburg,2300000.0,10,0,2,2,2134,25
+Efkan Bekiroğlu,Türkiye,Midfield,right,185.0,TR1,MKE Ankaragücü,2200000.0,2,1,9,6,2141,29
+Iddrisu Baba,Ghana,Midfield,right,182.0,ES1,UD Almería,2200000.0,5,0,0,0,1514,29
+Rob Schoofs,Belgium,Midfield,left,178.0,BE1,KV Mechelen,2200000.0,2,0,6,6,2521,30
+Kerim Mrabti,Sweden,Midfield,right,175.0,BE1,KV Mechelen,2200000.0,4,0,7,4,2639,30
+Otabek Shukurov,Uzbekistan,Midfield,right,183.0,TR1,Fatih Karagümrük,2200000.0,6,0,0,1,1043,28
+Jakub Kaluzinski,Poland,Midfield,both,184.0,TR1,Antalyaspor,2100000.0,3,0,0,2,2327,22
+Dorukhan Toköz,Türkiye,Midfield,right,180.0,TR1,Adana Demirspor,2100000.0,2,0,0,1,707,28
+William Balikwisha,DR Congo,Midfield,right,173.0,BE1,Standard Liège,2000000.0,3,0,1,1,1086,25
+Fernando,Brazil,Midfield,right,183.0,ES1,Sevilla FC,2000000.0,0,1,0,0,854,37
+Konstantin Kuchaev,Russia,Midfield,right,178.0,RU1,CSKA Moscow,2000000.0,0,0,0,1,1082,26
+Carlos Dotor,Spain,Midfield,right,180.0,ES1,Celta de Vigo,2000000.0,2,0,0,0,883,23
+Victor Jensen,Denmark,Midfield,both,175.0,NL1,FC Utrecht,2000000.0,2,0,7,3,1562,24
+Óscar Melendo,Spain,Midfield,left,167.0,ES1,Granada CF,2000000.0,2,0,0,0,1128,27
+Jamiro Monteiro,Cape Verde,Midfield,right,175.0,TR1,Gaziantep FK,2000000.0,3,0,1,2,740,31
+Aguibou Camara,Guinea,Midfield,right,170.0,GR1,Atromitos Athens,2000000.0,7,0,1,0,1373,23
+Danley Jean Jacques,Haiti,Midfield,right,182.0,FR1,FC Metz,2000000.0,4,0,0,0,2688,24
+Yohann Magnin,France,Midfield,right,183.0,FR1,Clermont Foot 63,2000000.0,2,0,1,0,1679,27
+Gökhan Gül,Türkiye,Midfield,right,183.0,TR1,Kasimpasa,2000000.0,3,0,2,0,2929,26
+Kjell Wätjen,Germany,Midfield,right,183.0,L1,Borussia Dortmund,2000000.0,0,0,0,1,104,18
+Kevin Zeroli,Italy,Midfield,right,187.0,IT1,AC Milan,2000000.0,0,0,0,0,35,20
+Oriol Romeu,Spain,Midfield,right,183.0,ES1,FC Barcelona,2000000.0,4,0,0,1,1435,33
+Ianis Hagi,Romania,Midfield,both,182.0,SC1,Rangers FC,2000000.0,3,0,2,2,999,26
+Aleksandr Kovalenko,Russia,Midfield,right,177.0,RU1,Zenit St. Petersburg,2000000.0,1,0,0,1,380,21
+Fredrik Midtsjø,Norway,Midfield,right,176.0,TR1,Pendikspor,2000000.0,4,0,2,2,1987,31
+Abu Francis,Ghana,Midfield,right,182.0,BE1,Cercle Brugge,2000000.0,2,0,0,0,409,23
+Ezechiel Banzuzi,Netherlands,Midfield,right,191.0,BE1,Oud-Heverlee Leuven,2000000.0,6,0,2,0,1747,19
+Mateo Tanlongo,Argentina,Midfield,right,177.0,PO1,Rio Ave FC,2000000.0,5,0,0,1,659,21
+Sergio Ruiz,Spain,Midfield,right,176.0,ES1,Granada CF,2000000.0,8,0,0,5,2519,30
+Håkon Evjen,Norway,Midfield,left,178.0,DK1,Bröndby IF,2000000.0,1,0,1,2,387,24
+Magnus Knudsen,Norway,Midfield,right,186.0,DK1,Aarhus GF,2000000.0,4,0,1,0,1679,23
+Armin Gigovic,Bosnia-Herzegovina,Midfield,right,187.0,DK1,FC Midtjylland,2000000.0,6,0,1,3,1668,22
+Rominigue Kouamé,Mali,Midfield,left,177.0,ES1,Cádiz CF,2000000.0,2,0,0,0,895,28
+Magomed Ozdoev,Russia,Midfield,right,184.0,GR1,PAOK Thessaloniki,2000000.0,2,0,5,1,1987,32
+Odin Thiago Holm,Norway,Midfield,right,175.0,SC1,Celtic FC,2000000.0,0,1,1,1,346,22
+Kristian Arnstad,Norway,Midfield,right,175.0,BE1,RSC Anderlecht,2000000.0,2,0,0,1,641,21
+Isaac Price,Northern Ireland,Midfield,right,178.0,BE1,Standard Liège,2000000.0,2,0,1,2,1654,21
+Marco Richter,Germany,Midfield,right,176.0,L1,1.FSV Mainz 05,2000000.0,3,0,3,0,813,27
+Edan Diop,France,Midfield,right,173.0,FR1,AS Monaco,2000000.0,3,0,0,0,155,20
+Óscar Romero,Paraguay,Midfield,left,176.0,TR1,Pendikspor,2000000.0,1,0,3,0,685,32
+João Mendes,Portugal,Midfield,right,183.0,PO1,Vitória Guimarães SC,2000000.0,4,1,7,4,2014,30
+Luuk Brouwers,Netherlands,Midfield,right,183.0,NL1,SC Heerenveen,2000000.0,4,0,6,2,2222,26
+Diadié Samassékou,Mali,Midfield,right,177.0,ES1,Cádiz CF,2000000.0,0,0,0,0,89,29
+Ander Herrera,Spain,Midfield,right,182.0,ES1,Athletic Bilbao,2000000.0,5,0,0,3,1234,35
+Oier Zarraga,Spain,Midfield,right,175.0,IT1,Udinese Calcio,2000000.0,0,0,2,1,606,26
+Sergiy Sydorchuk,Ukraine,Midfield,right,189.0,BE1,KVC Westerlo,2000000.0,7,0,2,2,2549,33
+Nicolas Höfler,Germany,Midfield,right,181.0,L1,SC Freiburg,2000000.0,11,1,1,2,3348,34
+Bart Ramselaar,Netherlands,Midfield,right,178.0,NL1,FC Utrecht,2000000.0,0,0,1,1,428,28
+Mees Hoedemakers,Netherlands,Midfield,both,181.0,NL1,NEC Nijmegen,2000000.0,2,1,2,7,2258,26
+Dani Silva,Portugal,Midfield,right,180.0,PO1,Vitória Guimarães SC,2000000.0,3,0,1,2,1440,24
+Tom Cairney,Scotland,Midfield,left,185.0,GB1,Fulham FC,2000000.0,4,0,2,4,1911,34
+Valentín Vada,Argentina,Midfield,right,175.0,RU1,Rubin Kazan,2000000.0,3,0,4,4,1570,28
+Roberto Pereyra,Argentina,Midfield,both,182.0,IT1,Udinese Calcio,2000000.0,6,0,4,4,1862,34
+Majeed Ashimeru,Ghana,Midfield,right,174.0,BE1,RSC Anderlecht,2000000.0,0,0,0,0,115,27
+Mert Kömür,Germany,Midfield,both,183.0,L1,FC Augsburg,2000000.0,0,0,1,0,116,19
+Flavien Tait,France,Midfield,right,176.0,TR1,Samsunspor,2000000.0,3,0,0,3,1688,31
+Saman Ghoddos,Iran,Midfield,right,175.0,GB1,Brentford FC,2000000.0,5,0,1,0,757,31
+Théo Le Bris,France,Midfield,right,170.0,FR1,FC Lorient,2000000.0,2,0,0,2,1512,22
+Siebe Schrijvers,Belgium,Midfield,right,179.0,BE1,Oud-Heverlee Leuven,2000000.0,9,0,3,2,2474,28
+Jeff Reine-Adélaïde,France,Midfield,right,184.0,FR1,Olympique Lyon,2000000.0,2,1,1,2,1377,27
+Dimitrios Pelkas,Greece,Midfield,right,175.0,TR1,Basaksehir FK,2000000.0,6,0,6,5,1246,31
+Seba Pérez,Colombia,Midfield,right,175.0,PO1,Boavista FC,2000000.0,15,0,0,1,2292,31
+Fisayo Dele-Bashiru,Nigeria,Midfield,right,186.0,TR1,Hatayspor,2000000.0,6,0,8,5,3043,23
+Naby Keïta,Guinea,Midfield,right,172.0,L1,SV Werder Bremen,2000000.0,2,0,0,0,107,29
+Tiemoué Bakayoko,France,Midfield,right,189.0,FR1,FC Lorient,2000000.0,5,0,2,1,1317,30
+Lawrence Ofori,Ghana,Midfield,right,169.0,PO1,Moreirense FC,2000000.0,9,0,1,1,2558,26
+Kristijan Bistrovic,Croatia,Midfield,right,183.0,RU1,Baltika Kaliningrad,2000000.0,3,0,3,1,2376,26
+Gvidas Gineitis,Lithuania,Midfield,left,191.0,IT1,Torino FC,2000000.0,2,0,0,1,652,20
+Alessandro Deiola,Italy,Midfield,right,190.0,IT1,Cagliari Calcio,1900000.0,8,0,1,0,1775,29
+Gonzalo Melero,Spain,Midfield,right,183.0,ES1,UD Almería,1800000.0,3,0,1,1,1178,31
+Birger Verstraete,Belgium,Midfield,right,174.0,GR1,Aris Thessaloniki,1800000.0,6,0,0,0,1414,30
+Vladyslav Kabaev,Ukraine,Midfield,right,177.0,UKR1,Dynamo Kyiv,1800000.0,3,0,5,2,1767,29
+Stefán Teitur Thórdarson,Iceland,Midfield,right,189.0,DK1,Silkeborg IF,1800000.0,3,0,7,2,1646,26
+Arnau Puigmal,Spain,Midfield,right,173.0,ES1,UD Almería,1800000.0,3,0,0,0,396,24
+Grigoris Kastanos,Cyprus,Midfield,left,179.0,IT1,US Salernitana 1919,1800000.0,6,0,3,3,1575,27
+Petros Mantalos,Greece,Midfield,right,177.0,GR1,AEK Athens,1800000.0,8,1,1,9,1486,33
+Dario Saric,Bosnia-Herzegovina,Midfield,both,180.0,TR1,Antalyaspor,1800000.0,2,0,3,0,2623,27
+Ebenezer Akinsanmiro,Nigeria,Midfield,right,184.0,IT1,Inter Milan,1800000.0,0,0,0,0,14,20
+Isaac Hayden,England,Midfield,right,187.0,BE1,Standard Liège,1800000.0,3,0,0,0,674,29
+Emil Bohinen,Norway,Midfield,left,189.0,IT1,US Salernitana 1919,1800000.0,1,0,0,0,679,25
+Volodymyr Shepelev,Ukraine,Midfield,right,184.0,UKR1,Dynamo Kyiv,1800000.0,5,0,2,0,987,27
+Parfait Guiagon,Cote d'Ivoire,Midfield,right,169.0,BE1,R Charleroi SC,1800000.0,0,0,6,2,1587,23
+Talles Costa,Brazil,Midfield,right,176.0,UKR1,Polissya Zhytomyr,1800000.0,2,0,0,2,767,22
+Dani García,Spain,Midfield,right,179.0,ES1,Athletic Bilbao,1800000.0,4,0,1,0,782,34
+Philipp Förster,Germany,Midfield,left,188.0,L1,VfL Bochum,1800000.0,1,0,0,0,379,29
+Thomas Murg,Austria,Midfield,left,173.0,GR1,PAOK Thessaloniki,1800000.0,6,0,8,3,1687,30
+Thomas van den Belt,Netherlands,Midfield,right,181.0,NL1,Feyenoord Rotterdam,1800000.0,0,0,0,0,313,23
+Kenzo Goudmijn,Netherlands,Midfield,right,176.0,NL1,Excelsior Rotterdam,1800000.0,3,0,0,2,2122,23
+Eden Karzev,Israel,Midfield,right,186.0,TR1,Basaksehir FK,1800000.0,1,0,0,0,487,24
+Alberto Grassi,Italy,Midfield,right,183.0,IT1,FC Empoli,1800000.0,6,1,0,1,1905,29
+Peer Koopmeiners,Netherlands,Midfield,right,186.0,NL1,Almere City FC,1800000.0,7,1,0,10,3013,24
+Luka Gagnidze,Georgia,Midfield,right,175.0,RU1,Dynamo Moscow,1800000.0,2,0,0,0,576,21
+Bartol Franjic,Croatia,Midfield,left,188.0,L1,SV Darmstadt 98,1800000.0,5,0,0,1,1231,25
+Florent Mollet,France,Midfield,right,175.0,FR1,FC Nantes,1800000.0,4,0,4,5,2091,33
+Ibrahim Olawoyin,Nigeria,Midfield,right,178.0,TR1,Caykur Rizespor,1800000.0,6,0,8,3,3017,27
+Valentyn Rubchynskyi,Ukraine,Midfield,right,165.0,UKR1,SK Dnipro-1,1800000.0,7,0,1,5,2909,22
+Mathieu Maertens,Belgium,Midfield,right,185.0,BE1,Oud-Heverlee Leuven,1800000.0,5,0,1,0,685,29
+Agustín Martegani,Argentina,Midfield,left,185.0,IT1,US Salernitana 1919,1800000.0,1,0,1,0,734,24
+Danila Kozlov,Russia,Midfield,right,183.0,RU1,Baltika Kaliningrad,1800000.0,1,0,3,5,1023,20
+Soner Dikmen,Türkiye,Midfield,right,179.0,TR1,Konyaspor,1700000.0,7,0,1,0,3219,31
+Christoph Kramer,Germany,Midfield,right,191.0,L1,Borussia Mönchengladbach,1700000.0,3,0,0,0,345,33
+Yassin Oukili,Morocco,Midfield,right,195.0,NL1,RKC Waalwijk,1700000.0,7,0,5,1,2884,24
+Hamza Rafia,Tunisia,Midfield,right,181.0,IT1,US Lecce,1700000.0,4,0,1,0,1285,25
+Taylan Antalyalı,Türkiye,Midfield,right,180.0,TR1,Samsunspor,1600000.0,3,0,2,1,1778,30
+Ramzi Safuri,Israel,Midfield,right,183.0,TR1,Antalyaspor,1600000.0,6,0,0,10,1955,29
+Ali Kaan Güneren,Türkiye,Midfield,right,183.0,TR1,MKE Ankaragücü,1600000.0,1,0,1,1,1916,24
+José Campaña,Spain,Midfield,right,179.0,ES1,UD Las Palmas,1500000.0,0,0,0,0,166,31
+Fede San Emeterio,Spain,Midfield,right,176.0,ES1,Cádiz CF,1500000.0,1,1,2,0,200,27
+Mohamed El Arouch,France,Midfield,right,166.0,FR1,Olympique Lyon,1500000.0,0,0,0,0,1,20
+Domingos Quina,Portugal,Midfield,right,173.0,PO1,FC Vizela,1500000.0,4,0,0,3,799,25
+Selim Amallah,Morocco,Midfield,right,185.0,ES1,Valencia CF,1500000.0,5,0,0,1,742,28
+Mory Gbane,Cote d'Ivoire,Midfield,right,188.0,PO1,Gil Vicente FC,1500000.0,7,0,1,0,1912,24
+Lasso Coulibaly,Cote d'Ivoire,Midfield,right,186.0,DK1,Randers FC,1500000.0,2,0,3,3,1583,22
+Julian Justvan,Germany,Midfield,left,177.0,L1,SV Darmstadt 98,1500000.0,1,0,3,2,1099,26
+Amadou Diawara,Guinea,Midfield,right,183.0,BE1,RSC Anderlecht,1500000.0,1,0,0,0,594,27
+Adrian Beck,Germany,Midfield,right,186.0,L1,1.FC Heidenheim 1846,1500000.0,1,0,3,1,1068,27
+Pedro Santos,Portugal,Midfield,right,183.0,PO1,FC Arouca,1500000.0,8,0,1,0,1480,24
+Romário Baró,Portugal,Midfield,right,179.0,PO1,FC Porto,1500000.0,1,0,0,0,371,25
+Bartuğ Elmaz,Türkiye,Midfield,right,179.0,TR1,Sivasspor,1500000.0,3,0,0,1,751,21
+Beni Baningime,DR Congo,Midfield,right,178.0,SC1,Heart of Midlothian FC,1500000.0,3,0,0,1,2176,26
+Aiden O'Neill,Australia,Midfield,right,178.0,BE1,Standard Liège,1500000.0,4,0,1,0,1500,26
+Kings Kangwa,Zambia,Midfield,right,170.0,BE1,KV Kortrijk,1500000.0,0,0,0,0,167,25
+Younès Belhanda,Morocco,Midfield,right,175.0,TR1,Adana Demirspor,1500000.0,8,0,3,4,1592,34
+Filipe Soares,Portugal,Midfield,right,180.0,GR1,PAOK Thessaloniki,1500000.0,2,0,0,1,267,25
+Isak Hansen-Aarøen,Norway,Midfield,right,173.0,L1,SV Werder Bremen,1500000.0,1,0,0,0,25,20
+Jailson,Brazil,Midfield,right,187.0,ES1,Celta de Vigo,1500000.0,2,0,1,1,1050,29
+Pablo Galdames,Chile,Midfield,right,176.0,IT1,Genoa CFC,1500000.0,1,0,0,0,196,28
+Davy van den Berg,Netherlands,Midfield,left,185.0,NL1,PEC Zwolle,1500000.0,7,0,5,2,2649,24
+Manu,Portugal,Midfield,right,190.0,PO1,Vitória Guimarães SC,1500000.0,5,0,2,0,1864,23
+Samu,Portugal,Midfield,left,170.0,PO1,FC Vizela,1500000.0,7,0,5,2,2953,28
+Álex Fernández,Spain,Midfield,right,183.0,ES1,Cádiz CF,1500000.0,3,0,0,1,1367,32
+Daan Heymans,Belgium,Midfield,right,189.0,BE1,R Charleroi SC,1500000.0,7,0,1,2,1667,25
+Pelly Ruddock Mpanzu,DR Congo,Midfield,right,175.0,GB1,Luton Town,1500000.0,1,0,0,0,1415,30
+Ege Tıknaz,Türkiye,Midfield,right,193.0,TR1,Besiktas JK,1500000.0,4,0,0,1,767,20
+Tochi Chukwuani,Denmark,Midfield,right,187.0,DK1,Lyngby BK,1500000.0,4,0,3,2,2063,21
+Mahamadou Susoho,Spain,Midfield,right,175.0,GB1,Manchester City,1500000.0,0,0,0,0,14,20
+Ethan Mbappé,France,Midfield,left,176.0,FR1,Paris Saint-Germain,1500000.0,0,0,0,0,46,18
+Rodolfo Pizarro,Mexico,Midfield,right,179.0,GR1,AEK Athens,1500000.0,3,0,0,1,725,30
+Emiliano Marcondes,Denmark,Midfield,right,182.0,SC1,Hibernian FC,1500000.0,3,0,2,0,1046,29
+Étienne Capoue,France,Midfield,right,189.0,ES1,Villarreal CF,1500000.0,9,0,2,2,1973,36
+Hakim Sahabo,Rwanda,Midfield,right,184.0,BE1,Standard Liège,1500000.0,0,0,0,0,472,19
+Paul Akouokou,Cote d'Ivoire,Midfield,right,181.0,FR1,Olympique Lyon,1500000.0,1,0,0,0,334,27
+Denis Suárez,Spain,Midfield,right,176.0,ES1,Villarreal CF,1500000.0,0,0,0,0,160,31
+Darko Lazović,Serbia,Midfield,right,181.0,IT1,Hellas Verona,1500000.0,0,1,3,2,2025,34
+Ugochukwu Iwu,Armenia,Midfield,right,177.0,RU1,Rubin Kazan,1500000.0,4,0,1,0,2366,25
+Marco Kana,Belgium,Midfield,right,182.0,BE1,KV Kortrijk,1500000.0,5,0,0,0,1326,22
+Rubén Alcaraz,Spain,Midfield,right,180.0,ES1,Cádiz CF,1500000.0,15,0,3,1,3188,33
+Randy Nteka,Angola,Midfield,left,189.0,ES1,Rayo Vallecano,1500000.0,5,0,2,1,831,27
+Yegor Nazaryna,Ukraine,Midfield,right,183.0,UKR1,Shakhtar Donetsk,1500000.0,2,0,3,1,1092,27
+Filip Djuricic,Serbia,Midfield,right,181.0,GR1,Panathinaikos FC,1500000.0,7,0,4,4,1525,33
+Carlos Benavidez,Uruguay,Midfield,right,185.0,ES1,Deportivo Alavés,1500000.0,6,0,4,1,1392,26
+Denis Genreau,Australia,Midfield,right,175.0,FR1,FC Toulouse,1500000.0,0,0,0,0,524,25
+Evgeniy Kharin,Russia,Midfield,left,185.0,RU1,Akhmat Grozny,1500000.0,6,0,0,2,1151,29
+César Gelabert,Spain,Midfield,right,182.0,FR1,FC Toulouse,1500000.0,1,0,1,3,1018,24
+Joe Hodge,Ireland,Midfield,right,172.0,GB1,Wolverhampton Wanderers,1500000.0,0,0,0,0,125,22
+Youssef Maziz,France,Midfield,right,175.0,FR1,FC Metz,1500000.0,4,0,5,6,1716,26
+Mathias Olesen,Luxembourg,Midfield,both,188.0,L1,1.FC Köln,1500000.0,2,0,0,1,227,23
+Marco Ilaimaharitra,Madagascar,Midfield,right,178.0,BE1,R Charleroi SC,1500000.0,8,1,4,1,2138,29
+Oleksandr Andriyevskyi,Ukraine,Midfield,left,179.0,UKR1,Dynamo Kyiv,1500000.0,4,0,1,4,1436,30
+Maxime Dominguez,Switzerland,Midfield,left,173.0,PO1,Gil Vicente FC,1500000.0,8,0,6,4,2351,28
+Gustavo Assunção,Brazil,Midfield,right,178.0,PO1,FC Famalicão,1500000.0,5,0,0,0,618,24
+Kévin N'Doram,France,Midfield,right,184.0,FR1,FC Metz,1500000.0,4,0,0,2,1604,29
+João Rêgo,Portugal,Midfield,right,182.0,PO1,SL Benfica,1500000.0,0,0,0,0,5,19
+Pieter Gerkens,Belgium,Midfield,right,179.0,BE1,KAA Gent,1500000.0,1,0,4,2,1117,29
+László Kleinheisler,Hungary,Midfield,right,173.0,GR1,Panathinaikos FC,1500000.0,0,0,0,0,77,30
+Jacob Christensen,Denmark,Midfield,right,180.0,L1,1.FC Köln,1500000.0,1,0,0,0,270,23
+Manu Trigueros,Spain,Midfield,right,178.0,ES1,Villarreal CF,1500000.0,0,0,3,0,854,33
+Anton Shvets,Russia,Midfield,both,190.0,RU1,Akhmat Grozny,1500000.0,7,0,1,2,1058,31
+Kirill Kravtsov,Russia,Midfield,right,187.0,RU1,FC Sochi,1500000.0,8,0,4,0,2330,22
+Étienne Camara,France,Midfield,left,191.0,BE1,R Charleroi SC,1500000.0,2,0,0,0,428,21
+Tom Lacoux,France,Midfield,right,182.0,PO1,FC Famalicão,1500000.0,1,0,0,0,364,23
+Simone Bastoni,Italy,Midfield,left,181.0,IT1,FC Empoli,1500000.0,3,0,1,0,777,28
+Kieran Dowell,England,Midfield,left,183.0,SC1,Rangers FC,1500000.0,0,0,2,0,476,27
+Josip Radosevic,Croatia,Midfield,right,180.0,DK1,Bröndby IF,1500000.0,4,0,2,1,1275,30
+Pierre Kunde,Cameroon,Midfield,right,180.0,GR1,Atromitos Athens,1500000.0,2,1,0,3,1788,29
+Ole Pohlmann,Germany,Midfield,right,183.0,L1,Borussia Dortmund,1500000.0,0,0,0,0,52,23
+Gonzalo Escalante,Argentina,Midfield,right,182.0,ES1,Cádiz CF,1500000.0,2,1,1,2,1811,31
+Mihajlo Banjac,Serbia,Midfield,left,186.0,RU1,FK Krasnodar,1500000.0,3,0,0,2,740,25
+Nikolay Kalinskiy,Russia,Midfield,right,180.0,RU1,FC Pari Nizhniy Novgorod,1500000.0,6,0,7,5,2504,31
+Viktor Kovalenko,Ukraine,Midfield,right,182.0,IT1,FC Empoli,1500000.0,1,0,2,1,606,28
+Younes Taha,Morocco,Midfield,left,176.0,NL1,Twente Enschede FC,1500000.0,2,0,3,1,485,22
+Francis Coquelin,France,Midfield,right,177.0,ES1,Villarreal CF,1500000.0,6,0,0,0,1146,33
+Dimitrios Kourbelis,Greece,Midfield,right,181.0,TR1,Fatih Karagümrük,1400000.0,6,0,0,0,1175,31
+Darko Brasanac,Serbia,Midfield,right,178.0,ES1,CA Osasuna,1400000.0,0,0,0,0,123,32
+Liam Henderson,Scotland,Midfield,right,183.0,IT1,FC Empoli,1400000.0,0,0,0,0,72,28
+Mamadou Coulibaly,Senegal,Midfield,right,183.0,IT1,US Salernitana 1919,1300000.0,0,0,0,0,162,25
+Alen Halilovic,Croatia,Midfield,left,169.0,NL1,Fortuna Sittard,1300000.0,1,0,5,2,2316,28
+Eyüp Aydın,Germany,Midfield,both,181.0,TR1,Galatasaray,1300000.0,0,0,0,1,40,20
+Mert Hakan Yandaş,Türkiye,Midfield,right,174.0,TR1,Fenerbahce,1300000.0,6,0,2,4,783,30
+Julian Baas,Netherlands,Midfield,right,184.0,NL1,Excelsior Rotterdam,1300000.0,8,0,3,2,3218,22
+Emre Akbaba,Türkiye,Midfield,left,180.0,TR1,Adana Demirspor,1300000.0,6,0,8,2,3188,32
+Massanga Matondo,Congo,Midfield,right,172.0,TR1,Hatayspor,1300000.0,4,0,3,0,2289,25
+Sander van de Streek,Netherlands,Midfield,right,180.0,TR1,Antalyaspor,1300000.0,3,1,2,2,1856,31
+Endri Cekici,Albania,Midfield,both,178.0,TR1,Pendikspor,1300000.0,4,0,1,2,822,28
+Daniel Jr,Brazil,Midfield,left,174.0,RU1,Akhmat Grozny,1200000.0,2,0,0,2,278,22
+Konstantinos Galanopoulos,Greece,Midfield,right,172.0,GR1,AEK Athens,1200000.0,4,0,1,1,609,27
+Mario Dorgeles,Cote d'Ivoire,Midfield,left,177.0,DK1,FC Nordsjaelland,1200000.0,0,0,1,0,724,20
+Andrew Hjulsager,Denmark,Midfield,right,175.0,BE1,KAA Gent,1200000.0,2,0,1,0,925,30
+Filippo Melegoni,Italy,Midfield,right,186.0,IT1,Genoa CFC,1200000.0,0,0,0,0,68,25
+Evert Linthorst,Netherlands,Midfield,right,187.0,NL1,Go Ahead Eagles,1200000.0,0,0,1,1,2527,24
+Bogdan Lednev,Ukraine,Midfield,left,173.0,UKR1,SK Dnipro-1,1200000.0,3,0,4,0,2053,26
+Javi Martínez,Spain,Midfield,right,181.0,ES1,CA Osasuna,1200000.0,0,0,0,0,57,25
+Kirill Kaplenko,Belarus,Midfield,right,190.0,RU1,Baltika Kaliningrad,1200000.0,3,0,2,2,1784,25
+Ignacio Saavedra,Chile,Midfield,right,174.0,RU1,FC Sochi,1200000.0,4,0,1,0,1016,26
+Jon Ander Olasagasti,Spain,Midfield,left,176.0,ES1,Real Sociedad,1200000.0,3,0,0,1,540,24
+Luca Garritano,Italy,Midfield,right,172.0,IT1,Frosinone Calcio,1200000.0,1,0,0,1,679,30
+Miguel,Brazil,Midfield,right,174.0,RU1,FC Sochi,1200000.0,1,0,2,5,1126,21
+Urko González de Zarate,Spain,Midfield,right,189.0,ES1,Real Sociedad,1200000.0,1,0,0,0,364,23
+Arnaud Lusamba,DR Congo,Midfield,right,180.0,TR1,Pendikspor,1200000.0,7,0,0,3,2026,28
+Zidan Sertdemir,Denmark,Midfield,left,186.0,DK1,FC Nordsjaelland,1200000.0,0,0,0,1,258,19
+Doğucan Haspolat,Türkiye,Midfield,right,177.0,TR1,Trabzonspor,1200000.0,3,0,0,0,554,24
+Moritz-Broni Kwarteng,Germany,Midfield,both,175.0,L1,VfL Bochum,1200000.0,1,1,0,1,267,26
+Maestro,Angola,Midfield,right,173.0,TR1,Adana Demirspor,1200000.0,3,0,0,1,1124,21
+Éder Balanta,Colombia,Midfield,left,180.0,BE1,Club Brugge KV,1200000.0,3,0,0,0,490,31
+Jakub Jankto,Czech Republic,Midfield,left,184.0,IT1,Cagliari Calcio,1200000.0,0,0,1,2,987,29
+Jessy Deminguet,France,Midfield,left,178.0,FR1,RC Strasbourg Alsace,1200000.0,1,0,0,0,689,27
+João Carvalho,Portugal,Midfield,right,172.0,GR1,Olympiacos Piraeus,1200000.0,1,0,0,2,757,27
+Alex Matos,England,Midfield,right,175.0,GB1,Chelsea FC,1200000.0,1,0,0,0,65,20
+Lukas Daschner,Germany,Midfield,both,185.0,L1,VfL Bochum,1200000.0,2,0,1,1,570,26
+Niklas Pyyhtiä,Finland,Midfield,left,188.0,IT1,Bologna FC 1909,1200000.0,0,0,0,0,61,21
+Anders Klynge,Denmark,Midfield,right,175.0,DK1,Silkeborg IF,1200000.0,4,0,3,5,2504,24
+Aytaç Kara,Türkiye,Midfield,right,188.0,TR1,Kasimpasa,1200000.0,4,0,14,4,3250,31
+Lamine Diack,Senegal,Midfield,right,186.0,FR1,FC Nantes,1200000.0,0,0,0,0,1,24
+Carlinhos,Brazil,Midfield,right,179.0,PO1,Portimonense SC,1200000.0,12,0,11,6,3032,30
+Andrej Djokanovic,Bosnia-Herzegovina,Midfield,right,180.0,TR1,MKE Ankaragücü,1200000.0,1,0,0,0,612,23
+Joe Bell,New Zealand,Midfield,right,182.0,DK1,Bröndby IF,1200000.0,0,0,0,0,9,25
+Bryan Acosta,Honduras,Midfield,right,175.0,TR1,Gaziantep FK,1200000.0,0,0,0,0,41,31
+Moussa Sissoko,France,Midfield,right,187.0,FR1,FC Nantes,1200000.0,7,0,0,0,1824,35
+Theocharis Tsingaras,Greece,Midfield,right,175.0,GR1,PAOK Thessaloniki,1200000.0,2,0,1,1,1082,24
+Tomoki Iwata,Japan,Midfield,right,178.0,SC1,Celtic FC,1200000.0,1,0,1,2,1038,27
+Sanjin Prcic,Bosnia-Herzegovina,Midfield,right,181.0,FR1,RC Strasbourg Alsace,1200000.0,0,0,0,0,88,31
+Samuel Bastien,DR Congo,Midfield,right,175.0,TR1,Kasimpasa,1100000.0,0,0,0,0,216,28
+Filip Jagiello,Poland,Midfield,both,180.0,IT1,Genoa CFC,1100000.0,0,0,0,0,94,27
+Mijo Caktas,Croatia,Midfield,right,179.0,TR1,Sivasspor,1100000.0,1,0,2,0,679,32
+Yan Dhanda,England,Midfield,right,173.0,SC1,Ross County FC,1000000.0,6,0,3,5,2214,26
+José Machín,Equatorial Guinea,Midfield,right,184.0,IT1,AC Monza,1000000.0,2,0,0,0,234,28
+Facundo Cáseres,Argentina,Midfield,right,178.0,PO1,SC Farense,1000000.0,6,0,0,0,1209,23
+Francesco Gelli,Italy,Midfield,right,173.0,IT1,Frosinone Calcio,1000000.0,3,0,0,1,1703,28
+Arthur Atta,France,Midfield,right,189.0,FR1,FC Metz,1000000.0,0,0,1,2,917,22
+Luke Harris,Wales,Midfield,right,177.0,GB1,Fulham FC,1000000.0,0,0,0,0,87,19
+Bonke Innocent,Nigeria,Midfield,right,178.0,FR1,FC Lorient,1000000.0,1,0,0,0,211,29
+Justin Lonwijk,Suriname,Midfield,right,189.0,BE1,RSC Anderlecht,1000000.0,3,0,3,3,1149,25
+Stije Resink,Netherlands,Midfield,right,186.0,NL1,Almere City FC,1000000.0,9,0,1,2,2756,21
+Emran Soglo,England,Midfield,left,178.0,FR1,Olympique Marseille,1000000.0,1,0,1,1,200,19
+Omari Kellyman,England,Midfield,left,191.0,GB1,Aston Villa,1000000.0,0,0,0,1,137,19
+Valentin Atangana,France,Midfield,right,173.0,FR1,Stade Reims,1000000.0,0,0,0,0,553,19
+Marco Palestra,Italy,Midfield,right,186.0,IT1,Atalanta BC,1000000.0,0,0,0,0,6,19
+Denil Castillo,Ecuador,Midfield,right,189.0,UKR1,Shakhtar Donetsk,1000000.0,2,0,0,0,41,20
+Yellu Santiago,Spain,Midfield,right,192.0,ES1,Getafe CF,1000000.0,4,0,1,0,657,20
+Mehdi Abeid,Algeria,Midfield,right,178.0,TR1,Basaksehir FK,1000000.0,3,0,3,3,804,32
+Kian Fitz-Jim,Netherlands,Midfield,right,174.0,NL1,Excelsior Rotterdam,1000000.0,1,0,0,1,644,21
+Michel Adopo,France,Midfield,right,187.0,IT1,Atalanta BC,1000000.0,0,0,0,1,192,24
+Claudio Falcão,Brazil,Midfield,right,187.0,PO1,SC Farense,1000000.0,12,0,4,1,2851,30
+Dan Glazer,Israel,Midfield,right,178.0,GR1,OFI Crete FC,1000000.0,4,0,0,0,1308,28
+Deroy Duarte,Cape Verde,Midfield,right,177.0,NL1,Fortuna Sittard,1000000.0,4,0,2,0,2592,25
+Jean-Daniel Akpa Akpro,Cote d'Ivoire,Midfield,right,180.0,IT1,AC Monza,1000000.0,5,0,0,0,700,32
+Maksim Vityugov,Russia,Midfield,right,179.0,RU1,Krylya Sovetov Samara,1000000.0,4,0,0,1,1726,26
+Kevin Lenini,Cape Verde,Midfield,left,181.0,RU1,FK Krasnodar,1000000.0,2,0,1,1,761,28
+Peru Nolaskoain,Spain,Midfield,right,186.0,ES1,Athletic Bilbao,1000000.0,0,0,0,0,192,26
+Pablo Roberto,Brazil,Midfield,right,183.0,PO1,Casa Pia AC,1000000.0,7,1,3,6,1734,25
+Charilaos Charisis,Greece,Midfield,right,177.0,TR1,Sivasspor,1000000.0,9,0,1,4,2515,30
+Rami Al Hajj,Sweden,Midfield,right,180.0,DK1,Odense Boldklub,1000000.0,4,0,3,7,2004,23
+Andreas Bouchalakis,Greece,Midfield,left,186.0,GR1,Olympiacos Piraeus,1000000.0,0,0,0,0,60,31
+Connor Barron,Scotland,Midfield,right,175.0,SC1,Aberdeen FC,1000000.0,1,0,1,2,1912,22
+Medon Berisha,Albania,Midfield,right,186.0,IT1,US Lecce,1000000.0,1,0,0,0,294,21
+Vyacheslav Tankovskyi,Ukraine,Midfield,right,168.0,UKR1,Polissya Zhytomyr,1000000.0,10,0,2,2,2227,29
+José Pozo,Spain,Midfield,left,171.0,ES1,Rayo Vallecano,1000000.0,0,0,0,2,131,28
+André Römer,Denmark,Midfield,right,186.0,DK1,FC Midtjylland,1000000.0,3,0,1,3,1132,31
+Ben Osborn,England,Midfield,left,176.0,GB1,Sheffield United,1000000.0,3,0,0,2,1431,30
+Azizbek Turgunboev,Uzbekistan,Midfield,left,173.0,TR1,Sivasspor,1000000.0,0,0,1,0,812,30
+Ismaila Coulibaly,Mali,Midfield,right,183.0,GB1,Sheffield United,1000000.0,1,0,0,0,90,24
+Charles,Brazil,Midfield,right,187.0,DK1,FC Midtjylland,1000000.0,5,0,5,3,1417,28
+Nikita Kakkoev,Russia,Midfield,right,184.0,RU1,FC Pari Nizhniy Novgorod,1000000.0,8,0,1,1,2412,25
+Jordan Clark,England,Midfield,right,183.0,GB1,Luton Town,1000000.0,6,0,3,2,1472,31
+Mattheus,Brazil,Midfield,left,182.0,PO1,SC Farense,1000000.0,6,1,7,3,2457,30
+Khoren Bayramyan,Armenia,Midfield,right,169.0,RU1,FK Rostov,1000000.0,7,0,0,4,2085,33
+Valentin Eysseric,France,Midfield,right,181.0,TR1,Fatih Karagümrük,1000000.0,9,0,6,7,2423,32
+Deian Sorescu,Romania,Midfield,right,175.0,TR1,Gaziantep FK,1000000.0,1,0,4,3,1543,27
+Jonas Martin,France,Midfield,right,184.0,FR1,Stade Brestois 29,1000000.0,5,0,0,1,1192,34
+Mark Brink,Denmark,Midfield,right,177.0,DK1,Silkeborg IF,1000000.0,6,0,0,1,2514,26
+Lorenzo Amatucci,Italy,Midfield,right,172.0,IT1,ACF Fiorentina,1000000.0,0,0,0,0,20,20
+Mithat Pala,Türkiye,Midfield,right,172.0,TR1,Caykur Rizespor,1000000.0,7,1,0,2,1614,24
+Bobby Clark,England,Midfield,right,178.0,GB1,Liverpool FC,1000000.0,1,0,1,2,351,19
+Alexandru Maxim,Romania,Midfield,right,177.0,TR1,Gaziantep FK,1000000.0,8,0,3,9,2678,34
+Habib Keïta,Mali,Midfield,left,182.0,FR1,Clermont Foot 63,1000000.0,4,0,1,0,1274,22
+Camilo,Brazil,Midfield,right,176.0,RU1,Akhmat Grozny,1000000.0,5,0,1,1,1937,25
+Aziz Ouattara,Cote d'Ivoire,Midfield,right,188.0,BE1,KRC Genk,1000000.0,0,0,0,0,440,24
+Zidane Iqbal,Iraq,Midfield,right,181.0,NL1,FC Utrecht,1000000.0,0,0,0,0,571,21
+Mads Enggaard,Denmark,Midfield,right,180.0,DK1,Randers FC,1000000.0,5,0,0,1,1945,21
+Denys Kuzyk,Ukraine,Midfield,both,179.0,UKR1,Kryvbas Kryvyi Rig,1000000.0,1,0,5,4,1778,22
+Eboue Kouassi,Cote d'Ivoire,Midfield,right,185.0,PO1,FC Arouca,1000000.0,6,1,1,0,1647,27
+Otso Liimatta,Finland,Midfield,left,169.0,PO1,FC Famalicão,1000000.0,0,0,0,0,460,20
+Nuno Santos,Portugal,Midfield,right,179.0,PO1,Vitória Guimarães SC,1000000.0,10,1,7,17,3739,25
+Aymen Barkok,Morocco,Midfield,right,189.0,L1,1.FSV Mainz 05,1000000.0,3,0,1,1,460,26
+Calem Nieuwenhof,Australia,Midfield,right,182.0,SC1,Heart of Midlothian FC,1000000.0,4,0,2,2,1949,23
+Sergey Babkin,Russia,Midfield,right,176.0,RU1,Krylya Sovetov Samara,1000000.0,1,0,2,1,1251,22
+Ivan Basic,Bosnia-Herzegovina,Midfield,left,178.0,RU1,FK Orenburg,1000000.0,2,0,1,2,2286,22
+Aleksey Mironov,Russia,Midfield,right,175.0,RU1,FK Rostov,1000000.0,3,0,1,1,1009,25
+Jon Magunazelaia,Spain,Midfield,right,180.0,ES1,Real Sociedad,1000000.0,2,0,0,0,214,23
+Merveille Papela,Germany,Midfield,right,174.0,L1,1.FSV Mainz 05,1000000.0,1,0,0,0,254,24
+Cammy Devlin,Australia,Midfield,right,169.0,SC1,Heart of Midlothian FC,1000000.0,11,0,3,0,1482,26
+Omar Mascarell,Equatorial Guinea,Midfield,right,181.0,ES1,RCD Mallorca,1000000.0,9,0,0,0,1853,31
+Jonathan Viera,Spain,Midfield,right,171.0,ES1,UD Almería,1000000.0,4,0,2,4,1542,35
+Gastón Pereiro,Uruguay,Midfield,left,188.0,IT1,Cagliari Calcio,1000000.0,1,0,0,0,70,29
+Léo Leroy,France,Midfield,right,187.0,FR1,Montpellier HSC,1000000.0,3,0,0,1,485,24
+Danijel Miskic,Croatia,Midfield,right,182.0,RU1,Ural Yekaterinburg,1000000.0,5,0,3,1,2271,31
+Mehdi Bourabia,Morocco,Midfield,right,183.0,TR1,Kayserispor,1000000.0,7,0,3,1,1500,33
+Vyacheslav Yakimov,Russia,Midfield,right,178.0,RU1,Fakel Voronezh,1000000.0,5,0,4,2,1941,27
+Dani Rodríguez,Spain,Midfield,right,178.0,ES1,RCD Mallorca,1000000.0,11,0,4,5,3096,36
+Juan Cuadrado,Colombia,Midfield,right,176.0,IT1,Inter Milan,1000000.0,2,0,0,2,371,36
+Matt Ritchie,Scotland,Midfield,left,173.0,GB1,Newcastle United,1000000.0,1,0,1,0,235,35
+Óscar Trejo,Argentina,Midfield,right,180.0,ES1,Rayo Vallecano,1000000.0,4,1,0,0,1440,36
+Ryan Jack,Scotland,Midfield,right,182.0,SC1,Rangers FC,1000000.0,0,0,1,0,900,32
+Fabian Schnellhardt,Germany,Midfield,left,180.0,L1,SV Darmstadt 98,1000000.0,1,0,0,0,273,31
+Andrés Guardado,Mexico,Midfield,left,167.0,ES1,Real Betis Balompié,1000000.0,3,0,0,0,866,38
+Victor Moses,Nigeria,Midfield,right,177.0,RU1,Spartak Moscow,1000000.0,1,0,1,1,733,34
+Sebastian Rode,Germany,Midfield,right,179.0,L1,Eintracht Frankfurt,1000000.0,0,0,0,0,56,34
+Antonio Candreva,Italy,Midfield,right,180.0,IT1,US Salernitana 1919,1000000.0,5,0,7,6,2847,37
+Adam Lallana,England,Midfield,both,172.0,GB1,Brighton & Hove Albion,1000000.0,3,0,0,1,952,36
+Cheikhou Kouyaté,Senegal,Midfield,right,189.0,GB1,Nottingham Forest,1000000.0,3,0,0,0,344,35
+Daniel Wass,Denmark,Midfield,right,178.0,DK1,Bröndby IF,1000000.0,6,0,2,6,1910,35
+Oliver Norwood,Northern Ireland,Midfield,right,175.0,GB1,Sheffield United,1000000.0,9,0,1,1,1703,33
+James Milner,England,Midfield,right,175.0,GB1,Brighton & Hove Albion,1000000.0,3,0,0,2,955,39
+Richard,Brazil,Midfield,right,191.0,TR1,Alanyaspor,950000.0,11,0,1,2,2913,30
+Kerem Atakan Kesgin,Türkiye,Midfield,right,176.0,TR1,Sivasspor,950000.0,1,0,0,0,209,24
+Stefan Schwab,Austria,Midfield,left,183.0,GR1,PAOK Thessaloniki,900000.0,5,0,5,4,1860,34
+Joel Chima Fujita,Japan,Midfield,right,175.0,BE1,Sint-Truidense VV,900000.0,2,0,1,1,890,22
+Iron Gomis,France,Midfield,right,182.0,TR1,Kasimpasa,900000.0,4,0,1,4,1243,25
+Emre Uzun,Türkiye,Midfield,left,179.0,TR1,Antalyaspor,900000.0,2,0,0,1,230,19
+Karamoko Dembélé,England,Midfield,left,167.0,FR1,Stade Brestois 29,900000.0,1,0,1,1,231,21
+Leo Castledine,England,Midfield,right,175.0,GB1,Chelsea FC,900000.0,0,0,0,0,5,19
+Mads Søndergaard,Denmark,Midfield,right,178.0,DK1,Viborg FF,900000.0,3,0,3,1,1108,22
+Rubén Pardo,Spain,Midfield,right,182.0,GR1,Aris Thessaloniki,900000.0,1,0,1,0,560,32
+Konstantin Maradishvili,Russia,Midfield,right,179.0,RU1,Lokomotiv Moscow,900000.0,2,0,1,0,739,24
+Dmitriy Rybchinskiy,Russia,Midfield,right,179.0,RU1,Baltika Kaliningrad,900000.0,2,0,1,2,1320,26
+Takahiro Akimoto,Japan,Midfield,left,170.0,BE1,Oud-Heverlee Leuven,900000.0,1,0,0,0,521,26
+Pelle Clement,Netherlands,Midfield,right,177.0,NL1,Sparta Rotterdam,900000.0,4,0,2,6,1989,28
+Artur Galoyan,Armenia,Midfield,right,176.0,RU1,Baltika Kaliningrad,900000.0,0,0,1,1,1162,25
+Vladimír Darida,Czech Republic,Midfield,right,172.0,GR1,Aris Thessaloniki,900000.0,8,0,5,3,2758,34
+Keanu Baccus,Australia,Midfield,right,178.0,SC1,St. Mirren FC,900000.0,9,0,1,1,1692,26
+Josh Campbell,Scotland,Midfield,right,182.0,SC1,Hibernian FC,900000.0,3,0,5,0,1044,24
+Alexis Trouillet,France,Midfield,right,175.0,GR1,Volos NPS,900000.0,2,0,1,0,1238,24
+Andreas Pyndt,Denmark,Midfield,right,175.0,DK1,Silkeborg IF,900000.0,0,0,0,0,272,23
+Ryan Thomas,New Zealand,Midfield,right,174.0,NL1,PEC Zwolle,900000.0,1,0,0,0,340,30
+João Novais,Portugal,Midfield,right,183.0,TR1,Alanyaspor,900000.0,7,0,5,2,2056,31
+Melle Meulensteen,Netherlands,Midfield,right,188.0,NL1,Vitesse Arnhem,900000.0,5,0,1,0,2180,25
+Chem Campbell,Wales,Midfield,right,180.0,GB1,Wolverhampton Wanderers,900000.0,0,0,0,0,81,22
+Saeid Ezatolahi,Iran,Midfield,right,190.0,DK1,Vejle Boldklub,900000.0,6,0,1,1,644,28
+Brian De Keersmaecker,Belgium,Midfield,right,182.0,NL1,Heracles Almelo,900000.0,7,0,2,2,3045,24
+John Fleck,Scotland,Midfield,left,169.0,GB1,Sheffield United,900000.0,1,0,0,0,89,33
+Jordan Holsgrove,Scotland,Midfield,left,180.0,PO1,GD Estoril Praia,900000.0,6,1,2,3,1208,25
+Casper Winther,Denmark,Midfield,right,177.0,DK1,Lyngby BK,900000.0,4,1,1,1,1271,21
+Jamie McGrath,Ireland,Midfield,right,175.0,SC1,Aberdeen FC,900000.0,8,0,9,2,2685,28
+Flavio Paoletti,Italy,Midfield,right,182.0,TR1,Fatih Karagümrük,900000.0,2,0,1,1,694,22
+Richard Ledezma,United States,Midfield,right,174.0,NL1,PSV Eindhoven,900000.0,0,0,0,0,5,24
+Ruslan Bezrukov,Russia,Midfield,both,179.0,RU1,Rubin Kazan,900000.0,2,0,2,1,1716,22
+Andrey Egorychev,Russia,Midfield,right,183.0,RU1,Ural Yekaterinburg,900000.0,3,1,6,4,2577,31
+Steven Nzonzi,France,Midfield,right,196.0,TR1,Konyaspor,900000.0,2,0,4,0,2321,36
+Boris Lambert,Belgium,Midfield,right,187.0,BE1,KAS Eupen,900000.0,4,0,0,0,1429,24
+Loreintz Rosier,France,Midfield,right,190.0,NL1,Fortuna Sittard,900000.0,5,0,1,0,1969,26
+Erdal Rakip,North Macedonia,Midfield,right,179.0,TR1,Antalyaspor,850000.0,5,1,0,1,1307,28
+Rasmus Falk,Denmark,Midfield,right,177.0,DK1,FC Copenhagen,850000.0,9,0,4,6,3170,33
+Jean Manuel Mbom,Germany,Midfield,right,185.0,DK1,Viborg FF,850000.0,4,0,0,0,1074,24
+Emmanuel Boateng,Ghana,Midfield,right,175.0,TR1,Konyaspor,850000.0,10,0,7,4,1928,27
+Thomas Van den Keybus,Belgium,Midfield,right,180.0,BE1,KVC Westerlo,850000.0,3,0,1,2,1270,23
+Joe Newell,England,Midfield,right,180.0,SC1,Hibernian FC,850000.0,11,0,4,7,3426,31
+Blair Spittal,Scotland,Midfield,right,183.0,SC1,Motherwell FC,850000.0,5,0,9,9,3059,29
+Danijel Aleksic,Serbia,Midfield,left,182.0,TR1,Basaksehir FK,850000.0,1,0,1,1,1164,33
+Görkem Sağlam,Türkiye,Midfield,right,178.0,TR1,Hatayspor,850000.0,4,0,2,4,1520,26
+Enis Cokaj,Albania,Midfield,right,182.0,GR1,Panathinaikos FC,850000.0,1,0,0,0,81,25
+Mohammad Ghorbani,Iran,Midfield,right,190.0,RU1,FK Orenburg,800000.0,4,0,3,0,773,23
+Neven Djurasek,Croatia,Midfield,right,173.0,GR1,Aris Thessaloniki,800000.0,1,0,2,0,1102,26
+Shuto Abe,Japan,Midfield,right,171.0,BE1,RWD Molenbeek,800000.0,4,0,1,1,1474,27
+Aleksandar Jukic,Austria,Midfield,right,184.0,RU1,FC Sochi,800000.0,0,1,1,1,1207,24
+Andreas Müller,Germany,Midfield,right,173.0,L1,SV Darmstadt 98,800000.0,3,0,0,0,341,24
+Oğulcan Ülgün,Türkiye,Midfield,right,178.0,TR1,Konyaspor,800000.0,9,0,1,1,1761,26
+Kees Smit,Netherlands,Midfield,right,182.0,NL1,AZ Alkmaar,800000.0,0,0,0,0,16,19
+Ufuk Akyol,Türkiye,Midfield,right,180.0,TR1,Antalyaspor,800000.0,1,0,0,0,668,27
+Eder González,Spain,Midfield,right,170.0,GR1,Atromitos Athens,800000.0,4,0,2,4,2137,28
+João Teixeira,Portugal,Midfield,right,178.0,PO1,Rio Ave FC,800000.0,2,0,1,3,726,30
+Nils De Wilde,Belgium,Midfield,right,182.0,BE1,Cercle Brugge,800000.0,2,0,0,1,717,22
+Edson Fernando,Brazil,Midfield,right,178.0,UKR1,Rukh Lviv,800000.0,4,0,0,0,861,26
+Jean N'Guessan,Cote d'Ivoire,Midfield,right,177.0,FR1,FC Metz,800000.0,0,0,0,0,108,21
+Aleksandr Kutitskiy,Russia,Midfield,right,184.0,RU1,Dynamo Moscow,800000.0,0,0,0,0,462,23
+Ilya Ishkov,Russia,Midfield,left,175.0,RU1,Ural Yekaterinburg,800000.0,3,0,1,4,1575,19
+Jacob Wright,England,Midfield,right,178.0,GB1,Manchester City,800000.0,0,0,0,0,17,19
+Olivier Thill,Luxembourg,Midfield,right,176.0,UKR1,LNZ Cherkasy,800000.0,1,0,1,1,511,28
+Kevin Krygård,Norway,Midfield,right,184.0,PO1,Casa Pia AC,800000.0,0,0,0,0,56,24
+Djihad Bizimana,Rwanda,Midfield,right,180.0,UKR1,Kryvbas Kryvyi Rig,800000.0,7,0,2,1,2237,28
+Vladislav Kamilov,Russia,Midfield,both,183.0,RU1,Akhmat Grozny,800000.0,6,0,1,3,1678,29
+Janio Bikel,Guinea-Bissau,Midfield,right,174.0,TR1,Gaziantep FK,800000.0,3,0,0,0,485,29
+Bilal Bafdili,Belgium,Midfield,right,177.0,BE1,KV Mechelen,800000.0,2,0,2,0,163,20
+Bruno Costa,Portugal,Midfield,right,174.0,PO1,FC Vizela,800000.0,2,0,0,0,619,27
+Milos Pantovic,Serbia,Midfield,right,186.0,BE1,KAS Eupen,800000.0,2,0,3,2,1308,28
+Cisse Sandra,Belgium,Midfield,left,184.0,NL1,Excelsior Rotterdam,800000.0,2,0,1,1,1702,21
+Artem Kozak,Ukraine,Midfield,left,180.0,UKR1,Polissya Zhytomyr,800000.0,2,0,4,5,2065,26
+Maksym Kucheryavyi,Ukraine,Midfield,left,176.0,SC1,St. Johnstone FC,800000.0,6,0,2,0,1611,22
+Marko Sapuga,Ukraine,Midfield,right,194.0,UKR1,Rukh Lviv,800000.0,5,0,0,1,1530,21
+Roberto Massimo,Germany,Midfield,right,183.0,L1,VfB Stuttgart,800000.0,1,0,0,0,83,24
+Mikel Jauregizar,Spain,Midfield,right,177.0,ES1,Athletic Bilbao,800000.0,0,0,0,0,190,21
+Christos Papadopoulos,Greece,Midfield,left,188.0,IT1,Genoa CFC,800000.0,0,0,0,0,3,20
+Pizzi,Portugal,Midfield,right,177.0,PO1,SC Braga,800000.0,1,0,4,3,1550,35
+Nicolas Viola,Italy,Midfield,left,180.0,IT1,Cagliari Calcio,800000.0,3,0,6,3,1281,35
+Mads Emil Madsen,Denmark,Midfield,left,189.0,DK1,Aarhus GF,800000.0,4,0,0,0,1074,27
+Mathijs Tielemans,Netherlands,Midfield,right,178.0,NL1,Vitesse Arnhem,800000.0,3,0,1,1,1828,22
+Diego Demme,Germany,Midfield,right,170.0,IT1,SSC Napoli,800000.0,1,0,0,0,127,33
+Dylan Levitt,Wales,Midfield,right,180.0,SC1,Hibernian FC,800000.0,7,0,2,2,1668,24
+Jack Cork,England,Midfield,right,185.0,GB1,Burnley FC,800000.0,0,0,0,0,122,35
+Victorien Angban,Cote d'Ivoire,Midfield,right,180.0,RU1,FC Sochi,800000.0,2,0,0,0,411,28
+Mory Konaté,Guinea,Midfield,right,191.0,BE1,KV Mechelen,800000.0,5,0,0,0,1225,31
+Kevin Strootman,Netherlands,Midfield,left,186.0,IT1,Genoa CFC,800000.0,4,0,0,2,1342,34
+Oleksandr Yatsyk,Ukraine,Midfield,right,182.0,UKR1,Zorya Lugansk,800000.0,4,0,3,1,1831,22
+Artem Chelyadin,Ukraine,Midfield,left,184.0,UKR1,Vorskla Poltava,800000.0,12,0,2,1,2289,25
+João Moutinho,Portugal,Midfield,right,170.0,PO1,SC Braga,800000.0,10,0,3,1,2919,38
+Léo Cordeiro,Brazil,Midfield,right,174.0,PO1,CF Estrela Amadora SAD,800000.0,5,0,3,0,2640,29
+Furkan Soyalp,Türkiye,Midfield,right,175.0,TR1,Gaziantep FK,800000.0,8,0,1,3,1591,29
+Mathias Greve,Denmark,Midfield,right,186.0,DK1,Bröndby IF,800000.0,3,0,1,2,1124,29
+Miguel Reisinho,Portugal,Midfield,left,184.0,PO1,Boavista FC,800000.0,8,0,3,4,2198,25
+Ibrahim Kane,Mali,Midfield,left,175.0,UKR1,Vorskla Poltava,800000.0,5,0,5,4,2923,24
+Ali Karimi,Iran,Midfield,right,185.0,TR1,Kayserispor,800000.0,4,0,3,1,2043,30
+Lilian Egloff,Germany,Midfield,right,182.0,L1,VfB Stuttgart,800000.0,1,0,0,0,117,22
+Milan Badelj,Croatia,Midfield,right,186.0,IT1,Genoa CFC,800000.0,6,0,1,3,2708,35
+Anas Tahiri,Morocco,Midfield,right,179.0,NL1,SC Heerenveen,750000.0,2,0,4,2,1220,29
+Lazaros Lamprou,Greece,Midfield,right,183.0,NL1,Excelsior Rotterdam,750000.0,4,0,7,5,1845,27
+Marcus Rohdén,Sweden,Midfield,right,182.0,TR1,Fatih Karagümrük,750000.0,3,0,4,4,2428,33
+Kento Misao,Japan,Midfield,right,181.0,BE1,Oud-Heverlee Leuven,750000.0,3,0,1,1,652,28
+Marco van Ginkel,Netherlands,Midfield,right,186.0,NL1,Vitesse Arnhem,750000.0,2,1,7,2,2078,32
+Odysseus Velanas,Netherlands,Midfield,right,180.0,NL1,PEC Zwolle,750000.0,5,0,5,5,2234,26
+Gylfi Sigurdsson,Iceland,Midfield,right,186.0,DK1,Lyngby BK,750000.0,3,0,2,0,343,35
+Hannes Van Der Bruggen,Belgium,Midfield,right,181.0,BE1,Cercle Brugge,750000.0,10,0,0,1,1875,31
+Denis Thomalla,Germany,Midfield,right,186.0,L1,1.FC Heidenheim 1846,750000.0,0,0,0,0,554,32
+Hyeok-kyu Kwon,"Korea, South",Midfield,right,192.0,SC1,St. Mirren FC,750000.0,0,0,0,0,642,23
+Gift Links,South Africa,Midfield,left,170.0,DK1,Aarhus GF,750000.0,3,0,2,5,1671,26
+Tomás Muro,Argentina,Midfield,right,180.0,RU1,FK Orenburg,750000.0,1,0,0,1,86,22
+Kader Keita,Cote d'Ivoire,Midfield,right,178.0,TR1,Sivasspor,750000.0,0,0,0,0,67,24
+John Björkengren,Sweden,Midfield,left,180.0,DK1,Randers FC,750000.0,4,0,1,2,1704,26
+Niko Rak,Croatia,Midfield,right,173.0,TR1,Konyaspor,750000.0,0,0,0,0,40,21
+Florian Loshaj,Kosovo,Midfield,left,174.0,TR1,Istanbulspor,700000.0,10,0,5,1,2781,28
+Amine Talal,Morocco,Midfield,left,177.0,RU1,Akhmat Grozny,700000.0,5,1,3,0,868,28
+Nicolai Rapp,Germany,Midfield,right,186.0,L1,SV Werder Bremen,700000.0,1,0,0,0,95,28
+Beni,Angola,Midfield,right,180.0,PO1,Casa Pia AC,700000.0,10,0,0,3,1557,22
+Jesús Castillo,Peru,Midfield,right,185.0,PO1,Gil Vicente FC,700000.0,1,0,0,0,287,23
+Oleg Ocheretko,Ukraine,Midfield,left,181.0,UKR1,SK Dnipro-1,700000.0,2,0,2,1,1109,21
+Aleksey Batrakov,Russia,Midfield,right,168.0,RU1,Lokomotiv Moscow,700000.0,2,0,1,0,452,19
+Scott High,Scotland,Midfield,right,177.0,SC1,Ross County FC,700000.0,0,0,0,0,70,23
+Hianga'a Mbock,France,Midfield,right,186.0,FR1,Stade Brestois 29,700000.0,0,0,0,0,8,25
+Nicolas Haas,Switzerland,Midfield,right,178.0,IT1,FC Empoli,700000.0,1,0,0,0,122,29
+Shion Homma,Japan,Midfield,right,164.0,BE1,Club Brugge KV,700000.0,0,0,0,0,75,24
+Sven Köhler,Germany,Midfield,right,185.0,DK1,Odense Boldklub,700000.0,8,0,0,3,1555,28
+Alan Dzagoev,Russia,Midfield,right,179.0,GR1,PAS Lamia 1964,700000.0,0,0,0,0,14,34
+Aleksandr Troshechkin,Russia,Midfield,right,184.0,RU1,FC Pari Nizhniy Novgorod,700000.0,5,0,2,1,2337,28
+Bogdan Jocic,Serbia,Midfield,both,184.0,RU1,Rubin Kazan,700000.0,0,0,1,0,308,24
+Giorgi Aburjania,Georgia,Midfield,both,186.0,TR1,Hatayspor,700000.0,3,0,0,1,1254,30
+Josuha Guilavogui,France,Midfield,right,188.0,L1,1.FSV Mainz 05,700000.0,1,0,0,1,498,34
+Brandon Baiye,Belgium,Midfield,right,177.0,BE1,KAS Eupen,700000.0,2,0,1,0,2079,24
+Nuke Mfulu,DR Congo,Midfield,right,183.0,ES1,UD Las Palmas,700000.0,0,0,0,0,325,30
+Hrvoje Ilic,Croatia,Midfield,left,176.0,UKR1,Kryvbas Kryvyi Rig,700000.0,3,1,3,2,1387,25
+Christian Cappis,United States,Midfield,both,185.0,DK1,Bröndby IF,700000.0,0,0,0,0,28,25
+Diogo Nascimento,Portugal,Midfield,right,166.0,PO1,FC Vizela,700000.0,4,0,0,1,2174,22
+Nicolai Poulsen,Denmark,Midfield,right,176.0,DK1,Aarhus GF,700000.0,10,0,2,1,2107,31
+Timur Ayupov,Russia,Midfield,right,183.0,RU1,Ural Yekaterinburg,700000.0,6,0,2,4,1780,31
+Badou Ndiaye,Senegal,Midfield,right,180.0,TR1,Pendikspor,700000.0,4,0,1,0,1576,34
+Telasco Segovia,Venezuela,Midfield,right,180.0,PO1,Casa Pia AC,700000.0,4,0,0,1,746,21
+Oscar Højlund,Denmark,Midfield,right,187.0,DK1,FC Copenhagen,700000.0,0,0,0,1,710,20
+Daniel Kelly,Scotland,Midfield,right,180.0,SC1,Celtic FC,700000.0,1,0,1,0,133,19
+Borys Krushynskyi,Ukraine,Midfield,left,190.0,UKR1,Polissya Zhytomyr,700000.0,4,0,2,2,1617,22
+Nikita Motpan,Moldova,Midfield,right,179.0,RU1,Fakel Voronezh,700000.0,4,0,1,2,1514,23
+Alexis De Sart,Belgium,Midfield,right,180.0,BE1,RWD Molenbeek,700000.0,1,0,0,2,484,28
+Enric Llansana,Netherlands,Midfield,right,183.0,NL1,Go Ahead Eagles,700000.0,2,0,3,0,1381,23
+Aleksandar Busnic,Serbia,Midfield,right,191.0,PO1,FC Vizela,700000.0,3,0,0,0,774,27
+Bogdan Kushnirenko,Ukraine,Midfield,right,192.0,UKR1,Polissya Zhytomyr,700000.0,5,1,4,2,1883,29
+Zakaria Labyad,Morocco,Midfield,both,175.0,NL1,FC Utrecht,700000.0,0,0,0,1,293,31
+Daniil Kulikov,Russia,Midfield,right,178.0,RU1,Lokomotiv Moscow,700000.0,1,0,0,0,328,26
+Rihito Yamamoto,Japan,Midfield,left,179.0,BE1,Sint-Truidense VV,700000.0,1,0,0,0,719,23
+Abdoulaye Sissako,France,Midfield,right,186.0,BE1,KV Kortrijk,700000.0,3,0,0,1,1897,26
+Mateusz Kowalczyk,Poland,Midfield,both,181.0,DK1,Bröndby IF,700000.0,0,0,0,0,47,20
+Dmytro Ivanisenya,Ukraine,Midfield,both,187.0,RU1,Krylya Sovetov Samara,700000.0,0,0,0,0,837,31
+Riccardo Saponara,Italy,Midfield,right,183.0,TR1,MKE Ankaragücü,700000.0,1,0,0,0,649,33
+Maxime Gonalons,France,Midfield,right,187.0,FR1,Clermont Foot 63,700000.0,3,0,1,0,1306,35
+Lance Duijvestijn,Netherlands,Midfield,right,190.0,NL1,Almere City FC,700000.0,2,0,5,10,1662,26
+Youssef Aït Bennasser,Morocco,Midfield,right,184.0,TR1,Samsunspor,700000.0,4,0,1,0,1907,28
+Maksim Kuzmin,Russia,Midfield,right,180.0,RU1,Baltika Kaliningrad,700000.0,4,0,3,7,1598,28
+Jon Toral,Spain,Midfield,left,184.0,GR1,OFI Crete FC,700000.0,4,0,2,2,1340,29
+Kelechi Nwakali,Nigeria,Midfield,right,184.0,PO1,GD Chaves,700000.0,3,0,1,4,2110,26
+Alessio da Cruz,Cape Verde,Midfield,right,186.0,NL1,Fortuna Sittard,700000.0,0,0,1,1,439,28
+Tayfur Bingöl,Türkiye,Midfield,right,180.0,TR1,Alanyaspor,700000.0,4,0,0,0,598,32
+Benjamin Stambouli,France,Midfield,right,180.0,TR1,Adana Demirspor,700000.0,10,0,2,1,2223,34
+Luka Stankovski,North Macedonia,Midfield,right,190.0,TR1,Gaziantep FK,650000.0,1,0,0,0,53,22
+Arianit Ferati,Kosovo,Midfield,left,168.0,NL1,Fortuna Sittard,650000.0,0,0,0,1,1038,27
+Calvin Twigt,Netherlands,Midfield,right,183.0,NL1,FC Volendam,650000.0,4,0,2,0,2048,22
+Godfried Roemeratoe,Curacao,Midfield,right,178.0,NL1,RKC Waalwijk,650000.0,7,1,0,2,2339,25
+Eliano Reijnders,Netherlands,Midfield,right,168.0,NL1,PEC Zwolle,650000.0,2,0,3,1,2167,24
+Marko Jevtovic,Serbia,Midfield,right,194.0,TR1,Gaziantep FK,650000.0,6,0,3,0,1717,31
+Iver Fossum,Norway,Midfield,right,180.0,BE1,KV Kortrijk,650000.0,0,0,1,4,605,28
+Roman Kvet,Czech Republic,Midfield,right,187.0,TR1,Sivasspor,650000.0,4,0,1,2,716,27
+Pelle Mattsson,Denmark,Midfield,right,184.0,DK1,Silkeborg IF,650000.0,6,0,3,1,2180,23
+Ömer Beyaz,Türkiye,Midfield,left,171.0,TR1,Hatayspor,650000.0,6,0,0,0,1383,21
+Zan Rogelj,Slovenia,Midfield,right,175.0,BE1,R Charleroi SC,650000.0,5,0,0,1,2093,25
+Oğuzhan Özyakup,Türkiye,Midfield,right,180.0,NL1,Fortuna Sittard,600000.0,3,0,1,1,1012,32
+Evgeniy Yablonskiy,Belarus,Midfield,right,184.0,GR1,Asteras Aktor,600000.0,3,0,2,0,559,29
+Kristiyan Malinov,Bulgaria,Midfield,right,170.0,BE1,KV Kortrijk,600000.0,6,0,0,0,865,30
+Vladlen Yurchenko,Ukraine,Midfield,right,181.0,UKR1,Vorskla Poltava,600000.0,4,0,4,3,1884,31
+Jeppe Tverskov,Denmark,Midfield,right,188.0,DK1,FC Nordsjaelland,600000.0,5,0,2,4,2511,31
+Fede Vico,Spain,Midfield,left,179.0,GR1,Asteras Aktor,600000.0,0,0,0,0,30,30
+Ajdin Hrustić,Australia,Midfield,left,180.0,NL1,Heracles Almelo,600000.0,3,0,1,0,1170,28
+Ibrahima Cissé,Guinea,Midfield,right,184.0,RU1,Ural Yekaterinburg,600000.0,2,0,0,0,1527,30
+Rafael Barbosa,Portugal,Midfield,right,173.0,PO1,SC Farense,600000.0,1,0,1,3,995,28
+Vladyslav Kalitvintsev,Ukraine,Midfield,left,178.0,UKR1,FK Oleksandriya,600000.0,4,0,1,2,2069,32
+Nohan Kenneh,Liberia,Midfield,right,190.0,SC1,Hibernian FC,600000.0,0,0,0,0,273,22
+Pedrinho,Portugal,Midfield,right,170.0,TR1,MKE Ankaragücü,600000.0,5,0,3,2,2830,32
+Vykintas Slivka,Lithuania,Midfield,right,190.0,GR1,PAS Lamia 1964,600000.0,5,0,4,1,1950,29
+Raphael Guzzo,Portugal,Midfield,right,178.0,PO1,GD Chaves,600000.0,5,0,2,0,1194,30
+Artem Sokolov,Russia,Midfield,both,172.0,RU1,Krylya Sovetov Samara,600000.0,0,0,0,0,22,21
+Valeriy Bocherov,Belarus,Midfield,left,181.0,RU1,Ural Yekaterinburg,600000.0,2,0,0,2,939,24
+Jon Sporn,Slovenia,Midfield,right,178.0,UKR1,Chornomorets Odessa,600000.0,7,0,3,2,2187,27
+Nikita Ermakov,Russia,Midfield,right,183.0,RU1,CSKA Moscow,600000.0,0,0,1,2,859,22
+Aleksandr Osipov,Russia,Midfield,both,185.0,RU1,Baltika Kaliningrad,600000.0,2,0,0,1,1860,26
+Lyall Cameron,Scotland,Midfield,right,180.0,SC1,Dundee FC,600000.0,1,0,5,0,1974,22
+Dion De Neve,Belgium,Midfield,left,180.0,BE1,KV Kortrijk,600000.0,2,0,2,1,1923,23
+Christopher Scott,Germany,Midfield,right,178.0,BE1,Royal Antwerp FC,600000.0,0,0,0,0,14,22
+Ilian Iliev,Bulgaria,Midfield,left,173.0,GR1,AE Kifisias,600000.0,1,0,0,0,1067,25
+Jan Zamburek,Czech Republic,Midfield,left,182.0,DK1,Viborg FF,600000.0,1,0,0,0,100,23
+Aloísio,Brazil,Midfield,right,180.0,PO1,CF Estrela Amadora SAD,600000.0,6,0,1,1,1586,28
+Oleksandr Demchenko,Ukraine,Midfield,right,181.0,UKR1,Kolos Kovalivka,600000.0,6,0,0,1,2199,28
+Rubén Pérez,Spain,Midfield,right,178.0,GR1,Panathinaikos FC,600000.0,9,0,1,1,2357,35
+Luke McCowan,Scotland,Midfield,left,177.0,SC1,Dundee FC,600000.0,8,0,9,5,2904,27
+Luke Le Roux,South Africa,Midfield,right,184.0,NL1,FC Volendam,600000.0,3,0,1,0,869,24
+Sambou Sissoko,France,Midfield,right,178.0,UKR1,Vorskla Poltava,600000.0,4,0,0,0,1167,25
+Vitaliy Boyko,Ukraine,Midfield,left,183.0,UKR1,LNZ Cherkasy,600000.0,6,0,2,0,2009,27
+August Erlingmark,Sweden,Midfield,right,189.0,GR1,Atromitos Athens,600000.0,4,0,0,0,1083,26
+Tyrese Francois,Australia,Midfield,left,173.0,DK1,Vejle Boldklub,600000.0,0,0,0,0,331,24
+Leon Opitz,Germany,Midfield,left,183.0,L1,SV Werder Bremen,600000.0,0,0,0,0,16,19
+Talles,Brazil,Midfield,right,171.0,UKR1,Rukh Lviv,600000.0,2,0,5,3,1509,26
+Domagoj Pavicic,Croatia,Midfield,right,179.0,GR1,Aris Thessaloniki,600000.0,2,0,0,0,107,30
+Thomas Jørgensen,Denmark,Midfield,left,184.0,DK1,Hvidovre IF,600000.0,1,0,0,0,417,19
+Kyrylo Sigeev,Ukraine,Midfield,right,182.0,UKR1,FK Oleksandriya,600000.0,5,0,0,1,1734,20
+Yaroslav Mikhailov,Russia,Midfield,left,182.0,RU1,FK Orenburg,600000.0,2,0,0,1,1480,21
+Ivan Nesterenko,Ukraine,Midfield,right,178.0,UKR1,Vorskla Poltava,600000.0,3,0,3,0,1515,21
+Yevgeniy Pastukh,Ukraine,Midfield,right,193.0,UKR1,Rukh Lviv,600000.0,1,0,4,2,2105,20
+Emil Mustafaev,Azerbaijan,Midfield,left,174.0,UKR1,Polissya Zhytomyr,600000.0,2,0,3,4,1179,23
+Ogün Özçiçek,Türkiye,Midfield,right,172.0,TR1,Gaziantep FK,550000.0,7,0,3,3,1999,26
+Armin Hodzic,Bosnia-Herzegovina,Midfield,right,188.0,TR1,Hatayspor,550000.0,3,0,1,0,521,24
+Adi Nalic,Bosnia-Herzegovina,Midfield,both,190.0,NL1,Almere City FC,550000.0,1,0,1,0,316,27
+Mehdi Boudjemaa,France,Midfield,right,182.0,TR1,Hatayspor,550000.0,3,0,1,0,638,26
+Xander Blomme,Belgium,Midfield,right,172.0,NL1,Go Ahead Eagles,550000.0,3,0,0,0,725,22
+Stephen Kelly,Scotland,Midfield,right,176.0,SC1,Livingston FC,550000.0,1,0,2,1,1356,24
+Yaw Ackah,Ghana,Midfield,right,175.0,TR1,Kayserispor,550000.0,2,0,0,0,832,25
+Tolga Ciğerci,Türkiye,Midfield,right,185.0,TR1,MKE Ankaragücü,550000.0,4,0,5,3,2050,32
+Leonel Bucca,Argentina,Midfield,left,190.0,PO1,CF Estrela Amadora SAD,500000.0,4,0,1,0,813,25
+Muharrem Jashari,Kosovo,Midfield,both,182.0,UKR1,LNZ Cherkasy,500000.0,5,0,0,2,1283,26
+Fabio González,Spain,Midfield,right,176.0,ES1,UD Las Palmas,500000.0,1,0,0,0,121,27
+Dean Huiberts,Netherlands,Midfield,right,186.0,NL1,PEC Zwolle,500000.0,0,0,0,0,118,24
+Johan Gastien,France,Midfield,right,179.0,FR1,Clermont Foot 63,500000.0,7,0,0,0,2274,37
+Denys Pidgurskyi,Ukraine,Midfield,right,190.0,UKR1,Rukh Lviv,500000.0,4,0,2,0,1007,21
+Anthony Losilla,France,Midfield,right,185.0,L1,VfL Bochum,500000.0,10,0,1,2,2656,38
+Alex Gogic,Cyprus,Midfield,right,185.0,SC1,St. Mirren FC,500000.0,6,0,2,1,3150,30
+Lucas Ventura,Brazil,Midfield,right,180.0,PO1,Portimonense SC,500000.0,7,0,1,1,2015,26
+Vladislav Lazarev,Russia,Midfield,right,182.0,RU1,Baltika Kaliningrad,500000.0,0,0,0,1,548,23
+Oleg Ilyin,Ukraine,Midfield,right,175.0,UKR1,Kolos Kovalivka,500000.0,3,0,2,2,1458,27
+Lewis Warrington,England,Midfield,right,182.0,GB1,Everton FC,500000.0,0,0,0,0,171,22
+Axel Camblan,France,Midfield,right,169.0,FR1,Stade Brestois 29,500000.0,2,0,0,0,84,21
+Stefano Sturaro,Italy,Midfield,right,181.0,TR1,Fatih Karagümrük,500000.0,3,0,1,0,309,31
+Jakov Basic,Croatia,Midfield,left,191.0,UKR1,Zorya Lugansk,500000.0,2,0,1,0,1204,28
+Scott Fraser,Scotland,Midfield,left,183.0,SC1,Heart of Midlothian FC,500000.0,0,0,1,2,496,29
+Reda Belahyane,France,Midfield,right,173.0,FR1,OGC Nice,500000.0,0,0,0,0,116,20
+Ayanda Sishuba,Belgium,Midfield,right,169.0,FR1,RC Lens,500000.0,0,0,0,0,56,19
+Asier Osambela,Spain,Midfield,right,186.0,ES1,CA Osasuna,500000.0,0,0,0,0,8,20
+Efe Akman,Türkiye,Midfield,right,175.0,TR1,Galatasaray,500000.0,0,0,0,0,1,18
+Aïman Maurer,Morocco,Midfield,right,173.0,FR1,Clermont Foot 63,500000.0,0,0,0,0,53,20
+Artur Yusupov,Russia,Midfield,right,180.0,RU1,FC Sochi,500000.0,4,0,1,2,1664,35
+Denys Nagnoynyi,Ukraine,Midfield,right,175.0,UKR1,Zorya Lugansk,500000.0,2,0,1,2,666,22
+Dmitriy Vasiljev,Russia,Midfield,right,184.0,RU1,Zenit St. Petersburg,500000.0,2,0,0,0,486,20
+Kyrylo Dryshlyuk,Ukraine,Midfield,right,185.0,UKR1,Zorya Lugansk,500000.0,2,0,0,0,894,25
+Darko Jevtic,Switzerland,Midfield,left,182.0,RU1,Rubin Kazan,500000.0,0,0,0,0,3,31
+Matvey Kislyak,Russia,Midfield,right,180.0,RU1,CSKA Moscow,500000.0,1,0,1,0,439,19
+Marko Mladenovic,Serbia,Midfield,both,174.0,L1,Eintracht Frankfurt,500000.0,0,0,0,0,5,20
+Tyler Onyango,England,Midfield,right,190.0,GB1,Everton FC,500000.0,0,0,0,0,1,21
+Bilal Nadir,Morocco,Midfield,left,179.0,FR1,Olympique Marseille,500000.0,1,0,0,0,112,21
+Ruslan Babenko,Ukraine,Midfield,left,172.0,UKR1,SK Dnipro-1,500000.0,7,1,1,0,2847,32
+Jannes Van Hecke,Belgium,Midfield,right,177.0,BE1,KV Mechelen,500000.0,1,0,0,0,411,23
+Sam Nicholson,Scotland,Midfield,left,175.0,SC1,Motherwell FC,500000.0,2,0,1,0,274,30
+Amadou Keita,Guinea,Midfield,right,170.0,BE1,KAS Eupen,500000.0,4,0,1,1,1361,23
+José Rodríguez,Spain,Midfield,right,180.0,TR1,Adana Demirspor,500000.0,0,1,0,0,130,30
+Muhammed Gümüşkaya,Türkiye,Midfield,left,177.0,TR1,Samsunspor,500000.0,0,0,0,1,421,24
+Mathías Tomás,Uruguay,Midfield,left,174.0,GR1,Panserraikos,500000.0,4,0,1,3,1398,24
+Andrey Mendel,Russia,Midfield,right,186.0,RU1,Fakel Voronezh,500000.0,2,0,0,1,1329,29
+Tawanda Chirewa,Zimbabwe,Midfield,right,181.0,GB1,Wolverhampton Wanderers,500000.0,1,0,0,0,152,21
+Efecan Karaca,Türkiye,Midfield,right,170.0,TR1,Alanyaspor,500000.0,5,0,2,3,2747,35
+Pedro Obiang,Equatorial Guinea,Midfield,right,186.0,IT1,US Sassuolo,500000.0,1,0,0,0,453,32
+Lennard Hartjes,Netherlands,Midfield,right,170.0,NL1,Excelsior Rotterdam,500000.0,0,0,0,0,90,21
+Facundo Pérez,Argentina,Midfield,right,170.0,GR1,Panetolikos GFS,500000.0,10,0,1,2,1965,25
+Pavlo Orikhovskyi,Ukraine,Midfield,right,181.0,UKR1,Kolos Kovalivka,500000.0,1,0,1,3,1379,28
+Anas Ouahim,Morocco,Midfield,right,175.0,NL1,Heracles Almelo,500000.0,4,0,2,1,1274,27
+Ibrahima Kébé,Mali,Midfield,right,186.0,ES1,Girona FC,500000.0,1,0,0,0,122,24
+Yegor Tverdokhlib,Ukraine,Midfield,right,182.0,UKR1,FK Minaj,500000.0,4,0,3,2,1578,24
+Victor Loturi,Canada,Midfield,right,173.0,SC1,Ross County FC,500000.0,9,0,1,0,1765,23
+João Graça,Portugal,Midfield,right,177.0,PO1,Rio Ave FC,500000.0,10,0,0,0,1195,29
+Mykola Mykhaylenko,Ukraine,Midfield,right,183.0,UKR1,FK Oleksandriya,500000.0,0,0,5,1,1318,23
+Wallisson,Brazil,Midfield,right,184.0,PO1,Moreirense FC,500000.0,3,1,0,0,192,27
+Najeeb Yakubu,Niger,Midfield,right,182.0,UKR1,Vorskla Poltava,500000.0,2,0,0,0,1046,24
+Orest Kuzyk,Ukraine,Midfield,right,174.0,UKR1,Chornomorets Odessa,500000.0,4,0,5,3,2085,29
+Guima,Mozambique,Midfield,right,181.0,PO1,GD Chaves,500000.0,7,0,0,1,1253,29
+Fred Onyedinma,Nigeria,Midfield,right,185.0,GB1,Luton Town,500000.0,2,0,0,0,476,28
+Yuriy Kovalev,Belarus,Midfield,right,174.0,RU1,Baltika Kaliningrad,500000.0,1,0,1,4,1895,32
+Onur Ergün,Türkiye,Midfield,right,185.0,TR1,Basaksehir FK,500000.0,3,0,0,0,900,32
+Jeff Hendrick,Ireland,Midfield,right,185.0,GB1,Newcastle United,500000.0,0,0,0,0,29,33
+Yuriy Vakulko,Ukraine,Midfield,left,176.0,UKR1,Kryvbas Kryvyi Rig,500000.0,4,0,0,1,1061,27
+Zisis Karachalios,Greece,Midfield,right,181.0,GR1,PAS Giannina,500000.0,5,1,0,0,1752,29
+Jakob Bonde,Denmark,Midfield,left,186.0,DK1,Viborg FF,500000.0,1,0,3,1,1564,31
+Genki Haraguchi,Japan,Midfield,right,178.0,L1,VfB Stuttgart,500000.0,0,0,0,0,26,33
+Nicolas Janvier,France,Midfield,right,172.0,TR1,Alanyaspor,500000.0,3,0,4,2,1603,26
+Bruno Paz,Angola,Midfield,right,182.0,TR1,Konyaspor,500000.0,2,0,0,0,303,26
+James Jeggo,Australia,Midfield,right,178.0,SC1,Hibernian FC,500000.0,2,0,0,0,1369,32
+Dmytro Myshnyov,Ukraine,Midfield,right,170.0,UKR1,Zorya Lugansk,500000.0,5,0,0,1,1224,31
+Gennadiy Pasich,Ukraine,Midfield,right,174.0,UKR1,LNZ Cherkasy,500000.0,7,0,2,2,2030,31
+Petar Micin,Serbia,Midfield,right,189.0,UKR1,Zorya Lugansk,500000.0,2,0,0,3,1081,26
+Kyrylo Kovalets,Ukraine,Midfield,right,184.0,UKR1,FK Oleksandriya,500000.0,6,0,2,3,1500,31
+Mathias Fixelles,Belgium,Midfield,right,183.0,BE1,KVC Westerlo,500000.0,3,0,0,1,573,28
+Miguel Mellado,Argentina,Midfield,right,176.0,GR1,OFI Crete FC,500000.0,8,0,0,0,1692,31
+Fredy,Angola,Midfield,right,170.0,TR1,Antalyaspor,500000.0,0,0,0,0,141,34
+Igor Kogut,Ukraine,Midfield,right,183.0,UKR1,SK Dnipro-1,500000.0,5,0,1,0,503,28
+Ilya Zhigulev,Russia,Midfield,right,176.0,RU1,FC Pari Nizhniy Novgorod,500000.0,1,0,0,1,443,28
+Cristopher Núñez,Costa Rica,Midfield,right,171.0,GR1,PAS Lamia 1964,500000.0,4,0,1,0,1817,27
+Zisis Chatzistravos,Greece,Midfield,right,170.0,GR1,Panserraikos,500000.0,3,0,2,4,1135,25
+Youssef Challouk,Belgium,Midfield,right,173.0,BE1,KV Kortrijk,500000.0,0,0,0,0,41,29
+Artem Gabelok,Ukraine,Midfield,left,177.0,UKR1,Metalist 1925 Kharkiv,500000.0,3,0,1,3,2310,30
+Sean Goss,Northern Ireland,Midfield,left,191.0,GR1,Asteras Aktor,500000.0,3,0,0,2,750,29
+Yevgeniy Smyrnyi,Ukraine,Midfield,left,180.0,UKR1,FK Oleksandriya,500000.0,2,0,0,0,1336,26
+Tobias Kempe,Germany,Midfield,right,184.0,L1,SV Darmstadt 98,500000.0,1,0,3,2,1351,35
+Muammer Sarıkaya,Türkiye,Midfield,right,179.0,TR1,Istanbulspor,500000.0,9,0,2,1,2350,26
+Óscar Pinchi,Spain,Midfield,right,171.0,TR1,Caykur Rizespor,500000.0,2,0,0,0,221,29
+Irakliy Kvekveskiri,Russia,Midfield,left,178.0,RU1,Fakel Voronezh,500000.0,7,0,0,1,2559,34
+Marko Bakic,Montenegro,Midfield,right,186.0,GR1,OFI Crete FC,450000.0,7,0,3,3,1579,31
+Andreas Kuen,Austria,Midfield,left,175.0,GR1,Atromitos Athens,450000.0,0,0,2,2,1074,29
+Magnus Westergaard,Denmark,Midfield,right,187.0,DK1,Viborg FF,450000.0,1,0,0,0,878,26
+Gökcan Kaya,Türkiye,Midfield,right,180.0,TR1,Pendikspor,450000.0,3,0,2,3,2112,29
+Panagiotis Tzimas,Greece,Midfield,right,183.0,GR1,PAS Giannina,450000.0,9,0,2,1,1110,23
+Noah Naujoks,Netherlands,Midfield,right,183.0,NL1,Excelsior Rotterdam,450000.0,1,0,0,1,1124,22
+Vasilios Sourlis,Greece,Midfield,right,183.0,GR1,Asteras Aktor,450000.0,2,0,0,0,713,22
+Mikkel Duelund,Denmark,Midfield,both,178.0,DK1,Aarhus GF,450000.0,0,0,1,0,551,27
+Igor Konovalov,Russia,Midfield,right,186.0,RU1,Rubin Kazan,450000.0,1,0,0,0,418,28
+Ewan Henderson,Scotland,Midfield,right,186.0,SC1,Hibernian FC,450000.0,0,0,0,0,19,24
+Callum Slattery,England,Midfield,right,180.0,SC1,Motherwell FC,450000.0,7,0,1,0,1569,25
+Jens Toornstra,Netherlands,Midfield,right,178.0,NL1,FC Utrecht,450000.0,4,0,4,7,1902,35
+Robin Maulun,France,Midfield,right,176.0,NL1,FC Volendam,450000.0,1,0,0,1,713,28
+Sofian Kiyine,Morocco,Midfield,right,182.0,BE1,Oud-Heverlee Leuven,450000.0,2,0,0,1,283,27
+Juanpi,Venezuela,Midfield,left,176.0,GR1,Panetolikos GFS,450000.0,10,0,1,4,1593,31
+Malachi Boateng,England,Midfield,right,182.0,SC1,Dundee FC,450000.0,5,0,0,1,2025,22
+Adrián Riera,Spain,Midfield,right,178.0,GR1,OFI Crete FC,450000.0,2,0,2,0,950,28
+Julián Palacios,Argentina,Midfield,right,169.0,GR1,Asteras Aktor,450000.0,0,0,0,0,70,25
+Valdemar Byskov,Denmark,Midfield,right,180.0,DK1,FC Midtjylland,450000.0,0,0,0,0,18,20
+Oliver Arblaster,England,Midfield,right,180.0,GB1,Sheffield United,450000.0,3,0,0,1,1357,21
+Karlo Lulic,Croatia,Midfield,right,187.0,IT1,Frosinone Calcio,450000.0,0,0,0,0,47,28
+Jordy Bruijn,Netherlands,Midfield,right,171.0,NL1,Heracles Almelo,450000.0,1,0,1,2,686,28
+Samuele Di Benedetto,Germany,Midfield,left,175.0,L1,VfB Stuttgart,450000.0,0,0,0,0,6,19
+Toni Domgjoni,Kosovo,Midfield,right,179.0,NL1,Vitesse Arnhem,450000.0,2,0,0,0,921,26
+Davor Zdravkovski,North Macedonia,Midfield,right,175.0,SC1,Motherwell FC,450000.0,2,0,0,0,1506,26
+Jonas Gemmer,Denmark,Midfield,right,179.0,DK1,Hvidovre IF,450000.0,7,0,0,0,1582,29
+Franco Baldassarra,Argentina,Midfield,right,178.0,GR1,Panetolikos GFS,450000.0,3,0,1,0,1167,26
+Jean Jules,Cameroon,Midfield,right,177.0,GR1,Aris Thessaloniki,450000.0,4,1,0,0,1149,26
+Klim Prykhodko,Ukraine,Midfield,right,184.0,UKR1,Kryvbas Kryvyi Rig,400000.0,1,0,3,0,531,24
+Caolan Boyd-Munce,Northern Ireland,Midfield,left,183.0,SC1,St. Mirren FC,400000.0,3,0,0,3,2047,25
+Fanil Sungatulin,Russia,Midfield,both,175.0,RU1,Ural Yekaterinburg,400000.0,3,0,0,0,849,23
+Alasana Manneh,The Gambia,Midfield,left,176.0,DK1,Odense Boldklub,400000.0,4,0,1,0,1301,26
+Cammy MacPherson,Scotland,Midfield,right,173.0,SC1,St. Johnstone FC,400000.0,2,0,0,0,180,26
+Reuven Niemeijer,Netherlands,Midfield,right,178.0,NL1,RKC Waalwijk,400000.0,1,0,2,2,1608,29
+Sacha Bansé,Burkina Faso,Midfield,right,180.0,BE1,Standard Liège,400000.0,0,0,0,0,42,23
+Arad Bar,Israel,Midfield,right,186.0,UKR1,LNZ Cherkasy,400000.0,6,0,1,1,822,25
+Liam Shaw,England,Midfield,right,190.0,SC1,Celtic FC,400000.0,0,0,0,0,90,23
+Vadym Vitenchuk,Ukraine,Midfield,right,177.0,UKR1,FK Minaj,400000.0,6,0,3,0,2195,28
+Silas Andersen,Denmark,Midfield,right,190.0,NL1,FC Utrecht,400000.0,0,0,0,0,8,20
+Anastasios Tsokanis,Greece,Midfield,left,176.0,GR1,Volos NPS,400000.0,7,0,0,0,1693,33
+Mor Ndiaye,Senegal,Midfield,right,185.0,PO1,GD Estoril Praia,400000.0,2,0,0,0,272,24
+Pedro Ortiz,Spain,Midfield,left,184.0,PO1,FC Vizela,400000.0,7,0,0,0,920,24
+Marat Apshatsev,Russia,Midfield,right,177.0,RU1,Rubin Kazan,400000.0,2,0,1,0,682,23
+Rocco Ascone,France,Midfield,left,180.0,DK1,FC Nordsjaelland,400000.0,1,0,0,1,246,21
+Tibe De Vlieger,Belgium,Midfield,right,182.0,BE1,KAA Gent,400000.0,0,0,0,0,35,19
+Baran Gezek,Türkiye,Midfield,right,182.0,TR1,Kayserispor,400000.0,2,0,0,0,128,19
+Manuel Keliano,Angola,Midfield,right,185.0,PO1,CF Estrela Amadora SAD,400000.0,0,0,0,0,113,22
+Jean Claude Aziangbe,Togo,Midfield,right,187.0,UKR1,Zorya Lugansk,400000.0,5,0,0,0,738,21
+Dante Polvara,United States,Midfield,right,193.0,SC1,Aberdeen FC,400000.0,4,0,0,3,1497,24
+Tymur Korablin,Ukraine,Midfield,left,174.0,UKR1,FK Minaj,400000.0,6,0,4,2,1515,23
+Samuel Justo,Portugal,Midfield,right,178.0,PO1,Casa Pia AC,400000.0,1,0,1,1,736,20
+Denys Shostak,Ukraine,Midfield,right,190.0,UKR1,FK Oleksandriya,400000.0,3,0,1,0,998,22
+Olivier Dumont,Belgium,Midfield,right,182.0,BE1,Sint-Truidense VV,400000.0,0,0,0,0,72,22
+Mads Larsen,Denmark,Midfield,right,183.0,DK1,Silkeborg IF,400000.0,0,0,0,0,383,23
+Vikentiy Voloshyn,Ukraine,Midfield,left,179.0,UKR1,Zorya Lugansk,400000.0,2,0,2,3,579,23
+Dener,Brazil,Midfield,right,188.0,PO1,Portimonense SC,400000.0,11,0,1,3,1772,32
+Rafael Bustamante,Colombia,Midfield,right,176.0,PO1,FC Vizela,400000.0,2,0,0,0,773,25
+Naatan Skyttä,Finland,Midfield,left,170.0,FR1,FC Toulouse,400000.0,1,0,0,0,156,22
+Cem Türkmen,Türkiye,Midfield,right,178.0,TR1,MKE Ankaragücü,400000.0,0,0,0,1,159,22
+Taras Moroz,Ukraine,Midfield,right,182.0,UKR1,Obolon Kyiv,400000.0,15,0,0,0,2069,28
+Andriy Totovytskyi,Ukraine,Midfield,right,187.0,UKR1,Kolos Kovalivka,400000.0,0,0,0,2,292,32
+Valeriy Kucherov,Ukraine,Midfield,right,175.0,UKR1,NK Veres Rivne,400000.0,4,0,1,2,2413,31
+Sven Kums,Belgium,Midfield,right,176.0,BE1,KAA Gent,400000.0,3,0,1,7,2344,36
+Sofiane Feghouli,Algeria,Midfield,right,177.0,TR1,Fatih Karagümrük,400000.0,4,1,2,1,1465,35
+Uri Busquets,Spain,Midfield,right,185.0,PO1,FC Arouca,400000.0,3,0,0,0,604,26
+Adrien Silva,Portugal,Midfield,right,175.0,PO1,Rio Ave FC,400000.0,2,0,0,0,334,35
+Marco Mancosu,Italy,Midfield,right,177.0,IT1,Cagliari Calcio,400000.0,0,0,0,0,228,36
+João Pedro,Portugal,Midfield,right,177.0,PO1,GD Chaves,400000.0,10,0,25,4,4868,31
+Samúel Fridjónsson,Iceland,Midfield,right,186.0,GR1,Atromitos Athens,400000.0,4,0,1,0,851,28
+Eric Bicfalvi,Romania,Midfield,right,187.0,RU1,Ural Yekaterinburg,400000.0,2,0,4,3,1301,36
+Luke Amos,England,Midfield,right,179.0,SC1,Hibernian FC,400000.0,0,0,0,0,141,27
+Nemanja Glavcic,Serbia,Midfield,left,170.0,GR1,Volos NPS,400000.0,7,0,0,2,1825,27
+Ilija Vukotic,Montenegro,Midfield,left,191.0,PO1,Boavista FC,400000.0,5,0,1,0,997,26
+Jan Bernat,Slovakia,Midfield,right,180.0,BE1,KVC Westerlo,400000.0,0,0,0,0,1,24
+Ivan Kaliuzhnyi,Ukraine,Midfield,left,189.0,UKR1,FK Oleksandriya,400000.0,8,0,0,0,1763,27
+Matt Smith,Wales,Midfield,right,175.0,SC1,St. Johnstone FC,400000.0,3,0,1,3,2470,25
+João Lameira,Portugal,Midfield,right,175.0,RU1,Baltika Kaliningrad,400000.0,1,0,0,0,235,25
+Pedro Sá,Portugal,Midfield,right,185.0,PO1,CF Estrela Amadora SAD,400000.0,1,0,0,0,643,31
+Amine,Morocco,Midfield,right,184.0,PO1,Rio Ave FC,400000.0,7,0,1,0,2379,32
+David Keltjens,Israel,Midfield,right,181.0,SC1,St. Johnstone FC,400000.0,3,0,1,0,877,29
+Jorge Grant,England,Midfield,right,175.0,SC1,Heart of Midlothian FC,400000.0,1,0,4,6,1535,30
+Klaus Gjasula,Albania,Midfield,both,190.0,L1,SV Darmstadt 98,400000.0,7,1,0,0,1366,35
+Andrea Bertolacci,Italy,Midfield,left,179.0,TR1,Fatih Karagümrük,400000.0,3,0,1,0,929,34
+Álvaro Peña,Spain,Midfield,right,179.0,NL1,Almere City FC,400000.0,5,0,1,0,1156,33
+Ryota Morioka,Japan,Midfield,right,183.0,BE1,R Charleroi SC,400000.0,0,0,0,0,902,33
+Aleksandr Erokhin,Russia,Midfield,right,195.0,RU1,Zenit St. Petersburg,400000.0,1,0,1,3,745,35
+Vyacheslav Churko,Ukraine,Midfield,left,180.0,UKR1,Zorya Lugansk,400000.0,1,0,0,2,830,31
+Samu Saiz,Spain,Midfield,right,174.0,TR1,Sivasspor,400000.0,3,0,5,3,1440,34
+Adem Ljajic,Serbia,Midfield,right,182.0,TR1,Fatih Karagümrük,400000.0,0,0,0,0,83,33
+Kevin Möhwald,Germany,Midfield,right,182.0,BE1,KAS Eupen,400000.0,4,0,1,1,1362,31
+Luke Berry,England,Midfield,right,177.0,GB1,Luton Town,400000.0,2,0,2,3,475,32
+Oleksandr Vasyliev,Ukraine,Midfield,right,186.0,UKR1,Chornomorets Odessa,400000.0,5,0,4,2,2864,30
+Roman Akbashev,Russia,Midfield,right,177.0,RU1,Fakel Voronezh,400000.0,3,0,0,0,1262,33
+Cheick Doukouré,Cote d'Ivoire,Midfield,right,180.0,GR1,Aris Thessaloniki,400000.0,3,0,0,0,572,32
+Berkay Vardar,Türkiye,Midfield,right,188.0,TR1,Besiktas JK,375000.0,0,0,0,0,50,22
+Loret Sadiku,Kosovo,Midfield,right,181.0,TR1,Kasimpasa,375000.0,2,0,0,0,711,33
+Kyle Turner,Scotland,Midfield,right,176.0,SC1,Ross County FC,375000.0,3,0,1,1,754,27
+Barry Maguire,Scotland,Midfield,right,189.0,SC1,Motherwell FC,375000.0,0,0,0,0,74,26
+Rai Vloet,Netherlands,Midfield,right,188.0,RU1,Ural Yekaterinburg,350000.0,0,0,0,0,119,29
+Stan Van Dessel,Belgium,Midfield,left,169.0,BE1,Sint-Truidense VV,350000.0,0,0,0,0,58,23
+Kyle Magennis,Scotland,Midfield,right,181.0,SC1,Kilmarnock FC,350000.0,1,0,0,0,563,26
+Florent Sanchez,France,Midfield,right,178.0,BE1,RWD Molenbeek,350000.0,0,0,2,0,501,21
+Danila Sukhomlinov,Russia,Midfield,both,183.0,RU1,FK Rostov,350000.0,2,0,0,0,248,22
+Fraser Murray,Scotland,Midfield,right,183.0,SC1,Kilmarnock FC,350000.0,0,0,0,1,173,25
+Ross Tierney,Ireland,Midfield,right,174.0,SC1,Motherwell FC,350000.0,0,0,2,1,242,23
+Josip Vukovic,Croatia,Midfield,both,184.0,TR1,Pendikspor,350000.0,5,0,0,0,1076,32
+Tjaronn Chery,Suriname,Midfield,left,171.0,NL1,NEC Nijmegen,350000.0,2,0,8,7,2148,36
+Oleg Fedor,Ukraine,Midfield,right,177.0,UKR1,Rukh Lviv,350000.0,2,0,0,3,690,20
+Anthony Fontana,United States,Midfield,both,177.0,NL1,PEC Zwolle,350000.0,0,0,0,0,43,25
+Eduart Rroca,Albania,Midfield,right,182.0,TR1,Istanbulspor,350000.0,4,0,1,1,809,31
+Brad Lyons,Northern Ireland,Midfield,right,176.0,SC1,Kilmarnock FC,350000.0,7,0,2,1,1637,27
+Beka Vachiberadze,Georgia,Midfield,left,171.0,UKR1,Metalist 1925 Kharkiv,350000.0,2,0,1,2,892,28
+Yan Kazaev,Russia,Midfield,right,184.0,RU1,Baltika Kaliningrad,350000.0,0,0,0,0,666,33
+Isaac Christie-Davies,Wales,Midfield,right,188.0,BE1,KAS Eupen,350000.0,3,0,0,1,563,27
+Jeppe Grønning,Denmark,Midfield,right,180.0,DK1,Viborg FF,350000.0,2,0,2,2,1479,33
+Scott Allardice,Scotland,Midfield,right,181.0,SC1,Ross County FC,350000.0,3,0,0,0,908,26
+Modestas Vorobjovas,Lithuania,Midfield,right,178.0,TR1,Istanbulspor,350000.0,6,0,1,0,2141,29
+Paschalis Staikos,Greece,Midfield,right,178.0,GR1,Panserraikos,350000.0,10,0,3,1,1961,28
+Peter Bjur,Denmark,Midfield,left,180.0,DK1,Aarhus GF,350000.0,1,0,0,0,111,24
+Jérôme Déom,Belgium,Midfield,right,175.0,BE1,KAS Eupen,350000.0,1,1,1,1,760,25
+Fabian Rüdlin,Germany,Midfield,right,171.0,L1,SC Freiburg,350000.0,0,0,0,0,6,28
+Cafú Phete,South Africa,Midfield,right,187.0,PO1,GD Chaves,350000.0,3,0,0,0,444,30
+Christian Jakobsen,Denmark,Midfield,right,190.0,DK1,Hvidovre IF,350000.0,3,0,4,1,1603,31
+Nolan Mbemba,Congo,Midfield,right,181.0,FR1,Le Havre AC,350000.0,0,0,1,0,17,29
+Liam Donnelly,Northern Ireland,Midfield,right,181.0,SC1,Kilmarnock FC,350000.0,6,0,0,0,1354,28
+Stanislav Sharay,Ukraine,Midfield,left,175.0,UKR1,NK Veres Rivne,350000.0,2,0,2,1,591,27
+Essien Ededem,Nigeria,Midfield,right,180.0,RU1,FC Pari Nizhniy Novgorod,350000.0,0,0,0,0,537,26
+Ibrahima,Guinea,Midfield,right,190.0,PO1,Boavista FC,350000.0,1,1,0,0,471,26
+Masa,Japan,Midfield,right,168.0,PO1,Boavista FC,350000.0,0,0,0,0,441,25
+Thomas Bruns,Netherlands,Midfield,right,177.0,NL1,Heracles Almelo,350000.0,10,0,0,2,1122,33
+Julius Beck,Denmark,Midfield,right,178.0,DK1,Aarhus GF,350000.0,0,0,0,0,92,19
+Josh Mulligan,Scotland,Midfield,right,175.0,SC1,Dundee FC,350000.0,2,1,1,0,747,22
+Daan Huisman,Netherlands,Midfield,right,189.0,NL1,Vitesse Arnhem,350000.0,0,0,0,0,1,22
+Jay Henderson,Scotland,Midfield,right,168.0,SC1,Ross County FC,350000.0,1,0,0,0,149,22
+Mathias Sauer,Denmark,Midfield,left,181.0,DK1,Aarhus GF,350000.0,0,0,2,0,65,20
+Yuriy Zheleznov,Russia,Midfield,right,177.0,RU1,Ural Yekaterinburg,350000.0,0,0,0,0,144,22
+Tom Trybull,Germany,Midfield,right,183.0,DK1,Odense Boldklub,350000.0,4,0,0,0,855,31
+Liam Polworth,Scotland,Midfield,right,179.0,SC1,Kilmarnock FC,350000.0,1,0,0,3,1860,30
+Lukas Rupp,Germany,Midfield,right,178.0,GR1,Aris Thessaloniki,350000.0,0,0,0,0,572,34
+Caleb Stanko,United States,Midfield,right,180.0,GR1,PAS Lamia 1964,350000.0,5,0,0,0,805,31
+Maksim Laykin,Russia,Midfield,right,179.0,RU1,Spartak Moscow,350000.0,0,0,0,0,47,21
+Paris Maghoma,England,Midfield,right,184.0,GB1,Brentford FC,350000.0,0,0,1,0,326,23
+Lynnt Audoor,Belgium,Midfield,right,184.0,BE1,KV Kortrijk,350000.0,2,0,0,0,397,21
+Driess Saddiki,Morocco,Midfield,right,179.0,TR1,Kasimpasa,325000.0,2,0,0,0,265,28
+Souza,Brazil,Midfield,right,188.0,TR1,Basaksehir FK,325000.0,3,0,0,1,382,35
+Brandon Aguilera,Costa Rica,Midfield,left,179.0,GB1,Nottingham Forest,300000.0,0,0,0,0,39,21
+Roan Wilson,Costa Rica,Midfield,right,184.0,PO1,Gil Vicente FC,300000.0,0,0,1,0,115,22
+Michel Costa,Brazil,Midfield,left,165.0,PO1,GD Estoril Praia,300000.0,0,0,0,0,296,23
+Anderson Niangbo,Cote d'Ivoire,Midfield,right,172.0,TR1,Konyaspor,300000.0,0,0,0,0,61,25
+Theofanis Tzandaris,Greece,Midfield,right,182.0,GR1,PAS Lamia 1964,300000.0,4,0,0,0,1478,31
+Vitaliy Dakhnovskyi,Ukraine,Midfield,right,175.0,UKR1,NK Veres Rivne,300000.0,2,0,5,3,1147,25
+Jeremy van Mullem,Netherlands,Midfield,right,184.0,NL1,Sparta Rotterdam,300000.0,3,0,0,0,413,25
+Kerr McInroy,Scotland,Midfield,left,180.0,SC1,Kilmarnock FC,300000.0,0,0,1,1,148,24
+Youba Diarra,Mali,Midfield,right,178.0,GR1,Asteras Aktor,300000.0,3,0,0,0,165,26
+Göktan Gürpüz,Türkiye,Midfield,right,175.0,TR1,Trabzonspor,300000.0,0,0,1,0,22,22
+Valeriy Tsarukyan,Russia,Midfield,right,170.0,RU1,FC Pari Nizhniy Novgorod,300000.0,0,0,0,0,47,23
+Oleksiy Khakhlyov,Ukraine,Midfield,left,179.0,UKR1,Zorya Lugansk,300000.0,0,0,0,0,310,25
+Nathan Moriah-Welsh,Guyana,Midfield,right,172.0,SC1,Hibernian FC,300000.0,2,1,0,0,687,22
+Christian Noboa,Ecuador,Midfield,right,182.0,RU1,FC Sochi,300000.0,3,0,3,1,860,39
+Yuriy Gazinskiy,Russia,Midfield,right,184.0,RU1,Ural Yekaterinburg,300000.0,1,1,0,0,251,35
+Jhon Velásquez,Colombia,Midfield,right,174.0,PO1,SC Farense,300000.0,0,0,0,0,23,29
+Jamie Jacobs,Netherlands,Midfield,right,182.0,DK1,Viborg FF,300000.0,0,0,0,1,203,27
+Adnan Uğur,Türkiye,Midfield,right,174.0,TR1,Fatih Karagümrük,300000.0,1,0,1,0,544,23
+Rostyslav Rusyn,Ukraine,Midfield,left,175.0,UKR1,Metalist 1925 Kharkiv,300000.0,3,0,2,0,939,29
+Deni Milosevic,Bosnia-Herzegovina,Midfield,right,183.0,TR1,Antalyaspor,300000.0,0,0,0,0,283,29
+Max Anderson,Scotland,Midfield,right,167.0,SC1,Dundee FC,300000.0,0,0,0,0,159,23
+Sergey Pryakhin,Russia,Midfield,right,175.0,RU1,Baltika Kaliningrad,300000.0,1,0,1,0,926,22
+Cristian Montano,Colombia,Midfield,left,180.0,SC1,Livingston FC,300000.0,5,1,0,2,774,33
+Harry Paton,Canada,Midfield,right,175.0,SC1,Motherwell FC,300000.0,5,1,1,1,1927,26
+Drey Wright,England,Midfield,right,175.0,SC1,St. Johnstone FC,300000.0,1,0,0,0,291,29
+Anton Tsarenko,Ukraine,Midfield,right,162.0,UKR1,Dynamo Kyiv,300000.0,0,0,1,0,187,20
+Rezan Corlu,Denmark,Midfield,left,171.0,DK1,Lyngby BK,300000.0,0,0,1,1,403,27
+Frederik Brandhof,Denmark,Midfield,right,182.0,DK1,Aarhus GF,300000.0,4,0,0,2,986,28
+Luis Felipe Gallegos,Chile,Midfield,left,173.0,GR1,OFI Crete FC,300000.0,6,0,1,1,2087,33
+Jordan Tillson,England,Midfield,right,183.0,SC1,Ross County FC,300000.0,0,0,0,0,34,31
+Kevin Felida,Curacao,Midfield,right,174.0,NL1,RKC Waalwijk,300000.0,2,0,1,0,879,25
+Ayman Aourir,Morocco,Midfield,both,172.0,L1,Bayer 04 Leverkusen,300000.0,0,0,0,0,2,20
+Denys Garmash,Ukraine,Midfield,right,186.0,UKR1,Metalist 1925 Kharkiv,300000.0,2,0,2,0,796,34
+Victor Stina,Moldova,Midfield,right,169.0,GR1,Panserraikos,300000.0,0,0,0,0,32,26
+Vefa Temel,Türkiye,Midfield,left,176.0,TR1,Istanbulspor,300000.0,4,0,2,0,835,22
+Kerem Şen,Türkiye,Midfield,right,177.0,TR1,Trabzonspor,300000.0,0,0,0,0,103,22
+Daniel Luna,Colombia,Midfield,left,178.0,ES1,RCD Mallorca,300000.0,0,0,0,0,113,21
+Lukas Van Eenoo,Belgium,Midfield,left,175.0,BE1,KVC Westerlo,300000.0,1,0,0,1,387,33
+Adrián Colombino,Uruguay,Midfield,right,177.0,GR1,Panserraikos,300000.0,0,0,0,0,3,31
+Sacha Delaye,France,Midfield,right,171.0,FR1,Montpellier HSC,300000.0,1,0,0,0,123,22
+Andriy Ralyuchenko,Ukraine,Midfield,right,182.0,UKR1,FK Minaj,300000.0,3,0,0,0,621,29
+Sergiy Kosovskyi,Ukraine,Midfield,right,184.0,UKR1,Obolon Kyiv,300000.0,2,0,0,2,1261,26
+Reshat Ramadani,North Macedonia,Midfield,right,186.0,UKR1,Dynamo Kyiv,300000.0,0,0,0,0,39,21
+Alen Mustafic,Bosnia-Herzegovina,Midfield,right,185.0,DK1,Odense Boldklub,300000.0,2,0,0,0,325,25
+Scott Pittman,Scotland,Midfield,right,173.0,SC1,Livingston FC,300000.0,2,0,2,0,2115,32
+Rafael Brito,Portugal,Midfield,right,183.0,PO1,Casa Pia AC,300000.0,0,0,0,2,343,23
+Jason Holt,Scotland,Midfield,left,168.0,SC1,Livingston FC,300000.0,6,0,0,1,2950,31
+Allan Delferriere,Belgium,Midfield,right,183.0,SC1,Hibernian FC,300000.0,0,0,0,0,233,22
+Joe White,England,Midfield,left,186.0,GB1,Newcastle United,300000.0,1,0,0,1,274,22
+Hélder Morim,Portugal,Midfield,left,181.0,PO1,GD Chaves,300000.0,2,0,1,0,650,23
+Momo Diaby,France,Midfield,right,188.0,PO1,Portimonense SC,300000.0,2,0,0,0,262,28
+Mikkel Pedersen,Denmark,Midfield,right,182.0,DK1,Randers FC,300000.0,1,0,0,1,463,29
+Timofey Shipunov,Russia,Midfield,right,173.0,RU1,FC Sochi,300000.0,1,0,0,0,352,21
+Valeriy Rogozynskyi,Ukraine,Midfield,left,180.0,UKR1,FK Minaj,300000.0,3,0,0,1,642,29
+Davy Pröpper,Netherlands,Midfield,right,185.0,NL1,Vitesse Arnhem,300000.0,0,0,1,0,120,33
+Christian Groß,Germany,Midfield,both,182.0,L1,SV Werder Bremen,300000.0,1,0,0,1,822,35
+Angelos Liasos,Greece,Midfield,right,185.0,GR1,PAS Giannina,300000.0,5,0,0,0,770,24
+Sergiy Petko,Ukraine,Midfield,right,183.0,UKR1,FK Minaj,300000.0,8,0,1,1,1448,31
+Aleksandr Zotov,Russia,Midfield,right,178.0,RU1,Rubin Kazan,300000.0,4,0,0,2,1974,34
+Jack Ipalibo,Nigeria,Midfield,right,184.0,GR1,AE Kifisias,300000.0,6,1,0,0,1129,26
+Paulo Estrela,Portugal,Midfield,right,171.0,PO1,Portimonense SC,300000.0,1,0,0,1,649,25
+Giannis Bouzoukis,Greece,Midfield,left,172.0,GR1,Panetolikos GFS,300000.0,0,0,0,0,311,26
+Norman Theuerkauf,Germany,Midfield,left,183.0,L1,1.FC Heidenheim 1846,300000.0,3,0,0,2,1303,38
+Alex Méndez,United States,Midfield,left,178.0,PO1,FC Vizela,300000.0,2,0,0,2,503,24
+Muhammet Ali Özbaskıcı,Türkiye,Midfield,right,172.0,TR1,Samsunspor,300000.0,0,0,0,0,26,19
+Joel Silva,Portugal,Midfield,left,185.0,PO1,Boavista FC,300000.0,1,0,1,0,363,21
+Tobias Bach,Denmark,Midfield,left,193.0,DK1,Aarhus GF,300000.0,1,0,3,0,471,21
+Massimo Decoene,Belgium,Midfield,right,183.0,BE1,KV Kortrijk,300000.0,0,0,0,0,12,20
+Fabrício Isidoro,Brazil,Midfield,right,172.0,PO1,SC Farense,300000.0,8,0,3,1,1825,33
+Jensen Weir,England,Midfield,right,184.0,GB1,Brighton & Hove Albion,300000.0,1,0,0,0,72,22
+Mihail Ghecev,Moldova,Midfield,both,178.0,UKR1,FK Minaj,300000.0,1,0,0,0,494,27
+Tigran Avanesyan,Armenia,Midfield,right,184.0,RU1,Baltika Kaliningrad,300000.0,0,0,2,0,836,22
+Michael Golding,England,Midfield,right,180.0,GB1,Chelsea FC,300000.0,0,0,0,0,1,18
+Peter Haring,Austria,Midfield,right,187.0,SC1,Heart of Midlothian FC,300000.0,2,0,0,0,466,31
+Dario Canadjija,Croatia,Midfield,right,176.0,GR1,AE Kifisias,300000.0,4,0,0,1,1118,30
+Mario Martín,Spain,Midfield,right,177.0,ES1,Real Madrid,300000.0,0,0,0,0,36,20
+Mykyta Tatarkov,Ukraine,Midfield,right,178.0,UKR1,Kryvbas Kryvyi Rig,300000.0,1,0,0,1,526,30
+Pedro Aparício,Portugal,Midfield,right,172.0,PO1,Moreirense FC,300000.0,2,0,1,0,317,29
+Morgan Schneiderlin,France,Midfield,right,186.0,GR1,AE Kifisias,300000.0,2,0,0,0,295,35
+Oleg Slobodyan,Ukraine,Midfield,right,181.0,UKR1,Obolon Kyiv,300000.0,2,0,0,1,1189,28
+Raphael Holzhauser,Austria,Midfield,left,193.0,BE1,Oud-Heverlee Leuven,300000.0,0,0,0,0,71,31
+Georgios Vrakas,Greece,Midfield,right,180.0,GR1,PAOK Thessaloniki,300000.0,1,0,0,0,242,23
+Chaïm El Djebali,Tunisia,Midfield,right,170.0,FR1,Olympique Lyon,300000.0,0,0,0,0,11,20
+Gavin Kilkenny,Ireland,Midfield,right,175.0,GB1,AFC Bournemouth,300000.0,0,0,0,0,33,24
+Facundo Soloa,Argentina,Midfield,right,175.0,GR1,AE Kifisias,300000.0,4,0,0,0,538,28
+Manu Bueno,Spain,Midfield,left,178.0,ES1,Sevilla FC,300000.0,1,0,0,0,215,20
+Ismael,Portugal,Midfield,right,184.0,PO1,Moreirense FC,300000.0,5,0,0,0,555,25
+Vitinho,Brazil,Midfield,right,175.0,PO1,FC Arouca,300000.0,2,0,0,2,2827,25
+Vicente Iborra,Spain,Midfield,right,190.0,GR1,Olympiacos Piraeus,300000.0,2,0,1,0,718,37
+Sem Scheperman,Netherlands,Midfield,left,188.0,NL1,Heracles Almelo,300000.0,4,0,0,0,704,22
+Ostap Prytula,Ukraine,Midfield,left,174.0,UKR1,Rukh Lviv,300000.0,2,0,1,1,682,24
+Noah Nartey,Denmark,Midfield,right,180.0,DK1,Bröndby IF,300000.0,0,0,0,1,94,19
+Nathan Bitumazala,France,Midfield,right,178.0,BE1,KAS Eupen,300000.0,2,0,0,0,111,22
+Killian Phillips,Ireland,Midfield,right,190.0,SC1,Aberdeen FC,300000.0,2,0,1,0,721,22
+Ivan Zazvonkin,Russia,Midfield,right,178.0,RU1,Dynamo Moscow,275000.0,0,0,1,0,6,20
+Marko Vejinović,Netherlands,Midfield,right,186.0,NL1,Heracles Almelo,275000.0,6,0,1,1,1304,34
+Teddy Jenks,England,Midfield,right,191.0,SC1,Ross County FC,275000.0,1,0,0,2,706,22
+Amir Batyrev,Russia,Midfield,right,175.0,RU1,FC Sochi,275000.0,3,0,0,0,1000,22
+Vitó,Portugal,Midfield,left,180.0,PO1,CF Estrela Amadora SAD,275000.0,0,0,0,0,647,27
+Shaun Byrne,Scotland,Midfield,right,178.0,SC1,Dundee FC,275000.0,0,0,0,0,83,31
+Hasan Kılıç,Türkiye,Midfield,right,183.0,TR1,Pendikspor,275000.0,0,0,0,0,29,32
+Ryan Trevitt,England,Midfield,right,17.0,GB1,Brentford FC,275000.0,3,0,2,1,357,21
+Neto,Brazil,Midfield,right,181.0,PO1,Casa Pia AC,250000.0,19,0,1,1,5252,33
+Aias Aosman,Syria,Midfield,both,175.0,TR1,Pendikspor,250000.0,0,0,0,0,72,30
+Federico Gino,Uruguay,Midfield,right,176.0,GR1,PAS Giannina,250000.0,11,0,0,0,1850,31
+Zeca,Greece,Midfield,right,182.0,GR1,Panathinaikos FC,250000.0,1,1,0,0,629,36
+Aloïs Confais,France,Midfield,right,174.0,FR1,Le Havre AC,250000.0,0,0,0,0,6,28
+Ivan Tyshchenko,Ukraine,Midfield,right,179.0,UKR1,LNZ Cherkasy,250000.0,1,0,0,1,373,26
+Steve Mvoué,Cameroon,Midfield,right,185.0,PO1,Portimonense SC,250000.0,0,0,0,0,68,22
+Gary Mackay-Steven,Scotland,Midfield,left,175.0,SC1,Kilmarnock FC,250000.0,0,0,0,0,84,34
+Jonathan de Guzmán,Netherlands,Midfield,right,173.0,NL1,Sparta Rotterdam,250000.0,6,0,1,2,2012,37
+Denis Yakuba,Russia,Midfield,both,170.0,RU1,Krylya Sovetov Samara,250000.0,0,0,0,0,151,28
+Janne-Pekka Laine,Finland,Midfield,right,184.0,TR1,Caykur Rizespor,250000.0,2,0,0,0,127,24
+Facundo Bertoglio,Argentina,Midfield,right,172.0,GR1,Volos NPS,250000.0,3,0,2,0,621,34
+Marcel Rømer,Denmark,Midfield,right,181.0,DK1,Lyngby BK,250000.0,4,0,1,1,2069,33
+Yevgen Zaporozhets,Ukraine,Midfield,right,186.0,UKR1,Obolon Kyiv,250000.0,0,0,0,0,149,30
+Denys Kostyshyn,Ukraine,Midfield,left,179.0,UKR1,FK Oleksandriya,250000.0,0,0,0,0,282,27
+Guy Hadida,Israel,Midfield,left,177.0,UKR1,Chornomorets Odessa,250000.0,2,0,1,0,313,29
+Ardit Toli,Albania,Midfield,right,178.0,UKR1,Vorskla Poltava,250000.0,0,0,0,0,225,27
+David Carson,England,Midfield,right,178.0,SC1,Livingston FC,250000.0,1,0,0,0,675,29
+Abdulkadir Parmak,Türkiye,Midfield,right,176.0,TR1,Hatayspor,250000.0,0,0,0,1,484,30
+Georgios Xenitidis,Greece,Midfield,both,175.0,GR1,Panetolikos GFS,250000.0,2,0,0,0,282,25
+Tayfun Aydoğan,Türkiye,Midfield,right,175.0,TR1,Adana Demirspor,250000.0,3,0,2,1,670,28
+Joren Dom,Belgium,Midfield,right,178.0,BE1,Oud-Heverlee Leuven,250000.0,2,0,0,1,1435,35
+Graham Carey,Ireland,Midfield,left,183.0,SC1,St. Johnstone FC,250000.0,4,0,2,7,2358,35
+Tashan Oakley-Boothe,England,Midfield,right,182.0,PO1,CF Estrela Amadora SAD,250000.0,0,0,0,0,93,24
+Daan Rienstra,Netherlands,Midfield,right,174.0,GR1,PAS Giannina,250000.0,3,0,1,1,1502,32
+Rodion Plaksa,Ukraine,Midfield,right,173.0,UKR1,FK Oleksandriya,250000.0,2,0,2,0,574,23
+Ivan Pavlic,Belgium,Midfield,right,185.0,PO1,Portimonense SC,250000.0,1,0,0,0,372,23
+Maksym Grysyo,Ukraine,Midfield,right,172.0,UKR1,Obolon Kyiv,250000.0,5,0,0,1,887,28
+Oleksandr Sklyar,Ukraine,Midfield,both,175.0,UKR1,Vorskla Poltava,250000.0,10,1,3,6,1820,33
+Andy Halliday,Scotland,Midfield,left,181.0,SC1,Motherwell FC,250000.0,2,0,1,1,467,33
+Dmytro Khomchenovskyi,Ukraine,Midfield,both,182.0,UKR1,Kryvbas Kryvyi Rig,250000.0,2,1,1,5,1482,34
+Gonçalo Nogueira,Portugal,Midfield,right,180.0,PO1,Vitória Guimarães SC,250000.0,0,0,1,0,24,21
+Romildo Del Piage,Brazil,Midfield,right,183.0,BE1,RWD Molenbeek,250000.0,0,0,1,0,58,24
+Mikhail Shchetinin,Russia,Midfield,right,183.0,RU1,Lokomotiv Moscow,250000.0,0,0,0,0,38,19
+Artem Kulakovskyi,Ukraine,Midfield,right,174.0,UKR1,Vorskla Poltava,250000.0,2,0,1,0,391,22
+Thabo Cele,South Africa,Midfield,right,178.0,RU1,Fakel Voronezh,250000.0,3,0,0,0,508,28
+Bryan Olivera,Uruguay,Midfield,left,169.0,GR1,Volos NPS,250000.0,1,0,0,0,103,30
+Gustav Fraulo,Denmark,Midfield,right,183.0,DK1,Lyngby BK,250000.0,0,0,0,0,14,19
+Bogdan Biloshevskyi,Ukraine,Midfield,right,187.0,UKR1,FK Oleksandriya,250000.0,0,0,0,0,548,25
+Pascu,Spain,Midfield,right,184.0,NL1,Almere City FC,250000.0,0,0,0,0,164,24
+Volodymyr Tanchyk,Ukraine,Midfield,both,166.0,UKR1,SK Dnipro-1,250000.0,0,1,2,1,708,33
+Vitaliy Grusha,Ukraine,Midfield,right,178.0,UKR1,Obolon Kyiv,250000.0,3,0,0,1,757,30
+Ebenezer Ofori,Ghana,Midfield,left,172.0,DK1,Vejle Boldklub,250000.0,2,0,0,0,936,29
+Calum Butcher,England,Midfield,right,196.0,SC1,Motherwell FC,250000.0,9,0,0,0,1049,33
+Georgios Konstantakopoulos,Greece,Midfield,both,182.0,GR1,AE Kifisias,250000.0,1,0,2,2,529,20
+Nikolaos Peios,Greece,Midfield,both,183.0,GR1,AE Kifisias,250000.0,4,0,1,0,751,25
+Ktatau,Brazil,Midfield,right,180.0,PO1,GD Chaves,250000.0,0,0,0,0,62,23
+Xavier Mercier,France,Midfield,right,174.0,BE1,RWD Molenbeek,250000.0,2,0,2,3,1318,35
+Antonis Papasavvas,Greece,Midfield,right,185.0,GR1,AE Kifisias,250000.0,6,0,1,0,898,29
+Patrick Vroegh,Netherlands,Midfield,left,175.0,NL1,RKC Waalwijk,225000.0,0,0,0,1,81,25
+Daniel Phillips,Trinidad and Tobago,Midfield,right,175.0,SC1,St. Johnstone FC,225000.0,10,0,0,2,2342,24
+Sven Sprangler,Austria,Midfield,right,182.0,SC1,St. Johnstone FC,225000.0,5,0,0,0,1095,29
+Vítor Gonçalves,Portugal,Midfield,right,174.0,PO1,SC Farense,225000.0,2,0,2,0,792,32
+Yaw Moses,Ghana,Midfield,right,170.0,PO1,FC Arouca,200000.0,0,0,0,0,69,26
+Azer Busuladzic,Bosnia-Herzegovina,Midfield,right,187.0,DK1,Vejle Boldklub,200000.0,2,0,1,0,653,33
+Joeri de Kamps,Netherlands,Midfield,left,176.0,GR1,Volos NPS,200000.0,2,0,0,0,308,32
+Djibril Soumaré,Senegal,Midfield,left,185.0,PO1,SC Braga,200000.0,0,0,0,0,11,22
+Ruslan Chernenko,Ukraine,Midfield,right,173.0,UKR1,Obolon Kyiv,200000.0,4,0,4,3,2398,32
+Jean Barrientos,Uruguay,Midfield,right,174.0,GR1,Volos NPS,200000.0,4,1,0,1,593,34
+Maryan Mysyk,Ukraine,Midfield,left,174.0,UKR1,Rukh Lviv,200000.0,1,0,0,1,193,28
+Bruno Ventura,Portugal,Midfield,right,174.0,PO1,Rio Ave FC,200000.0,1,0,0,0,522,23
+Viktor Tsukanov,Ukraine,Midfield,right,170.0,UKR1,Shakhtar Donetsk,200000.0,0,0,0,0,55,18
+Selu Diallo,Guinea,Midfield,right,187.0,ES1,Deportivo Alavés,200000.0,0,0,0,0,94,21
+Lundrim Hetemi,Albania,Midfield,right,170.0,DK1,Vejle Boldklub,200000.0,0,0,0,0,591,24
+Miguel Rebelo,Portugal,Midfield,right,185.0,PO1,Moreirense FC,200000.0,0,0,0,0,2,21
+Diego Méndez,Spain,Midfield,right,182.0,ES1,Rayo Vallecano,200000.0,0,0,0,1,156,21
+Leroy Fer,Netherlands,Midfield,right,188.0,TR1,Alanyaspor,200000.0,7,1,1,0,1793,35
+Zaim Divanovic,Montenegro,Midfield,right,179.0,RU1,Akhmat Grozny,200000.0,0,0,0,0,434,24
+Milan Corryn,Belgium,Midfield,right,180.0,NL1,Almere City FC,200000.0,0,0,1,1,215,25
+John Joe Patrick Finn,Ireland,Midfield,right,192.0,ES1,Getafe CF,200000.0,0,0,1,0,71,21
+Castro,Portugal,Midfield,right,181.0,PO1,Moreirense FC,200000.0,1,0,2,1,585,36
+Elliot Thorpe,Wales,Midfield,right,176.0,GB1,Luton Town,200000.0,1,0,0,0,2,24
+Mo Sangare,Liberia,Midfield,left,191.0,SC1,Livingston FC,200000.0,5,0,1,2,1151,26
+Sanders Ngabo,Denmark,Midfield,right,174.0,DK1,Lyngby BK,200000.0,0,0,0,0,52,20
+André André,Portugal,Midfield,right,174.0,PO1,Vitória Guimarães SC,200000.0,10,0,0,3,722,35
+Nikolay Titkov,Russia,Midfield,right,177.0,RU1,FK Orenburg,200000.0,1,0,1,2,509,24
+Oleksandr Belyaev,Ukraine,Midfield,right,174.0,UKR1,FK Oleksandriya,200000.0,2,0,1,1,446,25
+Yaroslav Arbuzov,Russia,Midfield,right,176.0,RU1,Baltika Kaliningrad,200000.0,0,0,1,0,108,21
+Fran Pereira,Portugal,Midfield,right,185.0,PO1,GD Estoril Praia,200000.0,0,0,0,0,14,22
+Saïmon Bouabré,France,Midfield,right,174.0,FR1,AS Monaco,200000.0,0,0,0,0,45,18
+Alex Soares,Portugal,Midfield,right,179.0,PO1,GD Estoril Praia,200000.0,1,0,0,0,288,33
+Dennis Adeniran,England,Midfield,right,180.0,PO1,Portimonense SC,200000.0,0,0,0,0,5,26
+Jimi Tauriainen,Finland,Midfield,left,188.0,GB1,Chelsea FC,200000.0,0,0,0,0,2,20
+Andriy Bogdanov,Ukraine,Midfield,right,182.0,UKR1,Kolos Kovalivka,200000.0,7,0,0,1,1125,35
+Cammy Ballantyne,Scotland,Midfield,right,187.0,SC1,St. Johnstone FC,200000.0,0,0,0,0,149,24
+Finlay Robertson,Scotland,Midfield,right,171.0,SC1,Dundee FC,200000.0,2,0,0,0,516,22
+David Simão,Portugal,Midfield,left,183.0,PO1,FC Arouca,200000.0,11,1,0,8,2938,34
+Pedro Pinho,Portugal,Midfield,right,189.0,PO1,GD Chaves,200000.0,2,0,1,0,333,24
+Osama Rashid,Iraq,Midfield,right,178.0,PO1,FC Vizela,200000.0,1,0,0,0,170,33
+Mouhamadou Drammeh,France,Midfield,left,188.0,DK1,Vejle Boldklub,200000.0,0,0,0,0,55,25
+Cole McKinnon,Scotland,Midfield,right,174.0,SC1,Rangers FC,200000.0,0,0,0,0,23,22
+Xabi Huarte,Spain,Midfield,right,172.0,ES1,CA Osasuna,200000.0,0,0,0,0,8,23
+Parfait Bizoza,Burundi,Midfield,right,187.0,DK1,Lyngby BK,200000.0,1,0,0,0,166,25
+Diogo Pinto,Portugal,Midfield,right,175.0,PO1,Casa Pia AC,200000.0,0,0,2,0,415,25
+Adrien Trébel,Madagascar,Midfield,left,174.0,BE1,R Charleroi SC,200000.0,0,0,0,0,102,33
+Sydie Peck,England,Midfield,right,173.0,GB1,Sheffield United,200000.0,0,0,0,0,9,20
+Mauro Bandeira,Portugal,Midfield,right,178.0,GB1,Arsenal FC,200000.0,0,0,0,0,90,21
+Iker Bilbao,Spain,Midfield,left,182.0,GR1,PAS Giannina,200000.0,2,0,0,0,143,28
+José Mari,Spain,Midfield,right,182.0,ES1,Cádiz CF,200000.0,1,0,0,0,146,37
+Dmytro Klyots,Ukraine,Midfield,right,174.0,UKR1,NK Veres Rivne,200000.0,0,0,0,1,479,28
+Santi García,Spain,Midfield,right,184.0,ES1,Getafe CF,200000.0,0,0,0,0,24,23
+Maurício,Brazil,Midfield,right,184.0,PO1,Portimonense SC,200000.0,2,0,0,0,511,36
+Daniil Chernyakov,Russia,Midfield,right,178.0,RU1,Fakel Voronezh,175000.0,0,0,1,0,45,24
+Daouda Weidmann,France,Midfield,right,180.0,NL1,RKC Waalwijk,175000.0,0,0,0,0,65,21
+Vladyslav Khamelyuk,Ukraine,Midfield,left,178.0,UKR1,LNZ Cherkasy,175000.0,2,0,0,0,412,26
+Lasse Schöne,Denmark,Midfield,right,178.0,NL1,NEC Nijmegen,175000.0,2,0,1,5,1365,38
+Jay Turner-Cooke,England,Midfield,left,179.0,SC1,St. Johnstone FC,175000.0,0,0,0,0,223,21
+Juan Munafo,Argentina,Midfield,right,171.0,GR1,Asteras Aktor,150000.0,5,0,1,0,1670,36
+Oleksandr Kucherenko,Ukraine,Midfield,right,185.0,UKR1,NK Veres Rivne,150000.0,3,0,0,0,1986,33
+Connor Smith,Scotland,Midfield,right,176.0,SC1,St. Johnstone FC,150000.0,2,0,1,0,353,22
+Christos Belevonis,Greece,Midfield,right,183.0,GR1,Panetolikos GFS,150000.0,0,0,0,0,156,22
+Tunahan Şamdanlı,Türkiye,Midfield,right,185.0,TR1,Istanbulspor,150000.0,0,0,0,0,76,19
+Quique Fernández,Spain,Midfield,left,177.0,ES1,Real Betis Balompié,150000.0,0,0,0,0,7,21
+Dusan Jovancic,Serbia,Midfield,right,186.0,GR1,AE Kifisias,150000.0,5,0,1,0,436,34
+Vladyslav Semotyuk,Ukraine,Midfield,right,177.0,UKR1,FK Minaj,150000.0,3,1,0,2,765,24
+Angelos Ikonomou,Greece,Midfield,right,170.0,GR1,Panserraikos,150000.0,3,0,0,1,457,29
+James Balagizi,England,Midfield,right,189.0,SC1,Kilmarnock FC,150000.0,0,0,0,0,128,21
+Yiğit Emre Çeltik,Türkiye,Midfield,left,164.0,TR1,Kayserispor,150000.0,0,0,0,0,1,21
+Juan Neira,Argentina,Midfield,right,179.0,GR1,OFI Crete FC,150000.0,7,0,2,2,767,35
+İbrahim Akdağ,Türkiye,Midfield,right,179.0,TR1,Pendikspor,150000.0,5,1,0,1,1661,33
+Lazaros Christodoulopoulos,Greece,Midfield,right,183.0,GR1,Aris Thessaloniki,150000.0,1,0,1,0,127,38
+Matus Begala,Slovakia,Midfield,right,186.0,GR1,PAS Giannina,150000.0,1,0,0,0,35,23
+Samson Lawal,Nigeria,Midfield,right,172.0,SC1,Livingston FC,150000.0,1,0,0,0,23,20
+Sergiy Rybalka,Ukraine,Midfield,right,176.0,UKR1,LNZ Cherkasy,150000.0,6,0,1,1,1093,34
+Franciszek Franczak,Poland,Midfield,right,173.0,SC1,St. Johnstone FC,150000.0,1,0,0,0,384,17
+Daniil Vashchenko,Ukraine,Midfield,right,174.0,UKR1,FK Oleksandriya,150000.0,0,0,0,0,145,19
+Andrew Shinnie,Scotland,Midfield,right,181.0,SC1,Livingston FC,150000.0,4,0,2,1,1992,35
+Yaya Fofana,Cote d'Ivoire,Midfield,right,180.0,FR1,Stade Reims,150000.0,0,0,0,0,28,20
+Travis Hernes,Norway,Midfield,right,179.0,GB1,Newcastle United,150000.0,0,0,0,0,55,19
+Mathias Gehrt,Denmark,Midfield,right,172.0,DK1,Hvidovre IF,150000.0,1,0,0,1,442,32
+Gijs Besselink,Netherlands,Midfield,right,180.0,NL1,Twente Enschede FC,150000.0,0,0,1,0,76,20
+Lawrence Nicholas,Nigeria,Midfield,right,188.0,TR1,Fatih Karagümrük,150000.0,0,0,0,0,20,23
+Aleksey Koltakov,Russia,Midfield,right,175.0,RU1,FK Rostov,150000.0,1,0,0,0,300,19
+André Simões,Portugal,Midfield,right,176.0,PO1,Gil Vicente FC,150000.0,0,0,0,0,58,21
+Panagiotis Pritsas,Greece,Midfield,right,182.0,GR1,AE Kifisias,150000.0,0,0,0,0,423,25
+Eslem Öztürk,Türkiye,Midfield,right,177.0,TR1,Istanbulspor,150000.0,0,0,0,0,155,27
+André Ricardo,Portugal,Midfield,both,178.0,GR1,PAOK Thessaloniki,150000.0,0,0,1,0,28,24
+Raimane Daou,Comoros,Midfield,right,182.0,FR1,Olympique Marseille,150000.0,0,0,0,0,44,20
+Fabien Antunes,France,Midfield,left,183.0,GR1,AE Kifisias,125000.0,1,0,0,0,272,33
+Rayane Aabid,France,Midfield,right,178.0,TR1,Hatayspor,125000.0,1,0,1,0,201,33
+Omar Santana,Spain,Midfield,right,175.0,GR1,PAS Lamia 1964,125000.0,3,0,0,0,681,33
+Sotiris Ninis,Greece,Midfield,right,173.0,GR1,AE Kifisias,125000.0,1,0,0,0,132,34
+Eray Özbek,Türkiye,Midfield,left,178.0,TR1,Kayserispor,125000.0,4,0,1,0,510,22
+Soner Aydoğdu,Türkiye,Midfield,left,180.0,TR1,Samsunspor,125000.0,1,0,2,1,477,34
+Mohamad Sylla,France,Midfield,right,188.0,SC1,Dundee FC,125000.0,1,0,0,1,1386,31
+Giannelli Imbula,DR Congo,Midfield,left,186.0,TR1,Istanbulspor,125000.0,0,0,0,0,59,32
+José Luis Valiente,Spain,Midfield,left,184.0,GR1,Asteras Aktor,125000.0,1,0,0,0,313,33
+Hamza el Dahri,Netherlands,Midfield,right,177.0,NL1,Sparta Rotterdam,100000.0,1,0,0,0,29,19
+Rodrigo Melro,Portugal,Midfield,right,177.0,PO1,GD Chaves,100000.0,0,0,0,0,63,20
+Ryan Howley,Wales,Midfield,right,187.0,SC1,Dundee FC,100000.0,1,0,0,0,363,21
+Jonny Hayes,Ireland,Midfield,left,168.0,SC1,Aberdeen FC,100000.0,3,0,1,0,737,37
+Vitaliy Mykhayliv,Ukraine,Midfield,right,165.0,UKR1,FK Minaj,100000.0,0,0,0,0,90,19
+Charlys,Brazil,Midfield,right,188.0,IT1,Hellas Verona,100000.0,0,0,0,0,34,20
+Davis,Brazil,Midfield,right,175.0,PO1,Portimonense SC,100000.0,1,0,0,0,1,22
+Yevgen Banada,Ukraine,Midfield,right,182.0,UKR1,NK Veres Rivne,100000.0,2,0,0,0,442,32
+Samuel Obinaya,Ukraine,Midfield,right,184.0,UKR1,Metalist 1925 Kharkiv,100000.0,4,0,0,0,369,19
+Dmytro Godya,Ukraine,Midfield,left,170.0,UKR1,NK Veres Rivne,100000.0,1,0,0,0,66,19
+Ivan Matyushenko,Ukraine,Midfield,right,179.0,UKR1,FK Minaj,100000.0,0,0,0,1,128,21
+Berkay Aydoğmuş,Türkiye,Midfield,right,180.0,TR1,Basaksehir FK,100000.0,0,0,0,0,64,21
+Francesco D'Alessio,Italy,Midfield,right,182.0,IT1,AS Roma,100000.0,0,0,0,0,13,20
+Isaac Asante,Belgium,Midfield,right,178.0,BE1,KV Mechelen,100000.0,0,0,0,0,4,22
+Maksym Melnychenko,Ukraine,Midfield,right,178.0,UKR1,SK Dnipro-1,100000.0,0,0,0,0,28,19
+Rúben Ribeiro,Portugal,Midfield,right,175.0,PO1,GD Chaves,100000.0,7,0,1,2,1688,37
+Nathan Huygevelde,Belgium,Midfield,right,185.0,BE1,Union Saint-Gilloise,100000.0,0,0,0,0,15,21
+Pedro Moreira,Portugal,Midfield,right,181.0,PO1,FC Arouca,100000.0,1,0,0,0,38,35
+Nazariy Vorobchak,Ukraine,Midfield,right,176.0,UKR1,FK Minaj,100000.0,0,0,0,0,54,24
+Ilya Gulko,Ukraine,Midfield,right,183.0,UKR1,Zorya Lugansk,100000.0,2,0,0,0,15,22
+Vladyslav Ogirya,Ukraine,Midfield,right,175.0,UKR1,Chornomorets Odessa,100000.0,3,0,0,0,735,34
+Oleg Ivanov,Russia,Midfield,right,192.0,RU1,Rubin Kazan,100000.0,0,0,0,0,285,38
+Yuriy Tlumak,Ukraine,Midfield,left,184.0,UKR1,Zorya Lugansk,100000.0,0,0,0,0,6,22
+Sergiy Shestakov,Ukraine,Midfield,right,172.0,UKR1,LNZ Cherkasy,100000.0,3,0,3,1,1283,34
+Vasyl Grytsuk,Ukraine,Midfield,both,180.0,UKR1,Polissya Zhytomyr,100000.0,2,0,2,1,760,37
+Vadym Milko,Ukraine,Midfield,right,182.0,UKR1,Kolos Kovalivka,100000.0,2,0,3,3,1317,38
+Finn Dicke,Netherlands,Midfield,right,181.0,PO1,GD Estoril Praia,100000.0,0,0,0,0,160,20
+Sergiy Panasenko,Ukraine,Midfield,left,172.0,UKR1,FK Minaj,100000.0,4,0,0,0,321,32
+Vítor Gomes,Portugal,Midfield,right,182.0,PO1,Rio Ave FC,100000.0,3,0,0,0,343,37
+Selim Dilli,Türkiye,Midfield,left,177.0,TR1,Kasimpasa,100000.0,1,0,0,0,79,26
+Yunus Mallı,Türkiye,Midfield,right,179.0,TR1,Konyaspor,100000.0,0,0,0,0,383,32
+Emanuel Sakic,Austria,Midfield,both,177.0,GR1,AE Kifisias,100000.0,2,0,0,0,196,34
+Hakan Arslan,Türkiye,Midfield,right,186.0,TR1,Sivasspor,100000.0,1,0,0,0,566,36
+Charlie Reilly,Scotland,Midfield,right,181.0,SC1,Dundee FC,100000.0,0,0,0,0,101,23
+Lauge Sandgrav,Denmark,Midfield,right,184.0,DK1,Lyngby BK,100000.0,0,0,0,0,81,20
+Mads Albaek,Denmark,Midfield,left,182.0,DK1,Randers FC,100000.0,1,0,0,0,466,35
+Dmytro Kravchenko,Ukraine,Midfield,right,177.0,UKR1,Metalist 1925 Kharkiv,100000.0,0,0,0,0,86,29
+Seruca,Portugal,Midfield,right,191.0,PO1,SC Farense,100000.0,0,0,0,0,90,24
+Cameron Peupion,Australia,Midfield,right,175.0,GB1,Brighton & Hove Albion,100000.0,0,0,0,0,46,22
+Pedro Tiba,Portugal,Midfield,right,174.0,PO1,Gil Vicente FC,100000.0,7,0,3,2,1582,36
+Ryan Flynn,Scotland,Midfield,right,171.0,SC1,St. Mirren FC,100000.0,1,0,0,0,382,36
+Efe Sayhan,Türkiye,Midfield,right,176.0,TR1,Pendikspor,75000.0,0,0,0,0,41,20
+Abdula Bagamaev,Russia,Midfield,right,176.0,RU1,Fakel Voronezh,75000.0,3,0,0,0,411,20
+Nils Rossen,Netherlands,Midfield,left,181.0,NL1,NEC Nijmegen,75000.0,0,0,0,0,29,20
+Danila Knyazev,Russia,Midfield,right,173.0,RU1,FK Orenburg,75000.0,0,0,0,0,27,21
+Fahri Ay,Türkiye,Midfield,left,178.0,TR1,Besiktas JK,75000.0,1,0,0,0,83,20
+Özcan Şahan,Türkiye,Midfield,right,176.0,TR1,Istanbulspor,75000.0,2,0,0,1,310,26
+İzzet Çelik,Türkiye,Midfield,right,166.0,TR1,Adana Demirspor,75000.0,0,0,0,0,44,20
+Sergiy Kopyl,Ukraine,Midfield,right,175.0,UKR1,LNZ Cherkasy,75000.0,1,0,0,0,138,22
+Flip Klomp,Netherlands,Midfield,left,185.0,NL1,FC Volendam,75000.0,0,0,0,0,34,23
+Daniil Shantaliy,Russia,Midfield,right,179.0,RU1,FK Rostov,75000.0,0,0,0,0,180,20
+Danil Kapustyanskiy,Russia,Midfield,right,176.0,RU1,FK Orenburg,75000.0,0,0,0,0,114,20
+Rayvien Rosario,Curacao,Midfield,right,181.0,NL1,Sparta Rotterdam,75000.0,1,0,0,0,86,20
+Osman Çelik,Türkiye,Midfield,right,182.0,TR1,Samsunspor,75000.0,4,0,0,0,776,33
+Yaroslav Martynyuk,Ukraine,Midfield,left,181.0,UKR1,Metalist 1925 Kharkiv,75000.0,3,0,0,2,866,35
+Vasyl Vashkeba,Ukraine,Midfield,right,173.0,UKR1,FK Minaj,50000.0,0,0,0,0,14,26
+Andriy Tkachuk,Ukraine,Midfield,right,184.0,UKR1,Metalist 1925 Kharkiv,50000.0,5,0,0,0,893,37
+Magomed Yakuev,Russia,Midfield,right,174.0,RU1,Akhmat Grozny,50000.0,0,0,0,0,1,20
+Oleg Kryvoruchko,Ukraine,Midfield,right,180.0,UKR1,Kolos Kovalivka,50000.0,0,0,0,0,165,20
+Danil Anosov,Russia,Midfield,right,176.0,RU1,FC Sochi,50000.0,1,0,0,0,148,19
+Pablo Muñoz,Spain,Midfield,right,170.0,ES1,Rayo Vallecano,50000.0,0,0,0,0,74,21
+Vladyslav Mukhamatgaleyev,Ukraine,Midfield,right,168.0,UKR1,Obolon Kyiv,50000.0,0,0,0,0,53,22
+Artem Prysyazhnyuk,Ukraine,Midfield,left,180.0,UKR1,Chornomorets Odessa,50000.0,0,0,0,0,82,19
+Danylo Tuzenko,Ukraine,Midfield,right,178.0,UKR1,Vorskla Poltava,50000.0,0,0,0,0,2,21
+Dmytro Chernysh,Ukraine,Midfield,right,173.0,UKR1,Vorskla Poltava,50000.0,0,0,0,0,38,20
+Maksim Shakhov,Russia,Midfield,right,174.0,RU1,FC Pari Nizhniy Novgorod,50000.0,0,0,0,0,7,20
+Egor Nazarenko,Russia,Midfield,right,183.0,RU1,Dynamo Moscow,50000.0,0,0,0,0,6,19
+Dirk Asare,Belgium,Midfield,right,173.0,BE1,KV Mechelen,50000.0,0,0,0,0,2,20
+Mahmut Tekdemir,Türkiye,Midfield,both,178.0,TR1,Basaksehir FK,50000.0,1,0,0,0,274,37
+Oleksiy Dovgyi,Ukraine,Midfield,left,186.0,UKR1,Rukh Lviv,50000.0,0,0,0,0,55,35
+Florent Shehu,Switzerland,Midfield,left,185.0,TR1,Adana Demirspor,50000.0,0,0,0,0,3,22
+Minkail Matsuev,Russia,Midfield,right,170.0,RU1,Akhmat Grozny,50000.0,0,0,0,0,22,24
+Max Sheaf,England,Midfield,right,183.0,SC1,Ross County FC,50000.0,3,0,0,0,759,24
+Nikita Kashtan,Russia,Midfield,right,179.0,RU1,FK Rostov,25000.0,0,0,2,0,244,21
+Daniil Stolyarov,Russia,Midfield,right,181.0,RU1,Spartak Moscow,25000.0,1,0,0,0,65,21
+Eren Kaya,Türkiye,Midfield,left,179.0,TR1,Sivasspor,25000.0,0,0,0,0,5,20
+Matti Lund Nielsen,Denmark,Midfield,right,184.0,DK1,Hvidovre IF,25000.0,0,0,0,0,4,36

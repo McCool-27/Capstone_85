@@ -1,0 +1,2258 @@
+name,country_of_citizenship,position,foot,height_in_cm,current_club_domestic_competition_id,current_club_name,market_value_in_eur,yellow_cards,red_cards,goals,assists,minutes_played,age
+William Saliba,France,Defender,right,192.0,GB1,Arsenal FC,80000000.0,6,0,2,1,4502,23
+Rúben Dias,Portugal,Defender,right,187.0,GB1,Manchester City,80000000.0,3,0,0,0,3818,27
+Josko Gvardiol,Croatia,Defender,left,185.0,GB1,Manchester City,75000000.0,5,0,5,3,3479,23
+Trent Alexander-Arnold,England,Defender,right,180.0,GB1,Liverpool FC,70000000.0,7,0,3,9,2617,26
+Alessandro Bastoni,Italy,Defender,left,190.0,IT1,Inter Milan,70000000.0,5,0,1,4,2924,25
+Ronald Araujo,Uruguay,Defender,right,192.0,ES1,FC Barcelona,70000000.0,10,1,1,2,3024,25
+Gabriel Magalhães,Brazil,Defender,left,190.0,GB1,Arsenal FC,70000000.0,5,0,4,0,4331,27
+Cristian Romero,Argentina,Defender,right,185.0,GB1,Tottenham Hotspur,65000000.0,7,1,5,0,2882,26
+Matthijs de Ligt,Netherlands,Defender,right,189.0,L1,Bayern Munich,65000000.0,5,0,2,1,1924,25
+Éder Militão,Brazil,Defender,right,186.0,ES1,Real Madrid,60000000.0,0,0,0,0,509,27
+Bremer,Brazil,Defender,right,188.0,IT1,Juventus FC,60000000.0,10,0,3,0,3594,27
+Theo Hernández,France,Defender,left,184.0,IT1,AC Milan,60000000.0,13,1,5,11,4055,27
+Achraf Hakimi,Morocco,Defender,right,181.0,FR1,Paris Saint-Germain,60000000.0,7,0,5,6,3003,26
+Nuno Mendes,Portugal,Defender,left,183.0,FR1,Paris Saint-Germain,55000000.0,4,0,1,1,688,22
+Ben White,England,Defender,right,186.0,GB1,Arsenal FC,55000000.0,11,0,4,5,4086,27
+Micky van de Ven,Netherlands,Defender,left,193.0,GB1,Tottenham Hotspur,55000000.0,6,0,3,0,2523,23
+Alphonso Davies,Canada,Defender,left,185.0,L1,Bayern Munich,50000000.0,3,0,3,6,3013,24
+Levi Colwill,England,Defender,left,187.0,GB1,Chelsea FC,50000000.0,3,0,1,1,2433,21
+Benjamin Pavard,France,Defender,right,186.0,IT1,Inter Milan,50000000.0,8,0,0,3,2412,28
+Marquinhos,Brazil,Defender,right,183.0,FR1,Paris Saint-Germain,50000000.0,3,0,0,3,2680,30
+Leny Yoro,France,Defender,right,190.0,FR1,LOSC Lille,50000000.0,5,0,3,0,2842,19
+Lisandro Martínez,Argentina,Defender,left,175.0,GB1,Manchester United,50000000.0,4,0,0,1,900,27
+Federico Dimarco,Italy,Defender,left,175.0,IT1,Inter Milan,50000000.0,0,0,6,8,2685,27
+Joshua Kimmich,Germany,Defender,right,177.0,L1,Bayern Munich,50000000.0,3,1,2,10,3503,29
+Pedro Porro,Spain,Defender,right,173.0,GB1,Tottenham Hotspur,45000000.0,4,0,4,7,3273,25
+António Silva,Portugal,Defender,right,187.0,PO1,SL Benfica,45000000.0,9,2,2,0,3822,21
+Jules Koundé,France,Defender,right,180.0,ES1,FC Barcelona,45000000.0,5,0,2,4,4099,26
+Gonçalo Inácio,Portugal,Defender,left,186.0,PO1,Sporting CP,45000000.0,10,0,4,1,3440,23
+Destiny Udogie,Italy,Defender,left,188.0,GB1,Tottenham Hotspur,45000000.0,8,0,2,3,2578,22
+Min-jae Kim,"Korea, South",Defender,right,190.0,L1,Bayern Munich,45000000.0,4,0,1,2,2765,28
+Giorgio Scalvini,Italy,Defender,right,194.0,IT1,Atalanta BC,45000000.0,6,0,2,3,3224,21
+Riccardo Calafiori,Italy,Defender,left,188.0,IT1,Bologna FC 1909,45000000.0,6,0,2,5,2537,22
+Alejandro Grimaldo,Spain,Defender,left,171.0,L1,Bayer 04 Leverkusen,45000000.0,3,0,12,20,4077,29
+Edmond Tapsoba,Burkina Faso,Defender,right,194.0,L1,Bayer 04 Leverkusen,45000000.0,7,0,3,1,3488,25
+Ibrahima Konaté,France,Defender,right,194.0,GB1,Liverpool FC,45000000.0,7,0,0,1,2588,25
+Pau Torres,Spain,Defender,left,192.0,GB1,Aston Villa,45000000.0,1,0,2,1,2706,28
+Sven Botman,Netherlands,Defender,left,195.0,GB1,Newcastle United,45000000.0,2,0,2,2,1776,25
+Dayot Upamecano,France,Defender,right,186.0,L1,Bayern Munich,45000000.0,4,1,1,0,2360,26
+Manuel Akanji,Switzerland,Defender,right,188.0,GB1,Manchester City,45000000.0,8,0,4,0,3864,29
+Jarrad Branthwaite,England,Defender,left,195.0,GB1,Everton FC,42000000.0,8,0,3,0,3657,22
+Axel Disasi,France,Defender,right,190.0,GB1,Chelsea FC,40000000.0,6,0,3,0,3690,26
+Andreas Christensen,Denmark,Defender,right,187.0,ES1,FC Barcelona,40000000.0,8,0,3,2,2790,28
+Ian Maatsen,Netherlands,Defender,left,178.0,L1,Borussia Dortmund,40000000.0,10,0,3,2,2277,22
+Nico Schlotterbeck,Germany,Defender,left,191.0,L1,Borussia Dortmund,40000000.0,10,0,2,5,4078,25
+Castello Lukeba,France,Defender,left,184.0,L1,RB Leipzig,40000000.0,5,0,1,0,2968,22
+Lucas Hernández,France,Defender,left,184.0,FR1,Paris Saint-Germain,40000000.0,9,0,2,2,2847,28
+Fikayo Tomori,England,Defender,right,185.0,IT1,AC Milan,40000000.0,12,0,4,0,2845,27
+Piero Hincapié,Ecuador,Defender,left,184.0,L1,Bayer 04 Leverkusen,40000000.0,3,0,1,1,2617,23
+Nathan Aké,Netherlands,Defender,left,180.0,GB1,Manchester City,40000000.0,0,0,3,2,3057,29
+Reece James,England,Defender,right,180.0,GB1,Chelsea FC,40000000.0,2,1,0,2,482,25
+Robin Le Normand,Spain,Defender,right,187.0,ES1,Real Sociedad,40000000.0,17,0,2,0,3623,28
+Alejandro Balde,Spain,Defender,left,175.0,ES1,FC Barcelona,40000000.0,2,0,1,1,2000,21
+Ousmane Diomande,Cote d'Ivoire,Defender,right,190.0,PO1,Sporting CP,40000000.0,8,0,3,1,2797,21
+Oleksandr Zinchenko,Ukraine,Defender,left,175.0,GB1,Arsenal FC,38000000.0,3,0,1,2,2082,28
+Rico Lewis,England,Defender,right,169.0,GB1,Manchester City,38000000.0,1,0,2,4,1608,20
+John Stones,England,Defender,right,188.0,GB1,Manchester City,38000000.0,2,0,1,2,1859,30
+Jurrien Timber,Netherlands,Defender,right,179.0,GB1,Arsenal FC,38000000.0,2,0,0,0,147,23
+Marc Guéhi,England,Defender,right,182.0,GB1,Crystal Palace,38000000.0,2,0,0,1,2254,24
+Murillo,Brazil,Defender,left,184.0,GB1,Nottingham Forest,35000000.0,6,0,0,2,3165,22
+Tino Livramento,England,Defender,right,182.0,GB1,Newcastle United,35000000.0,1,0,1,1,1892,22
+Nayef Aguerd,Morocco,Defender,left,190.0,GB1,West Ham United,35000000.0,3,0,2,1,2358,28
+Diogo Dalot,Portugal,Defender,right,183.0,GB1,Manchester United,35000000.0,7,0,3,5,4364,25
+Rayan Aït-Nouri,Algeria,Defender,left,180.0,GB1,Wolverhampton Wanderers,35000000.0,8,0,3,2,2669,23
+Takehiro Tomiyasu,Japan,Defender,right,188.0,GB1,Arsenal FC,35000000.0,2,0,2,3,1654,26
+Ezri Konsa,England,Defender,right,183.0,GB1,Aston Villa,35000000.0,7,0,1,0,3464,27
+Alessandro Buongiorno,Italy,Defender,left,190.0,IT1,Torino FC,35000000.0,7,0,3,1,2740,25
+Odilon Kossounou,Cote d'Ivoire,Defender,right,191.0,L1,Bayer 04 Leverkusen,35000000.0,6,0,1,0,2295,24
+Joachim Andersen,Denmark,Defender,right,192.0,GB1,Crystal Palace,35000000.0,8,0,2,3,3597,28
+Jean-Clair Todibo,France,Defender,right,190.0,FR1,OGC Nice,35000000.0,2,1,0,2,2654,25
+Mohamed Simakan,France,Defender,right,187.0,L1,RB Leipzig,35000000.0,12,0,3,4,2853,24
+Willian Pacho,Ecuador,Defender,left,187.0,L1,Eintracht Frankfurt,35000000.0,8,0,0,2,3399,23
+Dávid Hancko,Slovakia,Defender,left,188.0,NL1,Feyenoord Rotterdam,35000000.0,3,0,7,3,4325,27
+Malo Gusto,France,Defender,right,178.0,GB1,Chelsea FC,35000000.0,7,1,0,9,2475,21
+Lutsharel Geertruida,Netherlands,Defender,right,184.0,NL1,Feyenoord Rotterdam,32000000.0,5,0,9,5,4241,24
+Max Kilman,England,Defender,left,194.0,GB1,Wolverhampton Wanderers,32000000.0,8,0,2,1,3981,27
+Luke Shaw,England,Defender,left,178.0,GB1,Manchester United,32000000.0,7,0,0,1,1180,29
+Ilya Zabarnyi,Ukraine,Defender,right,189.0,GB1,AFC Bournemouth,32000000.0,6,0,1,0,3816,22
+Noussair Mazraoui,Morocco,Defender,right,183.0,L1,Bayern Munich,30000000.0,4,0,0,4,1982,27
+Pervis Estupiñán,Ecuador,Defender,left,175.0,GB1,Brighton & Hove Albion,30000000.0,7,0,3,4,1783,27
+Ferdi Kadıoğlu,Türkiye,Defender,right,174.0,TR1,Fenerbahce,30000000.0,3,0,2,5,3734,25
+Andrew Robertson,Scotland,Defender,left,178.0,GB1,Liverpool FC,30000000.0,2,0,3,2,2194,30
+Marc Cucurella,Spain,Defender,left,173.0,GB1,Chelsea FC,30000000.0,10,0,1,2,2233,26
+Jonathan Tah,Germany,Defender,right,195.0,L1,Bayer 04 Leverkusen,30000000.0,10,0,6,1,3984,28
+Benoît Badiashile,France,Defender,left,194.0,GB1,Chelsea FC,30000000.0,1,0,1,1,1666,23
+Milan Skriniar,Slovakia,Defender,right,188.0,FR1,Paris Saint-Germain,30000000.0,3,0,1,0,2234,29
+Hiroki Ito,Japan,Defender,left,188.0,L1,VfB Stuttgart,30000000.0,2,0,0,2,2502,25
+Jakub Kiwior,Poland,Defender,left,189.0,GB1,Arsenal FC,30000000.0,2,0,1,3,1594,24
+Cristhian Mosquera,Spain,Defender,right,191.0,ES1,Valencia CF,30000000.0,2,0,0,0,3252,20
+Pau Cubarsí,Spain,Defender,right,184.0,ES1,FC Barcelona,30000000.0,6,0,0,1,1927,18
+Jorrel Hato,Netherlands,Defender,left,182.0,NL1,Ajax Amsterdam,30000000.0,7,0,1,3,3772,18
+Lucas Beraldo,Brazil,Defender,left,182.0,FR1,Paris Saint-Germain,30000000.0,5,1,1,0,1437,21
+Virgil van Dijk,Netherlands,Defender,right,195.0,GB1,Liverpool FC,30000000.0,4,1,4,2,4072,33
+Vitaliy Mykolenko,Ukraine,Defender,left,180.0,GB1,Everton FC,28000000.0,0,0,2,0,3041,25
+Nahuel Molina,Argentina,Defender,right,175.0,ES1,Atlético de Madrid,28000000.0,5,1,2,5,3025,26
+Matty Cash,Poland,Defender,right,185.0,GB1,Aston Villa,28000000.0,9,0,4,2,2555,27
+Ben Chilwell,England,Defender,left,180.0,GB1,Chelsea FC,28000000.0,6,0,0,1,1172,28
+Josip Stanisic,Croatia,Defender,both,187.0,L1,Bayer 04 Leverkusen,28000000.0,3,0,4,6,2354,24
+Aaron Hickey,Scotland,Defender,both,185.0,GB1,Brentford FC,28000000.0,5,0,0,0,812,22
+Joe Gomez,England,Defender,right,188.0,GB1,Liverpool FC,28000000.0,7,0,0,3,3133,27
+Olivier Boscagli,France,Defender,left,181.0,NL1,PSV Eindhoven,27000000.0,5,0,3,4,4075,27
+Kevin Danso,Austria,Defender,right,190.0,FR1,RC Lens,25000000.0,9,0,1,0,3285,26
+Gianluca Mancini,Italy,Defender,right,190.0,IT1,AS Roma,25000000.0,12,1,7,1,4049,28
+Mario Hermoso,Spain,Defender,left,184.0,ES1,Atlético de Madrid,25000000.0,15,0,2,2,3802,29
+Wilfried Singo,Cote d'Ivoire,Defender,right,190.0,FR1,AS Monaco,25000000.0,8,1,1,1,2188,24
+Kurt Zouma,France,Defender,right,190.0,GB1,West Ham United,25000000.0,4,0,3,0,3379,30
+Nathan Collins,Ireland,Defender,right,193.0,GB1,Brentford FC,25000000.0,3,0,2,1,2950,23
+José Gayà,Spain,Defender,left,172.0,ES1,Valencia CF,25000000.0,3,0,2,3,1917,29
+Andrea Cambiaso,Italy,Defender,both,182.0,IT1,Juventus FC,25000000.0,10,0,3,6,2723,24
+Evan Ndicka,Cote d'Ivoire,Defender,left,192.0,IT1,AS Roma,25000000.0,11,0,0,3,2924,25
+Perr Schuurs,Netherlands,Defender,right,191.0,IT1,Torino FC,25000000.0,2,0,1,0,861,25
+Tyrick Mitchell,England,Defender,left,181.0,GB1,Crystal Palace,25000000.0,6,0,2,3,3544,25
+Facundo Medina,Argentina,Defender,left,184.0,FR1,RC Lens,25000000.0,15,0,1,4,3329,25
+Antonio Rüdiger,Germany,Defender,right,190.0,ES1,Real Madrid,25000000.0,8,0,2,3,4076,31
+João Cancelo,Portugal,Defender,right,182.0,ES1,FC Barcelona,25000000.0,8,0,4,5,3318,30
+Antonee Robinson,United States,Defender,left,183.0,GB1,Fulham FC,25000000.0,6,0,0,7,3749,27
+Yan Couto,Brazil,Defender,right,168.0,ES1,Girona FC,25000000.0,9,0,2,10,2483,22
+Radu Drăgușin,Romania,Defender,right,191.0,IT1,Genoa CFC,25000000.0,2,0,2,1,2358,22
+Dani Vivian,Spain,Defender,right,184.0,ES1,Athletic Bilbao,25000000.0,8,0,0,1,3493,25
+Malick Thiaw,Germany,Defender,right,194.0,IT1,AC Milan,25000000.0,6,1,0,1,2161,23
+Michael Kayode,Italy,Defender,right,179.0,IT1,ACF Fiorentina,25000000.0,2,0,1,2,2489,20
+Miguel Gutiérrez,Spain,Defender,left,180.0,ES1,Girona FC,25000000.0,4,0,2,9,3378,23
+Daniel Muñoz,Colombia,Defender,right,181.0,BE1,KRC Genk,23000000.0,11,0,6,6,3484,28
+Quilindschy Hartman,Netherlands,Defender,left,183.0,NL1,Feyenoord Rotterdam,23000000.0,4,0,0,7,3172,23
+Jarell Quansah,England,Defender,right,190.0,GB1,Liverpool FC,22000000.0,2,0,3,3,2494,22
+Ferland Mendy,France,Defender,left,180.0,ES1,Real Madrid,22000000.0,6,0,1,0,2835,29
+Aitor Paredes,Spain,Defender,right,185.0,ES1,Athletic Bilbao,22000000.0,10,0,1,0,3306,24
+Konstantinos Tsimikas,Greece,Defender,left,179.0,GB1,Liverpool FC,22000000.0,0,0,0,4,1465,28
+Marcos Senesi,Argentina,Defender,left,185.0,GB1,AFC Bournemouth,22000000.0,15,0,4,5,2680,27
+José María Giménez,Uruguay,Defender,right,185.0,ES1,Atlético de Madrid,22000000.0,8,0,0,1,2225,30
+Taylor Harwood-Bellis,England,Defender,right,188.0,GB1,Manchester City,22000000.0,0,0,0,1,171,23
+Igor Zubeldia,Spain,Defender,right,181.0,ES1,Real Sociedad,22000000.0,15,1,0,2,3698,27
+Sergiño Dest,United States,Defender,right,173.0,NL1,PSV Eindhoven,22000000.0,1,0,2,7,3123,24
+Tosin Adarabioyo,England,Defender,right,196.0,GB1,Fulham FC,20000000.0,2,0,2,0,1996,27
+Arthur Theate,Belgium,Defender,left,185.0,FR1,Stade Rennais FC,20000000.0,5,0,2,0,2939,24
+Milos Kerkez,Hungary,Defender,left,180.0,GB1,AFC Bournemouth,20000000.0,6,1,0,1,2351,21
+Waldemar Anton,Germany,Defender,right,189.0,L1,VfB Stuttgart,20000000.0,8,0,1,4,3248,28
+Aaron Wan-Bissaka,England,Defender,right,183.0,GB1,Manchester United,20000000.0,5,0,0,3,2411,27
+Julian Ryerson,Norway,Defender,right,183.0,L1,Borussia Dortmund,20000000.0,5,0,4,1,2940,27
+Aymeric Laporte,Spain,Defender,left,191.0,GB1,Manchester City,20000000.0,0,0,0,0,11,30
+Eric García,Spain,Defender,right,182.0,ES1,Girona FC,20000000.0,4,0,5,0,2726,24
+Konstantinos Mavropanos,Greece,Defender,right,194.0,L1,VfB Stuttgart,20000000.0,2,0,1,0,2706,27
+Rico Henry,England,Defender,left,170.0,GB1,Brentford FC,20000000.0,1,0,0,1,402,27
+Maxence Lacroix,France,Defender,right,190.0,L1,VfL Wolfsburg,20000000.0,6,2,4,1,2665,24
+Issa Diop,France,Defender,right,194.0,GB1,Fulham FC,20000000.0,5,0,1,0,1949,28
+Adam Webster,England,Defender,right,190.0,GB1,Brighton & Hove Albion,20000000.0,3,0,0,0,1270,30
+Vanderson,Brazil,Defender,right,173.0,FR1,AS Monaco,20000000.0,6,0,3,1,1649,23
+Benjamin Henrichs,Germany,Defender,right,185.0,L1,RB Leipzig,20000000.0,7,0,1,8,3289,27
+Isak Hien,Sweden,Defender,right,191.0,IT1,Hellas Verona,20000000.0,8,1,0,1,2622,26
+David Raum,Germany,Defender,left,180.0,L1,RB Leipzig,20000000.0,8,0,3,13,3555,26
+Toti,Portugal,Defender,left,187.0,GB1,Wolverhampton Wanderers,20000000.0,7,0,2,3,3406,26
+Leonardo Balerdi,Argentina,Defender,right,187.0,FR1,Olympique Marseille,20000000.0,11,0,2,1,3395,26
+David Alaba,Austria,Defender,left,180.0,ES1,Real Madrid,20000000.0,3,0,0,2,1407,32
+Pierre Kalulu,France,Defender,right,182.0,IT1,AC Milan,20000000.0,1,0,0,0,505,24
+Caio Henrique,Brazil,Defender,left,178.0,FR1,AS Monaco,20000000.0,0,0,0,5,625,27
+Raphaël Varane,France,Defender,right,191.0,GB1,Manchester United,20000000.0,2,0,1,0,2211,31
+Bafodé Diakité,France,Defender,right,185.0,FR1,LOSC Lille,18000000.0,5,0,5,2,1736,24
+Adrien Truffert,France,Defender,left,176.0,FR1,Stade Rennais FC,18000000.0,8,0,2,3,2709,23
+Sam Beukema,Netherlands,Defender,right,188.0,IT1,Bologna FC 1909,18000000.0,6,0,2,1,2879,26
+Mykola Matvienko,Ukraine,Defender,left,182.0,UKR1,Shakhtar Donetsk,18000000.0,7,0,5,1,2970,28
+Lewis Hall,England,Defender,left,179.0,GB1,Newcastle United,18000000.0,3,0,2,0,967,20
+Sacha Boey,France,Defender,right,178.0,TR1,Galatasaray,18000000.0,8,0,2,0,2899,24
+Robin Koch,Germany,Defender,right,191.0,L1,Eintracht Frankfurt,18000000.0,11,0,2,2,3142,28
+Renan Lodi,Brazil,Defender,left,173.0,FR1,Olympique Marseille,18000000.0,7,0,0,1,1859,26
+Emerson Royal,Brazil,Defender,right,183.0,GB1,Tottenham Hotspur,18000000.0,4,0,1,0,1335,26
+Lloyd Kelly,England,Defender,left,190.0,GB1,AFC Bournemouth,18000000.0,2,0,1,1,1646,26
+Federico Gatti,Italy,Defender,right,190.0,IT1,Juventus FC,18000000.0,9,0,4,0,3000,26
+Davinson Sánchez,Colombia,Defender,right,187.0,TR1,Galatasaray,18000000.0,5,0,2,2,2294,28
+Jan Paul van Hecke,Netherlands,Defender,right,189.0,GB1,Brighton & Hove Albion,18000000.0,9,0,0,2,3353,24
+Zeno Debast,Belgium,Defender,right,191.0,BE1,RSC Anderlecht,18000000.0,7,1,0,0,2476,21
+Jordan Teze,Netherlands,Defender,right,183.0,NL1,PSV Eindhoven,18000000.0,5,0,3,12,3827,25
+Anel Ahmedhodzic,Bosnia-Herzegovina,Defender,right,190.0,GB1,Sheffield United,18000000.0,11,0,2,0,2740,25
+Harry Maguire,England,Defender,right,194.0,GB1,Manchester United,18000000.0,4,0,4,2,2310,31
+Maximilian Mittelstädt,Germany,Defender,left,180.0,L1,VfB Stuttgart,17000000.0,6,0,2,5,2272,27
+Neco Williams,Wales,Defender,right,183.0,GB1,Nottingham Forest,17000000.0,4,0,0,1,1996,23
+Dodô,Brazil,Defender,right,166.0,IT1,ACF Fiorentina,17000000.0,1,0,0,0,877,26
+Victor Nelsson,Denmark,Defender,right,185.0,TR1,Galatasaray,17000000.0,3,1,2,0,3176,26
+Igor,Brazil,Defender,left,188.0,GB1,Brighton & Hove Albion,17000000.0,6,0,0,0,2287,26
+Jhon Lucumí,Colombia,Defender,left,187.0,IT1,Bologna FC 1909,17000000.0,1,0,0,0,2399,26
+Timothy Castagne,Belgium,Defender,right,185.0,GB1,Fulham FC,17000000.0,3,0,1,3,3069,29
+Danilho Doekhi,Netherlands,Defender,right,190.0,L1,1.FC Union Berlin,17000000.0,2,0,2,0,2510,26
+Diego Carlos,Brazil,Defender,right,185.0,GB1,Aston Villa,16000000.0,5,0,0,1,2026,31
+Yann Bisseck,Germany,Defender,right,196.0,IT1,Inter Milan,16000000.0,3,0,2,2,1162,24
+Max Aarons,England,Defender,right,171.0,GB1,AFC Bournemouth,16000000.0,2,0,0,1,1422,25
+Calvin Bassey,Nigeria,Defender,left,185.0,GB1,Fulham FC,16000000.0,6,0,1,0,2563,25
+Moussa Niakhaté,Senegal,Defender,left,190.0,GB1,Nottingham Forest,16000000.0,5,0,1,0,1667,28
+João Mário,Portugal,Defender,right,178.0,PO1,FC Porto,15000000.0,14,0,9,5,6032,25
+Nathan Patterson,Scotland,Defender,right,189.0,GB1,Everton FC,15000000.0,6,0,0,2,1415,23
+Kenny Tete,Netherlands,Defender,right,180.0,GB1,Fulham FC,15000000.0,3,0,1,0,1235,29
+Josip Sutalo,Croatia,Defender,right,190.0,NL1,Ajax Amsterdam,15000000.0,5,0,2,0,2858,24
+Nuno Tavares,Portugal,Defender,left,183.0,GB1,Nottingham Forest,15000000.0,3,0,0,0,696,25
+Mohammed Salisu,Ghana,Defender,left,188.0,FR1,AS Monaco,15000000.0,2,0,0,1,1035,25
+Jaka Bijol,Slovenia,Defender,right,190.0,IT1,Udinese Calcio,15000000.0,4,0,0,0,2173,25
+Giovanni Di Lorenzo,Italy,Defender,right,183.0,IT1,SSC Napoli,15000000.0,6,0,2,8,4171,31
+Victor Lindelöf,Sweden,Defender,right,187.0,GB1,Manchester United,15000000.0,3,0,1,1,1960,30
+Victor Kristiansen,Denmark,Defender,left,181.0,IT1,Bologna FC 1909,15000000.0,4,0,0,4,2522,22
+Conor Bradley,Northern Ireland,Defender,right,181.0,GB1,Liverpool FC,15000000.0,4,0,1,6,1505,21
+Jan-Niklas Beste,Germany,Defender,left,175.0,L1,1.FC Heidenheim 1846,15000000.0,4,0,8,14,2693,26
+Nikola Milenkovic,Serbia,Defender,right,195.0,IT1,ACF Fiorentina,15000000.0,4,1,0,0,3158,27
+Amir Rrahmani,Kosovo,Defender,right,192.0,IT1,SSC Napoli,15000000.0,7,0,4,0,3335,30
+Kiliann Sildillia,France,Defender,right,186.0,L1,SC Freiburg,15000000.0,3,1,1,1,2583,22
+Mathías Olivera,Uruguay,Defender,left,185.0,IT1,SSC Napoli,15000000.0,5,0,1,1,1898,27
+Philipp Lienhart,Austria,Defender,right,189.0,L1,SC Freiburg,15000000.0,5,0,1,1,1815,28
+Lucas Martínez Quarta,Argentina,Defender,right,183.0,IT1,ACF Fiorentina,15000000.0,9,0,6,1,2534,28
+Yarek Gasiorowski,Spain,Defender,left,192.0,ES1,Valencia CF,15000000.0,2,0,0,0,913,20
+Fran García,Spain,Defender,left,169.0,ES1,Real Madrid,15000000.0,2,0,1,6,1688,25
+Morato,Brazil,Defender,left,192.0,PO1,SL Benfica,15000000.0,5,0,0,1,2262,23
+Mika Mármol,Spain,Defender,left,181.0,ES1,UD Las Palmas,15000000.0,6,0,0,1,3181,23
+Niklas Süle,Germany,Defender,right,195.0,L1,Borussia Dortmund,15000000.0,1,0,1,0,2022,29
+Raoul Bellanova,Italy,Defender,right,188.0,IT1,Torino FC,15000000.0,5,0,1,7,3210,24
+Chadi Riad,Morocco,Defender,left,187.0,ES1,Real Betis Balompié,15000000.0,1,0,0,0,2314,21
+Alessio Romagnoli,Italy,Defender,left,185.0,IT1,SS Lazio,15000000.0,12,0,0,1,3309,30
+Jon Pacheco,Spain,Defender,left,184.0,ES1,Real Sociedad,15000000.0,10,0,1,1,1833,24
+Juanlu Sánchez,Spain,Defender,right,186.0,ES1,Sevilla FC,15000000.0,4,0,1,3,1744,21
+Gastón Álvarez,Uruguay,Defender,left,184.0,ES1,Getafe CF,15000000.0,8,0,2,0,2693,24
+Kristoffer Ajer,Norway,Defender,right,198.0,GB1,Brentford FC,15000000.0,5,0,2,1,1993,26
+Juan Foyth,Argentina,Defender,right,187.0,ES1,Villarreal CF,15000000.0,2,0,1,1,1319,27
+Tiago Santos,Portugal,Defender,right,175.0,FR1,LOSC Lille,15000000.0,6,0,1,2,2549,22
+Chancel Mbemba,DR Congo,Defender,right,182.0,FR1,Olympique Marseille,15000000.0,3,0,6,2,3405,30
+Diogo Leite,Portugal,Defender,left,190.0,L1,1.FC Union Berlin,15000000.0,7,0,1,0,3427,26
+Joakim Maehle,Denmark,Defender,right,185.0,L1,VfL Wolfsburg,14000000.0,6,0,2,4,2681,27
+Nicolò Casale,Italy,Defender,right,191.0,IT1,SS Lazio,14000000.0,6,0,0,0,1872,26
+Cameron Carter-Vickers,United States,Defender,right,183.0,SC1,Celtic FC,14000000.0,1,0,1,1,2123,27
+Loïc Badé,France,Defender,right,191.0,ES1,Sevilla FC,14000000.0,8,1,0,1,2620,24
+Stefan Posch,Austria,Defender,right,190.0,IT1,Bologna FC 1909,14000000.0,7,0,1,2,2702,27
+Álex Moreno,Spain,Defender,left,179.0,GB1,Aston Villa,13000000.0,2,0,2,0,1300,31
+Jordan Beyer,Germany,Defender,right,187.0,GB1,Burnley FC,13000000.0,6,0,0,1,1238,24
+Otávio,Brazil,Defender,left,188.0,PO1,FC Porto,13000000.0,8,0,2,2,2861,22
+Tyrone Mings,England,Defender,left,196.0,GB1,Aston Villa,13000000.0,0,0,0,0,31,31
+Jayden Oosterwolde,Netherlands,Defender,left,189.0,TR1,Fenerbahce,13000000.0,9,0,1,0,2206,23
+Nehuén Pérez,Argentina,Defender,right,186.0,IT1,Udinese Calcio,13000000.0,9,0,0,1,3240,24
+Mario Gila,Spain,Defender,right,185.0,IT1,SS Lazio,13000000.0,4,0,0,0,2469,24
+Davide Calabria,Italy,Defender,right,176.0,IT1,AC Milan,13000000.0,8,1,1,4,2970,28
+Kyle Walker,England,Defender,right,178.0,GB1,Manchester City,13000000.0,2,0,0,5,4083,34
+Alexander Bah,Denmark,Defender,right,183.0,PO1,SL Benfica,13000000.0,6,0,2,3,2309,27
+Luiz Felipe,Italy,Defender,right,187.0,ES1,Real Betis Balompié,13000000.0,2,0,0,0,450,27
+James Tarkowski,England,Defender,right,185.0,GB1,Everton FC,13000000.0,12,0,2,1,3975,32
+Trevoh Chalobah,England,Defender,right,192.0,GB1,Chelsea FC,13000000.0,2,0,1,0,1227,25
+Valentín Barco,Argentina,Defender,left,170.0,GB1,Brighton & Hove Albion,13000000.0,1,0,0,0,318,20
+Ola Aina,Nigeria,Defender,right,184.0,GB1,Nottingham Forest,12000000.0,3,0,1,1,1701,28
+Lucas Digne,France,Defender,left,178.0,GB1,Aston Villa,12000000.0,9,0,1,6,2548,31
+Jake O'Brien,Ireland,Defender,right,197.0,FR1,Olympique Lyon,12000000.0,4,1,4,2,2370,23
+Thomas Beelen,Netherlands,Defender,right,190.0,NL1,Feyenoord Rotterdam,12000000.0,2,0,0,0,1822,23
+Nélson Semedo,Portugal,Defender,right,177.0,GB1,Wolverhampton Wanderers,12000000.0,12,1,1,1,3484,31
+Kieran Tierney,Scotland,Defender,left,180.0,GB1,Arsenal FC,12000000.0,1,0,0,2,1496,27
+Douglas Santos,Brazil,Defender,left,176.0,RU1,Zenit St. Petersburg,12000000.0,6,0,3,3,2862,30
+Armel Bella-Kotchap,Germany,Defender,right,190.0,NL1,PSV Eindhoven,12000000.0,0,0,0,0,247,23
+Raphaël Guerreiro,Portugal,Defender,left,170.0,L1,Bayern Munich,12000000.0,1,0,3,2,1617,31
+Emerson,Italy,Defender,left,176.0,GB1,West Ham United,12000000.0,13,0,1,2,3916,30
+Melvin Bard,France,Defender,left,173.0,FR1,OGC Nice,12000000.0,7,1,1,2,2661,24
+Eric Dier,England,Defender,right,191.0,L1,Bayern Munich,12000000.0,1,0,0,0,1808,31
+Jonathan Clauss,France,Defender,right,178.0,FR1,Olympique Marseille,12000000.0,4,1,5,11,3286,32
+Patrick Dorgu,Denmark,Defender,left,185.0,IT1,US Lecce,12000000.0,7,0,2,1,1639,20
+Sepp van den Berg,Netherlands,Defender,right,192.0,L1,1.FSV Mainz 05,12000000.0,10,0,3,0,2880,23
+Teden Mengi,England,Defender,right,186.0,GB1,Luton Town,12000000.0,5,0,1,0,2875,22
+Abakar Sylla,Cote d'Ivoire,Defender,left,188.0,FR1,RC Strasbourg Alsace,12000000.0,4,0,2,0,1792,22
+Tuta,Brazil,Defender,right,185.0,L1,Eintracht Frankfurt,12000000.0,3,1,1,2,2943,25
+David Carmo,Angola,Defender,left,196.0,GR1,Olympiacos Piraeus,12000000.0,12,0,0,0,1420,25
+Chris Richards,United States,Defender,right,188.0,GB1,Crystal Palace,12000000.0,3,0,1,1,2451,24
+Tariq Lamptey,Ghana,Defender,right,163.0,GB1,Brighton & Hove Albion,12000000.0,5,0,0,4,1298,24
+Logan Costa,Cape Verde,Defender,right,190.0,FR1,FC Toulouse,12000000.0,8,0,1,1,3275,23
+Natan,Brazil,Defender,left,188.0,IT1,SSC Napoli,12000000.0,4,0,0,1,1496,23
+Lilian Brassier,France,Defender,left,186.0,FR1,Stade Brestois 29,12000000.0,11,0,3,0,2679,25
+Koni De Winter,Belgium,Defender,right,191.0,IT1,Genoa CFC,12000000.0,8,0,0,1,2521,22
+Ko Itakura,Japan,Defender,right,188.0,L1,Borussia Mönchengladbach,12000000.0,9,0,3,0,1734,28
+Bradley Locko,France,Defender,left,180.0,FR1,Stade Brestois 29,12000000.0,5,0,0,3,2961,22
+El Chadaille Bitshiabu,France,Defender,left,196.0,L1,RB Leipzig,12000000.0,0,0,0,0,29,19
+Lewis Dunk,England,Defender,right,192.0,GB1,Brighton & Hove Albion,12000000.0,8,1,4,1,3658,33
+Tiago Djaló,Portugal,Defender,right,190.0,FR1,LOSC Lille,12000000.0,0,0,0,0,16,24
+Ameen Al-Dakhil,Belgium,Defender,right,187.0,GB1,Burnley FC,12000000.0,2,0,1,0,1231,22
+Sergio Reguilón,Spain,Defender,left,178.0,GB1,Brentford FC,12000000.0,8,1,0,4,1779,28
+Ethan Pinnock,Jamaica,Defender,left,194.0,GB1,Brentford FC,12000000.0,1,0,2,0,2701,31
+Yukinari Sugawara,Japan,Defender,right,179.0,NL1,AZ Alkmaar,12000000.0,2,0,4,9,3164,24
+Daniel Carvajal,Spain,Defender,right,173.0,ES1,Real Madrid,12000000.0,9,0,6,5,3351,33
+Andrew Omobamidele,Ireland,Defender,right,188.0,GB1,Nottingham Forest,11000000.0,3,0,1,0,1277,22
+Ahmetcan Kaplan,Türkiye,Defender,left,189.0,NL1,Ajax Amsterdam,10000000.0,3,1,0,1,945,22
+Ben Davies,Wales,Defender,left,181.0,GB1,Tottenham Hotspur,10000000.0,3,0,1,0,2256,31
+Joe Scally,United States,Defender,right,184.0,L1,Borussia Mönchengladbach,10000000.0,4,0,1,4,2545,22
+Joël Veltman,Netherlands,Defender,right,184.0,GB1,Brighton & Hove Albion,10000000.0,6,0,1,1,1958,33
+Nico Elvedi,Switzerland,Defender,right,189.0,L1,Borussia Mönchengladbach,10000000.0,6,0,2,0,2754,28
+Ismaël Doukouré,France,Defender,right,183.0,FR1,RC Strasbourg Alsace,10000000.0,4,0,0,0,1660,21
+Berat Djimsiti,Albania,Defender,right,190.0,IT1,Atalanta BC,10000000.0,9,0,1,1,4325,31
+Çağlar Söyüncü,Türkiye,Defender,both,185.0,TR1,Fenerbahce,10000000.0,2,1,2,0,1127,28
+Sergio Gómez,Spain,Defender,left,171.0,GB1,Manchester City,10000000.0,0,0,0,1,449,24
+Kike Salas,Spain,Defender,left,188.0,ES1,Sevilla FC,10000000.0,10,0,3,0,1979,22
+Arouna Sangante,Senegal,Defender,right,189.0,FR1,Le Havre AC,10000000.0,8,0,0,0,2690,22
+Strahinja Erakovic,Serbia,Defender,right,188.0,RU1,Zenit St. Petersburg,10000000.0,7,0,0,3,3080,24
+Guillermo Maripán,Chile,Defender,right,193.0,FR1,AS Monaco,10000000.0,0,1,1,0,1768,30
+Gonzalo Montiel,Argentina,Defender,right,175.0,ES1,Sevilla FC,10000000.0,6,0,0,3,1167,28
+Matt Targett,England,Defender,left,183.0,GB1,Newcastle United,10000000.0,1,0,0,0,194,29
+Ozan Kabak,Türkiye,Defender,right,187.0,L1,TSG 1899 Hoffenheim,10000000.0,13,0,4,1,2362,24
+Jeanuël Belocian,France,Defender,left,182.0,FR1,Stade Rennais FC,10000000.0,2,1,0,1,1643,19
+Issa Kaboré,Burkina Faso,Defender,right,180.0,GB1,Luton Town,10000000.0,7,0,0,2,1788,23
+Nordi Mukiele,France,Defender,right,187.0,FR1,Paris Saint-Germain,10000000.0,2,0,0,0,848,27
+Héctor Fort,Spain,Defender,right,185.0,ES1,FC Barcelona,10000000.0,1,0,0,3,566,18
+Sead Kolasinac,Bosnia-Herzegovina,Defender,left,183.0,IT1,Atalanta BC,10000000.0,6,0,1,1,3200,31
+Maximilian Wöber,Austria,Defender,left,188.0,L1,Borussia Mönchengladbach,10000000.0,4,0,2,3,2238,26
+Willi Orbán,Hungary,Defender,right,186.0,L1,RB Leipzig,10000000.0,3,0,1,0,1853,32
+Dean Huijsen,Spain,Defender,both,197.0,IT1,Juventus FC,10000000.0,4,0,2,1,614,19
+Devyne Rensch,Netherlands,Defender,both,179.0,NL1,Ajax Amsterdam,10000000.0,3,1,2,6,2726,22
+Kieran Trippier,England,Defender,right,173.0,GB1,Newcastle United,10000000.0,5,0,1,11,3079,34
+Quentin Merlin,France,Defender,left,174.0,FR1,FC Nantes,10000000.0,3,0,0,2,2492,22
+Dan-Axel Zagadou,France,Defender,left,196.0,L1,VfB Stuttgart,10000000.0,1,0,1,0,1722,25
+Koki Machida,Japan,Defender,left,190.0,BE1,Union Saint-Gilloise,10000000.0,4,0,0,0,2631,27
+Ben Godfrey,England,Defender,right,184.0,GB1,Everton FC,10000000.0,2,0,0,0,1213,27
+Fabian Schär,Switzerland,Defender,right,186.0,GB1,Newcastle United,10000000.0,9,0,5,1,3987,33
+Luca Netz,Germany,Defender,left,184.0,L1,Borussia Mönchengladbach,10000000.0,2,0,0,6,2613,21
+Danilo,Brazil,Defender,right,184.0,IT1,Juventus FC,10000000.0,12,0,9,8,6093,33
+Nino,Brazil,Defender,right,188.0,RU1,Zenit St. Petersburg,10000000.0,2,0,1,0,1522,27
+Clément Lenglet,France,Defender,left,186.0,GB1,Aston Villa,10000000.0,4,0,0,1,1425,29
+Arnau Martínez,Spain,Defender,right,182.0,ES1,Girona FC,10000000.0,5,0,0,3,1567,21
+Johan Vásquez,Mexico,Defender,left,185.0,IT1,Genoa CFC,10000000.0,6,0,2,1,2943,26
+David García,Spain,Defender,both,186.0,ES1,CA Osasuna,10000000.0,7,0,0,1,2816,30
+Matías Viña,Uruguay,Defender,left,175.0,IT1,US Sassuolo,10000000.0,2,0,0,3,1116,27
+Matthias Ginter,Germany,Defender,right,189.0,L1,SC Freiburg,10000000.0,3,0,0,2,2851,31
+Thilo Kehrer,Germany,Defender,right,186.0,FR1,AS Monaco,10000000.0,7,0,1,1,1716,28
+Lorenz Assignon,France,Defender,right,181.0,FR1,Stade Rennais FC,10000000.0,9,0,3,4,2612,24
+Rasmus Kristensen,Denmark,Defender,right,187.0,IT1,AS Roma,10000000.0,5,0,1,2,1878,27
+Josha Vagnoman,Germany,Defender,right,190.0,L1,VfB Stuttgart,10000000.0,2,0,2,2,1353,24
+Mads Roerslev,Denmark,Defender,right,184.0,GB1,Brentford FC,10000000.0,2,0,1,2,2306,25
+Fabiano Parisi,Italy,Defender,left,178.0,IT1,ACF Fiorentina,9500000.0,4,0,0,1,1660,24
+Samuel Gigot,France,Defender,right,187.0,FR1,Olympique Marseille,9000000.0,10,1,3,0,2581,31
+Joseph Okumu,Kenya,Defender,right,190.0,FR1,Stade Reims,9000000.0,3,0,1,0,1743,27
+Maxim De Cuyper,Belgium,Defender,left,182.0,BE1,Club Brugge KV,9000000.0,5,0,3,10,2623,24
+Alexander Djiku,Ghana,Defender,right,182.0,TR1,Fenerbahce,9000000.0,7,0,3,2,2256,30
+Scott McKenna,Scotland,Defender,left,189.0,DK1,FC Copenhagen,9000000.0,0,0,0,0,1065,28
+Christian Mawissa,France,Defender,left,180.0,FR1,FC Toulouse,9000000.0,6,0,2,0,1302,19
+Andreas Hanche-Olsen,Norway,Defender,right,185.0,L1,1.FSV Mainz 05,9000000.0,5,0,1,0,994,28
+Emmanuel Agbadou,Cote d'Ivoire,Defender,right,192.0,FR1,Stade Reims,9000000.0,1,0,1,1,2595,27
+Juan Miranda,Spain,Defender,left,185.0,ES1,Real Betis Balompié,9000000.0,9,0,2,2,2181,25
+Reinildo Mandava,Mozambique,Defender,left,180.0,ES1,Atlético de Madrid,9000000.0,3,0,2,1,827,31
+Robert Renan,Brazil,Defender,left,186.0,RU1,Zenit St. Petersburg,9000000.0,1,0,0,0,585,21
+Ainsley Maitland-Niles,England,Defender,right,180.0,FR1,Olympique Lyon,9000000.0,1,1,1,4,1432,27
+Jeff Chabot,Germany,Defender,left,195.0,L1,1.FC Köln,9000000.0,10,0,1,1,2917,26
+Alidu Seidu,Ghana,Defender,right,173.0,FR1,Clermont Foot 63,9000000.0,8,1,0,1,1782,24
+Iván Fresneda,Spain,Defender,right,183.0,PO1,Sporting CP,9000000.0,0,0,0,0,153,20
+Abdülkerim Bardakcı,Türkiye,Defender,left,185.0,TR1,Galatasaray,9000000.0,6,0,6,0,3347,30
+Bright Osayi-Samuel,Nigeria,Defender,right,175.0,TR1,Fenerbahce,8500000.0,13,0,4,5,2140,27
+Alistair Johnston,Canada,Defender,right,180.0,SC1,Celtic FC,8500000.0,7,0,1,6,3187,26
+Jerry St. Juste,Netherlands,Defender,right,186.0,PO1,Sporting CP,8000000.0,2,0,0,1,867,28
+Dan Burn,England,Defender,left,201.0,GB1,Newcastle United,8000000.0,4,0,4,2,3432,32
+Matteo Gabbia,Italy,Defender,right,185.0,ES1,Villarreal CF,8000000.0,9,0,3,1,2784,25
+Jordan Lotomba,Switzerland,Defender,right,177.0,FR1,OGC Nice,8000000.0,4,0,1,0,1810,26
+Júnior Alonso,Paraguay,Defender,left,185.0,RU1,FK Krasnodar,8000000.0,4,0,0,3,2966,31
+Joel Matip,Cameroon,Defender,right,195.0,GB1,Liverpool FC,8000000.0,2,0,0,0,1060,33
+Yeray Álvarez,Spain,Defender,right,182.0,ES1,Athletic Bilbao,8000000.0,1,1,0,0,1161,30
+Óscar Mingueza,Spain,Defender,right,184.0,ES1,Celta de Vigo,8000000.0,4,0,2,3,3118,25
+Nicolás Tagliafico,Argentina,Defender,left,172.0,FR1,Olympique Lyon,8000000.0,7,0,3,2,2127,32
+Joe Rodon,Wales,Defender,right,193.0,GB1,Tottenham Hotspur,8000000.0,1,0,0,0,390,27
+Brendan Chardonnet,France,Defender,right,184.0,FR1,Stade Brestois 29,8000000.0,4,0,1,1,2970,30
+Lukas Klostermann,Germany,Defender,right,189.0,L1,RB Leipzig,8000000.0,3,0,1,0,1970,28
+Vladimír Coufal,Czech Republic,Defender,right,174.0,GB1,West Ham United,8000000.0,8,0,0,7,4063,32
+Angeliño,Spain,Defender,left,171.0,TR1,Galatasaray,8000000.0,4,0,1,2,2754,28
+Konstantinos Koulierakis,Greece,Defender,left,188.0,GR1,PAOK Thessaloniki,8000000.0,5,0,1,0,1738,21
+Leo Østigård,Norway,Defender,right,182.0,IT1,SSC Napoli,8000000.0,2,0,2,0,1947,25
+Luca Ranieri,Italy,Defender,left,187.0,IT1,ACF Fiorentina,8000000.0,14,0,2,1,2612,25
+Soungoutou Magassa,France,Defender,right,188.0,FR1,AS Monaco,8000000.0,7,0,0,0,1343,21
+Santiago Bueno,Uruguay,Defender,right,190.0,GB1,Wolverhampton Wanderers,8000000.0,2,0,0,0,1306,26
+David Jurásek,Czech Republic,Defender,left,183.0,PO1,SL Benfica,8000000.0,2,0,0,1,925,24
+Kassoum Ouattara,France,Defender,left,176.0,FR1,AS Monaco,8000000.0,2,0,1,0,634,20
+Julián Araujo,Mexico,Defender,right,176.0,ES1,UD Las Palmas,8000000.0,6,1,2,0,1654,23
+Eduardo Quaresma,Portugal,Defender,right,185.0,PO1,Sporting CP,8000000.0,3,0,1,0,1350,22
+Caleb Okoli,Italy,Defender,right,191.0,IT1,Frosinone Calcio,8000000.0,9,0,0,1,3215,23
+Saúl Coco,Equatorial Guinea,Defender,right,187.0,ES1,UD Las Palmas,8000000.0,6,1,1,0,2322,25
+Alexsandro,Brazil,Defender,left,189.0,FR1,LOSC Lille,8000000.0,6,1,0,0,2428,25
+Ben Johnson,England,Defender,right,184.0,GB1,West Ham United,8000000.0,1,0,0,1,859,25
+Aihen Muñoz,Spain,Defender,left,175.0,ES1,Real Sociedad,8000000.0,3,0,0,2,1753,27
+Matheus Reis,Brazil,Defender,left,184.0,PO1,Sporting CP,8000000.0,4,0,0,5,2342,29
+Manu Sánchez,Spain,Defender,left,171.0,ES1,Celta de Vigo,8000000.0,3,0,0,5,1892,24
+Djed Spence,England,Defender,right,184.0,IT1,Genoa CFC,8000000.0,1,0,0,0,853,24
+Ismail Jakobs,Senegal,Defender,left,184.0,FR1,AS Monaco,8000000.0,0,0,1,2,1468,25
+Warmed Omari,France,Defender,right,188.0,FR1,Stade Rennais FC,8000000.0,5,1,1,1,2611,24
+Rodrigo Becão,Brazil,Defender,right,191.0,TR1,Fenerbahce,8000000.0,5,0,1,0,1303,29
+Víctor Gómez,Spain,Defender,right,169.0,PO1,SC Braga,8000000.0,6,1,0,4,3089,24
+Greg Taylor,Scotland,Defender,left,171.0,SC1,Celtic FC,7500000.0,8,0,3,5,3476,27
+Moritz Jenz,Germany,Defender,right,190.0,L1,VfL Wolfsburg,7500000.0,7,0,0,1,1865,25
+Joe Worrall,England,Defender,right,190.0,TR1,Besiktas JK,7500000.0,1,1,1,0,1040,28
+Josip Juranovic,Croatia,Defender,right,173.0,L1,1.FC Union Berlin,7500000.0,5,0,0,3,1777,29
+Niels Nkounkou,France,Defender,left,180.0,L1,Eintracht Frankfurt,7500000.0,5,0,3,3,1481,24
+Marco Friedl,Austria,Defender,left,187.0,L1,SV Werder Bremen,7500000.0,6,0,1,1,2199,26
+Borna Sosa,Croatia,Defender,left,187.0,NL1,Ajax Amsterdam,7500000.0,2,0,0,5,1268,27
+Javi López,Spain,Defender,left,183.0,ES1,Deportivo Alavés,7500000.0,3,0,1,3,2498,22
+Abdel Abqar,Morocco,Defender,right,188.0,ES1,Deportivo Alavés,7500000.0,9,0,0,0,2315,25
+Rafa Marín,Spain,Defender,right,191.0,ES1,Deportivo Alavés,7500000.0,8,0,0,0,2546,22
+Jesús Areso,Spain,Defender,right,182.0,ES1,CA Osasuna,7500000.0,4,0,1,7,2899,25
+Tsuyoshi Watanabe,Japan,Defender,right,186.0,BE1,KAA Gent,7000000.0,1,0,3,2,2867,27
+Mees Hilgers,Netherlands,Defender,right,185.0,NL1,Twente Enschede FC,7000000.0,7,1,0,0,2668,23
+Álvaro Carreras,Spain,Defender,left,186.0,PO1,SL Benfica,7000000.0,2,0,1,1,1243,21
+Valentin Gendrey,France,Defender,right,179.0,IT1,US Lecce,7000000.0,5,0,2,3,3141,24
+Chrislain Matsima,France,Defender,right,193.0,FR1,Clermont Foot 63,7000000.0,4,0,1,1,1476,22
+Ryan Flamingo,Netherlands,Defender,right,183.0,NL1,FC Utrecht,7000000.0,4,0,2,1,2942,22
+Sergio Akieme,Spain,Defender,left,175.0,FR1,Stade Reims,7000000.0,4,0,4,0,2495,27
+Adamo Nagalo,Burkina Faso,Defender,right,185.0,DK1,FC Nordsjaelland,7000000.0,4,0,1,0,2364,22
+Ridle Baku,Germany,Defender,right,176.0,L1,VfL Wolfsburg,7000000.0,5,0,2,0,2215,26
+Ramy Bensebaini,Algeria,Defender,left,187.0,L1,Borussia Dortmund,7000000.0,5,0,0,1,1549,29
+Hjalmar Ekdal,Sweden,Defender,right,187.0,GB1,Burnley FC,7000000.0,3,0,0,0,497,26
+Auston Trusty,United States,Defender,left,190.0,GB1,Sheffield United,7000000.0,4,0,0,0,2752,26
+Isaak Touré,France,Defender,left,206.0,FR1,FC Lorient,7000000.0,6,0,1,1,2052,21
+Guéla Doué,Cote d'Ivoire,Defender,right,187.0,FR1,Stade Rennais FC,7000000.0,1,1,0,4,1532,22
+Anthony Rouault,France,Defender,right,186.0,FR1,FC Toulouse,7000000.0,3,0,0,2,1117,23
+Felix Uduokhai,Germany,Defender,left,193.0,L1,FC Augsburg,7000000.0,5,0,2,0,2922,27
+Stefan de Vrij,Netherlands,Defender,right,189.0,IT1,Inter Milan,7000000.0,1,0,1,0,2163,32
+Dara O'Shea,Ireland,Defender,right,189.0,GB1,Burnley FC,7000000.0,5,1,4,4,3255,25
+Mauro Júnior,Brazil,Defender,left,171.0,NL1,PSV Eindhoven,7000000.0,0,0,1,0,1109,25
+Marin Pongračić,Croatia,Defender,right,193.0,IT1,US Lecce,7000000.0,10,0,0,0,3355,27
+Abner,Brazil,Defender,left,181.0,ES1,Real Betis Balompié,7000000.0,4,0,0,2,1886,24
+Étienne Youté Kinkoué,France,Defender,right,196.0,FR1,Le Havre AC,7000000.0,1,0,0,0,1943,23
+Duje Caleta-Car,Croatia,Defender,right,193.0,FR1,Olympique Lyon,7000000.0,2,1,0,0,1992,28
+Javi Galán,Spain,Defender,left,172.0,ES1,Atlético de Madrid,7000000.0,5,0,0,2,1696,30
+Saël Kumbedi,France,Defender,right,175.0,FR1,Olympique Lyon,7000000.0,4,0,0,2,916,19
+Anthony Caci,France,Defender,right,184.0,L1,1.FSV Mainz 05,7000000.0,8,0,2,4,2663,27
+Maxime Estève,France,Defender,left,193.0,FR1,Montpellier HSC,7000000.0,7,0,1,1,2310,22
+Sebastiaan Bornauw,Belgium,Defender,right,191.0,L1,VfL Wolfsburg,7000000.0,5,0,0,0,1521,25
+Wendell,Brazil,Defender,left,176.0,PO1,FC Porto,7000000.0,12,0,4,2,2570,31
+Unai Núñez,Spain,Defender,right,186.0,ES1,Celta de Vigo,7000000.0,5,0,1,1,3047,28
+Connor Roberts,Wales,Defender,right,175.0,GB1,Burnley FC,7000000.0,5,0,0,0,940,29
+Diego Llorente,Spain,Defender,right,186.0,IT1,AS Roma,7000000.0,7,0,1,2,2947,31
+Jamaal Lascelles,England,Defender,right,188.0,GB1,Newcastle United,7000000.0,6,0,1,0,1922,31
+Tomás Araújo,Portugal,Defender,right,187.0,PO1,SL Benfica,7000000.0,0,0,1,0,735,22
+Montassar Talbi,Tunisia,Defender,right,190.0,FR1,FC Lorient,7000000.0,2,0,0,0,2205,26
+James Tavernier,England,Defender,right,182.0,SC1,Rangers FC,6500000.0,5,0,21,9,4491,33
+Becir Omeragic,Switzerland,Defender,right,187.0,FR1,Montpellier HSC,6000000.0,3,0,0,0,2312,23
+Diego Coppola,Italy,Defender,right,193.0,IT1,Hellas Verona,6000000.0,9,0,2,0,1816,21
+Yukhym Konoplya,Ukraine,Defender,right,180.0,UKR1,Shakhtar Donetsk,6000000.0,8,0,2,2,2232,25
+Luke Thomas,England,Defender,left,181.0,GB1,Sheffield United,6000000.0,4,0,0,0,1009,23
+Derrick Köhn,Germany,Defender,left,180.0,TR1,Galatasaray,6000000.0,1,0,1,2,1205,25
+Soumaïla Coulibaly,France,Defender,left,191.0,BE1,Royal Antwerp FC,6000000.0,3,0,0,0,2084,21
+Adrià Pedrosa,Spain,Defender,left,172.0,ES1,Sevilla FC,6000000.0,2,0,2,4,2491,26
+Thomas Foket,Belgium,Defender,right,177.0,FR1,Stade Reims,6000000.0,9,0,0,1,1841,30
+Francisco Moura,Portugal,Defender,left,181.0,PO1,FC Famalicão,6000000.0,7,0,1,4,3060,25
+Hamari Traoré,Mali,Defender,right,175.0,ES1,Real Sociedad,6000000.0,9,0,0,2,3036,33
+Hugo Bueno,Spain,Defender,left,180.0,GB1,Wolverhampton Wanderers,6000000.0,1,0,1,0,830,22
+Chris Mepham,Wales,Defender,right,190.0,GB1,AFC Bournemouth,6000000.0,2,0,0,1,838,27
+Yerson Mosquera,Colombia,Defender,right,188.0,ES1,Villarreal CF,6000000.0,5,0,3,1,1357,23
+Gijs Smal,Netherlands,Defender,left,183.0,NL1,Twente Enschede FC,6000000.0,3,0,0,3,2315,27
+Gerardo Arteaga,Mexico,Defender,left,175.0,BE1,KRC Genk,6000000.0,2,1,0,0,1357,26
+Sergi Cardona,Spain,Defender,both,186.0,ES1,UD Las Palmas,6000000.0,10,0,1,2,2906,25
+Carlos Cuesta,Colombia,Defender,right,179.0,BE1,KRC Genk,6000000.0,8,0,1,0,2447,25
+Jorge Cuenca,Spain,Defender,left,190.0,ES1,Villarreal CF,6000000.0,9,0,3,1,2655,25
+Festy Ebosele,Ireland,Defender,right,180.0,IT1,Udinese Calcio,6000000.0,6,0,0,1,1773,22
+Bjorn Meijer,Netherlands,Defender,left,190.0,BE1,Club Brugge KV,6000000.0,0,0,1,0,1362,21
+Sikou Niakaté,Mali,Defender,left,186.0,PO1,SC Braga,6000000.0,7,2,2,0,2488,25
+Igor Diveev,Russia,Defender,right,194.0,RU1,CSKA Moscow,6000000.0,2,1,0,0,1241,25
+Keven Schlotterbeck,Germany,Defender,left,189.0,L1,VfL Bochum,6000000.0,9,0,5,3,2184,27
+Carl Starfelt,Sweden,Defender,right,187.0,SC1,Celtic FC,6000000.0,4,0,1,0,2512,29
+Kevin Mac Allister,Argentina,Defender,right,175.0,BE1,Union Saint-Gilloise,6000000.0,9,0,0,0,2603,27
+Zeki Çelik,Türkiye,Defender,right,180.0,IT1,AS Roma,6000000.0,3,1,0,2,1521,27
+Mark McKenzie,United States,Defender,right,184.0,BE1,KRC Genk,6000000.0,4,0,0,3,2485,25
+Josh Doig,Scotland,Defender,left,189.0,IT1,US Sassuolo,6000000.0,7,0,0,2,2285,22
+Christopher Wooh,Cameroon,Defender,right,191.0,FR1,Stade Rennais FC,6000000.0,5,1,1,0,1658,23
+Jorge Herrando,Spain,Defender,left,192.0,ES1,CA Osasuna,6000000.0,4,0,0,1,1764,23
+Francisco Ortega,Argentina,Defender,left,177.0,GR1,Olympiacos Piraeus,6000000.0,1,0,0,2,2031,25
+Willyan Rocha,Brazil,Defender,right,191.0,RU1,CSKA Moscow,6000000.0,13,1,2,1,3020,30
+Khellven,Brazil,Defender,right,176.0,RU1,CSKA Moscow,6000000.0,2,0,1,9,2218,23
+Rasmus Nicolaisen,Denmark,Defender,left,191.0,FR1,FC Toulouse,6000000.0,7,0,2,0,3737,27
+Martin Valjent,Slovakia,Defender,right,187.0,ES1,RCD Mallorca,6000000.0,5,0,0,1,2744,29
+Marlon,Brazil,Defender,right,182.0,IT1,AC Monza,6000000.0,4,0,0,0,578,29
+Flavius Daniliuc,Austria,Defender,right,188.0,IT1,US Salernitana 1919,6000000.0,2,0,0,0,834,23
+Mert Müldür,Türkiye,Defender,right,184.0,TR1,Fenerbahce,6000000.0,4,0,1,4,1176,25
+Thierry Correia,Portugal,Defender,right,176.0,ES1,Valencia CF,6000000.0,4,1,0,2,2382,25
+Mitchell Weiser,Germany,Defender,right,177.0,L1,SV Werder Bremen,6000000.0,5,0,3,7,2659,30
+Bamo Meïté,Cote d'Ivoire,Defender,right,183.0,FR1,FC Lorient,6000000.0,1,0,0,0,1079,23
+Michael Keane,England,Defender,right,188.0,GB1,Everton FC,6000000.0,3,0,1,0,708,32
+Zeno Van Den Bosch,Belgium,Defender,right,191.0,BE1,Royal Antwerp FC,6000000.0,4,0,0,1,1479,21
+Joel Ordóñez,Ecuador,Defender,right,188.0,BE1,Club Brugge KV,6000000.0,1,0,0,0,608,20
+Federico Baschirotto,Italy,Defender,right,187.0,IT1,US Lecce,6000000.0,4,1,0,1,3430,28
+Max Finkgräfe,Germany,Defender,left,183.0,L1,1.FC Köln,6000000.0,4,0,1,0,1757,20
+Timo Hübers,Germany,Defender,right,190.0,L1,1.FC Köln,5500000.0,8,0,0,1,2970,28
+Lorenzo Pirola,Italy,Defender,left,188.0,IT1,US Salernitana 1919,5500000.0,4,0,1,0,2113,22
+Owen Wijndal,Netherlands,Defender,left,176.0,BE1,Royal Antwerp FC,5500000.0,2,0,1,1,2204,25
+Vítor Tormena,Brazil,Defender,right,192.0,RU1,FK Krasnodar,5500000.0,3,0,0,0,2153,29
+Marcus Pedersen,Norway,Defender,right,184.0,NL1,Feyenoord Rotterdam,5500000.0,4,0,0,2,1823,24
+Elias Jelert,Denmark,Defender,right,178.0,DK1,FC Copenhagen,5500000.0,9,0,0,1,2905,21
+Niklas Stark,Germany,Defender,right,190.0,L1,SV Werder Bremen,5500000.0,4,0,2,1,1177,29
+André Amaro,Portugal,Defender,right,188.0,PO1,Vitória Guimarães SC,5500000.0,0,0,1,0,210,22
+Bernardo,Brazil,Defender,left,186.0,L1,VfL Bochum,5500000.0,9,0,1,0,3045,29
+Nathan Zeze,France,Defender,left,190.0,FR1,FC Nantes,5000000.0,1,0,0,0,1022,19
+Jordan Zemura,Zimbabwe,Defender,left,173.0,IT1,Udinese Calcio,5000000.0,1,0,1,1,1155,25
+Alessandro Zanoli,Italy,Defender,right,188.0,IT1,US Salernitana 1919,5000000.0,4,0,0,2,1062,24
+Vitinho,Brazil,Defender,right,174.0,GB1,Burnley FC,5000000.0,2,0,0,2,2827,25
+Rogério,Brazil,Defender,left,178.0,L1,VfL Wolfsburg,5000000.0,0,0,1,0,998,27
+Gabriel Gudmundsson,Sweden,Defender,left,180.0,FR1,LOSC Lille,5000000.0,2,0,1,0,1353,25
+Bruno Méndez,Uruguay,Defender,right,180.0,ES1,Granada CF,5000000.0,4,0,2,0,1336,25
+Jon Aramburu,Venezuela,Defender,right,176.0,ES1,Real Sociedad,5000000.0,3,0,0,0,658,22
+Kiki Kouyaté,Mali,Defender,right,192.0,FR1,Montpellier HSC,5000000.0,5,1,0,2,1930,27
+Valeriy Bondar,Ukraine,Defender,right,185.0,UKR1,Shakhtar Donetsk,5000000.0,7,0,0,0,2504,25
+Daniel Amartey,Ghana,Defender,right,186.0,TR1,Besiktas JK,5000000.0,3,0,1,0,1370,30
+Milan Gajic,Serbia,Defender,both,178.0,RU1,CSKA Moscow,5000000.0,4,1,5,3,3318,29
+Zinho Vanheusden,Belgium,Defender,right,187.0,BE1,Standard Liège,5000000.0,7,0,0,0,1746,25
+Serdar Saatçı,Türkiye,Defender,right,190.0,PO1,SC Braga,5000000.0,6,0,0,2,1950,21
+Jonny Otto,Spain,Defender,both,175.0,GR1,PAOK Thessaloniki,5000000.0,0,0,0,2,608,30
+Wouter Goes,Netherlands,Defender,right,184.0,NL1,AZ Alkmaar,5000000.0,2,0,0,1,1271,20
+Romain Perraud,France,Defender,left,173.0,FR1,OGC Nice,5000000.0,3,0,0,1,417,27
+Aurélio Buta,Portugal,Defender,right,172.0,L1,Eintracht Frankfurt,5000000.0,6,0,1,3,2087,27
+Alfonso Pedraza,Spain,Defender,left,184.0,ES1,Villarreal CF,5000000.0,7,1,1,3,1333,28
+Iñigo Martínez,Spain,Defender,left,182.0,ES1,FC Barcelona,5000000.0,7,0,0,0,1622,33
+Amir Murillo,Panama,Defender,right,184.0,FR1,Olympique Marseille,5000000.0,3,0,3,2,1274,28
+Domagoj Bradarić,Croatia,Defender,left,178.0,IT1,US Salernitana 1919,5000000.0,6,0,0,3,2976,25
+Rob Holding,England,Defender,right,189.0,GB1,Crystal Palace,5000000.0,1,0,0,0,90,29
+Jordan Torunarigha,Nigeria,Defender,left,191.0,BE1,KAA Gent,5000000.0,5,0,1,2,2259,27
+Archie Brown,England,Defender,left,190.0,BE1,KAA Gent,5000000.0,3,1,0,3,1810,22
+Connor Goldson,England,Defender,right,191.0,SC1,Rangers FC,5000000.0,11,0,0,3,3956,32
+Hugo Siquet,Belgium,Defender,right,180.0,BE1,Cercle Brugge,5000000.0,2,0,0,3,1625,22
+Jan-Carlo Simić,Serbia,Defender,both,186.0,IT1,AC Milan,5000000.0,0,0,1,0,262,19
+Pablo Maffeo,Argentina,Defender,right,172.0,ES1,RCD Mallorca,5000000.0,3,1,1,3,1530,27
+Aarón Martín,Spain,Defender,left,178.0,IT1,Genoa CFC,5000000.0,4,0,0,1,1550,27
+Rodrigão,Brazil,Defender,right,191.0,RU1,Zenit St. Petersburg,5000000.0,3,0,1,0,1433,29
+Leonidas Stergiou,Switzerland,Defender,right,181.0,L1,VfB Stuttgart,5000000.0,1,0,1,0,626,22
+Vyacheslav Karavaev,Russia,Defender,right,175.0,RU1,Zenit St. Petersburg,5000000.0,2,0,0,5,2267,29
+Aritz Elustondo,Spain,Defender,right,180.0,ES1,Real Sociedad,5000000.0,5,0,0,2,1235,30
+Mason Holgate,England,Defender,right,187.0,GB1,Everton FC,5000000.0,4,1,0,0,894,28
+Daniil Khlusevich,Russia,Defender,right,186.0,RU1,Spartak Moscow,5000000.0,7,1,5,4,2550,23
+Alfie Gilchrist,England,Defender,right,183.0,GB1,Chelsea FC,5000000.0,1,0,1,0,431,21
+Willy Kambwala,France,Defender,right,192.0,GB1,Manchester United,5000000.0,1,0,0,0,341,20
+Matte Smets,Belgium,Defender,right,184.0,BE1,Sint-Truidense VV,5000000.0,0,0,0,0,2700,21
+Harry Toffolo,England,Defender,left,183.0,GB1,Nottingham Forest,5000000.0,3,0,1,3,1744,29
+Mattia Viti,Italy,Defender,left,190.0,IT1,US Sassuolo,5000000.0,1,0,1,0,1214,23
+Rıdvan Yılmaz,Türkiye,Defender,left,174.0,SC1,Rangers FC,5000000.0,3,0,1,1,1923,23
+Omar Alderete,Paraguay,Defender,left,188.0,ES1,Getafe CF,5000000.0,7,1,0,1,2457,28
+Rick Karsdorp,Netherlands,Defender,right,184.0,IT1,AS Roma,5000000.0,3,0,0,3,1810,29
+Alberto Dossena,Italy,Defender,right,195.0,IT1,Cagliari Calcio,5000000.0,6,0,3,4,3099,26
+Irakli Azarovi,Georgia,Defender,left,179.0,UKR1,Shakhtar Donetsk,5000000.0,1,0,0,4,2365,22
+Christian Günter,Germany,Defender,left,184.0,L1,SC Freiburg,5000000.0,1,0,2,3,1300,31
+Arthur,Brazil,Defender,right,174.0,L1,Bayer 04 Leverkusen,5000000.0,0,0,0,2,204,21
+Killian Sardella,Belgium,Defender,right,174.0,BE1,RSC Anderlecht,5000000.0,4,0,0,4,1980,22
+João Victor,Brazil,Defender,right,187.0,PO1,SL Benfica,5000000.0,0,0,0,0,27,26
+Cédric Zesiger,Switzerland,Defender,left,194.0,L1,VfL Wolfsburg,5000000.0,5,0,0,0,1935,26
+Jorne Spileers,Belgium,Defender,right,188.0,BE1,Club Brugge KV,5000000.0,2,0,1,1,2515,20
+Ruben Aguilar,France,Defender,right,172.0,FR1,RC Lens,5000000.0,4,0,1,3,2134,31
+Mats Hummels,Germany,Defender,right,191.0,L1,Borussia Dortmund,5000000.0,8,1,4,1,2932,36
+Bakhtiyor Zaynutdinov,Kazakhstan,Defender,left,183.0,TR1,Besiktas JK,5000000.0,5,0,2,1,2026,26
+Andoni Gorosabel,Spain,Defender,right,174.0,ES1,Deportivo Alavés,5000000.0,7,0,1,0,2879,28
+Adam Marusic,Montenegro,Defender,right,185.0,IT1,SS Lazio,5000000.0,4,1,1,0,3982,32
+Maksim Osipenko,Russia,Defender,right,190.0,RU1,FK Rostov,5000000.0,3,0,7,1,2253,30
+Erhan Masovic,Serbia,Defender,both,189.0,L1,VfL Bochum,5000000.0,8,0,0,0,2338,26
+Gastón Ávila,Argentina,Defender,left,182.0,BE1,Royal Antwerp FC,5000000.0,2,1,0,1,739,23
+Denis Vavro,Slovakia,Defender,right,189.0,DK1,FC Copenhagen,5000000.0,6,0,3,1,2982,28
+Jan Thielmann,Germany,Defender,right,178.0,L1,1.FC Köln,5000000.0,4,1,2,0,1612,22
+Bashir Humphreys,England,Defender,left,186.0,GB1,Chelsea FC,4800000.0,0,0,0,0,212,21
+Jonathan Gradit,France,Defender,right,180.0,FR1,RC Lens,4500000.0,11,1,1,0,2821,32
+Alexandre Penetra,Portugal,Defender,right,186.0,NL1,AZ Alkmaar,4500000.0,0,0,0,2,2015,23
+Ryan Giles,England,Defender,left,183.0,GB1,Luton Town,4500000.0,0,0,0,0,696,25
+Thomas Kristensen,Denmark,Defender,right,198.0,DK1,Aarhus GF,4500000.0,7,0,0,1,2805,23
+Filippo Terracciano,Italy,Defender,right,186.0,IT1,Hellas Verona,4500000.0,2,0,0,1,1500,21
+Sergey Volkov,Russia,Defender,right,182.0,RU1,FK Krasnodar,4500000.0,3,0,0,3,2071,22
+Yasin Özcan,Türkiye,Defender,left,185.0,TR1,Kasimpasa,4500000.0,4,0,2,1,2965,18
+Kyriani Sabbe,Belgium,Defender,right,176.0,BE1,Club Brugge KV,4500000.0,1,0,0,2,701,20
+Milos Veljkovic,Serbia,Defender,right,188.0,L1,SV Werder Bremen,4500000.0,2,0,2,2,2011,29
+Jesper Daland,Norway,Defender,right,191.0,BE1,Cercle Brugge,4500000.0,3,0,0,1,2530,25
+Jelle Bataille,Belgium,Defender,right,180.0,BE1,Royal Antwerp FC,4500000.0,4,1,1,3,2735,25
+Moisés,Brazil,Defender,left,184.0,RU1,CSKA Moscow,4500000.0,9,1,1,0,2868,29
+Aleksandr Silyanov,Russia,Defender,right,185.0,RU1,Lokomotiv Moscow,4500000.0,3,0,2,1,2073,23
+David Møller Wolfe,Norway,Defender,left,185.0,NL1,AZ Alkmaar,4500000.0,6,0,1,2,2803,22
+Antonino Gallo,Italy,Defender,left,183.0,IT1,US Lecce,4500000.0,2,0,0,3,2606,25
+Zakaria El Ouahdi,Morocco,Defender,right,175.0,BE1,RWD Molenbeek,4500000.0,4,0,0,2,1495,23
+Gerzino Nyamsi,France,Defender,right,194.0,FR1,RC Strasbourg Alsace,4500000.0,4,0,0,0,1903,28
+Hassane Kamara,Cote d'Ivoire,Defender,left,170.0,IT1,Udinese Calcio,4500000.0,4,0,1,1,2328,30
+Formose Mendy,Senegal,Defender,right,191.0,FR1,FC Lorient,4500000.0,6,0,0,0,1254,24
+Marash Kumbulla,Albania,Defender,right,191.0,IT1,US Sassuolo,4500000.0,1,0,0,0,358,24
+Ki-Jana Hoever,Netherlands,Defender,right,183.0,GB1,Wolverhampton Wanderers,4500000.0,1,0,0,0,360,23
+Youcef Atal,Algeria,Defender,both,176.0,TR1,Adana Demirspor,4300000.0,6,0,2,2,1180,28
+Emirhan Topçu,Türkiye,Defender,left,188.0,TR1,Caykur Rizespor,4300000.0,13,0,1,4,2793,24
+Arthur Masuaku,DR Congo,Defender,left,179.0,TR1,Besiktas JK,4200000.0,5,1,0,2,1698,31
+Juan Bernat,Spain,Defender,left,170.0,PO1,SL Benfica,4000000.0,1,0,0,0,203,31
+Attila Szalai,Hungary,Defender,left,192.0,L1,TSG 1899 Hoffenheim,4000000.0,1,0,0,0,435,27
+Lucas Vázquez,Spain,Defender,right,173.0,ES1,Real Madrid,4000000.0,2,0,3,8,1784,33
+Cenk Özkacar,Türkiye,Defender,left,190.0,ES1,Valencia CF,4000000.0,3,0,0,1,1805,24
+Tim Oermann,Germany,Defender,right,189.0,L1,VfL Bochum,4000000.0,2,0,0,0,708,21
+Joseph Aidoo,Ghana,Defender,right,181.0,ES1,Celta de Vigo,4000000.0,0,0,0,1,406,29
+Costinha,Portugal,Defender,right,181.0,PO1,Rio Ave FC,4000000.0,5,0,5,6,3231,24
+Adryelson,Brazil,Defender,right,182.0,FR1,Olympique Lyon,4000000.0,0,0,0,0,5,26
+Alejandro Catena,Spain,Defender,right,194.0,ES1,CA Osasuna,4000000.0,10,2,1,3,2862,30
+Pedro Malheiro,Portugal,Defender,right,179.0,PO1,Boavista FC,4000000.0,10,0,2,2,2064,24
+Deiver Machado,Colombia,Defender,left,180.0,FR1,RC Lens,4000000.0,5,0,4,0,1498,31
+Thibault De Smet,Belgium,Defender,left,183.0,FR1,Stade Reims,4000000.0,7,1,0,1,1835,26
+Josh Wilson-Esbrand,England,Defender,left,176.0,FR1,Stade Reims,4000000.0,1,0,1,1,460,22
+Oleg Reabciuk,Moldova,Defender,left,177.0,RU1,Spartak Moscow,4000000.0,3,1,0,1,1242,27
+Christiaan Ravych,Belgium,Defender,right,193.0,BE1,Cercle Brugge,4000000.0,2,0,0,2,1068,22
+Alan Matturro,Uruguay,Defender,left,189.0,IT1,Genoa CFC,4000000.0,1,0,0,0,284,20
+Andreas Ndoj,Greece,Defender,right,190.0,GR1,Olympiacos Piraeus,4000000.0,3,1,1,0,1749,21
+Daniele Rugani,Italy,Defender,right,190.0,IT1,Juventus FC,4000000.0,2,0,3,0,1279,30
+Sinaly Diomandé,Cote d'Ivoire,Defender,right,184.0,FR1,Olympique Lyon,4000000.0,2,0,0,0,890,23
+Clinton Mata,Angola,Defender,right,180.0,FR1,Olympique Lyon,4000000.0,6,0,0,3,2222,32
+Iago,Brazil,Defender,left,181.0,L1,FC Augsburg,4000000.0,4,0,1,1,1623,27
+Andrea Carboni,Italy,Defender,left,187.0,IT1,AC Monza,4000000.0,1,0,1,0,1503,23
+Ricardo Mangas,Portugal,Defender,left,181.0,PO1,Vitória Guimarães SC,4000000.0,2,0,1,5,1907,26
+Srdjan Babic,Serbia,Defender,left,194.0,RU1,Spartak Moscow,4000000.0,6,0,3,0,1988,28
+Eray Cömert,Switzerland,Defender,right,183.0,FR1,FC Nantes,4000000.0,5,0,2,0,1998,26
+Dimitri Lavalée,Belgium,Defender,left,187.0,BE1,KV Mechelen,4000000.0,0,0,0,0,577,28
+Faitout Maouassa,France,Defender,left,170.0,FR1,RC Lens,4000000.0,0,0,0,1,318,26
+Bart Nieuwkoop,Netherlands,Defender,right,181.0,BE1,Union Saint-Gilloise,4000000.0,4,1,2,3,1543,28
+Sverrir Ingi Ingason,Iceland,Defender,right,188.0,DK1,FC Midtjylland,4000000.0,5,0,1,1,1806,31
+Marcos Acuña,Argentina,Defender,left,172.0,ES1,Sevilla FC,4000000.0,7,0,1,4,1590,33
+Marcão,Brazil,Defender,left,185.0,ES1,Sevilla FC,4000000.0,5,0,7,1,1214,28
+Matteo Darmian,Italy,Defender,right,183.0,IT1,Inter Milan,4000000.0,3,0,2,2,3116,35
+Marc Pubill,Spain,Defender,right,191.0,ES1,UD Almería,4000000.0,2,0,1,3,1890,21
+Mihajlo Ilić,Serbia,Defender,right,192.0,IT1,Bologna FC 1909,4000000.0,0,0,0,0,390,21
+Calum Chambers,England,Defender,right,182.0,GB1,Aston Villa,4000000.0,1,0,0,1,240,30
+Gabriel Pereira,Brazil,Defender,right,188.0,PO1,Gil Vicente FC,4000000.0,8,1,4,0,2869,24
+David Zima,Czech Republic,Defender,right,192.0,IT1,Torino FC,4000000.0,0,0,1,0,387,24
+Álex Jiménez,Spain,Defender,right,177.0,IT1,AC Milan,4000000.0,1,0,0,0,207,19
+Georgios Vagiannidis,Greece,Defender,right,182.0,GR1,Panathinaikos FC,4000000.0,5,0,1,1,2146,23
+Martim Fernandes,Portugal,Defender,right,181.0,PO1,FC Porto,4000000.0,1,0,0,1,259,19
+Dujon Sterling,England,Defender,right,186.0,SC1,Rangers FC,4000000.0,5,1,1,1,1369,25
+Matteo Lovato,Italy,Defender,right,188.0,IT1,US Salernitana 1919,4000000.0,4,0,0,0,1643,24
+Emin Bayram,Türkiye,Defender,right,192.0,TR1,Galatasaray,4000000.0,7,0,1,2,2054,21
+Hannes Delcroix,Belgium,Defender,left,183.0,BE1,RSC Anderlecht,4000000.0,2,0,0,0,862,25
+Kevin Diks,Netherlands,Defender,right,186.0,DK1,FC Copenhagen,4000000.0,7,0,1,2,3265,28
+Oleksandr Tymchyk,Ukraine,Defender,right,180.0,UKR1,Dynamo Kyiv,4000000.0,4,1,2,0,2126,28
+Valentin Rosier,France,Defender,right,175.0,TR1,Besiktas JK,4000000.0,6,0,0,2,1497,28
+Felix Agu,Germany,Defender,right,180.0,L1,SV Werder Bremen,4000000.0,2,0,0,3,1624,25
+Christopher Operi,Cote d'Ivoire,Defender,left,183.0,FR1,Le Havre AC,4000000.0,6,0,3,5,2447,27
+Aleksandr Soldatenkov,Russia,Defender,right,189.0,RU1,Krylya Sovetov Samara,4000000.0,2,1,0,1,2679,28
+Leonardo Spinazzola,Italy,Defender,right,186.0,IT1,AS Roma,4000000.0,3,0,1,4,2067,31
+Falaye Sacko,Mali,Defender,right,180.0,FR1,Montpellier HSC,4000000.0,0,0,0,1,1380,29
+Héctor Bellerín,Spain,Defender,right,178.0,ES1,Real Betis Balompié,4000000.0,0,1,0,1,1967,29
+Harold Moukoudi,Cameroon,Defender,right,191.0,GR1,AEK Athens,4000000.0,3,0,1,0,1359,27
+Riechedly Bazoer,Netherlands,Defender,right,184.0,NL1,AZ Alkmaar,4000000.0,5,0,0,1,2996,28
+Ludwig Augustinsson,Sweden,Defender,left,181.0,BE1,RSC Anderlecht,4000000.0,2,0,0,3,1632,30
+Ulisses Garcia,Switzerland,Defender,left,182.0,FR1,Olympique Marseille,4000000.0,1,0,0,0,1410,29
+Frédéric Guilbert,France,Defender,right,178.0,FR1,RC Strasbourg Alsace,4000000.0,3,0,2,0,2493,30
+John Egan,Ireland,Defender,right,185.0,GB1,Sheffield United,4000000.0,2,0,0,0,574,32
+Kevin Mbabu,Switzerland,Defender,right,184.0,L1,FC Augsburg,4000000.0,5,0,0,2,2049,29
+Eren Elmalı,Türkiye,Defender,left,181.0,TR1,Trabzonspor,4000000.0,9,0,0,1,3097,24
+Amos Pieper,Germany,Defender,right,192.0,L1,SV Werder Bremen,4000000.0,0,1,0,0,602,27
+Patric,Spain,Defender,right,184.0,IT1,SS Lazio,4000000.0,6,0,2,0,2224,31
+Jayden Bogle,England,Defender,right,178.0,GB1,Sheffield United,3800000.0,9,0,3,1,2946,24
+Luke McNally,Ireland,Defender,right,193.0,GB1,Burnley FC,3800000.0,1,0,0,0,167,25
+Andreaw Gravillon,Guadeloupe,Defender,right,189.0,TR1,Adana Demirspor,3700000.0,7,1,2,1,3154,26
+Serge Aurier,Cote d'Ivoire,Defender,right,176.0,TR1,Galatasaray,3700000.0,3,0,0,2,995,32
+Igor Vujacic,Montenegro,Defender,right,189.0,RU1,Rubin Kazan,3500000.0,5,0,0,1,2705,30
+Jordy Makengo,France,Defender,left,191.0,L1,SC Freiburg,3500000.0,1,0,0,1,1343,23
+Léo Dubois,France,Defender,right,178.0,TR1,Basaksehir FK,3500000.0,3,0,1,7,2342,30
+Samuele Birindelli,Italy,Defender,right,176.0,IT1,AC Monza,3500000.0,7,0,0,2,2016,25
+Edimilson Fernandes,Switzerland,Defender,right,187.0,L1,1.FSV Mainz 05,3500000.0,4,0,0,2,1444,28
+Jean-Charles Castelletto,Cameroon,Defender,both,186.0,FR1,FC Nantes,3500000.0,5,0,2,0,2466,30
+Nicolás Marichal,Uruguay,Defender,right,185.0,RU1,Dynamo Moscow,3500000.0,6,0,0,0,2101,23
+Nathan Ngoy,Belgium,Defender,right,183.0,BE1,Standard Liège,3500000.0,6,1,1,0,1182,21
+Adam Obert,Slovakia,Defender,left,188.0,IT1,Cagliari Calcio,3500000.0,1,0,0,1,1224,22
+Filipe Relvas,Portugal,Defender,left,192.0,PO1,Portimonense SC,3500000.0,4,1,2,3,2980,25
+Armando Obispo,Netherlands,Defender,left,185.0,NL1,PSV Eindhoven,3500000.0,2,0,0,0,253,25
+Omar Colley,The Gambia,Defender,left,191.0,TR1,Besiktas JK,3500000.0,5,1,8,0,2385,32
+Sebastiano Luperto,Italy,Defender,left,191.0,IT1,FC Empoli,3500000.0,4,0,1,1,3497,28
+Birger Meling,Norway,Defender,left,173.0,DK1,FC Copenhagen,3500000.0,3,0,0,1,1266,30
+Gédéon Kalulu,DR Congo,Defender,right,179.0,FR1,FC Lorient,3500000.0,0,0,0,1,968,27
+Lucas Fasson,Brazil,Defender,left,185.0,RU1,Lokomotiv Moscow,3500000.0,4,0,1,1,2378,23
+Toni Lato,Spain,Defender,left,171.0,ES1,RCD Mallorca,3500000.0,3,0,0,1,1868,27
+Dmitriy Skopintsev,Russia,Defender,left,177.0,RU1,Dynamo Moscow,3500000.0,2,0,1,2,2760,27
+José Ángel Carmona,Spain,Defender,right,184.0,ES1,Getafe CF,3500000.0,9,0,1,1,1376,23
+Sebastián Coates,Uruguay,Defender,right,196.0,PO1,Sporting CP,3500000.0,8,0,5,1,2870,34
+Luca Pellegrini,Italy,Defender,left,178.0,IT1,SS Lazio,3500000.0,10,0,1,1,1080,25
+Mario Mitaj,Albania,Defender,left,180.0,RU1,Lokomotiv Moscow,3500000.0,4,0,0,0,1339,21
+Leonardo Lelo,Portugal,Defender,left,175.0,PO1,Casa Pia AC,3500000.0,2,0,1,2,3190,24
+Roberto Fernández,Paraguay,Defender,left,188.0,RU1,Dynamo Moscow,3500000.0,11,0,5,5,5472,24
+Alexis Duarte,Paraguay,Defender,right,185.0,RU1,Spartak Moscow,3500000.0,5,0,0,0,2653,24
+Pablo Marí,Spain,Defender,left,193.0,IT1,AC Monza,3500000.0,8,0,0,0,2693,31
+Jeremy Toljan,Germany,Defender,right,182.0,IT1,US Sassuolo,3500000.0,1,0,0,7,2250,30
+Andy Pelmard,France,Defender,right,180.0,FR1,Clermont Foot 63,3500000.0,1,0,0,0,2988,24
+Joshua Brenet,Curacao,Defender,right,181.0,NL1,Twente Enschede FC,3500000.0,1,0,2,4,1560,30
+Gabriel Suazo,Chile,Defender,left,178.0,FR1,FC Toulouse,3500000.0,7,0,2,4,3030,27
+Jean-Kévin Duverne,Haiti,Defender,right,186.0,FR1,FC Nantes,3500000.0,4,0,0,0,1350,27
+Boris Popovic,Serbia,Defender,right,189.0,BE1,Cercle Brugge,3500000.0,4,1,0,3,1997,24
+Marvin Friedrich,Germany,Defender,right,193.0,L1,Borussia Mönchengladbach,3500000.0,1,0,0,0,1746,29
+Mujaid Sadick,Spain,Defender,right,185.0,BE1,KRC Genk,3500000.0,1,0,0,0,1651,24
+Mário Rui,Portugal,Defender,left,168.0,IT1,SSC Napoli,3500000.0,7,0,0,2,1563,33
+Jamal Lewis,Northern Ireland,Defender,left,178.0,GB1,Newcastle United,3500000.0,0,0,0,0,99,27
+Daniil Denisov,Russia,Defender,right,185.0,RU1,Spartak Moscow,3500000.0,2,0,0,3,2113,22
+Francesco Acerbi,Italy,Defender,left,192.0,IT1,Inter Milan,3500000.0,2,0,3,2,3107,36
+Gernot Trauner,Austria,Defender,right,183.0,NL1,Feyenoord Rotterdam,3500000.0,1,0,1,2,1874,32
+Federico Gattoni,Argentina,Defender,right,183.0,ES1,Sevilla FC,3500000.0,0,0,1,0,226,25
+Juan Cabal,Colombia,Defender,left,186.0,IT1,Hellas Verona,3500000.0,6,0,0,0,1498,24
+Axel Witsel,Belgium,Defender,right,186.0,ES1,Atlético de Madrid,3500000.0,6,0,2,0,4181,36
+Fábio Cardoso,Portugal,Defender,right,187.0,PO1,FC Porto,3500000.0,8,1,1,2,1653,30
+Georgiy Dzhikiya,Russia,Defender,left,188.0,RU1,Spartak Moscow,3500000.0,2,0,0,0,821,31
+Ricardo Rodríguez,Switzerland,Defender,left,182.0,IT1,Torino FC,3500000.0,4,0,1,2,2993,32
+Tom Holmes,England,Defender,right,189.0,GB1,Luton Town,3500000.0,0,0,0,0,90,24
+Jorge Sánchez,Mexico,Defender,right,175.0,PO1,FC Porto,3500000.0,3,0,0,2,765,27
+Vanja Drkusic,Slovenia,Defender,right,188.0,RU1,FC Sochi,3500000.0,3,0,2,0,1885,25
+Cristiano Biraghi,Italy,Defender,left,185.0,IT1,ACF Fiorentina,3500000.0,9,0,2,6,2840,32
+Marco Pellegrino,Argentina,Defender,left,184.0,IT1,US Salernitana 1919,3500000.0,1,0,0,0,611,22
+Nemanja Gudelj,Serbia,Defender,right,187.0,ES1,Sevilla FC,3500000.0,8,0,3,1,2400,33
+Ronaël Pierre-Gabriel,France,Defender,right,177.0,FR1,FC Nantes,3500000.0,3,0,0,0,594,26
+Nathaniel Phillips,England,Defender,right,190.0,SC1,Celtic FC,3500000.0,2,0,0,0,405,27
+Borna Barisic,Croatia,Defender,left,186.0,SC1,Rangers FC,3500000.0,5,0,1,5,2046,32
+Maik Nawrocki,Poland,Defender,both,192.0,SC1,Celtic FC,3500000.0,2,0,0,0,608,23
+Nicolas Cozza,France,Defender,left,178.0,FR1,FC Nantes,3500000.0,3,0,0,0,1194,26
+Jackson Porozo,Ecuador,Defender,right,192.0,GR1,Olympiacos Piraeus,3300000.0,7,0,1,0,1673,24
+Viktor Melekhin,Russia,Defender,right,189.0,RU1,FK Rostov,3200000.0,8,1,1,0,1879,21
+Jackson Tchatchoua,Cameroon,Defender,right,180.0,IT1,Hellas Verona,3000000.0,2,0,0,2,1815,23
+Robin Pröpper,Netherlands,Defender,right,190.0,NL1,Twente Enschede FC,3000000.0,9,0,3,0,3330,31
+Nacho Fernández,Spain,Defender,right,180.0,ES1,Real Madrid,3000000.0,5,2,0,1,3126,35
+John Souttar,Scotland,Defender,right,186.0,SC1,Rangers FC,3000000.0,6,0,1,2,3107,28
+Modibo Sagnan,Mali,Defender,left,187.0,FR1,Montpellier HSC,3000000.0,6,0,3,0,2020,25
+Mikkel Desler,Denmark,Defender,right,184.0,FR1,FC Toulouse,3000000.0,4,0,1,1,2102,29
+Philippe Sandler,Netherlands,Defender,right,190.0,NL1,NEC Nijmegen,3000000.0,3,0,0,0,2258,27
+Diego Laxalt,Uruguay,Defender,left,178.0,RU1,Dynamo Moscow,3000000.0,10,0,0,5,2511,31
+Christoph Klarer,Austria,Defender,right,191.0,L1,SV Darmstadt 98,3000000.0,9,0,2,2,2431,24
+Lucas Olaza,Uruguay,Defender,left,176.0,RU1,FK Krasnodar,3000000.0,5,0,1,2,1963,30
+Tayyip Talha Sanuç,Türkiye,Defender,right,188.0,TR1,Besiktas JK,3000000.0,2,0,0,0,586,25
+Oliver Villadsen,Denmark,Defender,right,173.0,DK1,FC Nordsjaelland,3000000.0,3,0,2,1,2233,23
+Giovanni González,Uruguay,Defender,right,173.0,ES1,RCD Mallorca,3000000.0,8,0,3,2,3172,30
+Nuraly Alip,Kazakhstan,Defender,left,188.0,RU1,Zenit St. Petersburg,3000000.0,5,0,1,0,2592,25
+Marius Wolf,Germany,Defender,right,188.0,L1,Borussia Dortmund,3000000.0,3,0,0,2,1570,29
+Charlie Taylor,England,Defender,left,183.0,GB1,Burnley FC,3000000.0,8,0,1,1,2489,31
+Andrei Rațiu,Romania,Defender,right,183.0,ES1,Rayo Vallecano,3000000.0,1,0,1,0,1018,26
+Bryan Reynolds,United States,Defender,right,185.0,BE1,KVC Westerlo,3000000.0,2,0,0,4,2358,23
+Mateusz Wieteska,Poland,Defender,right,187.0,IT1,Cagliari Calcio,3000000.0,6,0,1,2,1344,27
+Robson Bambu,Brazil,Defender,right,185.0,PO1,FC Arouca,3000000.0,1,0,0,0,883,27
+Lucas Perrin,France,Defender,right,188.0,FR1,RC Strasbourg Alsace,3000000.0,3,0,0,1,2723,26
+Ben Davies,England,Defender,left,185.0,SC1,Rangers FC,3000000.0,3,0,1,0,2256,29
+Martin Erlić,Croatia,Defender,right,193.0,IT1,US Sassuolo,3000000.0,6,0,1,0,2745,27
+Kevin Akpoguma,Nigeria,Defender,right,192.0,L1,TSG 1899 Hoffenheim,3000000.0,7,0,0,0,1159,29
+César Montes,Mexico,Defender,right,195.0,ES1,UD Almería,3000000.0,7,0,0,0,1798,27
+Jesús Vázquez,Spain,Defender,left,182.0,ES1,Valencia CF,3000000.0,1,0,1,0,918,22
+Eric Bailly,Cote d'Ivoire,Defender,right,187.0,ES1,Villarreal CF,3000000.0,4,0,0,0,1384,30
+Maximilian Bauer,Germany,Defender,right,189.0,L1,FC Augsburg,3000000.0,3,0,1,0,808,24
+Levent Mercan,Türkiye,Defender,left,176.0,TR1,Fatih Karagümrük,3000000.0,8,0,1,5,3114,24
+Joe Mendes,Sweden,Defender,right,177.0,PO1,SC Braga,3000000.0,2,0,0,2,1246,22
+Fabien Centonze,France,Defender,right,182.0,FR1,FC Nantes,3000000.0,3,0,0,1,767,29
+Ismaël Kandouss,Morocco,Defender,right,192.0,BE1,KAA Gent,3000000.0,5,1,1,0,2610,27
+Carlos Domínguez,Spain,Defender,left,187.0,ES1,Celta de Vigo,3000000.0,2,0,0,0,1846,23
+Hrvoje Smolcic,Croatia,Defender,left,185.0,L1,Eintracht Frankfurt,3000000.0,0,0,1,0,350,24
+Matías Pérez,Argentina,Defender,right,177.0,RU1,FK Orenburg,3000000.0,15,0,7,1,2588,25
+Yerry Mina,Colombia,Defender,right,195.0,IT1,Cagliari Calcio,3000000.0,6,0,2,0,1315,30
+Iñigo Lekue,Spain,Defender,right,180.0,ES1,Athletic Bilbao,3000000.0,5,0,0,3,2445,31
+Edgar González,Spain,Defender,right,192.0,ES1,UD Almería,3000000.0,7,0,2,0,2618,27
+Marlon Fossey,United States,Defender,right,179.0,BE1,Standard Liège,3000000.0,1,0,1,2,1632,26
+Riccieli,Brazil,Defender,right,187.0,PO1,FC Famalicão,3000000.0,7,1,2,1,1866,26
+Toni Borevkovic,Croatia,Defender,right,193.0,PO1,Vitória Guimarães SC,3000000.0,2,1,0,0,2044,27
+Bruno Amione,Argentina,Defender,left,185.0,IT1,Hellas Verona,3000000.0,3,0,0,0,681,23
+Denys Popov,Ukraine,Defender,both,185.0,UKR1,Dynamo Kyiv,3000000.0,2,1,1,0,2407,25
+Bünyamin Balcı,Türkiye,Defender,right,173.0,TR1,Antalyaspor,3000000.0,3,0,1,3,1865,24
+Ricardo Esgaio,Portugal,Defender,right,172.0,PO1,Sporting CP,3000000.0,7,0,0,4,2272,31
+Zé Pedro,Portugal,Defender,right,187.0,PO1,FC Porto,3000000.0,1,0,2,0,1061,27
+Mads Andersen,Denmark,Defender,right,194.0,GB1,Luton Town,3000000.0,1,0,1,0,579,27
+Leonardo Buta,Portugal,Defender,left,182.0,PO1,Gil Vicente FC,3000000.0,3,0,0,3,2205,22
+Gabriel Osho,Nigeria,Defender,right,185.0,GB1,Luton Town,3000000.0,3,0,2,0,2028,26
+Fabián Balbuena,Paraguay,Defender,right,189.0,RU1,Dynamo Moscow,3000000.0,7,0,3,2,2854,33
+Fabiano,Brazil,Defender,right,175.0,PO1,Moreirense FC,3000000.0,11,0,6,2,4665,24
+Chidozie Awaziem,Nigeria,Defender,right,189.0,PO1,Boavista FC,3000000.0,7,0,0,1,2041,28
+Jacob Rasmussen,Denmark,Defender,left,190.0,DK1,Bröndby IF,3000000.0,5,0,1,1,2070,27
+Pavel Kaderabek,Czech Republic,Defender,right,182.0,L1,TSG 1899 Hoffenheim,3000000.0,7,0,3,5,2512,32
+Dexter Lembikisa,Jamaica,Defender,right,180.0,SC1,Heart of Midlothian FC,3000000.0,1,0,1,0,1033,21
+Yasser Larouci,Algeria,Defender,left,176.0,GB1,Sheffield United,3000000.0,1,0,0,0,630,24
+Bruno Onyemaechi,Nigeria,Defender,left,184.0,PO1,Boavista FC,3000000.0,3,0,0,1,1975,25
+Anton Gaaei,Denmark,Defender,right,183.0,DK1,Viborg FF,3000000.0,2,0,1,4,1896,22
+Lucas Hey,Denmark,Defender,right,189.0,DK1,FC Nordsjaelland,3000000.0,2,0,0,0,1404,21
+Rubén Duarte,Spain,Defender,left,179.0,ES1,Deportivo Alavés,3000000.0,7,0,3,1,2200,29
+Raúl Torrente,Spain,Defender,left,193.0,ES1,Granada CF,3000000.0,4,0,0,0,1251,23
+Tanguy Nianzou,France,Defender,right,191.0,ES1,Sevilla FC,3000000.0,4,0,0,0,610,22
+Yuriy Gorshkov,Russia,Defender,left,174.0,RU1,Krylya Sovetov Samara,3000000.0,4,0,4,2,2750,25
+Léo Duarte,Brazil,Defender,right,183.0,TR1,Basaksehir FK,3000000.0,1,0,0,2,2700,28
+Brandon Mechele,Belgium,Defender,right,190.0,BE1,Club Brugge KV,3000000.0,5,0,4,0,3041,32
+Giulian Biancone,France,Defender,right,187.0,GR1,Olympiacos Piraeus,3000000.0,3,0,0,1,806,24
+Zaidu,Nigeria,Defender,left,182.0,PO1,FC Porto,3000000.0,1,0,1,0,679,27
+Daley Blind,Netherlands,Defender,left,180.0,ES1,Girona FC,3000000.0,7,0,3,2,3213,34
+Giangiacomo Magnani,Italy,Defender,right,192.0,IT1,Hellas Verona,3000000.0,6,0,0,0,2611,29
+Pasquale Mazzocchi,Italy,Defender,right,183.0,IT1,US Salernitana 1919,3000000.0,4,1,0,2,1872,29
+Lucas Noubi,Belgium,Defender,right,184.0,BE1,Standard Liège,3000000.0,2,0,0,0,1060,20
+Vinícius Tobias,Brazil,Defender,right,177.0,ES1,Real Madrid,3000000.0,0,0,0,0,88,20
+Paweł Dawidowicz,Poland,Defender,both,189.0,IT1,Hellas Verona,3000000.0,5,0,1,0,2233,29
+Ardian Ismajli,Albania,Defender,right,187.0,IT1,FC Empoli,3000000.0,2,0,0,0,2136,28
+Gautier Lloris,France,Defender,left,191.0,FR1,Le Havre AC,3000000.0,2,0,2,0,2780,29
+Marcos López,Peru,Defender,left,176.0,NL1,Feyenoord Rotterdam,3000000.0,2,0,0,1,569,25
+Tomás Ribeiro,Portugal,Defender,left,185.0,PO1,Vitória Guimarães SC,3000000.0,8,0,1,2,2497,25
+Silvan Widmer,Switzerland,Defender,right,183.0,L1,1.FSV Mainz 05,3000000.0,4,0,1,3,1245,31
+Kenny Lala,France,Defender,right,178.0,FR1,Stade Brestois 29,3000000.0,7,0,2,3,2970,33
+Germán Pezzella,Argentina,Defender,right,187.0,ES1,Real Betis Balompié,3000000.0,9,0,1,0,3393,33
+Fodé Ballo-Touré,Senegal,Defender,left,182.0,GB1,Fulham FC,3000000.0,1,0,0,0,224,28
+Matt Doherty,Ireland,Defender,right,185.0,GB1,Wolverhampton Wanderers,3000000.0,2,0,3,1,1678,33
+Pawel Bochniewicz,Poland,Defender,left,194.0,NL1,SC Heerenveen,3000000.0,3,0,3,2,2443,29
+Florian Lejeune,France,Defender,right,190.0,ES1,Rayo Vallecano,3000000.0,5,0,3,1,3342,33
+Kevin Van Den Kerkhof,Algeria,Defender,right,190.0,FR1,FC Metz,3000000.0,2,0,1,2,1918,28
+Neto Borges,Brazil,Defender,left,185.0,FR1,Clermont Foot 63,3000000.0,3,0,0,3,2517,28
+Benedikt Gimber,Germany,Defender,left,187.0,L1,1.FC Heidenheim 1846,2800000.0,9,0,1,1,2071,27
+Maksim Nenakhov,Russia,Defender,both,178.0,RU1,Lokomotiv Moscow,2800000.0,7,0,0,1,2430,26
+Ilario Monterisi,Italy,Defender,right,190.0,IT1,Frosinone Calcio,2800000.0,3,0,2,3,1767,23
+Stefano Denswil,Suriname,Defender,left,188.0,TR1,Trabzonspor,2800000.0,1,0,1,1,2247,31
+Saba Sazonov,Georgia,Defender,right,194.0,RU1,Dynamo Moscow,2800000.0,2,0,0,0,523,22
+José Copete,Spain,Defender,left,190.0,ES1,RCD Mallorca,2800000.0,9,0,1,1,2047,25
+Evgeniy Morozov,Russia,Defender,right,189.0,RU1,Lokomotiv Moscow,2800000.0,10,0,2,1,2723,23
+Toby Alderweireld,Belgium,Defender,right,187.0,BE1,Royal Antwerp FC,2800000.0,4,0,3,4,3295,35
+Roman Evgenjev,Russia,Defender,right,193.0,RU1,Krylya Sovetov Samara,2800000.0,3,0,0,0,2276,25
+Ousseynou Ba,Senegal,Defender,right,192.0,TR1,Basaksehir FK,2600000.0,8,1,0,1,1765,29
+Koffi Djidji,Cote d'Ivoire,Defender,right,184.0,IT1,Torino FC,2500000.0,2,0,0,0,760,32
+Kenneth Schmidt,Germany,Defender,left,187.0,L1,SC Freiburg,2500000.0,1,0,0,0,121,22
+Jérôme Roussillon,Guadeloupe,Defender,left,172.0,L1,1.FC Union Berlin,2500000.0,2,0,0,2,1187,32
+Bernardo Vital,Portugal,Defender,right,187.0,PO1,GD Estoril Praia,2500000.0,5,1,1,1,3025,24
+Ruan Tressoldi,Brazil,Defender,right,187.0,IT1,US Sassuolo,2500000.0,7,0,0,1,1779,25
+Juan Jesus,Brazil,Defender,left,185.0,IT1,SSC Napoli,2500000.0,9,0,1,1,2729,33
+Elseid Hysaj,Albania,Defender,right,182.0,IT1,SS Lazio,2500000.0,2,0,0,0,1732,30
+Saïdou Sow,Guinea,Defender,right,187.0,FR1,RC Strasbourg Alsace,2500000.0,2,0,0,1,717,22
+Hendry Blank,Germany,Defender,left,189.0,L1,Borussia Dortmund,2500000.0,0,0,0,0,45,20
+Dimitri Foulquier,Guadeloupe,Defender,right,183.0,ES1,Valencia CF,2500000.0,3,0,0,0,1923,31
+Rodrigo Guth,Brazil,Defender,right,192.0,NL1,Fortuna Sittard,2500000.0,8,0,3,2,3206,24
+Stefan Savic,Montenegro,Defender,right,187.0,ES1,Atlético de Madrid,2500000.0,8,0,0,0,2349,34
+Emil Krafth,Sweden,Defender,right,184.0,GB1,Newcastle United,2500000.0,2,0,0,0,1056,30
+Panos Katseris,Greece,Defender,right,187.0,FR1,FC Lorient,2500000.0,4,0,1,1,1049,23
+Enzo Tchato,Cameroon,Defender,right,182.0,FR1,Montpellier HSC,2500000.0,2,0,0,0,1123,22
+Yoram Zague,France,Defender,right,168.0,FR1,Paris Saint-Germain,2500000.0,1,0,1,0,372,18
+Rein Van Helden,Belgium,Defender,right,187.0,BE1,Sint-Truidense VV,2500000.0,7,0,0,0,2482,22
+Mattia Bani,Italy,Defender,right,188.0,IT1,Genoa CFC,2500000.0,9,0,2,0,2365,31
+Tomasz Kedziora,Poland,Defender,right,184.0,GR1,PAOK Thessaloniki,2500000.0,4,0,2,0,2461,30
+Giorgi Gocholeishvili,Georgia,Defender,right,178.0,UKR1,Shakhtar Donetsk,2500000.0,4,1,0,3,1516,23
+Julián Malatini,Argentina,Defender,right,191.0,L1,SV Werder Bremen,2500000.0,1,0,1,0,602,23
+Frederik Alves,Denmark,Defender,right,195.0,DK1,Bröndby IF,2500000.0,6,0,1,0,1700,25
+Rhys Norrington-Davies,Wales,Defender,left,181.0,GB1,Sheffield United,2500000.0,1,0,0,0,253,25
+Stefan Lainer,Austria,Defender,right,175.0,L1,Borussia Mönchengladbach,2500000.0,2,0,0,1,758,32
+Jesús Navas,Spain,Defender,right,170.0,ES1,Sevilla FC,2500000.0,7,1,0,2,2431,39
+André Ramalho,Brazil,Defender,both,182.0,NL1,PSV Eindhoven,2500000.0,7,0,3,1,3304,32
+Christopher Jullien,France,Defender,right,196.0,FR1,Montpellier HSC,2500000.0,5,0,1,0,1229,31
+Samuel Umtiti,France,Defender,left,182.0,FR1,LOSC Lille,2500000.0,0,0,0,0,187,31
+Stelios Andreou,Cyprus,Defender,right,187.0,BE1,R Charleroi SC,2500000.0,5,0,1,1,2410,22
+Nathaniel Adjei,Ghana,Defender,right,191.0,FR1,FC Lorient,2500000.0,2,0,0,0,1398,22
+Pascal Stenzel,Germany,Defender,right,183.0,L1,VfB Stuttgart,2500000.0,3,0,0,5,1227,28
+Youssouf Sabaly,Senegal,Defender,right,173.0,ES1,Real Betis Balompié,2500000.0,2,0,0,1,1048,31
+Pantelis Hatzidiakos,Greece,Defender,right,185.0,IT1,Cagliari Calcio,2500000.0,2,0,1,0,1643,28
+Abdukodir Khusanov,Uzbekistan,Defender,right,186.0,FR1,RC Lens,2500000.0,5,0,0,0,961,20
+Willy Boly,Cote d'Ivoire,Defender,right,195.0,GB1,Nottingham Forest,2500000.0,3,0,2,1,1533,33
+Brandon Williams,England,Defender,right,180.0,GB1,Manchester United,2500000.0,0,0,0,0,150,24
+George Baldock,Greece,Defender,right,178.0,GB1,Sheffield United,2500000.0,4,0,0,1,970,31
+Thomas Meunier,Belgium,Defender,right,191.0,TR1,Trabzonspor,2500000.0,2,0,1,5,1833,33
+Joris Kayembe,DR Congo,Defender,left,180.0,BE1,KRC Genk,2500000.0,3,0,1,2,1723,30
+Hugo Novoa,Spain,Defender,right,182.0,NL1,FC Utrecht,2500000.0,2,0,0,0,213,22
+David López,Spain,Defender,right,185.0,ES1,Girona FC,2500000.0,4,0,3,0,2168,35
+Fali Candé,Guinea-Bissau,Defender,left,184.0,FR1,FC Metz,2500000.0,4,0,0,2,1846,27
+Patrick Mainka,Germany,Defender,right,194.0,L1,1.FC Heidenheim 1846,2500000.0,1,0,2,0,3240,30
+Robin Knoche,Germany,Defender,right,189.0,L1,1.FC Union Berlin,2500000.0,2,0,2,0,2368,32
+Chris Smalling,England,Defender,right,194.0,IT1,AS Roma,2500000.0,0,0,0,0,669,35
+Ilya Samoshnikov,Russia,Defender,right,177.0,RU1,Lokomotiv Moscow,2500000.0,4,0,1,2,1983,27
+Ivan Ordets,Ukraine,Defender,right,195.0,L1,VfL Bochum,2500000.0,4,0,1,1,1998,32
+Rafael Tolói,Italy,Defender,right,185.0,IT1,Atalanta BC,2500000.0,8,0,0,0,1286,34
+Ramon,Brazil,Defender,left,179.0,GR1,Olympiacos Piraeus,2500000.0,0,0,0,0,211,23
+Djené,Togo,Defender,right,178.0,ES1,Getafe CF,2500000.0,14,0,0,0,2581,33
+Juan Iglesias,Spain,Defender,right,187.0,ES1,Getafe CF,2500000.0,3,0,0,2,1667,26
+Javi Hernández,Spain,Defender,left,185.0,ES1,Cádiz CF,2500000.0,10,0,1,2,2518,26
+Matthieu Udol,France,Defender,left,178.0,FR1,FC Metz,2500000.0,5,0,3,3,2700,28
+Merveille Bokadi,DR Congo,Defender,right,186.0,BE1,Standard Liège,2500000.0,0,1,1,1,1306,28
+Issiaga Sylla,Guinea,Defender,left,180.0,FR1,Montpellier HSC,2500000.0,3,0,1,2,1457,31
+Maximiliano Caufriez,Belgium,Defender,right,189.0,FR1,Clermont Foot 63,2500000.0,5,2,0,1,1665,27
+Stanley Nsoki,France,Defender,left,184.0,L1,TSG 1899 Hoffenheim,2500000.0,3,0,0,0,632,25
+Mads Bech Sørensen,Denmark,Defender,left,193.0,DK1,FC Midtjylland,2500000.0,1,0,1,1,1417,26
+Mees de Wit,Netherlands,Defender,left,181.0,NL1,AZ Alkmaar,2500000.0,1,0,1,0,459,26
+Ricard Sánchez,Spain,Defender,right,175.0,ES1,Granada CF,2500000.0,7,0,3,1,2300,24
+Enzo Ebosse,Cameroon,Defender,left,185.0,IT1,Udinese Calcio,2500000.0,0,0,0,0,7,25
+Omar Traoré,Germany,Defender,right,187.0,L1,1.FC Heidenheim 1846,2500000.0,5,0,0,5,2568,26
+Omar Richards,England,Defender,left,174.0,GR1,Olympiacos Piraeus,2500000.0,0,0,0,0,221,26
+Calvin Verdonk,Indonesia,Defender,left,174.0,NL1,NEC Nijmegen,2500000.0,6,0,2,3,3426,27
+Rayyan Baniya,Türkiye,Defender,right,194.0,TR1,Fatih Karagümrük,2500000.0,4,0,0,0,1885,25
+Max Lowe,England,Defender,left,175.0,GB1,Sheffield United,2500000.0,1,0,0,1,500,27
+Armando Izzo,Italy,Defender,right,183.0,IT1,AC Monza,2500000.0,9,0,0,0,1671,32
+Gabriele Zappa,Italy,Defender,right,187.0,IT1,Cagliari Calcio,2500000.0,2,0,1,3,2799,25
+Vladyslav Dubinchak,Ukraine,Defender,left,173.0,UKR1,Dynamo Kyiv,2500000.0,7,0,1,4,2144,26
+Elias Cobbaut,Belgium,Defender,left,188.0,BE1,KV Mechelen,2500000.0,3,0,0,0,2160,27
+Edgaras Utkus,Lithuania,Defender,right,190.0,BE1,Cercle Brugge,2500000.0,7,0,1,1,1439,24
+Riccardo Marchizza,Italy,Defender,left,186.0,IT1,Frosinone Calcio,2500000.0,1,0,0,4,1298,26
+Abdul Mumin,Ghana,Defender,right,188.0,ES1,Rayo Vallecano,2500000.0,5,1,1,0,1905,26
+Cristián Borja,Colombia,Defender,left,179.0,PO1,SC Braga,2500000.0,4,0,1,6,3496,31
+Christian Burgess,England,Defender,right,196.0,BE1,Union Saint-Gilloise,2500000.0,10,0,2,0,3195,33
+Liam Scales,Ireland,Defender,left,187.0,SC1,Celtic FC,2500000.0,5,0,1,3,3630,26
+Samet Akaydin,Türkiye,Defender,right,190.0,GR1,Panathinaikos FC,2500000.0,6,0,0,1,1173,30
+Carlos Neva,Spain,Defender,left,174.0,ES1,Granada CF,2500000.0,4,0,0,2,3156,28
+Bogdan Mykhaylichenko,Ukraine,Defender,left,178.0,UKR1,Polissya Zhytomyr,2500000.0,4,0,0,1,1380,27
+Silvan Hefti,Switzerland,Defender,right,183.0,FR1,Montpellier HSC,2500000.0,2,0,0,2,1003,27
+Mads Pedersen,Denmark,Defender,left,178.0,L1,FC Augsburg,2500000.0,6,1,1,1,1829,28
+Sebastian Walukiewicz,Poland,Defender,right,188.0,IT1,FC Empoli,2500000.0,6,0,0,0,2055,24
+Lautaro Giannetti,Argentina,Defender,right,185.0,IT1,Udinese Calcio,2500000.0,4,0,1,0,630,31
+Kamil Piatkowski,Poland,Defender,right,191.0,ES1,Granada CF,2500000.0,1,1,0,0,688,24
+Tin Jedvaj,Croatia,Defender,right,185.0,GR1,Panathinaikos FC,2500000.0,3,0,2,1,2529,29
+Amari'i Bell,Jamaica,Defender,left,180.0,GB1,Luton Town,2500000.0,0,0,0,0,2104,30
+Álvaro Odriozola,Spain,Defender,right,176.0,ES1,Real Madrid,2500000.0,0,0,0,1,721,29
+Sergio Ramos,Spain,Defender,right,184.0,ES1,Sevilla FC,2500000.0,10,1,7,1,3301,38
+Tom Lockyer,Wales,Defender,right,185.0,GB1,Luton Town,2500000.0,4,0,1,1,1217,30
+Sean Klaiber,Suriname,Defender,right,184.0,DK1,Bröndby IF,2500000.0,0,0,2,0,1582,30
+Jorge Fernandes,Portugal,Defender,right,191.0,PO1,Vitória Guimarães SC,2500000.0,7,0,1,1,2582,27
+Gustaf Lagerbielke,Sweden,Defender,right,193.0,SC1,Celtic FC,2500000.0,2,0,1,0,486,24
+Kelvin Amian,France,Defender,right,180.0,FR1,FC Nantes,2500000.0,2,0,0,1,920,26
+Panagiotis Retsos,Greece,Defender,right,186.0,GR1,Olympiacos Piraeus,2500000.0,12,1,1,0,2403,26
+Nicolás Freire,Argentina,Defender,left,187.0,GR1,Olympiacos Piraeus,2500000.0,1,0,0,0,706,30
+Giorgio Cittadini,Italy,Defender,right,193.0,IT1,AC Monza,2400000.0,1,0,0,0,118,22
+Alfonso Espino,Uruguay,Defender,left,172.0,ES1,Rayo Vallecano,2400000.0,9,0,0,1,2648,33
+Souffian El Karouani,Morocco,Defender,left,178.0,NL1,FC Utrecht,2400000.0,4,0,0,4,2567,24
+Miroslav Bogosavac,Serbia,Defender,left,176.0,RU1,Akhmat Grozny,2300000.0,2,0,0,2,2335,28
+Artem Makarchuk,Russia,Defender,left,185.0,RU1,FC Sochi,2300000.0,1,0,0,0,2037,29
+Fatih Aksoy,Türkiye,Defender,right,189.0,TR1,Alanyaspor,2300000.0,0,0,1,0,962,27
+Furkan Bayır,Türkiye,Defender,right,188.0,TR1,Alanyaspor,2300000.0,9,0,0,1,2010,24
+Emanuele Valeri,Italy,Defender,left,180.0,IT1,Frosinone Calcio,2300000.0,3,0,0,2,1178,26
+Alfons Sampsted,Iceland,Defender,right,180.0,NL1,Twente Enschede FC,2300000.0,1,0,1,2,1939,26
+Eric-Junior Bocat,France,Defender,left,184.0,BE1,Sint-Truidense VV,2200000.0,2,0,1,3,2454,25
+Ashley Phillips,England,Defender,right,196.0,GB1,Tottenham Hotspur,2200000.0,1,0,0,1,204,19
+Giuseppe Pezzella,Italy,Defender,left,187.0,IT1,FC Empoli,2200000.0,5,0,0,0,1117,27
+Ravil Tagir,Türkiye,Defender,left,185.0,BE1,KVC Westerlo,2200000.0,2,0,1,1,977,21
+Tobias Slotsager,Denmark,Defender,right,190.0,DK1,Odense Boldklub,2200000.0,3,0,1,0,1810,19
+Ross Sykes,England,Defender,right,196.0,BE1,Union Saint-Gilloise,2200000.0,1,0,4,0,1269,25
+Kaine Kesler-Hayden,England,Defender,right,175.0,GB1,Aston Villa,2200000.0,0,0,0,0,153,22
+Johan Mojica,Colombia,Defender,left,185.0,ES1,CA Osasuna,2200000.0,3,0,1,3,2299,32
+Rubén Peña,Spain,Defender,right,170.0,ES1,CA Osasuna,2200000.0,3,0,0,3,2411,33
+Yahia Attiyat Allah,Morocco,Defender,left,176.0,RU1,FC Sochi,2200000.0,0,0,1,3,589,29
+Kingsley Ehizibue,Netherlands,Defender,right,189.0,IT1,Udinese Calcio,2200000.0,4,0,0,1,956,29
+Juan Cruz,Spain,Defender,left,182.0,ES1,CA Osasuna,2200000.0,3,0,0,1,2192,32
+Lukas Engel,Denmark,Defender,left,178.0,DK1,Silkeborg IF,2200000.0,0,0,0,1,727,26
+Majid Hosseini,Iran,Defender,right,187.0,TR1,Kayserispor,2200000.0,1,0,0,0,867,28
+Jonny Evans,Northern Ireland,Defender,both,188.0,GB1,Manchester United,2000000.0,2,0,0,1,1600,37
+Matej Maglica,Croatia,Defender,left,198.0,L1,SV Darmstadt 98,2000000.0,7,2,1,0,1715,26
+Benjamin Mendy,France,Defender,left,185.0,FR1,FC Lorient,2000000.0,3,0,2,1,708,30
+Julien Laporte,France,Defender,right,185.0,FR1,FC Lorient,2000000.0,4,0,0,0,1816,31
+Achraf Dari,Morocco,Defender,right,188.0,FR1,Stade Brestois 29,2000000.0,0,0,1,0,436,25
+Luca Kilian,Germany,Defender,right,192.0,L1,1.FC Köln,2000000.0,1,0,0,0,651,25
+Massadio Haidara,Mali,Defender,left,179.0,FR1,RC Lens,2000000.0,3,0,0,1,979,32
+Patrick van Aanholt,Netherlands,Defender,left,176.0,NL1,PSV Eindhoven,2000000.0,0,0,1,1,1538,34
+David Bates,Scotland,Defender,right,193.0,BE1,KV Mechelen,2000000.0,5,0,1,0,2082,28
+Siebe Van der Heyden,Belgium,Defender,left,185.0,ES1,RCD Mallorca,2000000.0,3,0,0,0,617,26
+Pep Chavarría,Spain,Defender,left,174.0,ES1,Rayo Vallecano,2000000.0,4,0,1,2,1531,26
+Florent Hadergjonaj,Kosovo,Defender,right,182.0,TR1,Alanyaspor,2000000.0,3,0,2,3,2319,30
+Alessandro Vogliacco,Italy,Defender,right,186.0,IT1,Genoa CFC,2000000.0,4,0,0,2,1422,26
+Nihad Mujakic,Bosnia-Herzegovina,Defender,left,189.0,TR1,MKE Ankaragücü,2000000.0,4,0,1,1,3203,26
+Oliver Braude,Norway,Defender,right,166.0,NL1,SC Heerenveen,2000000.0,6,0,0,3,2212,20
+Oleksandr Svatok,Ukraine,Defender,right,186.0,UKR1,SK Dnipro-1,2000000.0,6,0,1,2,2580,30
+Robert Gumny,Poland,Defender,right,182.0,L1,FC Augsburg,2000000.0,3,0,0,0,477,26
+Bart van Rooij,Netherlands,Defender,right,174.0,NL1,NEC Nijmegen,2000000.0,5,0,3,4,2459,23
+Brandon Soppy,France,Defender,right,180.0,IT1,Torino FC,2000000.0,0,0,0,0,177,22
+Junior Sambia,France,Defender,right,185.0,IT1,US Salernitana 1919,2000000.0,4,0,1,2,1214,28
+Clemens Riedel,Germany,Defender,right,186.0,L1,SV Darmstadt 98,2000000.0,3,0,0,0,843,21
+Kevin Vogt,Germany,Defender,right,194.0,L1,TSG 1899 Hoffenheim,2000000.0,7,0,0,0,2795,33
+Tomás Tavares,Portugal,Defender,right,182.0,RU1,Spartak Moscow,2000000.0,0,0,0,0,102,23
+Gabriel Paulista,Brazil,Defender,right,185.0,ES1,Valencia CF,2000000.0,7,0,0,0,1896,34
+Alex Sandro,Brazil,Defender,left,181.0,IT1,Juventus FC,2000000.0,1,0,1,0,807,34
+Patric Pfeiffer,Ghana,Defender,right,196.0,L1,FC Augsburg,2000000.0,0,0,0,1,599,25
+Shurandy Sambo,Netherlands,Defender,right,174.0,NL1,PSV Eindhoven,2000000.0,1,0,0,0,201,23
+Jordan Bos,Australia,Defender,left,180.0,BE1,KVC Westerlo,2000000.0,4,0,2,1,1715,22
+Lukas Kübler,Germany,Defender,right,182.0,L1,SC Freiburg,2000000.0,8,0,1,0,2287,32
+Basso,Brazil,Defender,right,187.0,PO1,GD Estoril Praia,2000000.0,2,0,1,0,1209,28
+Tristan Gooijer,Netherlands,Defender,right,185.0,NL1,Ajax Amsterdam,2000000.0,0,0,0,1,648,20
+Onur Bulut,Türkiye,Defender,right,179.0,TR1,Besiktas JK,2000000.0,3,0,1,3,2490,30
+Frans Krätzig,Germany,Defender,left,177.0,L1,Bayern Munich,2000000.0,0,0,1,1,195,22
+Chumi,Spain,Defender,right,183.0,ES1,UD Almería,2000000.0,4,0,0,1,2546,25
+Paul Jaeckel,Germany,Defender,right,186.0,L1,1.FC Union Berlin,2000000.0,1,0,0,0,406,26
+Sergiy Kryvtsov,Ukraine,Defender,right,186.0,UKR1,Shakhtar Donetsk,2000000.0,1,0,0,0,23,33
+Yusuf Özdemir,Türkiye,Defender,left,181.0,TR1,Alanyaspor,2000000.0,7,0,2,4,2475,24
+Tommaso Augello,Italy,Defender,left,180.0,IT1,Cagliari Calcio,2000000.0,5,0,1,1,2551,30
+Oliver Provstgaard,Denmark,Defender,left,194.0,DK1,Vejle Boldklub,2000000.0,3,0,1,0,1980,21
+Domingos Duarte,Portugal,Defender,right,192.0,ES1,Getafe CF,2000000.0,6,1,1,0,1088,29
+Jeffrey Gouweleeuw,Netherlands,Defender,right,188.0,L1,FC Augsburg,2000000.0,7,0,1,1,2594,33
+Marvin Senaya,France,Defender,right,181.0,FR1,RC Strasbourg Alsace,2000000.0,5,0,1,1,2139,24
+Mats Köhlert,Germany,Defender,left,169.0,NL1,SC Heerenveen,2000000.0,6,0,2,2,3139,26
+Daiki Hashioka,Japan,Defender,right,184.0,BE1,Sint-Truidense VV,2000000.0,4,0,2,2,2129,25
+Jerome Opoku,Ghana,Defender,left,197.0,PO1,FC Arouca,2000000.0,8,0,4,1,2796,26
+Teenage Hadebe,Zimbabwe,Defender,left,189.0,TR1,Konyaspor,2000000.0,5,0,0,1,907,29
+James Hill,England,Defender,right,184.0,GB1,AFC Bournemouth,2000000.0,0,0,0,1,312,23
+Arseniy Batagov,Ukraine,Defender,left,185.0,UKR1,Zorya Lugansk,2000000.0,5,0,2,2,2395,22
+Kenneth Omeruo,Nigeria,Defender,right,185.0,TR1,Kasimpasa,2000000.0,5,1,1,2,2077,31
+Anthony Oyono,Gabon,Defender,right,184.0,IT1,Frosinone Calcio,2000000.0,4,0,0,1,1407,23
+Denso Kasius,Netherlands,Defender,right,183.0,NL1,AZ Alkmaar,2000000.0,0,1,0,1,682,22
+Alessandro Florenzi,Italy,Defender,right,173.0,IT1,AC Milan,2000000.0,8,0,1,7,2140,33
+Fali,Spain,Defender,right,186.0,ES1,Cádiz CF,2000000.0,12,0,0,0,2551,31
+Adrià Altimira,Spain,Defender,right,170.0,ES1,Villarreal CF,2000000.0,4,0,0,0,1345,23
+Oleksandr Syrota,Ukraine,Defender,left,193.0,UKR1,Dynamo Kyiv,2000000.0,5,0,0,1,1512,24
+Nacho Vidal,Spain,Defender,right,180.0,ES1,CA Osasuna,2000000.0,2,0,1,0,572,30
+Marko Divkovic,Croatia,Defender,left,181.0,DK1,Bröndby IF,2000000.0,3,0,2,6,1756,25
+Kaiky,Brazil,Defender,right,182.0,ES1,UD Almería,2000000.0,2,0,1,0,665,21
+Nathan,Brazil,Defender,right,183.0,PO1,FC Famalicão,2000000.0,9,0,0,0,1843,23
+Jonas Föhrenbach,Germany,Defender,left,184.0,L1,1.FC Heidenheim 1846,2000000.0,2,0,0,0,2925,29
+Warren Kamanzi,Norway,Defender,right,177.0,FR1,FC Toulouse,2000000.0,3,0,0,3,1314,24
+Jaouen Hadjam,Algeria,Defender,left,185.0,FR1,FC Nantes,2000000.0,0,0,0,0,256,21
+Liberato Cacace,New Zealand,Defender,left,183.0,IT1,FC Empoli,2000000.0,6,0,0,1,1978,24
+Nikita Chernov,Russia,Defender,right,188.0,RU1,Spartak Moscow,2000000.0,2,0,0,1,1737,29
+William Troost-Ekong,Nigeria,Defender,right,191.0,GR1,PAOK Thessaloniki,2000000.0,2,0,0,0,1414,31
+Louis Patris,Belgium,Defender,right,187.0,BE1,RSC Anderlecht,2000000.0,4,0,1,0,931,23
+Akim Zedadka,Algeria,Defender,right,173.0,FR1,LOSC Lille,2000000.0,0,0,0,0,24,29
+Fabio Chiarodia,Italy,Defender,left,186.0,L1,Borussia Mönchengladbach,2000000.0,0,0,0,0,300,19
+Alexandro Bernabéi,Argentina,Defender,left,169.0,SC1,Celtic FC,2000000.0,2,0,0,0,429,24
+Tyronne Ebuehi,Nigeria,Defender,right,187.0,IT1,FC Empoli,2000000.0,0,0,0,1,1155,29
+Craig Dawson,England,Defender,right,188.0,GB1,Wolverhampton Wanderers,2000000.0,7,0,1,1,2313,34
+Abdul Rahman Baba,Ghana,Defender,left,179.0,GR1,PAOK Thessaloniki,2000000.0,9,0,4,2,2184,30
+Martin Frese,Denmark,Defender,left,179.0,DK1,FC Nordsjaelland,2000000.0,8,0,6,2,2551,27
+Jakov Medic,Croatia,Defender,right,193.0,NL1,Ajax Amsterdam,2000000.0,2,0,1,0,517,26
+João Ferreira,Portugal,Defender,right,185.0,IT1,Udinese Calcio,2000000.0,10,0,0,1,1955,23
+Marcos Alonso,Spain,Defender,left,188.0,ES1,FC Barcelona,2000000.0,0,0,0,0,389,34
+Rasmus Lauritsen,Denmark,Defender,right,188.0,DK1,Bröndby IF,2000000.0,1,0,0,0,922,28
+Lazaros Rota,Greece,Defender,right,180.0,GR1,AEK Athens,2000000.0,5,0,2,0,1615,27
+Jon Martín,Spain,Defender,right,187.0,ES1,Real Sociedad,2000000.0,0,0,0,0,23,18
+Glenn Bijl,Netherlands,Defender,right,179.0,RU1,Krylya Sovetov Samara,2000000.0,7,0,3,4,1838,29
+Philipp Max,Germany,Defender,left,177.0,L1,Eintracht Frankfurt,2000000.0,3,0,1,4,1501,31
+Wagner Pina,Cape Verde,Defender,right,180.0,PO1,GD Estoril Praia,2000000.0,5,0,0,1,1417,22
+César Azpilicueta,Spain,Defender,right,178.0,ES1,Atlético de Madrid,2000000.0,7,0,0,2,1826,35
+Maximilian Wittek,Germany,Defender,left,173.0,NL1,Vitesse Arnhem,2000000.0,4,0,3,1,1158,29
+Víctor Chust,Spain,Defender,both,184.0,ES1,Cádiz CF,2000000.0,5,2,0,1,2050,24
+Ewoud Pletinckx,Belgium,Defender,right,190.0,BE1,Oud-Heverlee Leuven,2000000.0,4,0,3,0,2700,24
+Cédric Soares,Portugal,Defender,right,171.0,GB1,Arsenal FC,2000000.0,0,0,0,0,124,33
+Zé Carlos,Portugal,Defender,right,172.0,PO1,Vitória Guimarães SC,2000000.0,11,0,1,2,2502,23
+Jhoanner Chávez,Ecuador,Defender,left,182.0,FR1,RC Lens,2000000.0,1,0,0,0,593,22
+Nahuel Tenaglia,Argentina,Defender,right,181.0,ES1,Deportivo Alavés,2000000.0,6,0,1,1,1477,28
+Mouctar Diakhaby,Guinea,Defender,right,192.0,ES1,Valencia CF,2000000.0,6,0,1,0,1163,28
+Lucas Pires,Brazil,Defender,left,182.0,ES1,Cádiz CF,2000000.0,6,0,1,0,1665,23
+Iván Balliu,Albania,Defender,right,172.0,ES1,Rayo Vallecano,2000000.0,4,0,0,1,2876,33
+Jordi Vanlerberghe,Belgium,Defender,right,189.0,DK1,Bröndby IF,2000000.0,3,0,1,0,1872,28
+Moussa Diarra,Mali,Defender,left,185.0,FR1,FC Toulouse,2000000.0,7,0,1,2,2042,24
+Álex Pozo,Spain,Defender,right,172.0,ES1,UD Almería,2000000.0,3,0,0,0,1073,25
+Joël Schingtienne,Belgium,Defender,right,188.0,BE1,Oud-Heverlee Leuven,2000000.0,3,0,1,0,1951,22
+Souleyman Doumbia,Cote d'Ivoire,Defender,left,183.0,BE1,Standard Liège,2000000.0,2,0,0,0,561,28
+John Brooks,United States,Defender,left,194.0,L1,TSG 1899 Hoffenheim,2000000.0,6,1,2,0,1719,32
+Oliver Sonne,Peru,Defender,right,184.0,DK1,Silkeborg IF,2000000.0,6,0,2,3,2304,24
+Rasmus Carstensen,Denmark,Defender,right,183.0,L1,1.FC Köln,2000000.0,2,0,0,1,1715,24
+Kazımcan Karataş,Türkiye,Defender,left,182.0,TR1,MKE Ankaragücü,1900000.0,1,0,0,0,1152,22
+Pape Abou Cissé,Senegal,Defender,right,197.0,TR1,Adana Demirspor,1800000.0,1,0,0,0,724,29
+Yvan Dibango,Cameroon,Defender,left,184.0,UKR1,Kryvbas Kryvyi Rig,1800000.0,1,0,1,7,2760,22
+Attila Mocsi,Hungary,Defender,right,190.0,TR1,Caykur Rizespor,1800000.0,4,1,2,0,2216,24
+Pol Lirola,Spain,Defender,right,183.0,IT1,Frosinone Calcio,1800000.0,1,0,2,2,1784,27
+Arsen Adamov,Russia,Defender,right,180.0,RU1,FK Orenburg,1800000.0,1,0,1,2,1975,25
+Arif Kocaman,Türkiye,Defender,left,186.0,TR1,Kayserispor,1800000.0,5,1,0,1,1728,21
+Stefan Lekovic,Serbia,Defender,right,192.0,ES1,Villarreal CF,1800000.0,0,0,0,0,71,21
+Phillipp Mwene,Austria,Defender,right,170.0,NL1,PSV Eindhoven,1800000.0,4,1,1,2,2003,31
+Javier Manquillo,Spain,Defender,right,178.0,GB1,Newcastle United,1800000.0,3,0,0,1,747,30
+Dmitriy Chistyakov,Russia,Defender,right,185.0,RU1,FC Sochi,1800000.0,2,0,0,0,794,31
+Derry Murkin,England,Defender,left,183.0,NL1,FC Volendam,1800000.0,1,0,0,0,300,25
+Niccolò Pierozzi,Italy,Defender,right,184.0,IT1,US Salernitana 1919,1800000.0,6,0,1,0,874,23
+Federico Ricca,Uruguay,Defender,left,179.0,BE1,Oud-Heverlee Leuven,1800000.0,5,0,1,0,1491,30
+Moussa N'Diaye,Senegal,Defender,left,181.0,BE1,RSC Anderlecht,1800000.0,1,0,1,2,642,22
+Filip Benkovic,Croatia,Defender,right,194.0,TR1,Trabzonspor,1800000.0,2,0,2,0,1115,27
+Matthias Bader,Germany,Defender,right,176.0,L1,SV Darmstadt 98,1800000.0,1,0,1,2,1808,27
+Jakub Brabec,Czech Republic,Defender,right,186.0,GR1,Aris Thessaloniki,1800000.0,3,0,0,1,2596,32
+Felix Passlack,Germany,Defender,right,170.0,L1,VfL Bochum,1800000.0,2,1,2,2,1044,26
+Layvin Kurzawa,France,Defender,left,182.0,FR1,Paris Saint-Germain,1800000.0,0,0,0,0,8,32
+Alberto Moreno,Spain,Defender,left,171.0,ES1,Villarreal CF,1800000.0,9,0,2,3,1939,32
+Zan Zaletel,Slovenia,Defender,right,185.0,DK1,Viborg FF,1800000.0,1,0,1,0,1624,25
+Ibrahim Dresevic,Kosovo,Defender,right,186.0,TR1,Fatih Karagümrük,1800000.0,4,0,0,2,1365,28
+Reece Burke,England,Defender,right,189.0,GB1,Luton Town,1800000.0,6,0,0,4,1964,28
+Oleksandr Karavaev,Ukraine,Defender,right,175.0,UKR1,Dynamo Kyiv,1800000.0,0,1,3,3,1714,32
+Adil Demirbağ,Türkiye,Defender,right,185.0,TR1,Konyaspor,1800000.0,4,1,0,0,1965,27
+Kévin Rodrigues,Portugal,Defender,left,170.0,TR1,Adana Demirspor,1800000.0,6,1,0,1,1442,30
+Aiham Ousou,Syria,Defender,right,186.0,ES1,Cádiz CF,1800000.0,0,0,0,0,955,25
+Ismaily,Brazil,Defender,left,177.0,FR1,LOSC Lille,1800000.0,1,0,1,2,2654,35
+Kaio,Brazil,Defender,right,186.0,RU1,FK Krasnodar,1800000.0,4,0,1,0,1031,29
+Anthony Ralston,Scotland,Defender,right,178.0,SC1,Celtic FC,1800000.0,0,0,0,1,897,26
+Maga,Portugal,Defender,right,175.0,PO1,Vitória Guimarães SC,1800000.0,2,0,0,0,1123,22
+Danil Krugovoy,Russia,Defender,left,176.0,RU1,Zenit St. Petersburg,1800000.0,1,0,0,2,1029,26
+Yuri Berchiche,Spain,Defender,left,181.0,ES1,Athletic Bilbao,1800000.0,5,0,3,2,2447,34
+Kevin Bonifazi,Italy,Defender,right,187.0,IT1,Frosinone Calcio,1800000.0,0,0,0,0,588,28
+Aïssa Mandi,Algeria,Defender,right,184.0,ES1,Villarreal CF,1800000.0,4,0,1,0,1609,33
+Silvije Begic,Croatia,Defender,right,197.0,RU1,Ural Yekaterinburg,1800000.0,13,0,5,1,2577,31
+Jonas Svensson,Norway,Defender,right,170.0,TR1,Besiktas JK,1700000.0,5,0,1,3,2635,31
+Daam Foulon,Belgium,Defender,left,180.0,BE1,KV Mechelen,1700000.0,7,0,2,2,2589,25
+Ilya Vakhania,Russia,Defender,both,178.0,RU1,FK Rostov,1700000.0,1,0,2,2,2434,24
+Casper Højer,Denmark,Defender,left,183.0,TR1,Caykur Rizespor,1700000.0,5,0,1,3,2060,30
+Ahmed Touba,Algeria,Defender,left,190.0,TR1,Basaksehir FK,1600000.0,1,0,0,0,422,26
+Darko Todorovic,Bosnia-Herzegovina,Defender,right,175.0,RU1,Akhmat Grozny,1500000.0,5,1,1,2,2666,27
+Rafael Fernandes,Portugal,Defender,right,191.0,PO1,FC Arouca,1500000.0,4,0,0,0,1013,22
+Andrey Langovich,Russia,Defender,right,180.0,RU1,FK Rostov,1500000.0,4,1,1,1,1618,21
+Eduard Sarapiy,Ukraine,Defender,right,186.0,UKR1,SK Dnipro-1,1500000.0,10,2,2,4,2826,25
+Konstantinos Laifis,Cyprus,Defender,left,186.0,BE1,Standard Liège,1500000.0,2,0,1,0,1682,31
+Jan Vertonghen,Belgium,Defender,left,189.0,BE1,RSC Anderlecht,1500000.0,5,0,3,2,2426,37
+Nikolay Rasskazov,Russia,Defender,right,178.0,RU1,Krylya Sovetov Samara,1500000.0,4,0,2,5,2170,27
+Bruno Langa,Mozambique,Defender,left,178.0,PO1,GD Chaves,1500000.0,6,1,2,0,1985,27
+Núrio Fortuna,Angola,Defender,left,177.0,BE1,KAA Gent,1500000.0,2,1,0,0,576,29
+Fedde Leysen,Belgium,Defender,left,191.0,BE1,Union Saint-Gilloise,1500000.0,2,0,0,0,428,21
+Kevin Tshiembe,Denmark,Defender,both,186.0,DK1,Bröndby IF,1500000.0,1,1,0,1,961,27
+Maxim Leitsch,Germany,Defender,left,189.0,L1,1.FSV Mainz 05,1500000.0,0,0,0,0,435,26
+Eric Kahl,Sweden,Defender,left,181.0,DK1,Aarhus GF,1500000.0,7,0,0,2,1733,23
+Yanis Hamache,Algeria,Defender,left,177.0,PO1,FC Arouca,1500000.0,0,0,0,0,41,25
+Adrián Marín,Spain,Defender,left,181.0,PO1,SC Braga,1500000.0,0,0,0,0,697,28
+Pedro Pereira,Portugal,Defender,right,185.0,IT1,AC Monza,1500000.0,3,0,0,2,831,27
+Luis Segovia,Ecuador,Defender,left,182.0,BE1,RWD Molenbeek,1500000.0,2,0,1,0,1015,27
+Mikel Villanueva,Venezuela,Defender,left,190.0,PO1,Vitória Guimarães SC,1500000.0,1,0,0,0,667,31
+Matija Nastasic,Serbia,Defender,left,188.0,ES1,RCD Mallorca,1500000.0,9,0,2,0,2678,31
+Paulo Oliveira,Portugal,Defender,right,187.0,PO1,SC Braga,1500000.0,8,0,0,2,2081,33
+Javi Montero,Spain,Defender,left,185.0,PO1,FC Arouca,1500000.0,10,0,1,1,2761,26
+Aleksey Gritsaenko,Russia,Defender,right,186.0,RU1,Rubin Kazan,1500000.0,7,0,1,2,2835,29
+Adam Masina,Morocco,Defender,left,191.0,IT1,Udinese Calcio,1500000.0,3,0,0,0,1148,31
+Julien Le Cardinal,France,Defender,right,184.0,FR1,Stade Brestois 29,1500000.0,3,0,0,0,525,27
+Luke Chambers,England,Defender,left,181.0,GB1,Liverpool FC,1500000.0,0,0,0,0,139,20
+Alex Cochrane,England,Defender,left,173.0,SC1,Heart of Midlothian FC,1500000.0,8,0,0,6,2772,24
+Hördur Magnússon,Iceland,Defender,left,191.0,GR1,Panathinaikos FC,1500000.0,0,0,1,0,824,31
+Filippo Missori,Italy,Defender,right,182.0,IT1,US Sassuolo,1500000.0,0,0,0,0,496,20
+Pedro Álvaro,Portugal,Defender,right,187.0,PO1,GD Estoril Praia,1500000.0,7,1,0,2,2137,24
+Kostyantyn Vivcharenko,Ukraine,Defender,left,178.0,UKR1,Dynamo Kyiv,1500000.0,2,0,0,2,1071,22
+César Tárrega,Spain,Defender,right,194.0,ES1,Valencia CF,1500000.0,0,0,0,0,97,22
+Darlin Yongwa,Cameroon,Defender,left,177.0,FR1,FC Lorient,1500000.0,3,0,1,1,1152,24
+Egor Pogostnov,Russia,Defender,right,198.0,RU1,Lokomotiv Moscow,1500000.0,1,0,1,0,427,20
+Maksym Dyachuk,Ukraine,Defender,right,185.0,UKR1,Dynamo Kyiv,1500000.0,4,0,1,1,1558,21
+Leart Paçarada,Kosovo,Defender,left,184.0,L1,1.FC Köln,1500000.0,1,0,0,0,1283,30
+Felix Beijmo,Sweden,Defender,right,185.0,DK1,Aarhus GF,1500000.0,5,0,3,4,2410,26
+Viktor Aleksandrov,Russia,Defender,right,187.0,RU1,FC Pari Nizhniy Novgorod,1500000.0,9,1,2,1,2518,22
+Nathaniel Clyne,England,Defender,right,175.0,GB1,Crystal Palace,1500000.0,0,0,0,0,1667,33
+Danila Prokhin,Russia,Defender,right,186.0,RU1,FK Orenburg,1500000.0,8,0,0,0,1294,23
+Sam Vines,United States,Defender,left,177.0,BE1,Royal Antwerp FC,1500000.0,0,0,1,0,352,25
+Koffi Kouao,Cote d'Ivoire,Defender,right,173.0,FR1,FC Metz,1500000.0,2,0,0,2,863,26
+Quaresma,Brazil,Defender,left,181.0,PO1,FC Arouca,1500000.0,2,0,0,2,564,28
+Enea Mihaj,Albania,Defender,right,186.0,PO1,FC Famalicão,1500000.0,5,0,0,0,1560,26
+Ilay Camara,Belgium,Defender,right,174.0,BE1,RWD Molenbeek,1500000.0,6,0,3,5,1605,22
+Stefano Sabelli,Italy,Defender,right,176.0,IT1,Genoa CFC,1500000.0,5,0,0,1,2461,32
+Maxime Busi,Belgium,Defender,right,182.0,FR1,Stade Reims,1500000.0,1,0,0,0,158,25
+Ilya Agapov,Russia,Defender,left,193.0,RU1,CSKA Moscow,1500000.0,1,0,2,2,1588,24
+Iza Carcelén,Spain,Defender,right,170.0,ES1,Cádiz CF,1500000.0,2,0,0,0,2610,31
+Joan Sastre,Spain,Defender,right,174.0,GR1,PAOK Thessaloniki,1500000.0,2,0,2,4,1695,27
+Kilian Fischer,Germany,Defender,both,182.0,L1,VfL Wolfsburg,1500000.0,1,0,0,0,291,24
+Diego Rico,Spain,Defender,left,183.0,ES1,Getafe CF,1500000.0,10,0,0,7,2720,31
+Mário Fernandes,Russia,Defender,right,189.0,RU1,Zenit St. Petersburg,1500000.0,1,0,0,0,925,34
+Christophe Hérelle,Martinique,Defender,right,191.0,FR1,FC Metz,1500000.0,4,1,0,0,1620,32
+Mehmet Aydın,Türkiye,Defender,right,180.0,TR1,Trabzonspor,1500000.0,2,0,0,0,1288,22
+Óscar de Marcos,Spain,Defender,right,182.0,ES1,Athletic Bilbao,1500000.0,6,0,1,6,2680,35
+Raúl Albiol,Spain,Defender,right,190.0,ES1,Villarreal CF,1500000.0,7,0,0,1,2221,39
+Eduard Sobol,Ukraine,Defender,left,186.0,FR1,RC Strasbourg Alsace,1500000.0,0,0,0,0,342,29
+João Silva,Portugal,Defender,right,187.0,BE1,KV Kortrijk,1500000.0,4,0,0,0,2562,26
+Rodinei,Brazil,Defender,right,177.0,GR1,Olympiacos Piraeus,1500000.0,5,0,3,5,2842,33
+Giannis Michailidis,Greece,Defender,left,188.0,GR1,PAOK Thessaloniki,1500000.0,3,0,0,1,1309,24
+Francisco Calvo,Costa Rica,Defender,left,183.0,TR1,Konyaspor,1500000.0,4,0,0,0,1450,32
+Loïc Mbe Soh,France,Defender,right,187.0,NL1,Almere City FC,1500000.0,2,0,1,1,1335,23
+Mortadha Ben Ouanes,Tunisia,Defender,left,182.0,TR1,Kasimpasa,1500000.0,8,0,6,5,3001,30
+Bouna Sarr,Senegal,Defender,right,178.0,L1,Bayern Munich,1500000.0,0,0,0,1,204,33
+Joaquín Fernández,Spain,Defender,left,190.0,TR1,Trabzonspor,1500000.0,1,0,0,0,386,28
+Benno Schmitz,Germany,Defender,right,182.0,L1,1.FC Köln,1500000.0,5,0,1,2,1361,30
+Felipe,Brazil,Defender,right,190.0,GB1,Nottingham Forest,1500000.0,3,0,0,1,583,35
+Weverson,Brazil,Defender,left,185.0,PO1,FC Arouca,1500000.0,4,0,1,1,2149,24
+Vitor Hugo,Brazil,Defender,left,187.0,GR1,Panathinaikos FC,1500000.0,0,0,0,0,608,33
+Davide Faraoni,Italy,Defender,right,180.0,IT1,ACF Fiorentina,1500000.0,5,0,0,2,995,33
+Djibril Sidibé,France,Defender,right,183.0,GR1,AEK Athens,1500000.0,3,1,1,0,1622,32
+Yoann Salmier,French Guiana,Defender,right,188.0,FR1,Le Havre AC,1500000.0,3,0,1,1,1569,32
+Rúben Vezo,Portugal,Defender,right,182.0,GR1,Olympiacos Piraeus,1500000.0,1,0,0,0,153,30
+Christopher Lenz,Germany,Defender,left,180.0,L1,Eintracht Frankfurt,1500000.0,1,0,0,0,234,30
+Hidde ter Avest,Netherlands,Defender,right,182.0,NL1,FC Utrecht,1500000.0,2,0,0,1,2218,27
+Sven van Beek,Netherlands,Defender,right,189.0,NL1,SC Heerenveen,1500000.0,3,0,1,2,2779,30
+Simon Kjær,Denmark,Defender,right,191.0,IT1,AC Milan,1500000.0,1,0,0,1,1465,35
+Cheick Oumar Konaté,Mali,Defender,right,173.0,FR1,Clermont Foot 63,1500000.0,4,0,1,1,1068,20
+Miguel Rubio,Spain,Defender,right,191.0,ES1,Granada CF,1500000.0,5,0,1,0,1561,26
+Tim Siersleben,Germany,Defender,left,187.0,L1,1.FC Heidenheim 1846,1500000.0,1,0,0,0,1044,24
+Eli Dasa,Israel,Defender,right,177.0,RU1,Dynamo Moscow,1500000.0,2,0,0,2,1716,32
+Kialonda Gaspar,Angola,Defender,right,193.0,PO1,CF Estrela Amadora SAD,1500000.0,9,0,1,0,2440,27
+Manuel Gulde,Germany,Defender,right,184.0,L1,SC Freiburg,1500000.0,6,0,1,0,2714,33
+Valdemar Lund,Denmark,Defender,left,193.0,DK1,FC Copenhagen,1400000.0,2,0,1,0,659,21
+Gian Marco Ferrari,Italy,Defender,left,189.0,IT1,US Sassuolo,1400000.0,4,0,1,0,2359,32
+Rick van Drongelen,Netherlands,Defender,left,188.0,TR1,Samsunspor,1400000.0,6,0,3,0,2396,26
+Gustavo Marques,Brazil,Defender,right,189.0,PO1,SL Benfica,1400000.0,0,0,0,0,2,23
+Filip Damjanovic,Serbia,Defender,right,188.0,TR1,Konyaspor,1400000.0,2,0,0,0,881,26
+Kiko Femenía,Spain,Defender,right,174.0,ES1,Villarreal CF,1400000.0,9,0,0,1,2005,33
+Dylan Bronn,Tunisia,Defender,right,185.0,IT1,US Salernitana 1919,1300000.0,0,0,0,0,229,29
+Stefan Mitrovic,Serbia,Defender,right,189.0,BE1,KAA Gent,1300000.0,5,0,1,1,1290,34
+Wilson Manafá,Portugal,Defender,right,177.0,ES1,Granada CF,1300000.0,1,0,0,1,331,30
+Guy-Marcelin Kilama,Cameroon,Defender,right,182.0,TR1,Hatayspor,1300000.0,4,0,2,1,3136,25
+Uğur Çiftçi,Türkiye,Defender,left,179.0,TR1,Sivasspor,1300000.0,10,0,0,3,3208,32
+Arthur Zagré,France,Defender,left,168.0,NL1,Excelsior Rotterdam,1300000.0,6,1,1,4,2527,23
+Luca Caldirola,Italy,Defender,left,186.0,IT1,AC Monza,1300000.0,7,0,1,1,2229,33
+Mike Eerdhuijzen,Netherlands,Defender,left,194.0,NL1,Sparta Rotterdam,1300000.0,1,0,1,0,1321,24
+Petar Stojanović,Slovenia,Defender,right,178.0,IT1,FC Empoli,1300000.0,0,0,0,0,22,29
+Milad Mohammadi,Iran,Defender,left,178.0,GR1,AEK Athens,1300000.0,4,0,1,0,1957,31
+Shawn Adewoye,Belgium,Defender,right,183.0,NL1,RKC Waalwijk,1300000.0,1,1,1,0,2429,24
+Hamza Mendyl,Morocco,Defender,left,179.0,BE1,Oud-Heverlee Leuven,1300000.0,10,0,3,1,1512,27
+Gonçalo Esteves,Portugal,Defender,right,176.0,NL1,AZ Alkmaar,1300000.0,0,0,0,1,77,20
+Luan Peres,Brazil,Defender,left,190.0,TR1,Fenerbahce,1300000.0,1,0,0,0,270,30
+Bartosz Bereszyński,Poland,Defender,right,183.0,IT1,FC Empoli,1300000.0,3,0,0,1,1795,32
+Norbert Gyömbér,Slovakia,Defender,right,189.0,IT1,US Salernitana 1919,1300000.0,9,0,0,0,1986,32
+Sandy Walsh,Indonesia,Defender,right,185.0,BE1,KV Mechelen,1300000.0,3,0,0,1,1526,29
+Bas Kuipers,Netherlands,Defender,left,180.0,NL1,Go Ahead Eagles,1300000.0,7,0,5,5,3253,30
+Owen Beck,Wales,Defender,left,177.0,SC1,Dundee FC,1250000.0,8,0,2,4,2240,22
+Alex Suárez,Spain,Defender,right,180.0,ES1,UD Las Palmas,1200000.0,8,0,2,0,2748,31
+Mats Deijl,Netherlands,Defender,right,181.0,NL1,Go Ahead Eagles,1200000.0,2,0,1,4,3081,27
+Álex Centelles,Spain,Defender,left,185.0,ES1,UD Almería,1200000.0,2,0,0,1,1069,25
+Rafa Soares,Portugal,Defender,left,177.0,GR1,PAOK Thessaloniki,1200000.0,2,0,2,1,1131,29
+Ignasi Miquel,Spain,Defender,left,189.0,ES1,Granada CF,1200000.0,5,0,1,1,3006,32
+Lefteris Lyratzis,Greece,Defender,right,178.0,GR1,PAOK Thessaloniki,1200000.0,0,0,0,0,444,24
+Khusniddin Alikulov,Uzbekistan,Defender,right,186.0,TR1,Caykur Rizespor,1200000.0,4,0,0,0,1304,25
+Dejan Lovren,Croatia,Defender,right,188.0,FR1,Olympique Lyon,1200000.0,2,1,0,0,721,35
+Alexander Callens,Peru,Defender,left,186.0,GR1,AEK Athens,1200000.0,6,0,1,0,1544,32
+Marnon Busch,Germany,Defender,right,182.0,L1,1.FC Heidenheim 1846,1200000.0,1,0,0,2,681,30
+Imanol García de Albéniz,Spain,Defender,left,177.0,ES1,Athletic Bilbao,1200000.0,3,0,0,0,613,24
+Martín Aguirregabiria,Spain,Defender,right,180.0,PO1,FC Famalicão,1200000.0,4,0,0,1,1292,28
+Pedrão,Brazil,Defender,right,194.0,PO1,Portimonense SC,1200000.0,8,1,3,1,2679,27
+Joris Kramer,Netherlands,Defender,left,187.0,NL1,Go Ahead Eagles,1200000.0,2,0,2,0,2799,28
+Jens Stryger Larsen,Denmark,Defender,right,182.0,TR1,Trabzonspor,1200000.0,2,0,0,0,1004,33
+Taha Şahin,Türkiye,Defender,right,178.0,TR1,Caykur Rizespor,1200000.0,6,0,0,4,2945,24
+Kolbeinn Finnsson,Iceland,Defender,left,181.0,DK1,Lyngby BK,1200000.0,8,0,2,2,1963,25
+Cemali Sertel,Türkiye,Defender,left,186.0,TR1,Hatayspor,1200000.0,1,0,0,1,1320,25
+Unai García,Spain,Defender,right,186.0,ES1,CA Osasuna,1200000.0,5,0,1,0,559,32
+Renato Gojkovic,Bosnia-Herzegovina,Defender,right,195.0,RU1,FK Orenburg,1200000.0,7,0,0,0,1619,29
+Nikola Maras,Serbia,Defender,right,189.0,ES1,Deportivo Alavés,1200000.0,0,0,0,0,194,29
+Harrison Ashby,Scotland,Defender,right,179.0,GB1,Newcastle United,1200000.0,1,0,0,0,158,23
+Alexander Busch,Denmark,Defender,right,190.0,DK1,Silkeborg IF,1200000.0,4,0,0,0,1688,21
+Jure Balkovec,Slovenia,Defender,left,185.0,TR1,Alanyaspor,1200000.0,7,0,3,0,2123,30
+Nayel Mehssatou,Chile,Defender,right,173.0,BE1,KV Kortrijk,1200000.0,6,0,0,1,1934,22
+Gerasimos Mitoglou,Greece,Defender,right,195.0,GR1,AEK Athens,1200000.0,3,0,0,0,920,25
+Edoardo Goldaniga,Italy,Defender,right,193.0,IT1,Cagliari Calcio,1200000.0,3,0,0,0,1014,31
+Lorenzo Venuti,Italy,Defender,right,179.0,IT1,US Lecce,1200000.0,1,0,0,0,447,29
+Gary Magnée,Belgium,Defender,right,175.0,BE1,KAS Eupen,1200000.0,3,0,2,4,1964,25
+Erdoğan Yeşilyurt,Türkiye,Defender,both,175.0,TR1,Antalyaspor,1200000.0,8,1,3,3,2485,31
+Jonathan Panzo,England,Defender,left,188.0,BE1,Standard Liège,1200000.0,1,0,0,0,308,24
+Jordan Amavi,France,Defender,left,176.0,FR1,Stade Brestois 29,1200000.0,1,0,1,0,91,30
+Domagoj Vida,Croatia,Defender,right,184.0,GR1,AEK Athens,1200000.0,5,0,6,0,2595,35
+Nazinho,Portugal,Defender,left,180.0,BE1,Cercle Brugge,1200000.0,5,0,1,0,1134,21
+Niklas Vesterlund,Denmark,Defender,right,185.0,NL1,FC Utrecht,1200000.0,1,0,0,1,269,25
+Anass Salah-Eddine,Netherlands,Defender,left,181.0,NL1,Ajax Amsterdam,1200000.0,0,0,0,2,333,23
+Siebe Horemans,Belgium,Defender,right,186.0,NL1,Excelsior Rotterdam,1200000.0,5,1,4,3,3357,26
+Nikolas Dyhr,Denmark,Defender,left,179.0,DK1,FC Midtjylland,1200000.0,1,0,0,1,719,23
+Mike van der Hoorn,Netherlands,Defender,right,190.0,NL1,FC Utrecht,1200000.0,5,0,2,0,1739,32
+Erik Palmer-Brown,United States,Defender,right,186.0,GR1,Panathinaikos FC,1200000.0,0,0,0,0,138,27
+Frankie Kent,England,Defender,right,188.0,SC1,Heart of Midlothian FC,1200000.0,4,0,1,3,3330,29
+Tuur Rommens,Belgium,Defender,left,185.0,BE1,KVC Westerlo,1200000.0,1,1,1,2,943,21
+Jeremy Petris,France,Defender,right,183.0,BE1,R Charleroi SC,1200000.0,4,0,0,1,980,27
+Oliver Bundgaard,Denmark,Defender,left,182.0,DK1,Viborg FF,1200000.0,3,0,1,1,2129,23
+Djevencio van der Kust,Suriname,Defender,left,178.0,NL1,Sparta Rotterdam,1200000.0,3,0,1,6,2683,23
+Danny da Costa,Germany,Defender,right,187.0,L1,1.FSV Mainz 05,1200000.0,1,0,0,1,936,31
+Bart Schenkeveld,Netherlands,Defender,right,184.0,GR1,Panathinaikos FC,1200000.0,2,1,0,0,2000,33
+Oumar Sako,Niger,Defender,right,191.0,RU1,FK Rostov,1200000.0,6,0,0,1,1199,28
+Nobel Mendy,Senegal,Defender,left,187.0,ES1,Real Betis Balompié,1000000.0,1,0,0,0,90,20
+Juanma Herzog,Spain,Defender,right,186.0,ES1,UD Las Palmas,1000000.0,1,0,2,0,589,20
+Davide Bartesaghi,Italy,Defender,left,193.0,IT1,AC Milan,1000000.0,0,0,0,0,86,19
+Kaelan Casey,England,Defender,right,185.0,GB1,West Ham United,1000000.0,0,0,0,0,1,20
+Tommaso Corazza,Italy,Defender,right,174.0,IT1,Bologna FC 1909,1000000.0,1,0,1,0,352,20
+Konstantinos Manolas,Greece,Defender,right,185.0,IT1,US Salernitana 1919,1000000.0,0,0,0,0,492,33
+Pedrinho,Brazil,Defender,left,177.0,UKR1,Shakhtar Donetsk,1000000.0,5,0,3,2,2830,22
+Marc Bola,England,Defender,left,185.0,TR1,Samsunspor,1000000.0,1,0,0,0,1075,27
+Lucas Mincarelli,France,Defender,left,179.0,FR1,Montpellier HSC,1000000.0,1,1,1,1,983,21
+Henrik Heggheim,Norway,Defender,right,189.0,DK1,Bröndby IF,1000000.0,3,1,0,0,859,23
+Davide Bettella,Italy,Defender,right,185.0,IT1,AC Monza,1000000.0,0,0,0,0,2,24
+Mamadou Sarr,France,Defender,right,194.0,FR1,Olympique Lyon,1000000.0,0,0,0,0,547,19
+Florian Miguel,France,Defender,left,179.0,BE1,Oud-Heverlee Leuven,1000000.0,4,0,1,1,1669,28
+Marc Bartra,Spain,Defender,right,184.0,ES1,Real Betis Balompié,1000000.0,2,0,0,0,315,34
+Youri Baas,Netherlands,Defender,left,182.0,NL1,NEC Nijmegen,1000000.0,4,0,3,3,1830,21
+Gaizka Larrazabal,Spain,Defender,right,181.0,PO1,Casa Pia AC,1000000.0,4,0,2,1,2627,27
+Thomas Delaine,France,Defender,left,180.0,FR1,RC Strasbourg Alsace,1000000.0,5,0,1,1,2054,32
+Mathias Ross,Denmark,Defender,right,190.0,NL1,NEC Nijmegen,1000000.0,3,0,2,0,1230,24
+Afonso Freitas,Portugal,Defender,left,181.0,PO1,Vitória Guimarães SC,1000000.0,3,0,0,0,940,24
+Tymur Stetskov,Ukraine,Defender,left,184.0,UKR1,Kryvbas Kryvyi Rig,1000000.0,3,0,1,5,2599,27
+Théo Sainte-Luce,France,Defender,left,176.0,FR1,Montpellier HSC,1000000.0,1,0,0,0,345,26
+Vasyl Kravets,Ukraine,Defender,left,185.0,UKR1,SK Dnipro-1,1000000.0,5,0,0,0,1980,27
+Sergiy Chobotenko,Ukraine,Defender,right,193.0,UKR1,Polissya Zhytomyr,1000000.0,0,1,0,2,2746,28
+Gökhan Sazdağı,Türkiye,Defender,right,180.0,TR1,Kayserispor,1000000.0,9,0,0,5,2906,30
+Jesús Vallejo,Spain,Defender,right,184.0,ES1,Granada CF,1000000.0,1,0,0,0,106,28
+Lubomir Satka,Slovakia,Defender,right,188.0,TR1,Samsunspor,1000000.0,2,0,1,2,2208,29
+Haruya Fujii,Japan,Defender,right,187.0,BE1,KV Kortrijk,1000000.0,1,0,0,0,450,24
+Federico Ceccherini,Italy,Defender,right,187.0,TR1,Fatih Karagümrük,1000000.0,9,2,1,0,2056,32
+Daley Sinkgraven,Netherlands,Defender,left,179.0,ES1,UD Las Palmas,1000000.0,0,1,0,0,524,29
+Viktor Kornienko,Ukraine,Defender,left,178.0,UKR1,Vorskla Poltava,1000000.0,3,0,1,2,1509,25
+Henrique Silva,Brazil,Defender,left,173.0,FR1,Olympique Lyon,1000000.0,2,0,1,0,606,30
+Antonios Papadopoulos,Germany,Defender,right,186.0,L1,Borussia Dortmund,1000000.0,0,0,0,0,116,25
+Filip Helander,Sweden,Defender,left,192.0,DK1,Odense Boldklub,1000000.0,1,0,0,1,1389,31
+Stephen Kingsley,Scotland,Defender,left,178.0,SC1,Heart of Midlothian FC,1000000.0,0,0,1,2,2929,30
+Fidan Aliti,Kosovo,Defender,left,186.0,TR1,Alanyaspor,1000000.0,7,0,0,2,3047,31
+Lucas Lima,Brazil,Defender,left,179.0,TR1,Basaksehir FK,1000000.0,4,0,1,2,1887,33
+Paulinho,Brazil,Defender,left,178.0,DK1,FC Midtjylland,1000000.0,9,0,19,10,4148,30
+Uğurcan Yazğılı,Türkiye,Defender,right,184.0,TR1,Konyaspor,1000000.0,5,0,2,2,2692,25
+Noah Fadiga,Senegal,Defender,right,187.0,BE1,KAA Gent,1000000.0,2,0,0,1,492,25
+Erick Cabaco,Uruguay,Defender,right,185.0,PO1,GD Estoril Praia,1000000.0,0,0,0,0,335,29
+Han-beom Lee,"Korea, South",Defender,right,190.0,DK1,FC Midtjylland,1000000.0,0,0,1,2,98,22
+Brodie Spencer,Northern Ireland,Defender,right,182.0,SC1,Motherwell FC,1000000.0,8,0,0,1,1678,20
+Tobias Salquist,Denmark,Defender,both,190.0,DK1,Silkeborg IF,1000000.0,2,0,1,0,1631,29
+Giovanni Bonfanti,Italy,Defender,left,187.0,IT1,Atalanta BC,1000000.0,1,0,1,0,179,22
+Jack Robinson,England,Defender,left,180.0,GB1,Sheffield United,1000000.0,10,0,1,1,2976,31
+Juninho,Brazil,Defender,left,187.0,DK1,FC Midtjylland,1000000.0,2,0,1,1,2519,29
+Nnamdi Collins,Germany,Defender,right,191.0,L1,Eintracht Frankfurt,1000000.0,0,0,0,0,90,21
+João Mendes,Portugal,Defender,left,179.0,PO1,FC Porto,1000000.0,4,1,7,4,2014,24
+Juanpe,Spain,Defender,right,190.0,ES1,Girona FC,1000000.0,4,0,0,0,1054,33
+Godfried Frimpong,Netherlands,Defender,left,180.0,PO1,Moreirense FC,1000000.0,2,0,1,2,2083,25
+Stav Lemkin,Israel,Defender,right,190.0,UKR1,Shakhtar Donetsk,1000000.0,1,0,0,0,246,21
+Bruno Martins Indi,Netherlands,Defender,left,185.0,NL1,AZ Alkmaar,1000000.0,3,0,1,3,920,32
+Georgiy Harutyunyan,Armenia,Defender,right,189.0,RU1,FK Krasnodar,1000000.0,1,0,1,0,833,20
+Bogdan Slyubyk,Ukraine,Defender,right,186.0,UKR1,Rukh Lviv,1000000.0,5,0,4,0,2695,20
+Paulo Azzi,Brazil,Defender,right,188.0,IT1,Cagliari Calcio,1000000.0,2,0,1,0,1099,30
+Maracás,Brazil,Defender,right,184.0,PO1,Moreirense FC,1000000.0,6,0,3,1,2639,30
+Pastor,Brazil,Defender,right,176.0,PO1,SC Farense,1000000.0,9,0,0,2,2571,24
+Elias Baum,Germany,Defender,right,180.0,L1,Eintracht Frankfurt,1000000.0,0,0,0,0,25,19
+Oleksiy Sych,Ukraine,Defender,right,185.0,UKR1,Rukh Lviv,1000000.0,2,0,1,2,2687,23
+David Colina,Croatia,Defender,left,174.0,DK1,Vejle Boldklub,1000000.0,1,0,0,0,266,24
+Alexios Kalogeropoulos,Greece,Defender,both,187.0,GR1,Volos NPS,1000000.0,8,0,0,0,1744,20
+Mats Knoester,Netherlands,Defender,left,188.0,DK1,Aarhus GF,1000000.0,4,0,0,0,898,26
+Fabrizio Angileri,Argentina,Defender,left,185.0,ES1,Getafe CF,1000000.0,2,0,0,0,218,30
+Blas Riveros,Paraguay,Defender,left,178.0,DK1,Bröndby IF,1000000.0,1,0,0,1,407,26
+Mihailo Ristic,Serbia,Defender,left,180.0,PO1,SL Benfica,1000000.0,4,0,0,0,1098,29
+Anselmo García MacNulty,Ireland,Defender,left,190.0,NL1,PEC Zwolle,1000000.0,10,0,2,2,2530,21
+Kye Rowles,Australia,Defender,left,185.0,SC1,Heart of Midlothian FC,1000000.0,4,0,0,0,2895,26
+Nader Ghandri,Tunisia,Defender,right,197.0,RU1,Akhmat Grozny,1000000.0,2,0,0,0,1131,29
+Roberto Fernández,Bolivia,Defender,left,174.0,RU1,Baltika Kaliningrad,1000000.0,11,0,5,5,5472,25
+Kevin Andrade,Colombia,Defender,right,189.0,RU1,Baltika Kaliningrad,1000000.0,5,0,0,0,1395,25
+Semih Güler,Türkiye,Defender,right,184.0,TR1,Adana Demirspor,1000000.0,7,0,0,1,3320,30
+Igor Silva,Brazil,Defender,right,173.0,FR1,FC Lorient,1000000.0,2,0,0,0,259,28
+Tim Handwerker,Germany,Defender,left,182.0,NL1,FC Utrecht,1000000.0,0,0,0,1,206,26
+Jorge Meré,Spain,Defender,right,182.0,ES1,Cádiz CF,1000000.0,0,0,0,0,795,27
+Emir Karic,Austria,Defender,left,184.0,L1,SV Darmstadt 98,1000000.0,4,0,0,0,1872,27
+Xavier Mbuyamba,Netherlands,Defender,right,195.0,NL1,FC Volendam,1000000.0,1,0,0,0,607,23
+Charalampos Lykogiannis,Greece,Defender,left,191.0,IT1,Bologna FC 1909,1000000.0,3,0,2,1,1047,31
+Ramazan Civelek,Türkiye,Defender,right,171.0,TR1,Kayserispor,1000000.0,3,0,0,2,1728,29
+Danilo D'Ambrosio,Italy,Defender,right,180.0,IT1,AC Monza,1000000.0,5,0,1,0,1607,36
+Thiago Silva,Brazil,Defender,right,181.0,GB1,Chelsea FC,1000000.0,6,0,4,1,3331,40
+Leonardo Bonucci,Italy,Defender,right,189.0,TR1,Fenerbahce,1000000.0,3,0,1,1,920,37
+Adam Smith,England,Defender,right,174.0,GB1,AFC Bournemouth,1000000.0,6,0,0,3,2449,33
+Joel Ward,England,Defender,right,186.0,GB1,Crystal Palace,1000000.0,4,0,0,1,1982,35
+Christian Kabasele,Belgium,Defender,right,187.0,IT1,Udinese Calcio,1000000.0,5,0,1,1,951,33
+Ben Mee,England,Defender,left,180.0,GB1,Brentford FC,1000000.0,1,1,2,0,1473,35
+Yaroslav Rakitskyi,Ukraine,Defender,left,180.0,UKR1,Shakhtar Donetsk,1000000.0,2,1,2,2,1135,35
+Anthony Jung,Germany,Defender,left,186.0,L1,SV Werder Bremen,1000000.0,4,1,1,0,2672,33
+Mattia De Sciglio,Italy,Defender,right,183.0,IT1,Juventus FC,1000000.0,0,0,0,0,45,32
+Zanka,Denmark,Defender,right,189.0,GB1,Brentford FC,1000000.0,4,0,1,0,1390,34
+Christoph Zimmermann,Germany,Defender,right,194.0,L1,SV Darmstadt 98,1000000.0,6,0,0,0,1262,32
+Nicolás Otamendi,Argentina,Defender,right,183.0,PO1,SL Benfica,1000000.0,12,0,3,2,4134,36
+Franco Russo,Argentina,Defender,right,186.0,BE1,Oud-Heverlee Leuven,900000.0,1,0,0,0,503,30
+Alessandro Di Pardo,Italy,Defender,right,182.0,IT1,Cagliari Calcio,900000.0,1,0,1,0,476,25
+Aaron Cresswell,England,Defender,left,170.0,GB1,West Ham United,900000.0,3,0,1,0,928,35
+James Gomez,The Gambia,Defender,right,189.0,DK1,Odense Boldklub,900000.0,2,0,0,0,315,23
+Émerson,Congo,Defender,right,195.0,RU1,Ural Yekaterinburg,900000.0,1,0,2,1,2043,29
+Davide Biraschi,Italy,Defender,right,182.0,TR1,Fatih Karagümrük,900000.0,8,0,1,1,2665,30
+Jaume Costa,Spain,Defender,left,171.0,ES1,RCD Mallorca,900000.0,10,0,0,2,1969,36
+Bruno Wilson,Portugal,Defender,right,192.0,PO1,FC Vizela,900000.0,1,1,0,1,1497,28
+Sergey Bozhin,Russia,Defender,left,187.0,RU1,Fakel Voronezh,900000.0,5,0,2,0,2385,30
+Danylo Beskorovaynyi,Ukraine,Defender,left,194.0,UKR1,Kryvbas Kryvyi Rig,900000.0,5,1,3,0,1853,25
+Andriy Ponedelnik,Ukraine,Defender,right,180.0,UKR1,Kryvbas Kryvyi Rig,900000.0,4,0,3,2,2269,27
+Franco Carboni,Argentina,Defender,left,190.0,IT1,AC Monza,900000.0,0,0,0,0,32,21
+Daniel Anyembe,Kenya,Defender,right,189.0,DK1,Viborg FF,900000.0,1,0,0,0,1185,26
+Aleksandar Radovanovic,Serbia,Defender,left,190.0,BE1,KV Kortrijk,900000.0,5,0,0,0,1557,31
+Vetle Dragsnes,Norway,Defender,left,187.0,BE1,R Charleroi SC,900000.0,1,0,2,3,1756,30
+Paul Dummett,Wales,Defender,left,183.0,GB1,Newcastle United,900000.0,0,0,0,0,199,33
+Vyacheslav Litvinov,Russia,Defender,right,190.0,RU1,FC Sochi,900000.0,5,0,0,0,1567,23
+Joseba Zaldua,Spain,Defender,right,174.0,ES1,Cádiz CF,900000.0,3,0,0,0,919,32
+Gilles Dewaele,Belgium,Defender,right,182.0,BE1,Standard Liège,900000.0,2,0,0,1,663,28
+Loïc Nego,Hungary,Defender,right,181.0,FR1,Le Havre AC,900000.0,2,0,0,5,1561,34
+Filip Mladenovic,Serbia,Defender,left,180.0,GR1,Panathinaikos FC,900000.0,6,0,2,4,2482,33
+Justin Hoogma,Netherlands,Defender,left,190.0,NL1,Heracles Almelo,900000.0,6,1,2,2,2676,26
+Denys Miroshnichenko,Ukraine,Defender,right,178.0,UKR1,SK Dnipro-1,900000.0,2,0,1,4,1994,30
+Alec Van Hoorenbeeck,Belgium,Defender,left,187.0,BE1,KV Mechelen,900000.0,1,0,0,0,641,26
+Lewis Mayo,Scotland,Defender,right,188.0,SC1,Kilmarnock FC,900000.0,4,1,1,0,3119,24
+Kirill Gotsuk,Russia,Defender,left,194.0,RU1,FC Pari Nizhniy Novgorod,900000.0,6,1,1,3,2534,32
+Munashe Garananga,Zimbabwe,Defender,right,186.0,BE1,KV Mechelen,900000.0,3,0,0,0,1615,24
+Maxime Colin,France,Defender,right,180.0,FR1,FC Metz,900000.0,3,0,0,1,1836,33
+Milan Majstorovic,Serbia,Defender,right,185.0,RU1,Dynamo Moscow,900000.0,0,0,0,0,46,19
+Lucas Lovat,Brazil,Defender,left,184.0,RU1,Akhmat Grozny,900000.0,4,0,1,4,1401,28
+Vincent Le Goff,France,Defender,left,177.0,FR1,FC Lorient,900000.0,1,0,1,1,546,35
+Ridgeciano Haps,Suriname,Defender,left,175.0,IT1,Genoa CFC,900000.0,0,0,1,2,919,31
+Lucas Masoero,Argentina,Defender,right,188.0,RU1,FC Pari Nizhniy Novgorod,900000.0,1,0,0,0,361,29
+Rayan Senhadji,Algeria,Defender,right,190.0,RU1,Fakel Voronezh,900000.0,2,0,0,1,1080,27
+Ilya Gaponov,Russia,Defender,right,185.0,RU1,Krylya Sovetov Samara,900000.0,0,0,0,1,936,27
+Koray Günter,Germany,Defender,right,185.0,TR1,Fatih Karagümrük,850000.0,3,0,0,0,691,30
+Redouan El Yaakoubi,Netherlands,Defender,right,183.0,NL1,Excelsior Rotterdam,850000.0,2,0,0,3,2593,29
+Julian Lelieveld,Netherlands,Defender,right,178.0,NL1,RKC Waalwijk,850000.0,4,0,0,3,2429,27
+Edgar Ié,Guinea-Bissau,Defender,right,182.0,TR1,Basaksehir FK,850000.0,0,0,0,0,180,30
+Mitchell Dijks,Netherlands,Defender,left,194.0,NL1,Fortuna Sittard,850000.0,4,0,0,2,2518,31
+Nicolas Bürgy,Switzerland,Defender,right,185.0,DK1,Viborg FF,850000.0,1,0,0,0,1482,29
+Joel Andersson,Sweden,Defender,right,178.0,DK1,FC Midtjylland,850000.0,0,0,0,0,25,28
+Mimeirhel Benita,Netherlands,Defender,right,173.0,NL1,Excelsior Rotterdam,850000.0,2,0,0,2,1248,21
+Ryan Strain,Australia,Defender,right,181.0,SC1,St. Mirren FC,850000.0,4,1,1,1,1024,27
+Leo Goglichidze,Russia,Defender,left,182.0,RU1,FK Orenburg,800000.0,2,0,0,4,1940,27
+Ponck,Cape Verde,Defender,right,185.0,PO1,Moreirense FC,800000.0,2,0,0,0,1028,30
+Tijs Velthuis,Netherlands,Defender,left,187.0,NL1,Sparta Rotterdam,800000.0,3,0,0,0,1939,23
+Frederik Winther,Denmark,Defender,left,190.0,PO1,GD Estoril Praia,800000.0,0,0,0,0,206,24
+Igor Kyryukhantsev,Ukraine,Defender,right,170.0,UKR1,Zorya Lugansk,800000.0,3,0,2,1,2157,29
+Giannis Kotsiras,Greece,Defender,right,183.0,GR1,Panathinaikos FC,800000.0,2,0,0,4,2537,32
+Davit Khocholava,Georgia,Defender,right,192.0,DK1,FC Copenhagen,800000.0,0,0,0,0,61,31
+Ítalo,Brazil,Defender,left,195.0,RU1,Ural Yekaterinburg,800000.0,5,0,0,2,2351,22
+Ramon Hendriks,Netherlands,Defender,left,189.0,NL1,Vitesse Arnhem,800000.0,8,0,0,0,2999,23
+Oualid El Hajjam,Morocco,Defender,right,181.0,FR1,Le Havre AC,800000.0,1,0,0,1,390,33
+Eric Curbelo,Spain,Defender,right,180.0,ES1,UD Las Palmas,800000.0,0,0,0,0,191,31
+Nathaniel Atkinson,Australia,Defender,right,181.0,SC1,Heart of Midlothian FC,800000.0,5,0,0,0,1660,25
+Mateu Morey,Spain,Defender,right,173.0,L1,Borussia Dortmund,800000.0,0,0,0,0,110,24
+Dominique Heintz,Germany,Defender,left,188.0,L1,1.FC Köln,800000.0,0,0,0,0,565,31
+Pepe Castaño,Spain,Defender,right,185.0,GR1,Asteras Aktor,800000.0,6,0,0,2,2064,26
+Ivan Kuzmichev,Russia,Defender,right,196.0,RU1,Lokomotiv Moscow,800000.0,1,0,0,0,540,24
+Patrick William,Brazil,Defender,right,187.0,PO1,Rio Ave FC,800000.0,5,0,0,0,1279,27
+Rustam Ashurmatov,Uzbekistan,Defender,right,186.0,RU1,Rubin Kazan,800000.0,3,1,2,0,1164,28
+Murat Paluli,Türkiye,Defender,right,175.0,TR1,Sivasspor,800000.0,1,0,0,3,1540,30
+Atakan Çankaya,Türkiye,Defender,right,180.0,TR1,MKE Ankaragücü,800000.0,4,0,0,0,1412,26
+Mattia Caldara,Italy,Defender,right,187.0,IT1,AC Milan,800000.0,0,0,0,0,32,30
+Alemão,Brazil,Defender,right,194.0,PO1,Portimonense SC,800000.0,7,0,2,1,2535,22
+Egor Sorokin,Russia,Defender,left,191.0,RU1,Rubin Kazan,800000.0,0,0,0,0,130,29
+Bastien Meupiyou,France,Defender,left,191.0,FR1,FC Nantes,800000.0,0,1,0,0,9,18
+Artem Smolyakov,Ukraine,Defender,left,180.0,UKR1,Polissya Zhytomyr,800000.0,7,0,1,1,1964,21
+Stephen Welsh,Scotland,Defender,right,188.0,SC1,Celtic FC,800000.0,1,0,0,0,696,25
+Sadibou Sané,Senegal,Defender,right,185.0,FR1,FC Metz,800000.0,1,0,0,0,842,20
+Leon King,Scotland,Defender,right,183.0,SC1,Rangers FC,800000.0,0,0,0,0,14,21
+Taras Mykhavko,Ukraine,Defender,left,185.0,UKR1,Dynamo Kyiv,800000.0,0,0,0,0,577,19
+Thérence Koudou,France,Defender,right,178.0,FR1,Stade Reims,800000.0,3,0,0,0,311,20
+Kristian Pedersen,Denmark,Defender,left,189.0,L1,1.FC Köln,800000.0,0,0,0,0,90,30
+Ilya Putrya,Ukraine,Defender,right,180.0,UKR1,Chornomorets Odessa,800000.0,6,0,3,1,2617,26
+Lewis Miller,Australia,Defender,right,187.0,SC1,Hibernian FC,800000.0,10,0,2,1,2197,24
+Bruno Rodrigues,Portugal,Defender,right,192.0,PO1,GD Chaves,800000.0,4,0,0,0,1444,23
+Antoine Mendy,France,Defender,right,187.0,FR1,OGC Nice,800000.0,0,0,0,0,415,20
+Sam Kersten,Netherlands,Defender,right,191.0,NL1,PEC Zwolle,800000.0,3,0,0,2,3150,27
+Justin de Haas,Netherlands,Defender,left,194.0,PO1,FC Famalicão,800000.0,5,1,1,1,1676,24
+Slobodan Rubezic,Montenegro,Defender,right,194.0,SC1,Aberdeen FC,800000.0,8,0,0,1,1665,24
+Bram Lagae,Belgium,Defender,left,183.0,BE1,KAA Gent,800000.0,0,0,0,1,138,21
+Uros Drezgic,Serbia,Defender,right,190.0,RU1,Rubin Kazan,800000.0,2,0,0,0,326,22
+Max Bruns,Netherlands,Defender,right,183.0,NL1,Twente Enschede FC,800000.0,0,1,0,0,835,22
+Pavel Maslov,Russia,Defender,right,184.0,RU1,Spartak Moscow,800000.0,1,0,0,0,479,24
+Ibrahim Diakité,Guinea,Defender,right,180.0,FR1,Stade Reims,800000.0,0,0,0,0,107,21
+Kik Pierie,Netherlands,Defender,left,183.0,NL1,Excelsior Rotterdam,800000.0,0,0,1,0,298,24
+Noah Loosli,Switzerland,Defender,right,186.0,L1,VfL Bochum,800000.0,1,0,0,0,340,28
+Mark Mampassi,Russia,Defender,right,185.0,BE1,KV Kortrijk,800000.0,3,0,0,1,1701,21
+Tim Ream,United States,Defender,left,186.0,GB1,Fulham FC,800000.0,4,0,1,0,1692,37
+Matheus Pereira,Brazil,Defender,left,172.0,PO1,FC Vizela,800000.0,10,0,3,2,2264,24
+Uros Radakovic,Serbia,Defender,right,194.0,TR1,MKE Ankaragücü,800000.0,8,0,1,1,3069,30
+Ibrokhimkhalil Yuldoshev,Uzbekistan,Defender,left,170.0,RU1,FC Pari Nizhniy Novgorod,800000.0,0,0,0,1,204,23
+Diego Luna,Venezuela,Defender,right,186.0,RU1,Baltika Kaliningrad,800000.0,5,0,0,0,1361,25
+Mamadou Sakho,France,Defender,left,187.0,FR1,Montpellier HSC,800000.0,0,0,0,0,6,34
+Stipe Radic,Croatia,Defender,right,190.0,DK1,Viborg FF,800000.0,0,0,0,0,450,24
+Vitaliy Roman,Ukraine,Defender,right,178.0,UKR1,Rukh Lviv,800000.0,8,1,0,1,2334,21
+Jonas Bager,Denmark,Defender,right,182.0,BE1,R Charleroi SC,800000.0,6,0,0,1,1512,28
+Stefan Bell,Germany,Defender,right,192.0,L1,1.FSV Mainz 05,800000.0,4,0,0,0,759,33
+Tayo Adaramola,Ireland,Defender,left,177.0,BE1,RWD Molenbeek,800000.0,0,0,0,0,579,21
+Aridane Hernández,Spain,Defender,right,188.0,ES1,Rayo Vallecano,800000.0,2,0,0,0,1871,35
+Rodrigo Abascal,Uruguay,Defender,left,190.0,PO1,Boavista FC,800000.0,8,0,2,0,2572,31
+Saïd Bakari,Comoros,Defender,right,178.0,NL1,Sparta Rotterdam,800000.0,3,1,0,2,2946,30
+Bruno Gaspar,Angola,Defender,right,180.0,PO1,Vitória Guimarães SC,800000.0,7,0,2,3,2355,31
+Joshua Quarshie,Germany,Defender,both,197.0,L1,TSG 1899 Hoffenheim,800000.0,0,0,0,0,75,20
+Ilya Rozhkov,Russia,Defender,right,180.0,RU1,Rubin Kazan,800000.0,2,0,1,2,1486,19
+Jordan,Brazil,Defender,right,190.0,UKR1,Zorya Lugansk,800000.0,12,0,8,4,4118,25
+Maksym Bragaru,Ukraine,Defender,right,175.0,UKR1,Chornomorets Odessa,800000.0,7,0,1,5,2951,22
+Simone Romagnoli,Italy,Defender,right,193.0,IT1,Frosinone Calcio,800000.0,7,0,1,1,2900,34
+Youssouf Koné,Mali,Defender,left,174.0,BE1,RWD Molenbeek,800000.0,3,0,0,0,562,29
+Jannik Müller,Germany,Defender,right,187.0,L1,SV Darmstadt 98,800000.0,5,0,0,0,1133,31
+Marcelo Alves,Brazil,Defender,right,192.0,RU1,FC Sochi,800000.0,7,0,2,1,2425,26
+Achilleas Poungouras,Greece,Defender,both,187.0,TR1,Sivasspor,800000.0,4,0,0,0,1189,29
+Aaron Appindangoyé,Gabon,Defender,right,184.0,TR1,Sivasspor,800000.0,1,0,1,2,2688,32
+Kevin Vázquez,Spain,Defender,right,175.0,ES1,Celta de Vigo,800000.0,4,0,0,1,1036,31
+Roman Didyk,Ukraine,Defender,right,185.0,UKR1,Rukh Lviv,800000.0,9,0,1,1,2375,22
+Tiago Araújo,Portugal,Defender,left,184.0,PO1,GD Estoril Praia,800000.0,6,0,3,2,2666,23
+Yevgen Pavlyuk,Ukraine,Defender,right,185.0,UKR1,Vorskla Poltava,800000.0,7,0,1,0,2847,22
+Martín Montoya,Spain,Defender,right,175.0,GR1,Aris Thessaloniki,800000.0,6,0,0,1,2435,33
+Fabiano,Brazil,Defender,right,188.0,GR1,Aris Thessaloniki,800000.0,11,0,6,2,4665,33
+Mehmet Yeşil,Türkiye,Defender,both,188.0,TR1,Istanbulspor,750000.0,10,0,0,0,2882,26
+Richard Jensen,Finland,Defender,left,185.0,SC1,Aberdeen FC,750000.0,4,0,0,1,2252,28
+Jamal Amofa,Netherlands,Defender,right,185.0,NL1,Go Ahead Eagles,750000.0,7,0,1,0,1782,26
+Necip Uysal,Türkiye,Defender,right,180.0,TR1,Besiktas JK,750000.0,5,0,0,1,2662,34
+Julian Jeanvier,Guinea,Defender,right,183.0,TR1,Kayserispor,750000.0,2,0,1,1,905,32
+Diogo Spencer,Portugal,Defender,right,178.0,PO1,SL Benfica,750000.0,0,0,0,0,1,20
+Arda Kızıldağ,Türkiye,Defender,right,187.0,TR1,Gaziantep FK,750000.0,4,0,4,0,2315,26
+Matthew Sorinola,England,Defender,right,173.0,BE1,Union Saint-Gilloise,750000.0,0,0,0,0,91,23
+Lukas Ullrich,Germany,Defender,left,180.0,L1,Borussia Mönchengladbach,750000.0,0,0,0,0,44,20
+Victor Bak,Denmark,Defender,left,175.0,DK1,FC Midtjylland,750000.0,0,0,0,0,250,21
+Dario Van den Buijs,Belgium,Defender,left,187.0,NL1,RKC Waalwijk,750000.0,3,0,0,3,2630,29
+Marius Elvius,Denmark,Defender,right,185.0,DK1,Vejle Boldklub,750000.0,2,0,0,1,1213,22
+Sebastian Sebulonsen,Norway,Defender,right,187.0,DK1,Bröndby IF,750000.0,1,0,0,0,301,25
+Tobias Mölgaard,Denmark,Defender,right,182.0,DK1,Aarhus GF,700000.0,3,0,0,0,1905,28
+Danila Khotulev,Russia,Defender,left,187.0,RU1,FK Orenburg,700000.0,1,0,2,1,1845,22
+Vasiliy Cherov,Russia,Defender,right,185.0,RU1,Fakel Voronezh,700000.0,2,0,2,1,2220,29
+Jacob Barrett Laursen,Denmark,Defender,left,179.0,BE1,Standard Liège,700000.0,1,0,0,0,186,30
+Guillermo Soto,Chile,Defender,right,175.0,RU1,Baltika Kaliningrad,700000.0,4,0,0,0,848,31
+Nazariy Muravskyi,Ukraine,Defender,right,191.0,UKR1,LNZ Cherkasy,700000.0,7,0,0,1,2415,24
+Hevertton,Brazil,Defender,right,183.0,PO1,CF Estrela Amadora SAD,700000.0,3,1,0,1,2004,23
+Srdjan Kuzmic,Slovenia,Defender,right,183.0,DK1,Viborg FF,700000.0,2,0,1,0,1233,21
+Cristian Devenish,Colombia,Defender,right,192.0,PO1,Rio Ave FC,700000.0,0,0,0,0,74,24
+Kasim Adams,Ghana,Defender,right,190.0,L1,TSG 1899 Hoffenheim,700000.0,0,0,0,0,4,29
+Ivan Miladinovic,Serbia,Defender,right,187.0,RU1,FC Sochi,700000.0,3,0,0,0,1558,30
+Soner Gönül,Türkiye,Defender,left,177.0,TR1,Samsunspor,700000.0,2,0,0,1,1943,27
+Álvaro Lemos,Spain,Defender,right,177.0,ES1,UD Las Palmas,700000.0,1,0,0,0,251,31
+Thomas Lam,Finland,Defender,right,188.0,NL1,PEC Zwolle,700000.0,5,0,2,0,2653,31
+Egor Teslenko,Russia,Defender,right,186.0,RU1,Rubin Kazan,700000.0,3,0,1,1,835,23
+Stavros Pilios,Greece,Defender,left,175.0,GR1,AEK Athens,700000.0,2,0,0,2,876,24
+Vladyslav Baboglo,Moldova,Defender,right,188.0,UKR1,FK Oleksandriya,700000.0,1,0,0,1,450,26
+Matvey Lukin,Russia,Defender,right,190.0,RU1,CSKA Moscow,700000.0,2,0,0,0,665,20
+Lennart Czyborra,Germany,Defender,left,181.0,NL1,PEC Zwolle,700000.0,1,0,0,0,189,25
+Evgeniy Chernov,Russia,Defender,left,180.0,RU1,FK Rostov,700000.0,2,0,0,2,2021,32
+Zé Carlos,Portugal,Defender,right,178.0,PO1,Gil Vicente FC,700000.0,11,0,1,2,2502,26
+Casper Widell,Sweden,Defender,right,192.0,NL1,Excelsior Rotterdam,700000.0,1,0,1,0,2487,21
+Brayann Pereira,France,Defender,right,172.0,NL1,NEC Nijmegen,700000.0,1,0,0,1,790,21
+Nermin Zolotic,Bosnia-Herzegovina,Defender,left,189.0,PO1,Casa Pia AC,700000.0,3,0,1,0,3013,31
+Andreas Karo,Cyprus,Defender,right,190.0,GR1,OFI Crete FC,700000.0,4,0,0,0,1061,28
+Cláudio Winck,Brazil,Defender,right,184.0,TR1,Kasimpasa,700000.0,7,1,3,2,2862,30
+Moses Odubajo,England,Defender,right,177.0,GR1,Aris Thessaloniki,700000.0,8,0,0,0,2449,31
+Stefan Gartenmann,Denmark,Defender,right,187.0,DK1,FC Midtjylland,700000.0,6,1,2,0,3261,27
+Sherel Floranus,Curacao,Defender,right,181.0,NL1,Almere City FC,700000.0,8,0,0,1,2703,26
+Nikola Radmanovac,Serbia,Defender,right,190.0,RU1,Baltika Kaliningrad,700000.0,6,0,0,2,2074,28
+Angelo Ogbonna,Italy,Defender,left,191.0,GB1,West Ham United,700000.0,2,0,0,0,1090,36
+Pedro Amador,Portugal,Defender,left,181.0,PO1,Moreirense FC,700000.0,0,0,0,1,1150,26
+Sokratis Papastathopoulos,Greece,Defender,right,186.0,ES1,Real Betis Balompié,700000.0,6,0,0,0,1225,36
+Przemyslaw Szyminski,Poland,Defender,right,185.0,IT1,Frosinone Calcio,700000.0,0,0,0,0,8,30
+Carlens Arcus,Haiti,Defender,right,176.0,NL1,Vitesse Arnhem,700000.0,4,0,0,4,2267,28
+Mykyta Burda,Ukraine,Defender,right,187.0,UKR1,Kolos Kovalivka,700000.0,7,0,1,1,2500,29
+Nanu,Guinea-Bissau,Defender,right,177.0,PO1,CF Estrela Amadora SAD,700000.0,2,0,0,2,631,30
+Ilya Krupskyi,Ukraine,Defender,both,180.0,UKR1,Vorskla Poltava,700000.0,6,1,1,3,2198,20
+Rafik Belghali,Algeria,Defender,right,186.0,BE1,KV Mechelen,700000.0,1,0,1,1,260,22
+Houboulang Mendes,Guinea-Bissau,Defender,right,185.0,ES1,UD Almería,700000.0,1,0,0,0,531,26
+Mert Çetin,Türkiye,Defender,right,189.0,TR1,MKE Ankaragücü,700000.0,3,0,0,0,861,28
+James Tomkins,England,Defender,right,192.0,GB1,Crystal Palace,700000.0,0,0,0,0,92,35
+Guilherme,Brazil,Defender,left,180.0,TR1,Konyaspor,700000.0,0,0,5,7,3717,34
+Aleksandr Ektov,Russia,Defender,right,173.0,RU1,FK Krasnodar,700000.0,1,0,0,3,636,29
+Marc Muniesa,Spain,Defender,left,180.0,DK1,Lyngby BK,700000.0,5,0,0,1,894,32
+Sidcley,Brazil,Defender,left,176.0,GR1,PAS Lamia 1964,700000.0,4,0,2,0,1259,31
+Igor Yurganov,Russia,Defender,right,189.0,RU1,Fakel Voronezh,700000.0,3,0,0,0,1467,31
+Volodymyr Salyuk,Ukraine,Defender,right,186.0,UKR1,Chornomorets Odessa,700000.0,7,2,0,0,2431,22
+Guga,Portugal,Defender,right,178.0,PO1,Portimonense SC,700000.0,8,0,2,2,3112,21
+Rafael Pontelo,Brazil,Defender,left,191.0,PO1,Sporting CP,700000.0,0,0,0,0,91,22
+Mateo Barac,Croatia,Defender,left,194.0,RU1,Krylya Sovetov Samara,700000.0,1,0,0,0,730,30
+Dembo Sylla,Guinea,Defender,right,175.0,FR1,FC Lorient,700000.0,0,0,0,0,45,22
+José Luis Palomino,Argentina,Defender,left,188.0,IT1,Atalanta BC,700000.0,0,0,0,0,42,35
+Wajdi Kechrida,Tunisia,Defender,right,177.0,GR1,Atromitos Athens,700000.0,7,0,0,0,1462,29
+Roman Vantukh,Ukraine,Defender,left,176.0,UKR1,Zorya Lugansk,700000.0,4,0,0,2,2033,26
+Danilo Soares,Brazil,Defender,left,170.0,L1,VfL Bochum,700000.0,0,0,0,0,351,33
+Leroy Abanda,France,Defender,left,180.0,GR1,OFI Crete FC,700000.0,7,0,2,5,1564,24
+Christos Sielis,Cyprus,Defender,right,186.0,GR1,Volos NPS,700000.0,3,0,2,1,1692,24
+Syb van Ottele,Netherlands,Defender,both,185.0,NL1,SC Heerenveen,700000.0,1,0,0,1,1472,22
+Pedro Amaral,Portugal,Defender,left,178.0,GR1,PAS Lamia 1964,700000.0,3,0,1,3,1064,27
+Pietro Comuzzo,Italy,Defender,right,185.0,IT1,ACF Fiorentina,700000.0,1,0,0,0,46,19
+Milos Satara,Bosnia-Herzegovina,Defender,right,190.0,RU1,Akhmat Grozny,700000.0,3,0,1,0,788,29
+Mateo Stamatov,Bulgaria,Defender,left,178.0,RU1,FC Pari Nizhniy Novgorod,700000.0,4,0,0,0,1495,25
+Igor Kalinin,Russia,Defender,left,185.0,RU1,Fakel Voronezh,700000.0,3,0,0,0,1052,29
+Jules Van Cleemput,Belgium,Defender,right,181.0,BE1,R Charleroi SC,700000.0,0,0,0,0,712,27
+Sequeira,Portugal,Defender,left,184.0,TR1,Pendikspor,700000.0,10,0,1,4,3068,34
+Tommy St. Jago,Netherlands,Defender,right,186.0,NL1,FC Utrecht,700000.0,0,0,1,0,145,25
+Novatus Miroshi,Tanzania,Defender,left,185.0,UKR1,Shakhtar Donetsk,700000.0,0,0,0,0,515,22
+Mica Pinto,Luxembourg,Defender,left,176.0,NL1,Vitesse Arnhem,700000.0,2,0,1,2,2070,31
+Antonio Tikvic,Croatia,Defender,left,195.0,IT1,Udinese Calcio,700000.0,0,0,0,0,121,20
+Stijn Bultman,Netherlands,Defender,right,187.0,NL1,Heracles Almelo,650000.0,1,0,0,1,1117,20
+Damian van Bruggen,Netherlands,Defender,right,185.0,NL1,Almere City FC,650000.0,8,0,0,0,2554,28
+Antonio Portales,Mexico,Defender,right,183.0,SC1,Dundee FC,650000.0,2,0,0,1,1372,28
+Volnei,Brazil,Defender,right,188.0,PO1,GD Estoril Praia,650000.0,5,0,1,2,1856,24
+Robert-Jan Vanwesemael,Belgium,Defender,right,176.0,BE1,Sint-Truidense VV,650000.0,2,0,0,0,461,22
+George Cox,England,Defender,left,171.0,NL1,FC Volendam,650000.0,3,0,0,1,2011,27
+Joey Jacobs,Netherlands,Defender,right,187.0,NL1,Almere City FC,650000.0,7,0,2,0,2238,24
+Yentl Van Genechten,Belgium,Defender,right,191.0,BE1,KAS Eupen,650000.0,1,0,2,0,1578,24
+Okan Erdoğan,Türkiye,Defender,right,185.0,TR1,Istanbulspor,650000.0,8,1,0,1,2535,26
+Chris Cadden,Scotland,Defender,right,183.0,SC1,Hibernian FC,650000.0,0,0,1,0,486,28
+Ahmet Oğuz,Türkiye,Defender,right,176.0,TR1,Konyaspor,650000.0,7,0,1,1,2109,32
+Leeroy Owusu,Ghana,Defender,right,174.0,DK1,Odense Boldklub,650000.0,2,0,2,1,1641,28
+Wessel Dammers,Netherlands,Defender,right,185.0,DK1,Randers FC,650000.0,4,1,1,0,1751,29
+Joel Felix,Denmark,Defender,left,190.0,DK1,Silkeborg IF,650000.0,0,0,0,1,839,27
+Ertuğrul Ersoy,Türkiye,Defender,right,187.0,TR1,Gaziantep FK,650000.0,3,0,1,0,1469,27
+Damián Suárez,Uruguay,Defender,right,173.0,ES1,Getafe CF,650000.0,6,1,0,2,1375,36
+Toby Sibbick,Uganda,Defender,right,189.0,SC1,Heart of Midlothian FC,650000.0,4,0,0,0,1336,25
+Anouar El Azzouzi,Morocco,Defender,right,187.0,NL1,PEC Zwolle,650000.0,5,0,0,0,1315,23
+Rick Meissen,Netherlands,Defender,right,190.0,NL1,Sparta Rotterdam,650000.0,0,0,0,0,966,22
+Django Warmerdam,Netherlands,Defender,left,180.0,NL1,Sparta Rotterdam,650000.0,2,0,0,1,975,29
+Robbie Deas,Scotland,Defender,left,188.0,SC1,Kilmarnock FC,650000.0,8,0,1,0,1803,24
+Serdar Aziz,Türkiye,Defender,right,183.0,TR1,Fenerbahce,600000.0,3,0,0,2,1141,34
+Nicolas Pallois,France,Defender,left,189.0,FR1,FC Nantes,600000.0,5,0,0,1,1587,37
+Felipe Abner,Brazil,Defender,left,180.0,BE1,RWD Molenbeek,600000.0,4,0,0,0,1847,28
+Dmitriy Kabutov,Russia,Defender,right,173.0,RU1,Rubin Kazan,600000.0,4,0,0,3,2638,32
+Stefan Knezevic,Switzerland,Defender,right,187.0,BE1,R Charleroi SC,600000.0,3,0,0,0,833,28
+Oleg Danchenko,Ukraine,Defender,right,179.0,UKR1,Zorya Lugansk,600000.0,0,0,0,1,586,30
+Aleksandr Filin,Russia,Defender,left,185.0,BE1,KAS Eupen,600000.0,2,0,0,0,870,28
+Valeriy Luchkevych,Ukraine,Defender,right,176.0,UKR1,Kolos Kovalivka,600000.0,2,0,2,0,1899,29
+Ehsan Hajsafi,Iran,Defender,left,178.0,GR1,AEK Athens,600000.0,3,0,0,2,1576,34
+Bruno Godeau,Belgium,Defender,left,190.0,BE1,Sint-Truidense VV,600000.0,5,0,0,0,2482,32
+Stuart Findlay,Scotland,Defender,left,191.0,SC1,Kilmarnock FC,600000.0,4,0,0,0,3150,29
+Frederic Ananou,Togo,Defender,right,183.0,BE1,Sint-Truidense VV,600000.0,1,1,0,1,539,27
+Christopher Trimmel,Austria,Defender,right,189.0,L1,1.FC Union Berlin,600000.0,3,1,0,2,1876,37
+Duhan Aksu,Türkiye,Defender,left,183.0,TR1,Kasimpasa,600000.0,0,0,0,0,685,27
+Ivan Näsberg,Norway,Defender,left,187.0,GR1,PAOK Thessaloniki,600000.0,0,0,1,0,638,28
+Vladislav Masternoy,Russia,Defender,right,179.0,RU1,Fakel Voronezh,600000.0,4,0,0,1,2086,29
+Kostas Pileas,Cyprus,Defender,left,180.0,GR1,Panserraikos,600000.0,4,0,2,1,1720,26
+Lucas Taylor,Brazil,Defender,right,177.0,UKR1,Polissya Zhytomyr,600000.0,6,0,1,1,894,29
+João Correia,Cape Verde,Defender,right,175.0,PO1,GD Chaves,600000.0,8,0,4,1,2133,28
+Gonçalo Costa,Portugal,Defender,left,179.0,PO1,Portimonense SC,600000.0,6,1,0,6,1790,24
+Yunis Abdelhamid,Morocco,Defender,left,190.0,FR1,Stade Reims,600000.0,5,0,4,0,2782,37
+Jovan Manev,North Macedonia,Defender,right,185.0,TR1,Adana Demirspor,600000.0,2,0,0,0,521,24
+Kirill Zaika,Russia,Defender,right,168.0,RU1,FC Sochi,600000.0,6,0,1,2,1870,32
+Talys,Brazil,Defender,left,181.0,PO1,SC Farense,600000.0,1,0,0,0,1166,25
+Mingiyan Beveev,Russia,Defender,right,182.0,RU1,Ural Yekaterinburg,600000.0,3,0,0,0,1672,29
+James Penrice,Scotland,Defender,left,177.0,SC1,Livingston FC,600000.0,2,0,0,4,1877,26
+Bram Nuytinck,Netherlands,Defender,left,191.0,NL1,NEC Nijmegen,600000.0,3,1,0,0,2773,34
+Carles Soria,Spain,Defender,right,170.0,GR1,PAS Giannina,600000.0,6,0,0,6,2025,28
+Robin Østrøm,Norway,Defender,right,188.0,DK1,Silkeborg IF,600000.0,0,0,0,2,1145,22
+Valeriy Bondarenko,Ukraine,Defender,right,194.0,UKR1,Kolos Kovalivka,600000.0,3,0,1,0,2460,30
+Mykyta Kravchenko,Ukraine,Defender,right,182.0,UKR1,Polissya Zhytomyr,600000.0,4,0,0,2,1189,27
+Ryan Astley,Wales,Defender,right,184.0,SC1,Dundee FC,600000.0,0,0,0,0,23,23
+Georgios Liavas,Greece,Defender,right,181.0,GR1,Panetolikos GFS,600000.0,2,0,2,4,2171,23
+Tomás Silva,Portugal,Defender,right,172.0,PO1,FC Vizela,600000.0,1,1,0,2,2805,25
+Lucas Lissens,Belgium,Defender,right,184.0,DK1,Lyngby BK,600000.0,1,0,0,0,123,23
+Ivan Milicevic,Bosnia-Herzegovina,Defender,left,183.0,GR1,AE Kifisias,600000.0,1,0,1,0,810,26
+Kristian Bilovar,Ukraine,Defender,right,191.0,UKR1,Dynamo Kyiv,600000.0,1,0,0,0,440,23
+Anderson,Brazil,Defender,right,186.0,PO1,FC Vizela,600000.0,5,0,0,0,2534,29
+Fredrik Oppegård,Norway,Defender,left,175.0,NL1,Heracles Almelo,600000.0,1,0,0,1,1351,22
+Jordi Martín,Spain,Defender,left,176.0,ES1,Getafe CF,600000.0,2,0,1,0,761,24
+Alex Pinto,Portugal,Defender,right,187.0,PO1,Gil Vicente FC,600000.0,3,0,0,0,1245,26
+Miguel Nóbrega,Portugal,Defender,right,190.0,PO1,Rio Ave FC,600000.0,8,0,1,0,1626,24
+Yuriy Kopyna,Ukraine,Defender,right,181.0,UKR1,FK Oleksandriya,600000.0,1,0,1,1,2364,28
+Igor Snurnitsyn,Ukraine,Defender,left,184.0,UKR1,Zorya Lugansk,600000.0,5,0,0,0,1192,24
+Florian Le Joncour,France,Defender,left,193.0,BE1,RWD Molenbeek,600000.0,1,0,0,0,872,29
+Rune Paeshuyse,Belgium,Defender,right,187.0,BE1,KAS Eupen,600000.0,5,0,0,0,2277,22
+Eduard Kozik,Ukraine,Defender,right,185.0,UKR1,Shakhtar Donetsk,600000.0,0,0,0,1,342,21
+Fotis Kitsos,Greece,Defender,left,178.0,GR1,Volos NPS,600000.0,1,0,0,0,880,21
+Thierry Small,England,Defender,left,177.0,SC1,St. Mirren FC,600000.0,0,0,0,0,264,20
+Dmitriy Tikhiy,Russia,Defender,right,186.0,RU1,FC Pari Nizhniy Novgorod,600000.0,4,0,0,2,1518,32
+Matteo Pérez Vinlöf,Sweden,Defender,left,178.0,L1,Bayern Munich,600000.0,0,0,0,0,15,19
+Konstantinos Chrysopoulos,Greece,Defender,left,193.0,GR1,AEK Athens,600000.0,0,0,0,0,45,21
+Jonathan Buatu,Angola,Defender,right,187.0,PO1,Gil Vicente FC,600000.0,1,0,1,0,450,31
+Praxitelis Vouros,Greece,Defender,right,183.0,GR1,OFI Crete FC,600000.0,9,0,0,0,2579,29
+Christ Makosso,Congo,Defender,right,192.0,BE1,RWD Molenbeek,600000.0,0,0,0,0,360,20
+Mehdi Boukamir,Morocco,Defender,right,188.0,BE1,R Charleroi SC,600000.0,1,0,0,0,461,21
+Anthony Uzodimma,Nigeria,Defender,right,176.0,TR1,Kayserispor,550000.0,2,0,1,0,778,25
+Benaissa Benamar,Morocco,Defender,right,191.0,NL1,FC Volendam,550000.0,7,0,4,0,2274,27
+Salem M'Bakata,France,Defender,right,177.0,GR1,Aris Thessaloniki,550000.0,4,0,0,1,2080,26
+Hamdi Akujobi,Netherlands,Defender,right,175.0,NL1,Almere City FC,550000.0,4,0,0,2,1558,25
+Bernardo Espinosa,Colombia,Defender,right,192.0,ES1,Girona FC,550000.0,0,0,0,0,182,35
+Théo Barbet,France,Defender,left,186.0,NL1,Almere City FC,550000.0,4,0,0,1,1865,23
+Frank Ronstadt,Germany,Defender,right,179.0,L1,SV Darmstadt 98,550000.0,0,0,0,0,134,27
+Lionel Carole,France,Defender,left,182.0,TR1,Kayserispor,550000.0,2,0,0,1,2200,33
+Oliver Olsen,Denmark,Defender,both,190.0,DK1,Randers FC,550000.0,6,0,0,1,1351,24
+Damon Mirani,Netherlands,Defender,right,183.0,NL1,FC Volendam,550000.0,3,0,3,1,2979,28
+Marsoni Sambu,Angola,Defender,right,185.0,BE1,RWD Molenbeek,550000.0,1,0,0,1,1055,28
+Stelios Kitsiou,Greece,Defender,right,175.0,TR1,MKE Ankaragücü,550000.0,7,0,0,1,2134,31
+Emrecan Uzunhan,Türkiye,Defender,left,189.0,TR1,Besiktas JK,550000.0,0,0,0,0,22,23
+Ryotaro Tsunoda,Japan,Defender,left,185.0,BE1,KV Kortrijk,550000.0,1,0,0,1,793,25
+Will Fish,England,Defender,right,185.0,SC1,Hibernian FC,550000.0,6,0,1,1,3587,21
+Matías Rocha,Uruguay,Defender,right,183.0,PO1,FC Arouca,500000.0,1,1,1,0,559,23
+Yunus Emre Çift,Türkiye,Defender,right,185.0,TR1,Samsunspor,500000.0,3,1,0,0,635,21
+Nuno Lima,Portugal,Defender,right,185.0,TR1,Alanyaspor,500000.0,2,0,0,3,1250,23
+Dinis Pinto,Portugal,Defender,right,178.0,PO1,Moreirense FC,500000.0,4,0,0,2,1022,24
+Pepe,Portugal,Defender,right,187.0,PO1,FC Porto,500000.0,6,3,3,1,2635,41
+Ashley Young,England,Defender,both,175.0,GB1,Everton FC,500000.0,7,0,1,0,2470,39
+Danil Skorko,Ukraine,Defender,right,180.0,UKR1,FK Oleksandriya,500000.0,4,0,4,1,1402,22
+Rémy Vita,Madagascar,Defender,left,170.0,NL1,Fortuna Sittard,500000.0,1,0,0,0,634,23
+Sadik Fofana,Togo,Defender,right,192.0,NL1,Fortuna Sittard,500000.0,0,0,0,0,720,21
+Bandeira,Portugal,Defender,right,182.0,UKR1,Kryvbas Kryvyi Rig,500000.0,1,0,1,4,819,23
+Tchamba,Cameroon,Defender,left,191.0,PO1,Casa Pia AC,500000.0,6,0,1,1,1439,26
+Denys Norenkov,Ukraine,Defender,left,181.0,UKR1,LNZ Cherkasy,500000.0,6,0,1,1,1486,28
+Axel Guessand,France,Defender,left,192.0,NL1,FC Volendam,500000.0,1,0,1,0,205,20
+Fabian Holland,Germany,Defender,left,172.0,L1,SV Darmstadt 98,500000.0,5,1,0,2,1937,34
+Sergey Petrov,Russia,Defender,right,175.0,RU1,FK Krasnodar,500000.0,0,0,0,0,1064,34
+Pablo Busto,Spain,Defender,right,180.0,ES1,Real Betis Balompié,500000.0,0,0,0,0,42,19
+Dante,Brazil,Defender,left,188.0,FR1,OGC Nice,500000.0,5,1,1,1,2844,41
+Mahamadou Nagida,Cameroon,Defender,left,176.0,FR1,Stade Rennais FC,500000.0,1,0,0,0,215,19
+Scott Tanser,England,Defender,left,182.0,SC1,St. Mirren FC,500000.0,5,0,1,5,3042,30
+Ronald Matarrita,Costa Rica,Defender,left,175.0,GR1,Aris Thessaloniki,500000.0,1,0,0,0,233,30
+William Klaus,Brazil,Defender,right,187.0,BE1,RWD Molenbeek,500000.0,1,0,0,1,1241,31
+Jérémy Jacquet,France,Defender,right,188.0,FR1,Clermont Foot 63,500000.0,0,0,0,1,253,19
+Eyad El Askalany,Egypt,Defender,left,179.0,RU1,FK Rostov,500000.0,4,0,0,0,288,20
+Tiago Santana,Brazil,Defender,both,188.0,UKR1,Vorskla Poltava,500000.0,8,0,0,1,1162,26
+Kévin Keben,Cameroon,Defender,right,187.0,FR1,FC Toulouse,500000.0,1,0,0,0,593,21
+Denis Kolinger,Croatia,Defender,right,199.0,DK1,Vejle Boldklub,500000.0,8,0,0,1,1174,31
+Joseph Attamah,Ghana,Defender,right,180.0,TR1,Kayserispor,500000.0,3,0,1,0,2165,30
+Boli Bolingoli,Belgium,Defender,left,181.0,BE1,KV Mechelen,500000.0,0,0,0,0,122,29
+Kirill Pechenin,Belarus,Defender,left,176.0,RU1,FK Orenburg,500000.0,1,0,0,0,916,27
+Wolke Janssens,Belgium,Defender,right,185.0,BE1,Sint-Truidense VV,500000.0,3,0,0,0,332,30
+Jorge Moreno,Spain,Defender,right,184.0,ES1,Rayo Vallecano,500000.0,0,0,0,0,13,23
+Jemal Tabidze,Georgia,Defender,left,187.0,GR1,Panetolikos GFS,500000.0,1,0,0,1,406,28
+Oleksandr Martynyuk,Ukraine,Defender,left,175.0,UKR1,FK Oleksandriya,500000.0,4,0,0,0,1581,23
+Nelson Abbey,England,Defender,left,187.0,GR1,Olympiacos Piraeus,500000.0,0,0,0,0,270,21
+Timothy Chandler,United States,Defender,right,186.0,L1,Eintracht Frankfurt,500000.0,0,0,0,1,15,34
+Senna Miangue,Belgium,Defender,left,192.0,BE1,Cercle Brugge,500000.0,3,0,0,0,698,27
+Christian Sörensen,Denmark,Defender,left,179.0,DK1,FC Copenhagen,500000.0,2,0,1,6,1248,32
+Juninho,Brazil,Defender,left,175.0,UKR1,Zorya Lugansk,500000.0,2,0,1,1,2519,29
+Nathanaël Saintini,Guadeloupe,Defender,right,188.0,UKR1,Kryvbas Kryvyi Rig,500000.0,1,0,0,0,564,24
+Jota Gonçalves,Portugal,Defender,right,186.0,PO1,FC Vizela,500000.0,5,0,0,0,1632,24
+Oleksandr Kapliyenko,Ukraine,Defender,left,179.0,UKR1,SK Dnipro-1,500000.0,4,0,0,0,1568,28
+Omurwa,Kenya,Defender,right,191.0,PO1,CF Estrela Amadora SAD,500000.0,3,0,0,0,1140,26
+Franco Ferrari,Argentina,Defender,left,167.0,GR1,Aris Thessaloniki,500000.0,5,0,0,1,1794,32
+Yannick Leliendal,Netherlands,Defender,left,169.0,NL1,FC Utrecht,500000.0,2,0,0,0,561,22
+Liam Gordon,Scotland,Defender,right,191.0,SC1,St. Johnstone FC,500000.0,3,1,0,0,2290,29
+Hajdin Salihu,Kosovo,Defender,right,188.0,UKR1,LNZ Cherkasy,500000.0,1,0,3,1,1305,23
+Adam Montgomery,Scotland,Defender,left,173.0,SC1,Celtic FC,500000.0,0,0,0,1,121,22
+Séamus Coleman,Ireland,Defender,right,177.0,GB1,Everton FC,500000.0,0,0,0,0,752,36
+Erivaldo Almeida,Brazil,Defender,left,189.0,PO1,CF Estrela Amadora SAD,500000.0,1,0,0,1,484,25
+Stefan Velkov,Bulgaria,Defender,right,192.0,DK1,Vejle Boldklub,500000.0,5,0,0,0,1240,28
+Aaron Donnelly,Northern Ireland,Defender,left,185.0,SC1,Dundee FC,500000.0,2,0,0,2,1356,21
+David Sousa,Brazil,Defender,left,190.0,BE1,RWD Molenbeek,500000.0,2,0,0,0,676,23
+Laurens De Bock,Belgium,Defender,left,179.0,GR1,Atromitos Athens,500000.0,6,1,0,0,2003,32
+Jean Felipe,Brazil,Defender,right,179.0,PO1,CF Estrela Amadora SAD,500000.0,0,0,1,2,1208,30
+Khadim Rassoul,Senegal,Defender,left,187.0,TR1,Pendikspor,500000.0,3,0,0,0,1023,29
+Dmitriy Zhivoglyadov,Russia,Defender,right,178.0,RU1,FC Pari Nizhniy Novgorod,500000.0,2,0,0,1,1049,30
+Luka Gucek,Slovenia,Defender,right,189.0,UKR1,Chornomorets Odessa,500000.0,4,1,0,0,1726,26
+Ryoya Ogawa,Japan,Defender,left,183.0,BE1,Sint-Truidense VV,500000.0,0,0,0,2,198,28
+Bahadır Öztürk,Türkiye,Defender,right,185.0,TR1,Antalyaspor,500000.0,3,0,1,1,1486,29
+Makoto Hasebe,Japan,Defender,right,180.0,L1,Eintracht Frankfurt,500000.0,1,0,0,0,474,41
+Fran Vélez,Spain,Defender,right,182.0,GR1,Aris Thessaloniki,500000.0,2,0,1,0,620,33
+Jasmin Celikovic,Bosnia-Herzegovina,Defender,right,188.0,RU1,Akhmat Grozny,500000.0,4,0,1,0,2420,26
+Mickaël Tirpan,Türkiye,Defender,right,177.0,TR1,Samsunspor,500000.0,4,0,0,0,569,31
+Mikkel Kallesøe,Denmark,Defender,right,193.0,DK1,Randers FC,500000.0,2,0,0,3,933,27
+Kirill Malyarov,Russia,Defender,both,184.0,RU1,Baltika Kaliningrad,500000.0,3,0,0,1,1567,27
+Thomas Isherwood,Sweden,Defender,left,195.0,L1,SV Darmstadt 98,500000.0,1,0,0,0,638,27
+Josué Sá,Portugal,Defender,right,187.0,PO1,Rio Ave FC,500000.0,6,0,0,1,1967,32
+Philipe Sampaio,Brazil,Defender,right,191.0,BE1,RWD Molenbeek,500000.0,5,0,0,0,411,30
+Lubambo Musonda,Zambia,Defender,both,171.0,DK1,Silkeborg IF,500000.0,2,0,0,2,1482,29
+Papy Djilobodji,Senegal,Defender,left,193.0,TR1,Gaziantep FK,500000.0,5,1,3,1,2918,36
+Andreas Poulsen,Denmark,Defender,left,188.0,DK1,Silkeborg IF,500000.0,0,0,0,0,625,25
+Hugo Andersson,Sweden,Defender,right,196.0,DK1,Randers FC,500000.0,2,0,1,0,964,26
+Marcus Fraser,Scotland,Defender,right,182.0,SC1,St. Mirren FC,500000.0,2,0,1,0,3124,30
+Petro Stasyuk,Ukraine,Defender,right,176.0,UKR1,LNZ Cherkasy,500000.0,1,0,0,2,1846,29
+Yevgeniy Pasich,Ukraine,Defender,right,174.0,UKR1,SK Dnipro-1,500000.0,1,0,0,0,1185,31
+Cristian Gamboa,Costa Rica,Defender,right,175.0,L1,VfL Bochum,500000.0,7,0,0,1,1230,35
+Leon Klassen,Russia,Defender,left,176.0,RU1,Spartak Moscow,500000.0,4,0,2,1,511,24
+Pedro Silva Torrejón,Argentina,Defender,left,174.0,GR1,Panetolikos GFS,500000.0,2,0,5,5,2695,28
+Kazu,Brazil,Defender,left,175.0,PO1,Gil Vicente FC,500000.0,1,0,0,0,234,24
+Mehdi Zeffane,Algeria,Defender,right,176.0,FR1,Clermont Foot 63,500000.0,2,0,0,1,1235,32
+Triantafyllos Pasalidis,Greece,Defender,right,185.0,GR1,OFI Crete FC,500000.0,8,0,0,0,1418,28
+Brian Plat,Netherlands,Defender,right,191.0,NL1,FC Volendam,500000.0,2,0,0,0,2006,24
+Kiki,Portugal,Defender,left,181.0,RU1,Ural Yekaterinburg,500000.0,3,0,0,1,1188,30
+Dedryck Boyata,Belgium,Defender,right,188.0,BE1,Club Brugge KV,500000.0,1,0,1,0,324,34
+Volodymyr Adamyuk,Ukraine,Defender,right,186.0,UKR1,SK Dnipro-1,500000.0,4,0,3,7,2473,33
+Nino Galovic,Croatia,Defender,right,184.0,PO1,FC Arouca,500000.0,7,0,0,1,1721,32
+Maksim Sidorov,Russia,Defender,right,178.0,RU1,FK Orenburg,500000.0,2,0,0,1,1811,26
+Jordi Osei-Tutu,England,Defender,right,176.0,GR1,PAS Giannina,500000.0,1,0,0,1,458,26
+João Nunes,Portugal,Defender,right,188.0,PO1,Casa Pia AC,500000.0,2,0,1,0,1499,29
+Federico Álvarez,Argentina,Defender,left,183.0,GR1,Asteras Aktor,500000.0,4,0,1,1,1422,30
+Mykyta Bezuglyi,Ukraine,Defender,right,186.0,UKR1,Metalist 1925 Kharkiv,500000.0,3,1,1,1,1445,29
+Raul Opruț,Romania,Defender,left,184.0,BE1,KV Kortrijk,500000.0,0,0,0,0,130,27
+Vladislav Malkevich,Belarus,Defender,left,178.0,RU1,Ural Yekaterinburg,500000.0,0,0,1,1,1265,25
+Marat Bystrov,Kazakhstan,Defender,right,181.0,RU1,Akhmat Grozny,500000.0,0,2,0,0,463,32
+Timofey Margasov,Russia,Defender,right,181.0,RU1,FC Sochi,500000.0,1,0,1,2,1370,32
+Bogdan Milovanov,Ukraine,Defender,right,178.0,PO1,FC Arouca,500000.0,4,0,0,0,1349,26
+Juankar,Spain,Defender,left,179.0,GR1,Panathinaikos FC,500000.0,4,0,0,7,1571,34
+Luis Hernández,Spain,Defender,right,182.0,ES1,Cádiz CF,500000.0,4,0,1,0,722,35
+Shayne Pattynama,Indonesia,Defender,left,185.0,BE1,KAS Eupen,500000.0,0,0,0,0,38,26
+Renato Pantalon,Croatia,Defender,right,194.0,PO1,Rio Ave FC,500000.0,8,0,2,0,1522,27
+Marios Tsaousis,Greece,Defender,left,175.0,GR1,PAS Giannina,500000.0,6,0,1,2,1586,24
+Kingsley Schindler,Ghana,Defender,right,183.0,TR1,Samsunspor,500000.0,2,0,1,1,784,31
+Nicolas N'Koulou,Cameroon,Defender,right,184.0,TR1,Gaziantep FK,450000.0,2,0,2,1,2841,34
+Alim Öztürk,Türkiye,Defender,right,191.0,TR1,Samsunspor,450000.0,5,0,0,2,1927,32
+Ömer Ali Şahiner,Türkiye,Defender,right,175.0,TR1,Basaksehir FK,450000.0,2,0,0,1,1196,33
+Epaminondas Pantelakis,Greece,Defender,right,187.0,GR1,PAS Giannina,450000.0,8,0,2,0,1978,29
+Ruben Roosken,Netherlands,Defender,left,183.0,NL1,Heracles Almelo,450000.0,2,0,0,2,1317,24
+Nick Viergever,Netherlands,Defender,left,183.0,NL1,FC Utrecht,450000.0,1,1,1,0,2139,35
+Jens Martin Gammelby,Denmark,Defender,both,192.0,DK1,Silkeborg IF,450000.0,0,0,0,0,229,29
+Gerrit Nauber,Germany,Defender,right,186.0,NL1,Go Ahead Eagles,450000.0,4,0,3,1,2009,32
+Fin Stevens,Wales,Defender,right,179.0,GB1,Brentford FC,450000.0,0,0,0,1,270,21
+Eduard Valiakhmetov,Russia,Defender,right,180.0,RU1,Baltika Kaliningrad,450000.0,0,0,0,0,180,27
+Juriën Gaari,Curacao,Defender,right,183.0,NL1,RKC Waalwijk,450000.0,6,0,1,0,1709,31
+Serkan Asan,Türkiye,Defender,right,170.0,TR1,Pendikspor,450000.0,3,0,0,0,1519,25
+Magnus Jensen,Denmark,Defender,right,196.0,DK1,Lyngby BK,450000.0,4,0,1,3,1574,28
+Eric Larsson,Sweden,Defender,right,175.0,GR1,OFI Crete FC,450000.0,4,0,1,2,1990,33
+Jannes Wieckhoff,Germany,Defender,right,188.0,NL1,Heracles Almelo,450000.0,3,0,0,1,1454,24
+Navajo Bakboord,Suriname,Defender,right,177.0,NL1,Heracles Almelo,450000.0,4,0,0,1,1686,26
+Sven Sonnenberg,Germany,Defender,right,194.0,NL1,Heracles Almelo,450000.0,3,0,1,0,1740,26
+David Carmona,Spain,Defender,right,176.0,GR1,Asteras Aktor,450000.0,3,0,0,0,1078,28
+Sebastian Mladen,Romania,Defender,right,186.0,GR1,Panetolikos GFS,450000.0,10,0,1,1,2021,33
+Mustafa Tan,Türkiye,Defender,right,181.0,TR1,Samsunspor,450000.0,2,0,0,0,339,19
+Martin Wasinski,Belgium,Defender,right,185.0,BE1,KV Kortrijk,450000.0,2,0,0,0,567,20
+Ivo Pinto,Portugal,Defender,right,182.0,NL1,Fortuna Sittard,450000.0,6,0,0,5,3202,35
+Daniil Kornyushin,Russia,Defender,right,187.0,RU1,FC Pari Nizhniy Novgorod,450000.0,1,0,0,0,144,23
+Josh Flint,England,Defender,left,186.0,NL1,FC Volendam,450000.0,4,0,1,1,2314,24
+Connor Randall,England,Defender,right,180.0,SC1,Ross County FC,450000.0,3,0,1,0,1843,29
+Nikola Maksimović,Serbia,Defender,right,193.0,TR1,Hatayspor,450000.0,2,0,0,0,1357,33
+Lewis Neilson,Scotland,Defender,right,184.0,SC1,Heart of Midlothian FC,450000.0,0,0,0,1,300,21
+Thierry Lutonda,Belgium,Defender,left,167.0,NL1,RKC Waalwijk,400000.0,0,0,0,0,717,24
+Jérôme Boateng,Germany,Defender,right,192.0,IT1,US Salernitana 1919,400000.0,0,0,0,0,238,36
+Felipe Rodrigues,Brazil,Defender,right,183.0,UKR1,Vorskla Poltava,400000.0,4,0,3,1,974,29
+Rodrigo Escoval,Portugal,Defender,right,188.0,PO1,FC Vizela,400000.0,7,0,0,1,1418,27
+Zach Muscat,Malta,Defender,right,184.0,PO1,SC Farense,400000.0,6,1,2,0,1922,31
+Nicholas Mickelson,Thailand,Defender,right,179.0,DK1,Odense Boldklub,400000.0,1,0,1,1,1025,25
+Maksym Zhychykov,Ukraine,Defender,right,180.0,UKR1,Metalist 1925 Kharkiv,400000.0,7,0,0,2,1597,32
+Jonas Jensen-Abbew,Denmark,Defender,right,189.0,DK1,FC Nordsjaelland,400000.0,1,0,1,0,1136,22
+Dimitrios Tsakmakis,Greece,Defender,both,187.0,GR1,Atromitos Athens,400000.0,6,0,1,1,1509,25
+Daijiro Chirino,Curacao,Defender,right,185.0,NL1,PEC Zwolle,400000.0,2,0,0,0,330,23
+Daniil Khrypchuk,Ukraine,Defender,right,192.0,UKR1,Vorskla Poltava,400000.0,4,2,0,0,1327,21
+Stanislav Bessmertniy,Russia,Defender,right,180.0,RU1,Dynamo Moscow,400000.0,1,0,1,1,663,20
+Mamadou Tounkara,Mali,Defender,right,192.0,PO1,Vitória Guimarães SC,400000.0,1,0,0,0,156,23
+Vitaliy Kholod,Ukraine,Defender,right,183.0,UKR1,Rukh Lviv,400000.0,2,0,0,1,875,21
+Maryan Faryna,Ukraine,Defender,left,180.0,UKR1,Metalist 1925 Kharkiv,400000.0,5,0,1,0,1870,21
+Roman Savchenko,Ukraine,Defender,left,190.0,UKR1,FK Oleksandriya,400000.0,4,0,0,0,1078,20
+Mikhail Ryadno,Russia,Defender,left,182.0,RU1,CSKA Moscow,400000.0,0,0,1,1,619,19
+Brian Bayeye,DR Congo,Defender,right,182.0,IT1,Torino FC,400000.0,0,0,0,0,12,24
+Dmytro Kapinus,Ukraine,Defender,right,179.0,UKR1,Metalist 1925 Kharkiv,400000.0,2,0,0,0,1623,21
+Richard Taylor,England,Defender,left,189.0,SC1,St. Mirren FC,400000.0,5,0,0,1,1728,24
+Igor Formiga,Brazil,Defender,right,177.0,PO1,Portimonense SC,400000.0,5,0,1,1,1510,26
+Vladyslav Pryimak,Ukraine,Defender,right,187.0,UKR1,Obolon Kyiv,400000.0,8,0,1,0,2164,28
+Momo Mbaye,Senegal,Defender,left,192.0,ES1,Cádiz CF,400000.0,2,0,0,0,309,26
+Vasyl Kurko,Ukraine,Defender,right,190.0,UKR1,NK Veres Rivne,400000.0,3,0,0,0,2160,29
+Rocky Bushiri,DR Congo,Defender,right,187.0,SC1,Hibernian FC,400000.0,6,0,0,0,2140,25
+Naoufel Khacef,Algeria,Defender,left,179.0,TR1,Gaziantep FK,400000.0,1,0,0,0,270,27
+Sava-Arangel Cestic,Serbia,Defender,right,192.0,NL1,Heracles Almelo,400000.0,1,0,0,0,209,23
+Siemen Voet,Belgium,Defender,left,190.0,NL1,Fortuna Sittard,400000.0,2,0,0,1,1243,24
+Sandro Cruz,Angola,Defender,left,182.0,PO1,GD Chaves,400000.0,3,0,1,1,1725,23
+Hussein Ali,Iraq,Defender,right,180.0,NL1,SC Heerenveen,400000.0,0,0,0,0,790,22
+Kirill Glushchenkov,Russia,Defender,right,191.0,RU1,FC Pari Nizhniy Novgorod,400000.0,0,0,1,0,660,24
+Ed Turns,Wales,Defender,left,186.0,GB1,Brighton & Hove Albion,400000.0,0,0,0,0,180,22
+Kyriakos Aslanidis,Greece,Defender,right,184.0,GR1,Volos NPS,400000.0,5,0,0,0,1032,22
+Orest Lebedenko,Ukraine,Defender,left,176.0,PO1,FC Vizela,400000.0,3,0,2,1,1470,26
+Rostyslav Lyakh,Ukraine,Defender,both,178.0,UKR1,Rukh Lviv,400000.0,1,0,0,2,594,24
+Yegor Prokopenko,Ukraine,Defender,left,178.0,UKR1,Obolon Kyiv,400000.0,7,0,0,0,1848,26
+Moussa Sissako,Mali,Defender,right,188.0,BE1,RWD Molenbeek,400000.0,3,0,0,0,976,24
+Ben Purrington,England,Defender,left,184.0,SC1,Ross County FC,400000.0,1,0,1,0,953,28
+Lucão,Brazil,Defender,right,187.0,GR1,OFI Crete FC,400000.0,1,0,0,0,138,28
+Dan Casey,Ireland,Defender,right,186.0,SC1,Motherwell FC,400000.0,8,0,2,2,2144,27
+Federico Fazio,Argentina,Defender,right,195.0,IT1,US Salernitana 1919,400000.0,3,0,1,0,1401,37
+Artur Jorge,Portugal,Defender,right,186.0,PO1,SC Farense,400000.0,3,0,0,0,614,30
+Jurij Medvedev,Czech Republic,Defender,right,180.0,RU1,FC Sochi,400000.0,2,0,1,1,690,28
+Samba Camara,Mali,Defender,left,190.0,TR1,Sivasspor,400000.0,2,0,0,0,1866,32
+Adam Tzanetopoulos,Greece,Defender,both,193.0,GR1,PAS Lamia 1964,400000.0,5,0,0,0,2061,29
+Artem Mamin,Russia,Defender,right,186.0,RU1,Ural Yekaterinburg,400000.0,2,0,0,0,1140,27
+Sergiy Gorbunov,Ukraine,Defender,left,181.0,UKR1,SK Dnipro-1,400000.0,2,0,0,1,828,30
+Pascal Gregor,Denmark,Defender,right,189.0,DK1,Lyngby BK,400000.0,5,0,2,1,2400,30
+Thibault Vlietinck,Belgium,Defender,right,180.0,BE1,Oud-Heverlee Leuven,400000.0,3,0,0,1,460,27
+Aleksandar Sedlar,Serbia,Defender,right,180.0,ES1,Deportivo Alavés,400000.0,2,0,1,0,949,33
+Bressan,Brazil,Defender,right,185.0,GR1,OFI Crete FC,400000.0,1,0,0,0,397,32
+Aleksandr Zhirov,Russia,Defender,left,193.0,RU1,Baltika Kaliningrad,400000.0,1,0,0,0,2268,34
+Tony Jantschke,Germany,Defender,right,177.0,L1,Borussia Mönchengladbach,400000.0,0,0,0,0,42,34
+Víctor Díaz,Spain,Defender,right,183.0,ES1,Granada CF,400000.0,1,0,0,0,252,36
+Lorenzo De Silvestri,Italy,Defender,right,187.0,IT1,Bologna FC 1909,400000.0,0,0,2,0,720,36
+Dominik Oroz,Croatia,Defender,right,192.0,NL1,Vitesse Arnhem,400000.0,11,0,2,1,2193,24
+Jan Kral,Czech Republic,Defender,left,194.0,BE1,KAS Eupen,400000.0,5,0,1,0,804,25
+Diamantis Chouchoumis,Greece,Defender,left,183.0,GR1,Asteras Aktor,400000.0,3,0,0,0,1293,30
+Malte Kiilerich,Denmark,Defender,right,188.0,DK1,Hvidovre IF,400000.0,1,0,0,0,1122,29
+Oskar Buur,Denmark,Defender,right,180.0,NL1,FC Volendam,400000.0,3,0,0,0,1656,26
+Carraça,Portugal,Defender,right,177.0,PO1,GD Chaves,400000.0,3,1,0,1,991,31
+Mansur,Brazil,Defender,left,181.0,PO1,CF Estrela Amadora SAD,400000.0,7,0,0,1,1497,31
+Nikolaos Vafeas,Greece,Defender,right,187.0,GR1,AE Kifisias,400000.0,4,0,3,0,2174,27
+Dominik Kruzliak,Slovakia,Defender,right,185.0,GR1,Volos NPS,400000.0,2,0,0,0,225,28
+Nikolai Alho,Finland,Defender,right,172.0,GR1,Volos NPS,400000.0,3,0,1,3,1750,31
+Edisson Jordanov,Bulgaria,Defender,right,172.0,BE1,KVC Westerlo,400000.0,4,0,1,0,587,31
+Eliaquim Mangala,France,Defender,left,187.0,PO1,GD Estoril Praia,400000.0,4,0,1,0,1289,33
+Jetro Willems,Netherlands,Defender,left,177.0,NL1,Heracles Almelo,400000.0,2,0,0,0,1158,30
+Andrey Semenov,Russia,Defender,right,190.0,RU1,Akhmat Grozny,400000.0,6,0,2,0,1890,35
+Henrik Dalsgaard,Denmark,Defender,right,192.0,DK1,FC Midtjylland,400000.0,3,0,3,3,1599,35
+Ygor Nogueira,Brazil,Defender,right,187.0,PO1,GD Chaves,400000.0,8,2,0,0,1661,29
+Jordan Obita,England,Defender,left,181.0,SC1,Hibernian FC,400000.0,8,0,2,0,2786,31
+Emil Bergström,Sweden,Defender,right,188.0,GR1,Panserraikos,400000.0,2,1,1,1,2151,31
+Sai van Wermeskerken,Japan,Defender,right,178.0,NL1,NEC Nijmegen,400000.0,1,0,1,0,433,30
+Pedro Mendes,Portugal,Defender,right,186.0,PO1,CF Estrela Amadora SAD,400000.0,1,0,0,0,812,34
+Bart Vriends,Netherlands,Defender,right,188.0,NL1,Sparta Rotterdam,400000.0,3,0,2,1,2300,33
+İbrahim Pehlivan,Türkiye,Defender,left,183.0,TR1,Caykur Rizespor,375000.0,3,0,0,1,1363,31
+Umut Meraş,Türkiye,Defender,left,178.0,TR1,Besiktas JK,375000.0,1,0,0,0,627,29
+Panagiotis Deligiannidis,Greece,Defender,right,177.0,GR1,Panserraikos,350000.0,5,1,3,0,1696,28
+Kevin Miranda,Italy,Defender,right,188.0,IT1,US Sassuolo,350000.0,0,0,0,0,13,21
+Vasilios Lampropoulos,Greece,Defender,right,185.0,GR1,OFI Crete FC,350000.0,3,0,2,0,1419,34
+Christopher Mamengi,Netherlands,Defender,left,182.0,NL1,Almere City FC,350000.0,1,0,0,0,107,23
+Bogdan Chuev,Ukraine,Defender,right,184.0,UKR1,FK Minaj,350000.0,0,0,0,1,1608,24
+Eray Korkmaz,Türkiye,Defender,right,182.0,TR1,Caykur Rizespor,350000.0,0,0,0,0,476,21
+Joe Wright,Wales,Defender,right,193.0,SC1,Kilmarnock FC,350000.0,7,0,3,1,2185,29
+Kaare Barslund,Denmark,Defender,right,182.0,DK1,FC Nordsjaelland,350000.0,1,0,1,0,123,20
+Joe Shaughnessy,Ireland,Defender,right,183.0,SC1,Dundee FC,350000.0,2,0,4,1,2935,32
+Damil Dankerlui,Suriname,Defender,right,172.0,GR1,Panserraikos,350000.0,5,0,0,0,1538,28
+Nathan Gassama,France,Defender,left,192.0,RU1,Baltika Kaliningrad,350000.0,4,0,1,0,1685,24
+Fran Delgado,Spain,Defender,right,181.0,PO1,SC Farense,350000.0,1,0,0,0,763,23
+Pablo Ortiz,Colombia,Defender,left,190.0,DK1,FC Midtjylland,350000.0,0,1,0,0,206,24
+Gustav Grubbe,Denmark,Defender,right,181.0,DK1,Odense Boldklub,350000.0,0,0,0,0,172,22
+Valeriy Dubko,Ukraine,Defender,left,181.0,UKR1,Obolon Kyiv,350000.0,8,0,0,2,1753,23
+Giannis Masouras,Greece,Defender,right,181.0,GR1,AE Kifisias,350000.0,4,0,1,1,1748,28
+Sebastian Revan,England,Defender,left,181.0,GB1,Aston Villa,350000.0,0,0,0,0,180,21
+Nicklas Mouritsen,Denmark,Defender,left,180.0,DK1,Odense Boldklub,350000.0,2,0,1,2,792,29
+Gudmundur Thórarinsson,Iceland,Defender,left,183.0,GR1,OFI Crete FC,350000.0,3,0,2,2,2050,32
+Ilias Chatzitheodoridis,Greece,Defender,left,171.0,GR1,Panetolikos GFS,350000.0,4,0,3,0,1621,27
+Ruslan Magal,Russia,Defender,right,172.0,RU1,Fakel Voronezh,350000.0,3,0,1,3,2132,33
+Oleksandr Osman,Ukraine,Defender,left,169.0,UKR1,Obolon Kyiv,350000.0,2,0,0,1,1576,28
+Kirill Bozhenov,Russia,Defender,right,174.0,RU1,FC Pari Nizhniy Novgorod,350000.0,3,0,0,0,150,24
+Thomas Gundelund,Denmark,Defender,right,180.0,DK1,Vejle Boldklub,350000.0,2,0,0,2,787,23
+Victor Pálsson,Iceland,Defender,right,186.0,BE1,KAS Eupen,350000.0,1,0,2,0,2697,33
+Artem Meshchaninov,Russia,Defender,right,191.0,RU1,FC Sochi,350000.0,0,0,1,0,585,28
+Bevis Mugabi,Uganda,Defender,right,187.0,SC1,Motherwell FC,350000.0,3,0,2,0,2354,29
+Charalampos Mavrias,Greece,Defender,right,178.0,GR1,Panetolikos GFS,350000.0,4,0,2,1,1211,30
+Kyriakos Papadopoulos,Greece,Defender,right,185.0,GR1,PAS Lamia 1964,350000.0,9,0,0,1,1695,32
+Pavlo Lukyanchuk,Ukraine,Defender,right,180.0,UKR1,Obolon Kyiv,350000.0,3,0,0,0,1968,28
+Ivanildo Fernandes,Cape Verde,Defender,left,194.0,PO1,FC Vizela,350000.0,2,0,0,0,180,28
+Danylo Karas,Ukraine,Defender,right,186.0,UKR1,Obolon Kyiv,350000.0,5,0,2,0,1806,28
+Lukas Klitten,Denmark,Defender,left,184.0,IT1,Frosinone Calcio,350000.0,0,0,0,0,135,24
+Nathan Tjoe-A-On,Indonesia,Defender,left,182.0,NL1,SC Heerenveen,350000.0,0,0,0,0,15,23
+Vladyslav Yemets,Ukraine,Defender,left,180.0,UKR1,Kolos Kovalivka,350000.0,3,0,0,0,1090,27
+Jordan McGhee,Scotland,Defender,right,183.0,SC1,Dundee FC,350000.0,5,0,4,0,2425,28
+Jack Baldwin,England,Defender,right,185.0,SC1,Ross County FC,350000.0,5,1,0,1,2250,31
+Quini,Spain,Defender,right,178.0,GR1,Olympiacos Piraeus,350000.0,6,0,1,0,1552,35
+Maksim Shnaptsev,Russia,Defender,right,182.0,RU1,FC Pari Nizhniy Novgorod,350000.0,2,0,0,2,567,20
+Danila Vedernikov,Russia,Defender,left,176.0,RU1,FC Pari Nizhniy Novgorod,350000.0,0,0,0,0,6,23
+Dimitrios Siovas,Greece,Defender,left,191.0,NL1,Fortuna Sittard,350000.0,6,0,0,0,2515,36
+Georgios Kornezos,Greece,Defender,right,191.0,GR1,PAS Lamia 1964,350000.0,2,0,0,0,857,26
+Serano Seymor,Netherlands,Defender,left,190.0,NL1,Excelsior Rotterdam,350000.0,1,0,0,0,368,23
+Thomas Keller,Germany,Defender,right,186.0,L1,1.FC Heidenheim 1846,350000.0,0,0,0,0,2,25
+Manel Royo,Spain,Defender,left,184.0,NL1,Almere City FC,350000.0,2,0,1,0,798,30
+Frederik Tingager,Denmark,Defender,right,198.0,DK1,Aarhus GF,350000.0,1,0,4,1,2785,31
+Valentino Fattore,Spain,Defender,right,178.0,GR1,Aris Thessaloniki,350000.0,0,0,0,1,450,23
+Dimitrios Kolovetsios,Greece,Defender,right,183.0,TR1,Kayserispor,350000.0,1,0,0,0,1481,33
+Corrie Ndaba,Ireland,Defender,left,188.0,SC1,Kilmarnock FC,350000.0,1,1,1,0,1736,25
+Denzel Hall,Netherlands,Defender,right,180.0,NL1,SC Heerenveen,350000.0,1,0,0,0,407,23
+Apostolos Diamantis,Greece,Defender,right,187.0,GR1,Panserraikos,350000.0,1,0,0,0,491,24
+Jonas Lietaert,Belgium,Defender,right,190.0,BE1,Cercle Brugge,350000.0,0,0,0,0,164,20
+Vedad Radonja,Bosnia-Herzegovina,Defender,right,182.0,GR1,AEK Athens,350000.0,0,0,0,0,180,23
+Moustapha Seck,Spain,Defender,left,176.0,PO1,Portimonense SC,350000.0,3,0,0,0,989,28
+Tobias Anker,Denmark,Defender,left,194.0,DK1,Aarhus GF,350000.0,1,0,0,0,141,23
+Taras Dmytruk,Ukraine,Defender,right,171.0,UKR1,FK Minaj,350000.0,6,0,0,3,1805,24
+Tony Gallacher,Scotland,Defender,left,173.0,SC1,St. Johnstone FC,350000.0,1,0,1,0,1196,25
+Nicolas Isimat-Mirin,France,Defender,right,187.0,NL1,Vitesse Arnhem,325000.0,3,0,1,1,2437,33
+Ricki Lamie,Scotland,Defender,left,185.0,SC1,Dundee FC,325000.0,2,0,1,1,1178,31
+İsmail Çokçalış,Türkiye,Defender,right,175.0,TR1,Adana Demirspor,325000.0,0,0,0,1,1077,24
+Cammy Kerr,Scotland,Defender,right,180.0,SC1,Dundee FC,325000.0,1,0,0,0,587,29
+George Harmon,England,Defender,left,163.0,SC1,Ross County FC,325000.0,2,0,1,2,945,24
+Loïck Landre,France,Defender,right,182.0,GR1,AE Kifisias,325000.0,3,0,2,0,737,32
+Jayden Richardson,England,Defender,right,184.0,SC1,Aberdeen FC,325000.0,0,0,0,1,141,24
+Anıl Yaşar,Türkiye,Defender,left,192.0,TR1,Caykur Rizespor,325000.0,1,0,0,0,681,22
+James Brown,Malta,Defender,right,186.0,SC1,St. Johnstone FC,325000.0,6,1,1,2,2949,27
+Tiago Dias,Portugal,Defender,left,175.0,PO1,Casa Pia AC,325000.0,1,0,1,1,1033,26
+Giulio Donati,Italy,Defender,right,178.0,IT1,AC Monza,300000.0,1,0,0,0,32,34
+Vadym Chervak,Ukraine,Defender,left,186.0,UKR1,Metalist 1925 Kharkiv,300000.0,3,0,0,0,1172,25
+Denis Terentjev,Russia,Defender,right,181.0,RU1,FK Rostov,300000.0,3,0,1,0,1348,32
+Maksim Shiryaev,Russia,Defender,right,192.0,RU1,Rubin Kazan,300000.0,1,0,0,0,245,29
+Hélder Sá,Portugal,Defender,left,187.0,PO1,Rio Ave FC,300000.0,0,0,0,1,38,22
+Igor Kurylo,Ukraine,Defender,left,187.0,UKR1,Metalist 1925 Kharkiv,300000.0,5,1,0,2,1384,31
+Artem Shabanov,Ukraine,Defender,left,190.0,UKR1,Polissya Zhytomyr,300000.0,4,0,0,0,2370,32
+Faouzi Ghoulam,Algeria,Defender,left,184.0,TR1,Hatayspor,300000.0,8,0,1,2,1429,33
+Yoël Armougom,France,Defender,left,175.0,FR1,Clermont Foot 63,300000.0,1,0,0,0,231,26
+Peter Ankersen,Denmark,Defender,right,180.0,DK1,FC Copenhagen,300000.0,2,0,0,0,1185,34
+Burak Bekaroğlu,Türkiye,Defender,right,191.0,TR1,Hatayspor,300000.0,3,0,0,0,1117,27
+Femi Seriki,England,Defender,right,183.0,GB1,Sheffield United,300000.0,0,0,0,0,117,22
+Nikolay Zolotov,Belarus,Defender,right,177.0,UKR1,Kolos Kovalivka,300000.0,3,1,0,1,835,30
+Aboubacar Lô,Senegal,Defender,right,187.0,FR1,FC Metz,300000.0,0,1,0,0,195,25
+João Reis,Portugal,Defender,left,174.0,PO1,CF Estrela Amadora SAD,300000.0,4,0,0,0,1540,32
+Martín Pascual,Spain,Defender,right,190.0,ES1,Rayo Vallecano,300000.0,1,0,0,0,376,25
+Hugo Oliveira,Portugal,Defender,right,174.0,PO1,FC Vizela,300000.0,0,0,1,3,486,22
+Nazım Sangaré,Türkiye,Defender,right,185.0,TR1,Fatih Karagümrük,300000.0,0,0,1,1,1282,30
+Owen Dodgson,England,Defender,left,178.0,SC1,Dundee FC,300000.0,5,0,0,0,888,21
+Magnus Lysholm,Denmark,Defender,both,198.0,DK1,Hvidovre IF,300000.0,0,0,0,1,551,23
+Derick Poloni,Brazil,Defender,left,173.0,PO1,Casa Pia AC,300000.0,0,0,1,2,275,31
+Craig Halkett,Scotland,Defender,right,183.0,SC1,Heart of Midlothian FC,300000.0,1,0,0,0,484,29
+Rubén Iranzo,Spain,Defender,right,182.0,ES1,Valencia CF,300000.0,1,0,0,0,91,21
+Sauli Väisänen,Finland,Defender,right,191.0,DK1,Odense Boldklub,300000.0,0,0,0,0,162,30
+Dmitriy Stotskiy,Russia,Defender,right,171.0,RU1,FC Pari Nizhniy Novgorod,300000.0,3,0,2,0,1417,35
+Finn Stam,Netherlands,Defender,both,188.0,NL1,AZ Alkmaar,300000.0,0,0,0,0,34,21
+André Teixeira,Portugal,Defender,right,182.0,GR1,AE Kifisias,300000.0,2,0,0,1,630,31
+Odel Offiah,England,Defender,right,187.0,SC1,Heart of Midlothian FC,300000.0,2,0,0,0,347,22
+James Abankwah,Ireland,Defender,right,182.0,IT1,Udinese Calcio,300000.0,0,0,0,0,61,21
+Cengiz Demir,Türkiye,Defender,left,186.0,TR1,Hatayspor,300000.0,2,0,0,0,526,23
+Maksym Lopyryonok,Ukraine,Defender,right,186.0,UKR1,LNZ Cherkasy,300000.0,1,1,0,0,716,29
+Toon Raemaekers,Belgium,Defender,right,194.0,BE1,KV Mechelen,300000.0,0,0,0,0,119,24
+Andriy Buleza,Ukraine,Defender,left,177.0,UKR1,FK Minaj,300000.0,1,0,0,0,746,21
+Aleksandr Putsko,Russia,Defender,right,190.0,RU1,Baltika Kaliningrad,300000.0,0,0,0,0,720,31
+Chris Basham,England,Defender,right,190.0,GB1,Sheffield United,300000.0,1,0,0,0,408,36
+Georgios Mygas,Greece,Defender,right,185.0,GR1,Volos NPS,300000.0,6,0,0,1,1099,30
+Luuk Wouters,Netherlands,Defender,left,190.0,NL1,RKC Waalwijk,300000.0,0,0,0,0,58,25
+Antonio Luna,Spain,Defender,left,178.0,GR1,Volos NPS,300000.0,0,0,0,2,1475,33
+Aleksandr Pavlovets,Belarus,Defender,right,188.0,GR1,PAS Lamia 1964,300000.0,0,0,0,0,420,28
+Denys Balan,Ukraine,Defender,right,176.0,UKR1,NK Veres Rivne,300000.0,6,0,1,0,1353,31
+Álvaro Carrillo,Spain,Defender,right,182.0,ES1,Real Madrid,300000.0,0,0,0,0,90,22
+Vladislav Volkov,Russia,Defender,right,193.0,RU1,Akhmat Grozny,300000.0,1,0,0,0,230,24
+Morgan Boyes,Wales,Defender,left,189.0,SC1,Livingston FC,300000.0,0,0,0,0,111,23
+Andriy Tsurikov,Ukraine,Defender,left,185.0,UKR1,Kolos Kovalivka,300000.0,3,0,4,0,1816,32
+Oleksandr Chornomorets,Ukraine,Defender,left,182.0,UKR1,Kolos Kovalivka,300000.0,5,0,0,2,1513,31
+Nicolai Boilesen,Denmark,Defender,left,186.0,DK1,FC Copenhagen,300000.0,1,0,0,1,562,32
+Ömer Toprak,Türkiye,Defender,right,187.0,TR1,Antalyaspor,300000.0,1,0,0,2,1803,35
+Diogo Fonseca,Portugal,Defender,right,191.0,PO1,CF Estrela Amadora SAD,300000.0,0,0,0,0,451,22
+Vieirinha,Portugal,Defender,right,172.0,GR1,PAOK Thessaloniki,300000.0,2,0,0,0,773,39
+Rafael Santos,Brazil,Defender,left,190.0,PO1,Moreirense FC,300000.0,0,0,0,0,90,26
+Ryan Leak,Wales,Defender,left,191.0,SC1,Ross County FC,300000.0,8,0,0,0,2578,26
+Emrecan Terzi,Türkiye,Defender,left,177.0,TR1,Besiktas JK,300000.0,0,0,0,0,498,21
+Declan Gallagher,Scotland,Defender,right,196.0,SC1,St. Mirren FC,300000.0,0,0,0,0,120,33
+Ilias Kostis,Greece,Defender,left,188.0,ES1,Atlético de Madrid,300000.0,0,0,0,0,1,21
+Miguel Campos,Portugal,Defender,right,188.0,UKR1,FK Oleksandriya,300000.0,5,1,0,2,916,28
+Ryan Alebiosu,England,Defender,right,188.0,BE1,KV Kortrijk,300000.0,1,0,0,1,341,23
+Philip Rejnhold,Denmark,Defender,both,177.0,DK1,Hvidovre IF,300000.0,3,0,0,0,555,28
+Anton Bol,Ukraine,Defender,right,187.0,UKR1,Zorya Lugansk,300000.0,0,0,0,0,465,22
+Ricardo Fernandes,Sao Tome and Principe,Defender,left,173.0,PO1,GD Estoril Praia,300000.0,0,0,0,0,1,22
+Zeki Yavru,Türkiye,Defender,right,178.0,TR1,Samsunspor,300000.0,4,0,1,4,2027,33
+Josh Acheampong,England,Defender,right,185.0,GB1,Chelsea FC,300000.0,0,0,0,0,5,18
+Angus MacDonald,England,Defender,right,190.0,SC1,Aberdeen FC,300000.0,2,0,1,0,1340,32
+Mateus Lusuardi,Brazil,Defender,left,190.0,IT1,Frosinone Calcio,300000.0,1,0,0,0,396,21
+Shane Blaney,Ireland,Defender,right,190.0,SC1,Motherwell FC,300000.0,1,0,2,0,1250,26
+Stephen O'Donnell,Scotland,Defender,right,184.0,SC1,Motherwell FC,300000.0,6,0,0,3,2625,32
+Kian Hansen,Denmark,Defender,right,184.0,DK1,FC Nordsjaelland,300000.0,1,0,1,0,2174,35
+Luca Everink,Netherlands,Defender,right,179.0,NL1,Go Ahead Eagles,300000.0,0,0,0,0,281,23
+Florent Ogier,France,Defender,right,183.0,FR1,Clermont Foot 63,300000.0,1,0,1,1,941,35
+Rodrigo Erramuspe,Argentina,Defender,right,191.0,GR1,PAS Giannina,300000.0,9,0,4,0,1935,34
+Luiyi de Lucas,Dominican Republic,Defender,right,194.0,SC1,Livingston FC,300000.0,1,0,1,0,997,30
+James McGarry,New Zealand,Defender,left,180.0,SC1,Aberdeen FC,300000.0,1,0,0,0,568,26
+Luc De Fougerolles,Canada,Defender,right,183.0,GB1,Fulham FC,300000.0,0,0,0,0,90,19
+Marko Gobeljic,Serbia,Defender,right,185.0,GR1,AE Kifisias,300000.0,3,0,0,0,1493,32
+Robbe Decostere,Belgium,Defender,right,178.0,BE1,Cercle Brugge,300000.0,0,0,0,0,1,26
+Denis Odoi,Ghana,Defender,right,178.0,BE1,Club Brugge KV,300000.0,5,0,1,0,678,36
+Kiko,Portugal,Defender,left,177.0,PO1,Gil Vicente FC,300000.0,1,0,0,0,566,25
+Yevgeniy Shevchenko,Ukraine,Defender,left,175.0,UKR1,NK Veres Rivne,300000.0,5,0,2,0,1948,29
+Vasyl Gakman,Ukraine,Defender,right,175.0,UKR1,NK Veres Rivne,300000.0,5,0,0,1,1248,24
+Nectarios Triantis,Australia,Defender,right,191.0,SC1,Hibernian FC,300000.0,2,0,0,0,881,21
+Giannis Christopoulos,Greece,Defender,right,191.0,GR1,Asteras Aktor,300000.0,1,0,0,1,590,24
+Raúl Parra,Spain,Defender,right,187.0,PO1,GD Estoril Praia,300000.0,1,0,1,0,658,25
+Alaaddin Okumuş,Türkiye,Defender,right,175.0,TR1,Sivasspor,300000.0,1,0,0,1,1166,29
+Yuriy Kravchuk,Ukraine,Defender,left,192.0,UKR1,FK Minaj,300000.0,3,0,0,0,666,30
+Ayo Obileye,England,Defender,right,191.0,SC1,Livingston FC,300000.0,4,0,0,0,2623,30
+Charles Dunne,Ireland,Defender,left,188.0,SC1,St. Mirren FC,300000.0,0,0,1,0,810,31
+Demeaco Duhaney,England,Defender,right,180.0,TR1,Istanbulspor,300000.0,8,0,1,0,2189,26
+Ali Yaşar,Türkiye,Defender,left,180.0,TR1,Istanbulspor,300000.0,5,0,1,2,2538,29
+Denys Slyusar,Ukraine,Defender,right,188.0,UKR1,Rukh Lviv,300000.0,2,0,0,0,326,22
+Stathis Tachatos,Greece,Defender,right,177.0,GR1,Volos NPS,300000.0,4,0,0,0,465,23
+Semen Vovchenko,Ukraine,Defender,left,187.0,UKR1,NK Veres Rivne,300000.0,5,0,1,0,1600,25
+Alpaslan Öztürk,Türkiye,Defender,right,186.0,TR1,Pendikspor,300000.0,7,0,2,0,1860,31
+Ritchie De Laet,Belgium,Defender,right,184.0,BE1,Royal Antwerp FC,300000.0,4,0,0,2,1479,36
+Mohamed Bouchouari,Belgium,Defender,right,170.0,BE1,RSC Anderlecht,300000.0,0,0,0,0,1,24
+Nikolaos Gotzamanidis,Greece,Defender,right,189.0,GR1,Panserraikos,300000.0,3,0,0,0,944,24
+Andriy Batsula,Ukraine,Defender,left,184.0,UKR1,Vorskla Poltava,300000.0,2,0,2,5,1913,32
+Sean Kelly,Scotland,Defender,left,188.0,SC1,Livingston FC,300000.0,1,0,3,0,1514,31
+Roman Goncharenko,Ukraine,Defender,both,184.0,UKR1,Kolos Kovalivka,300000.0,2,0,0,0,587,31
+Daniel Høegh,Denmark,Defender,right,190.0,DK1,Randers FC,300000.0,1,0,1,1,1677,34
+Júnior Pius,Nigeria,Defender,right,193.0,PO1,GD Chaves,300000.0,6,1,0,0,1158,29
+Shinga,South Africa,Defender,left,175.0,PO1,CF Estrela Amadora SAD,300000.0,0,0,0,0,516,24
+Fahem Benaissa-Yahia,France,Defender,left,188.0,PO1,Casa Pia AC,300000.0,0,0,0,0,12,22
+Jason Davidson,Australia,Defender,left,182.0,BE1,KAS Eupen,300000.0,4,0,1,0,2336,33
+Mihajlo Ivancevic,Serbia,Defender,left,190.0,DK1,Odense Boldklub,300000.0,1,0,0,0,587,25
+Stavros Petavrakis,Greece,Defender,left,176.0,GR1,Panserraikos,300000.0,7,0,0,2,1503,32
+William Kaastrup,Denmark,Defender,left,178.0,DK1,Randers FC,300000.0,1,0,0,0,424,20
+Pietro Perdichizzi,Belgium,Defender,left,182.0,BE1,KVC Westerlo,300000.0,1,0,0,0,538,32
+Loris Mouyokolo,France,Defender,right,194.0,FR1,FC Lorient,300000.0,0,0,0,0,90,23
+Arif Boşluk,Türkiye,Defender,left,184.0,TR1,Trabzonspor,300000.0,0,0,0,1,98,21
+Hüseyin Türkmen,Türkiye,Defender,right,183.0,TR1,Trabzonspor,275000.0,0,0,0,0,139,27
+Sven Nieuwpoort,Netherlands,Defender,right,191.0,NL1,Excelsior Rotterdam,275000.0,2,0,1,0,1523,31
+Raz Meir,Israel,Defender,right,180.0,NL1,RKC Waalwijk,275000.0,0,0,0,0,142,28
+Amar Gerxhaliu,Kosovo,Defender,right,193.0,TR1,Antalyaspor,275000.0,0,0,1,0,335,22
+Deron Payne,Netherlands,Defender,right,182.0,NL1,FC Volendam,275000.0,3,0,0,1,910,22
+Hayrullah Bilazer,Türkiye,Defender,right,170.0,TR1,MKE Ankaragücü,275000.0,1,0,0,0,709,29
+Maksym Imerekov,Ukraine,Defender,right,186.0,GR1,Atromitos Athens,250000.0,6,0,2,0,1731,34
+Habib Sylla,Cote d'Ivoire,Defender,right,178.0,PO1,GD Chaves,250000.0,2,0,0,0,487,25
+Björn Paulsen,Denmark,Defender,right,191.0,DK1,Odense Boldklub,250000.0,2,0,0,2,1260,33
+Nikolaos Marinakis,Greece,Defender,right,178.0,GR1,OFI Crete FC,250000.0,5,0,1,0,596,31
+Lindsay Rose,Mauritius,Defender,right,184.0,GR1,Aris Thessaloniki,250000.0,2,0,0,0,787,32
+Ian Smeulers,Netherlands,Defender,left,177.0,NL1,Excelsior Rotterdam,250000.0,1,0,0,0,179,25
+José Hernández,Ecuador,Defender,left,171.0,UKR1,FK Oleksandriya,250000.0,1,0,0,0,274,28
+Adam Devine,Scotland,Defender,right,190.0,SC1,Rangers FC,250000.0,0,0,1,1,520,21
+Alberk Koç,Türkiye,Defender,left,181.0,TR1,Caykur Rizespor,250000.0,1,0,0,0,14,27
+Javi Rueda,Spain,Defender,right,177.0,ES1,Celta de Vigo,250000.0,0,0,0,0,19,22
+Yevgeniy Morozko,Ukraine,Defender,right,176.0,UKR1,NK Veres Rivne,250000.0,4,0,1,1,1123,31
+Luka Racic,Denmark,Defender,right,189.0,GR1,Volos NPS,250000.0,1,0,0,0,381,25
+Georgios Tzavellas,Greece,Defender,left,183.0,GR1,Atromitos Athens,250000.0,7,0,0,0,1665,37
+Né Lopes,Portugal,Defender,right,185.0,PO1,Gil Vicente FC,250000.0,0,0,0,0,258,24
+Teddy Alloh,France,Defender,left,176.0,BE1,KAS Eupen,250000.0,1,0,0,1,194,23
+Jan Sobocinski,Poland,Defender,left,186.0,GR1,PAS Giannina,250000.0,0,0,1,0,137,25
+Ibe Hautekiet,Belgium,Defender,right,188.0,BE1,Standard Liège,250000.0,0,0,0,0,56,22
+Callum Booth,Scotland,Defender,left,181.0,SC1,St. Johnstone FC,250000.0,0,0,0,1,90,33
+Kerim Alıcı,Türkiye,Defender,right,183.0,TR1,Hatayspor,250000.0,3,0,1,0,1426,27
+Nikolaos Athanasiou,Greece,Defender,left,177.0,GR1,Atromitos Athens,250000.0,4,0,0,0,1199,23
+Nikola Stajic,Serbia,Defender,left,182.0,GR1,Panetolikos GFS,250000.0,4,0,0,0,858,23
+Frederik Rieper,Denmark,Defender,right,196.0,DK1,Silkeborg IF,250000.0,0,0,0,0,319,25
+Dmitriy Nagiyev,Azerbaijan,Defender,right,176.0,UKR1,Obolon Kyiv,250000.0,0,0,0,1,781,29
+Sergey Bryzgalov,Russia,Defender,right,182.0,RU1,Fakel Voronezh,250000.0,1,0,0,0,1028,32
+Alfie Pond,England,Defender,right,191.0,GB1,Wolverhampton Wanderers,250000.0,0,0,0,0,99,20
+Tommaso Del Lungo,Italy,Defender,right,186.0,IT1,Atalanta BC,250000.0,0,0,0,0,90,21
+Luka Capan,Croatia,Defender,right,186.0,GR1,AE Kifisias,250000.0,3,0,0,0,1171,29
+Nikolay Poyarkov,Russia,Defender,left,180.0,RU1,Fakel Voronezh,250000.0,1,0,0,0,299,25
+Alexandros Malis,Greece,Defender,both,186.0,GR1,Panetolikos GFS,250000.0,5,0,1,0,1838,27
+Vitaliy Yermakov,Ukraine,Defender,right,185.0,UKR1,Chornomorets Odessa,250000.0,1,0,2,1,2669,32
+Sergey Parshivlyuk,Russia,Defender,right,180.0,RU1,Dynamo Moscow,250000.0,5,0,0,1,1337,35
+Oleg Gorin,Ukraine,Defender,both,188.0,UKR1,SK Dnipro-1,250000.0,4,0,0,0,186,24
+Kevin Mensah,Denmark,Defender,both,173.0,DK1,Bröndby IF,250000.0,0,0,0,1,838,33
+Alex Murphy,Ireland,Defender,left,188.0,GB1,Newcastle United,250000.0,0,0,0,0,11,20
+Anders Dahl,Denmark,Defender,right,176.0,DK1,Silkeborg IF,250000.0,0,0,0,0,142,22
+Felipe Silva,Brazil,Defender,left,190.0,PO1,Gil Vicente FC,250000.0,0,0,0,1,270,22
+Aleksandr Martynovich,Belarus,Defender,right,192.0,RU1,Rubin Kazan,250000.0,3,0,3,0,1783,37
+Gilli Sörensen,Faroe Islands,Defender,right,187.0,DK1,Vejle Boldklub,250000.0,1,0,0,0,469,32
+Igor Perduta,Ukraine,Defender,right,176.0,UKR1,Vorskla Poltava,250000.0,5,0,0,2,3060,34
+Ivan Lepskiy,Russia,Defender,left,185.0,RU1,Dynamo Moscow,250000.0,0,0,0,0,116,20
+Mikey Devlin,Scotland,Defender,right,188.0,SC1,Livingston FC,250000.0,11,0,0,1,1984,31
+Devan Tanton,Colombia,Defender,right,175.0,GB1,Fulham FC,250000.0,0,0,0,0,1,21
+Marios Ikonomou,Greece,Defender,right,189.0,GR1,Panetolikos GFS,250000.0,4,1,1,0,1230,32
+Jeffrey Bruma,Netherlands,Defender,right,189.0,NL1,RKC Waalwijk,250000.0,3,0,0,0,477,33
+Lee Ashcroft,Scotland,Defender,right,183.0,SC1,Dundee FC,250000.0,2,0,1,0,698,31
+Nathan Markelo,Curacao,Defender,right,182.0,NL1,Fortuna Sittard,250000.0,1,0,0,0,72,26
+James Bolton,England,Defender,right,183.0,SC1,St. Mirren FC,250000.0,1,1,0,0,998,30
+Giannis Kiakos,Greece,Defender,left,180.0,GR1,PAS Giannina,250000.0,3,0,1,1,931,26
+Iván Marcano,Spain,Defender,left,189.0,PO1,FC Porto,250000.0,1,0,2,0,458,37
+Julio Cesar,Brazil,Defender,left,192.0,UKR1,NK Veres Rivne,250000.0,5,0,0,1,1260,28
+Ismaël Traoré,Cote d'Ivoire,Defender,right,184.0,FR1,FC Metz,250000.0,2,0,2,0,2221,38
+Kell Watts,England,Defender,left,192.0,GB1,Newcastle United,250000.0,0,0,0,0,90,25
+Roman Gagun,Ukraine,Defender,right,170.0,UKR1,NK Veres Rivne,250000.0,0,0,0,1,306,31
+Mats Rots,Netherlands,Defender,left,185.0,NL1,Twente Enschede FC,250000.0,0,0,0,0,117,18
+Paul Hanlon,Scotland,Defender,left,180.0,SC1,Hibernian FC,250000.0,1,0,0,2,1424,35
+Cameron Borthwick-Jackson,England,Defender,left,190.0,SC1,Ross County FC,250000.0,1,0,0,0,304,27
+Ali Turap Bülbül,Türkiye,Defender,right,179.0,TR1,Galatasaray,250000.0,0,0,0,0,96,20
+Gonçalo Silva,Portugal,Defender,right,186.0,PO1,SC Farense,250000.0,3,1,1,0,3148,33
+Maksym Smiyan,Ukraine,Defender,left,179.0,UKR1,NK Veres Rivne,250000.0,1,0,0,0,551,22
+Clement Bischoff,Denmark,Defender,right,180.0,DK1,Bröndby IF,250000.0,1,0,0,0,35,19
+Taylan Aydın,Türkiye,Defender,right,180.0,TR1,Kasimpasa,250000.0,3,0,0,0,562,18
+Frédéric Veseli,Albania,Defender,right,183.0,TR1,Fatih Karagümrük,250000.0,2,0,0,0,1607,32
+Kamil Ahmet Çörekçi,Türkiye,Defender,right,173.0,TR1,Hatayspor,225000.0,3,0,0,0,1734,32
+Güray Vural,Türkiye,Defender,left,177.0,TR1,Antalyaspor,225000.0,7,0,1,3,2568,36
+Kelvin Leerdam,Suriname,Defender,right,178.0,NL1,Heracles Almelo,225000.0,0,0,0,1,785,34
+Jamie Brandon,Scotland,Defender,right,173.0,SC1,Livingston FC,225000.0,6,0,1,2,2083,26
+Emir Tintiş,Türkiye,Defender,left,187.0,TR1,Fatih Karagümrük,225000.0,0,0,0,0,103,21
+Sadık Çiftpınar,Türkiye,Defender,right,183.0,TR1,Kasimpasa,225000.0,6,0,0,0,1299,32
+Catalin Cucos,Moldova,Defender,right,190.0,UKR1,Kolos Kovalivka,200000.0,1,0,0,1,345,21
+Jaden Brown,England,Defender,left,175.0,SC1,St. Mirren FC,200000.0,0,0,0,0,286,26
+Solomon Agbalaka,Nigeria,Defender,left,185.0,RU1,FC Sochi,200000.0,0,0,0,0,180,21
+Harouna Sy,France,Defender,left,170.0,PO1,GD Estoril Praia,200000.0,0,0,0,0,11,28
+Hugo Boutsingkham,France,Defender,left,173.0,FR1,FC Nantes,200000.0,0,0,0,0,10,22
+Diego Hormigo,Spain,Defender,left,182.0,ES1,Sevilla FC,200000.0,0,0,0,0,36,21
+Antonin Cartillier,France,Defender,left,176.0,FR1,Stade Brestois 29,200000.0,0,0,0,0,7,20
+Emiliano Purita,Argentina,Defender,right,169.0,UKR1,SK Dnipro-1,200000.0,0,0,0,1,224,27
+Arda Ünyay,Türkiye,Defender,right,187.0,TR1,MKE Ankaragücü,200000.0,0,0,0,0,2,18
+Yevgeniy Skyba,Ukraine,Defender,right,189.0,UKR1,FK Minaj,200000.0,3,0,1,1,1190,21
+Filipe Ferreira,Portugal,Defender,left,178.0,PO1,Boavista FC,200000.0,3,0,0,1,1823,34
+Gerasimos Bakadimas,Greece,Defender,right,181.0,GR1,PAS Giannina,200000.0,0,0,0,0,792,24
+Abdurrahim Dursun,Türkiye,Defender,left,176.0,TR1,MKE Ankaragücü,200000.0,0,0,0,0,485,26
+Jili Buyabu,England,Defender,both,182.0,SC1,Motherwell FC,200000.0,0,0,0,0,60,21
+Rafael Alcobia,Portugal,Defender,right,187.0,PO1,Portimonense SC,200000.0,1,0,0,0,218,21
+Kyrylo Prokopchuk,Ukraine,Defender,left,187.0,UKR1,FK Minaj,200000.0,1,0,0,1,860,26
+Mark van der Maarel,Netherlands,Defender,right,177.0,NL1,FC Utrecht,200000.0,2,0,0,0,770,35
+Dino Grozdanic,Croatia,Defender,left,193.0,GR1,Asteras Aktor,200000.0,2,0,1,0,445,22
+Georgiy Zotov,Russia,Defender,right,175.0,RU1,Krylya Sovetov Samara,200000.0,1,0,1,0,611,35
+Fabio Ferraro,Belgium,Defender,left,180.0,BE1,RWD Molenbeek,200000.0,0,0,0,0,14,22
+Julien Lomboto,France,Defender,right,192.0,PO1,Rio Ave FC,200000.0,0,0,0,0,6,22
+Michael Akoto,Germany,Defender,right,188.0,DK1,Aarhus GF,200000.0,1,0,0,0,439,27
+Egor Noskov,Russia,Defender,left,179.0,RU1,CSKA Moscow,200000.0,0,0,0,1,66,21
+Thomas Luciano,Brazil,Defender,right,180.0,PO1,Gil Vicente FC,200000.0,1,0,1,0,114,23
+Sávio,Brazil,Defender,left,173.0,PO1,Rio Ave FC,200000.0,1,0,0,1,269,29
+Oleksandr Chernov,Ukraine,Defender,right,174.0,UKR1,Obolon Kyiv,200000.0,1,0,0,0,685,22
+Hamza Güreler,Türkiye,Defender,right,192.0,TR1,Basaksehir FK,200000.0,1,0,1,0,489,18
+Tomas Hajek,Czech Republic,Defender,left,187.0,GR1,Panserraikos,200000.0,2,1,0,0,138,33
+Rubén García,Spain,Defender,right,180.0,GR1,Asteras Aktor,200000.0,4,0,3,1,2758,26
+Vladyslav Shapoval,Ukraine,Defender,left,189.0,UKR1,Chornomorets Odessa,200000.0,3,0,0,0,438,29
+Damien Marcq,France,Defender,right,183.0,BE1,R Charleroi SC,200000.0,4,1,0,0,1426,36
+Mateus Barbosa,Brazil,Defender,right,193.0,GR1,AE Kifisias,200000.0,0,0,0,0,120,26
+Gilberto Batista,Portugal,Defender,right,187.0,PO1,Moreirense FC,200000.0,0,0,0,0,226,21
+Elton Fikaj,Albania,Defender,left,188.0,GR1,Panathinaikos FC,200000.0,0,0,0,0,1,19
+Victor Parada,Spain,Defender,left,185.0,ES1,Deportivo Alavés,200000.0,0,0,0,0,179,22
+Kyriakos Kivrakidis,Greece,Defender,right,170.0,GR1,Atromitos Athens,200000.0,1,1,0,0,828,32
+Bogdan Butko,Ukraine,Defender,right,182.0,UKR1,Zorya Lugansk,200000.0,4,0,0,2,1260,34
+Burak Yılmaz,Türkiye,Defender,right,185.0,TR1,Hatayspor,200000.0,4,0,0,0,900,29
+Alberto Botía,Spain,Defender,right,188.0,GR1,AE Kifisias,200000.0,8,0,1,1,823,36
+Tyler French,England,Defender,right,186.0,SC1,Dundee FC,200000.0,0,0,0,0,180,25
+Josh Reid,Scotland,Defender,left,181.0,SC1,Ross County FC,200000.0,2,0,0,1,1051,22
+Jonathan Heris,Belgium,Defender,right,188.0,BE1,RWD Molenbeek,200000.0,3,0,0,2,873,34
+Riley Harbottle,England,Defender,right,187.0,SC1,Hibernian FC,200000.0,0,0,0,0,65,24
+Ömürcan Artan,Türkiye,Defender,right,179.0,TR1,Gaziantep FK,200000.0,0,0,0,0,365,25
+André Geraldes,Portugal,Defender,right,181.0,PO1,Casa Pia AC,200000.0,2,0,0,0,778,33
+Berkay Sülüngöz,Türkiye,Defender,right,188.0,TR1,Pendikspor,200000.0,1,0,1,0,1328,28
+Vincent Sasso,France,Defender,right,190.0,PO1,Boavista FC,200000.0,3,0,2,0,1272,33
+Nathan McGinley,England,Defender,left,191.0,SC1,Motherwell FC,200000.0,1,0,0,0,17,28
+Metehan Mert,Türkiye,Defender,right,182.0,TR1,Konyaspor,200000.0,0,0,0,0,360,25
+Erik Marxen,Denmark,Defender,left,185.0,DK1,FC Nordsjaelland,200000.0,0,0,0,0,95,34
+Matej Hanousek,Czech Republic,Defender,left,182.0,TR1,MKE Ankaragücü,200000.0,2,0,0,2,1471,31
+Kirill Suslov,Russia,Defender,right,186.0,RU1,Fakel Voronezh,200000.0,0,0,0,0,941,33
+Tom Parkes,England,Defender,right,191.0,SC1,Livingston FC,200000.0,2,0,0,0,247,33
+Artem Vovkun,Ukraine,Defender,right,191.0,UKR1,Obolon Kyiv,200000.0,5,1,0,0,458,23
+Pierre-Yves Ngawa,Belgium,Defender,right,187.0,BE1,Oud-Heverlee Leuven,200000.0,0,0,0,0,62,32
+Aderllan Santos,Brazil,Defender,right,193.0,PO1,Rio Ave FC,200000.0,8,0,3,0,3028,35
+Konstantinos Karagiannis,Cyprus,Defender,left,176.0,GR1,Volos NPS,200000.0,0,0,0,0,98,24
+Björn Kopplin,Germany,Defender,both,184.0,DK1,Randers FC,200000.0,0,0,2,1,1261,36
+Dmytro Fateev,Ukraine,Defender,right,183.0,UKR1,Obolon Kyiv,200000.0,1,0,0,0,639,30
+Paul McGinn,Scotland,Defender,right,179.0,SC1,Motherwell FC,200000.0,4,0,0,0,2341,34
+Veysel Sarı,Türkiye,Defender,right,184.0,TR1,Antalyaspor,200000.0,11,0,1,0,3013,36
+Roman Neustädter,Russia,Defender,right,188.0,BE1,KVC Westerlo,200000.0,1,0,0,0,2098,36
+Miiko Albornoz,Chile,Defender,left,180.0,DK1,Vejle Boldklub,200000.0,3,0,0,1,1676,34
+Ilya Kirsh,Russia,Defender,right,191.0,RU1,FK Rostov,200000.0,0,0,0,0,180,20
+Ryan McGowan,Australia,Defender,right,191.0,SC1,St. Johnstone FC,200000.0,7,0,1,0,2099,35
+Simon Deli,Cote d'Ivoire,Defender,left,192.0,TR1,Istanbulspor,200000.0,7,0,0,0,2230,33
+João Queirós,Portugal,Defender,left,192.0,PO1,GD Chaves,175000.0,0,0,0,0,324,26
+Cebrail Karayel,Türkiye,Defender,right,176.0,TR1,Konyaspor,175000.0,1,0,0,0,219,30
+Michalis Bakakis,Greece,Defender,right,175.0,GR1,Panetolikos GFS,175000.0,0,0,0,0,122,33
+Gerónimo Bortagaray,Uruguay,Defender,left,184.0,GR1,PAS Giannina,175000.0,0,0,0,0,90,24
+Konstantinos Panagou,Greece,Defender,right,175.0,GR1,PAS Giannina,175000.0,0,0,0,0,197,26
+Georgios Saramantas,Greece,Defender,left,170.0,GR1,PAS Lamia 1964,175000.0,0,0,0,0,315,33
+Stavros Vasilantonopoulos,Greece,Defender,right,180.0,GR1,PAS Lamia 1964,175000.0,0,0,0,0,417,33
+Racine Coly,Senegal,Defender,left,185.0,TR1,Istanbulspor,175000.0,9,0,1,0,1142,29
+Juliën Mesbahi,Netherlands,Defender,right,181.0,NL1,Twente Enschede FC,175000.0,0,0,0,0,38,18
+Lumor Agbenyenu,Ghana,Defender,left,175.0,GR1,AE Kifisias,175000.0,0,0,1,1,713,28
+Pichu Atienza,Spain,Defender,right,190.0,GR1,Asteras Aktor,175000.0,0,0,0,0,581,35
+Luke Robinson,Scotland,Defender,left,176.0,SC1,St. Johnstone FC,175000.0,7,0,0,1,2789,23
+Yevgeniy Tkachuk,Ukraine,Defender,right,192.0,UKR1,Metalist 1925 Kharkiv,150000.0,2,0,1,0,1108,33
+Alexandros Parras,Greece,Defender,left,182.0,GR1,AE Kifisias,150000.0,6,0,0,1,583,26
+Sergiy Loginov,Ukraine,Defender,right,191.0,UKR1,FK Oleksandriya,150000.0,6,0,0,0,1997,34
+Nuno Namora,Portugal,Defender,left,178.0,PO1,Rio Ave FC,150000.0,0,0,0,0,28,26
+Oğuzhan Matur,Türkiye,Defender,left,173.0,TR1,Hatayspor,150000.0,2,0,0,0,324,25
+Pape Souaré,Senegal,Defender,left,178.0,SC1,Motherwell FC,150000.0,1,0,0,0,184,34
+Yunus Bahadır,Türkiye,Defender,right,180.0,TR1,Alanyaspor,150000.0,0,0,0,0,7,22
+Dmytro Nemchaninov,Ukraine,Defender,left,189.0,UKR1,FK Minaj,150000.0,2,0,0,0,1772,35
+Aaron Meijers,Netherlands,Defender,left,176.0,NL1,RKC Waalwijk,150000.0,7,0,0,6,2335,37
+Alper Uludağ,Türkiye,Defender,left,180.0,TR1,MKE Ankaragücü,150000.0,1,0,1,0,504,34
+Martin Agnarsson,Faroe Islands,Defender,left,172.0,DK1,Viborg FF,150000.0,0,0,0,0,3,21
+Michee Efete,DR Congo,Defender,right,180.0,SC1,Ross County FC,150000.0,3,0,0,1,1007,27
+Raúl Albentosa,Spain,Defender,right,192.0,DK1,Vejle Boldklub,150000.0,8,0,2,1,1943,36
+Ricardo Visus,Spain,Defender,right,192.0,ES1,Real Betis Balompié,150000.0,0,0,0,0,195,23
+Guillaume François,Belgium,Defender,right,174.0,BE1,Union Saint-Gilloise,150000.0,1,0,0,1,66,34
+Lucas Acevedo,Argentina,Defender,right,194.0,GR1,Atromitos Athens,150000.0,5,1,2,0,1862,33
+Sam Curtis,Ireland,Defender,right,185.0,GB1,Sheffield United,150000.0,0,0,0,0,207,19
+Igor Soldat,Ukraine,Defender,right,181.0,UKR1,FK Minaj,150000.0,2,0,0,0,956,33
+Leon Balogun,Nigeria,Defender,right,190.0,SC1,Rangers FC,150000.0,1,1,0,0,1084,36
+Nikita Bozov,Russia,Defender,right,186.0,RU1,Spartak Moscow,150000.0,0,0,0,0,25,20
+Muhammed Eren Arıkan,Türkiye,Defender,left,179.0,TR1,Kayserispor,150000.0,0,0,0,0,9,20
+Nicolai Geertsen,Denmark,Defender,right,185.0,DK1,Hvidovre IF,150000.0,3,0,0,0,643,33
+Ivan Ostojic,Serbia,Defender,right,190.0,RU1,Baltika Kaliningrad,150000.0,3,0,0,1,1311,35
+Yaroslav Kysil,Ukraine,Defender,right,178.0,UKR1,FK Minaj,150000.0,2,0,0,0,715,21
+Sergiy Korniychuk,Ukraine,Defender,left,180.0,UKR1,FK Minaj,150000.0,4,0,1,0,666,20
+Darío Benavides,Spain,Defender,right,178.0,ES1,Sevilla FC,150000.0,0,0,0,0,100,22
+Miguel Ángel Brau,Spain,Defender,left,183.0,ES1,Granada CF,150000.0,0,0,0,0,30,23
+Yevgen Selin,Ukraine,Defender,left,190.0,UKR1,LNZ Cherkasy,150000.0,0,0,0,0,418,36
+Samuel John Nwachukwu,Italy,Defender,right,191.0,IT1,Udinese Calcio,150000.0,0,0,0,0,25,19
+Maciej Rybus,Poland,Defender,left,174.0,RU1,Rubin Kazan,150000.0,2,0,1,1,333,35
+Jeppe Kudsk,Denmark,Defender,right,188.0,DK1,Randers FC,150000.0,1,0,0,0,89,21
+Egor Filipenko,Belarus,Defender,right,190.0,RU1,Ural Yekaterinburg,150000.0,5,0,0,0,1263,36
+Georgios Giannoutsos,Greece,Defender,left,183.0,GR1,PAS Lamia 1964,150000.0,1,0,0,0,90,26
+Ervin Zukanovic,Bosnia-Herzegovina,Defender,left,188.0,GR1,Asteras Aktor,125000.0,5,0,3,1,1890,37
+Aslan Dudiev,Russia,Defender,right,180.0,RU1,Baltika Kaliningrad,125000.0,1,0,0,1,431,34
+Welinton,Brazil,Defender,right,181.0,TR1,Pendikspor,125000.0,10,0,2,1,2015,35
+Kahraman Demirtaş,Türkiye,Defender,left,184.0,TR1,Konyaspor,125000.0,1,0,0,0,189,30
+Emre Taşdemir,Türkiye,Defender,left,176.0,TR1,Pendikspor,125000.0,1,0,0,0,470,29
+Mykhaylo Rudavskyi,Ukraine,Defender,left,172.0,UKR1,Metalist 1925 Kharkiv,125000.0,0,0,0,0,176,23
+Enes Albak,Türkiye,Defender,left,175.0,TR1,Samsunspor,125000.0,0,0,0,0,45,19
+Naldo,Brazil,Defender,right,188.0,TR1,Antalyaspor,125000.0,1,0,0,0,507,36
+Oleksandr Nasonov,Ukraine,Defender,right,183.0,UKR1,LNZ Cherkasy,100000.0,5,0,0,0,1066,32
+Marcus McCoy,Denmark,Defender,both,172.0,DK1,Odense Boldklub,100000.0,0,0,0,0,20,19
+Anastasios Avlonitis,Greece,Defender,right,190.0,GR1,Panserraikos,100000.0,1,0,0,0,818,35
+Vyacheslav Ryabov,Ukraine,Defender,right,181.0,UKR1,Kryvbas Kryvyi Rig,100000.0,0,0,0,0,352,35
+Nabil Aberdin,Morocco,Defender,right,182.0,ES1,Getafe CF,100000.0,0,0,0,0,180,22
+Steven Vitória,Canada,Defender,right,195.0,PO1,GD Chaves,100000.0,5,0,1,0,1347,38
+Isaac Monteiro,Portugal,Defender,right,193.0,PO1,Casa Pia AC,100000.0,1,0,0,0,45,20
+Bart van Hintum,Netherlands,Defender,left,177.0,NL1,PEC Zwolle,100000.0,1,0,0,0,303,38
+Navin Malysh,Ukraine,Defender,right,185.0,UKR1,Dynamo Kyiv,100000.0,0,0,0,0,54,21
+Johan Meyer,Denmark,Defender,right,192.0,DK1,Lyngby BK,100000.0,0,0,0,0,102,21
+German Ignatov,Russia,Defender,right,180.0,RU1,FK Rostov,100000.0,0,0,1,0,244,19
+Daniel Stenderup,Denmark,Defender,right,186.0,DK1,Hvidovre IF,100000.0,0,0,0,0,1716,35
+Joe Johnson,England,Defender,left,180.0,GB1,Luton Town,100000.0,1,0,0,0,203,18
+Luck Zogbé,Cote d'Ivoire,Defender,right,178.0,FR1,Stade Brestois 29,100000.0,0,0,0,0,10,19
+Amirhossein Reyvandi,Iran,Defender,left,170.0,RU1,CSKA Moscow,100000.0,0,0,0,0,32,20
+Brian Hämäläinen,Denmark,Defender,left,176.0,DK1,Lyngby BK,100000.0,3,0,0,0,941,35
+Marcelo,Brazil,Defender,right,185.0,PO1,Moreirense FC,100000.0,4,0,2,1,2354,35
+Talocha,Portugal,Defender,left,180.0,PO1,SC Farense,100000.0,3,0,0,2,2242,35
+Unai Egiluz,Spain,Defender,right,186.0,ES1,Athletic Bilbao,100000.0,0,0,0,0,72,22
+Adri Miranda,Spain,Defender,left,183.0,ES1,Cádiz CF,100000.0,1,0,0,0,120,21
+Luís Neto,Portugal,Defender,right,185.0,PO1,Sporting CP,100000.0,3,0,0,0,320,36
+Artur Maksetsov,Russia,Defender,left,178.0,RU1,FK Rostov,100000.0,0,0,0,0,90,20
+Anton Kravchenko,Ukraine,Defender,right,190.0,UKR1,FK Oleksandriya,100000.0,1,0,1,0,716,33
+Maksym Kovalyov,Ukraine,Defender,right,188.0,UKR1,LNZ Cherkasy,100000.0,3,0,1,0,893,35
+Salih Dursun,Türkiye,Defender,right,188.0,TR1,Fatih Karagümrük,100000.0,4,0,1,0,1268,33
+Dmytro Piddubnyi,Ukraine,Defender,right,185.0,UKR1,FK Minaj,100000.0,0,0,0,0,260,25
+David Semenchuk,Russia,Defender,right,193.0,RU1,FK Rostov,100000.0,1,0,0,0,470,20
+Engin Can Aksoy,Türkiye,Defender,left,184.0,TR1,Hatayspor,100000.0,1,0,0,0,360,21
+Fernando Varela,Cape Verde,Defender,right,185.0,PO1,Casa Pia AC,100000.0,2,0,0,1,2311,37
+Rúben Lima,Portugal,Defender,left,177.0,PO1,CF Estrela Amadora SAD,100000.0,3,0,0,1,932,35
+David Simón,Spain,Defender,right,179.0,GR1,PAS Lamia 1964,100000.0,8,0,1,2,2070,36
+Vladimir Poluyakhtov,Russia,Defender,right,185.0,RU1,FK Orenburg,100000.0,3,0,0,0,687,35
+Hasan Ali Kaldırım,Türkiye,Defender,left,183.0,TR1,Kayserispor,100000.0,3,0,0,1,1179,35
+Volodymyr Chesnakov,Ukraine,Defender,right,184.0,UKR1,Vorskla Poltava,100000.0,1,0,0,0,348,36
+Will Nightingale,England,Defender,right,185.0,SC1,Ross County FC,100000.0,5,0,0,0,1447,29
+Rúben Fernandes,Portugal,Defender,right,187.0,PO1,Gil Vicente FC,100000.0,4,0,1,0,2700,38
+Kirill Nababkin,Russia,Defender,both,184.0,RU1,CSKA Moscow,100000.0,1,0,0,1,1238,38
+Dmytro Chygrynskyi,Ukraine,Defender,right,189.0,UKR1,Shakhtar Donetsk,100000.0,2,0,0,0,299,38
+Denys Kulakov,Ukraine,Defender,right,185.0,RU1,Ural Yekaterinburg,100000.0,5,0,0,1,2674,38
+Lewis Stevenson,Scotland,Defender,left,170.0,SC1,Hibernian FC,100000.0,1,0,0,2,1436,37
+Bram van Polen,Netherlands,Defender,right,179.0,NL1,PEC Zwolle,100000.0,6,0,0,2,2751,39
+José Fonte,Portugal,Defender,right,191.0,PO1,SC Braga,100000.0,11,0,0,0,2581,41
+Christalino Atemona,Germany,Defender,right,187.0,BE1,KV Kortrijk,100000.0,0,0,0,0,95,22
+Igor Rossi,Brazil,Defender,left,189.0,PO1,SC Farense,100000.0,4,0,0,0,1103,35
+Vladimir Arsic,Bosnia-Herzegovina,Defender,left,192.0,DK1,Vejle Boldklub,100000.0,0,0,0,0,300,23
+Yasir Subaşı,Türkiye,Defender,left,180.0,TR1,Konyaspor,100000.0,0,0,0,0,194,29
+Mikhail Sivakov,Belarus,Defender,both,187.0,RU1,FK Orenburg,100000.0,2,1,0,0,1262,37
+Pim Saathof,Netherlands,Defender,right,186.0,NL1,Go Ahead Eagles,100000.0,0,0,0,0,49,21
+Alexandros Tereziou,Greece,Defender,right,181.0,GR1,PAS Lamia 1964,100000.0,0,0,0,0,1,24
+Fedor Kudryashov,Russia,Defender,left,184.0,RU1,Fakel Voronezh,100000.0,1,1,0,0,856,37
+Ivan Kovalenko,Ukraine,Defender,left,179.0,UKR1,Metalist 1925 Kharkiv,100000.0,0,0,0,0,126,25
+Oleksandr Melnyk,Ukraine,Defender,right,194.0,UKR1,FK Minaj,100000.0,4,0,0,0,724,24
+Miki Bosch,Spain,Defender,right,190.0,ES1,Granada CF,100000.0,0,0,0,0,100,23
+Oleg Tarasenko,Ukraine,Defender,right,192.0,UKR1,LNZ Cherkasy,100000.0,1,0,0,0,60,34
+Egor Mosin,Russia,Defender,right,175.0,RU1,Ural Yekaterinburg,100000.0,0,0,0,0,26,21
+Vasco Fernandes,Portugal,Defender,right,182.0,PO1,GD Chaves,100000.0,8,0,0,0,2643,38
+Caner Osmanpaşa,Türkiye,Defender,right,182.0,TR1,Sivasspor,100000.0,3,0,3,0,2354,37
+Mats Egbring,Netherlands,Defender,right,183.0,NL1,Vitesse Arnhem,75000.0,0,0,0,0,57,18
+Vasilios Spinos,Greece,Defender,right,188.0,GR1,AE Kifisias,75000.0,0,1,0,0,229,24
+Semen Stolbov,Russia,Defender,right,186.0,RU1,FK Orenburg,75000.0,1,0,0,0,31,21
+Murat Akça,Türkiye,Defender,right,184.0,TR1,Pendikspor,75000.0,2,0,0,0,688,34
+Abdulsamet Burak,Türkiye,Defender,left,185.0,TR1,Adana Demirspor,75000.0,0,0,0,1,463,28
+Andreas Bjelland,Denmark,Defender,left,188.0,DK1,Lyngby BK,75000.0,2,1,1,0,1083,36
+Miles Welch-Hayes,England,Defender,right,180.0,SC1,Livingston FC,75000.0,0,0,0,0,162,28
+Mert Yılmaz,Türkiye,Defender,right,174.0,TR1,Antalyaspor,75000.0,1,0,1,0,201,25
+Sinan Osmanoğlu,Türkiye,Defender,right,197.0,TR1,Caykur Rizespor,75000.0,0,0,0,1,27,35
+Elvis Bwomono,Uganda,Defender,right,185.0,SC1,St. Mirren FC,75000.0,0,0,0,0,853,26
+Musa Çağıran,Türkiye,Defender,right,185.0,TR1,Hatayspor,75000.0,0,0,0,0,10,32
+Ilias Christopoulos,Greece,Defender,left,173.0,GR1,Asteras Aktor,50000.0,0,0,0,0,15,21
+Erdem Özgenç,Türkiye,Defender,right,177.0,TR1,Pendikspor,50000.0,2,0,1,3,1502,40
+Burhan Ersoy,Türkiye,Defender,right,187.0,TR1,Adana Demirspor,50000.0,0,0,0,0,1,21
+Yağız Dilek,Türkiye,Defender,left,190.0,TR1,Basaksehir FK,50000.0,0,0,0,0,1,19
+Steven Baseya,France,Defender,right,190.0,FR1,RC Strasbourg Alsace,50000.0,0,0,0,0,5,20
+João Barros,Portugal,Defender,left,186.0,PO1,Gil Vicente FC,50000.0,0,0,0,0,74,23
+Baran Alp Vardar,Türkiye,Defender,right,191.0,TR1,Istanbulspor,50000.0,0,0,0,0,106,19
+Yusuf Akçiçek,Türkiye,Defender,left,193.0,TR1,Fenerbahce,50000.0,0,0,0,0,1,19
+Ilya Ukhan,Ukraine,Defender,right,179.0,UKR1,Chornomorets Odessa,50000.0,0,0,0,0,6,21
+Miguel Lopes,Portugal,Defender,right,183.0,PO1,CF Estrela Amadora SAD,50000.0,3,1,0,0,1405,38
+Umut Mert Toy,Türkiye,Defender,left,188.0,TR1,Pendikspor,50000.0,0,0,0,0,1,20
+Aurélien Pelon,France,Defender,right,186.0,FR1,FC Lorient,50000.0,1,0,0,0,90,20
+Rizvan Utsiev,Russia,Defender,right,173.0,RU1,Akhmat Grozny,50000.0,3,0,0,0,971,36
+Andrey Malykh,Russia,Defender,right,176.0,RU1,FK Orenburg,50000.0,1,0,0,0,199,36
+Ziya Erdal,Türkiye,Defender,left,182.0,TR1,Sivasspor,50000.0,0,0,0,0,247,37
+Júnior Morais,Brazil,Defender,left,176.0,TR1,Gaziantep FK,50000.0,1,0,0,0,1318,38
+Andriy Gitchenko,Ukraine,Defender,right,188.0,UKR1,Polissya Zhytomyr,50000.0,1,1,0,0,482,40
+Michael Nottingham,St. Kitts & Nevis,Defender,right,193.0,SC1,Livingston FC,50000.0,3,0,0,0,1841,35
+Andy Considine,Scotland,Defender,left,183.0,SC1,St. Johnstone FC,50000.0,2,0,1,0,2175,37
+Sergi Rosanas,Spain,Defender,right,172.0,NL1,Sparta Rotterdam,50000.0,0,0,0,0,48,24
+Ivan M'Bahia,Cote d'Ivoire,Defender,right,174.0,FR1,Clermont Foot 63,50000.0,1,0,0,0,13,19
+Konstantinos Giannoulis,Greece,Defender,left,184.0,GR1,OFI Crete FC,50000.0,0,0,0,0,64,37
+Ahmet Kağan Malatyalı,Türkiye,Defender,right,180.0,TR1,Kayserispor,25000.0,0,0,0,0,7,21
+Mikail Akhmedov,Russia,Defender,right,180.0,RU1,Akhmat Grozny,25000.0,0,0,0,0,1,21
+Alperen Kuyubaşı,Türkiye,Defender,right,192.0,TR1,MKE Ankaragücü,25000.0,0,0,0,0,1,24
+Şener Özbayraklı,Türkiye,Defender,right,171.0,TR1,Basaksehir FK,25000.0,0,0,0,0,127,35
+Vladyslav Klymak,Ukraine,Defender,right,177.0,UKR1,FK Minaj,10000.0,0,0,0,0,28,20

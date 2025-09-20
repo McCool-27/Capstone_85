@@ -1,0 +1,1948 @@
+name,country_of_citizenship,position,foot,height_in_cm,current_club_domestic_competition_id,current_club_name,market_value_in_eur,yellow_cards,red_cards,goals,assists,minutes_played,age
+Kylian Mbappé,France,Attack,right,178.0,FR1,Paris Saint-Germain,180000000.0,5,0,36,7,3329,26
+Vinicius Junior,Brazil,Attack,right,176.0,ES1,Real Madrid,180000000.0,11,0,24,11,3084,24
+Erling Haaland,Norway,Attack,left,195.0,GB1,Manchester City,180000000.0,1,0,38,6,3745,24
+Phil Foden,England,Attack,left,171.0,GB1,Manchester City,150000000.0,3,0,27,12,4276,24
+Bukayo Saka,England,Attack,left,178.0,GB1,Arsenal FC,140000000.0,4,0,20,14,3865,23
+Lamine Yamal,Spain,Attack,left,178.0,ES1,FC Barcelona,120000000.0,6,0,7,10,2957,17
+Lautaro Martínez,Argentina,Attack,right,174.0,IT1,Inter Milan,110000000.0,8,0,27,7,3461,27
+Rodrygo,Brazil,Attack,right,174.0,ES1,Real Madrid,110000000.0,2,0,17,9,3707,24
+Victor Osimhen,Nigeria,Attack,right,186.0,IT1,SSC Napoli,100000000.0,7,0,17,4,2476,26
+Harry Kane,England,Attack,right,188.0,L1,Bayern Munich,100000000.0,3,0,44,12,3934,31
+Julián Álvarez,Argentina,Attack,right,170.0,GB1,Manchester City,90000000.0,5,0,19,13,3480,25
+Rafael Leão,Portugal,Attack,right,188.0,IT1,AC Milan,90000000.0,8,0,15,14,3548,25
+Khvicha Kvaratskhelia,Georgia,Attack,both,183.0,IT1,SSC Napoli,80000000.0,8,0,11,9,3594,23
+Luis Díaz,Colombia,Attack,right,180.0,GB1,Liverpool FC,75000000.0,4,0,13,5,3615,28
+Alexander Isak,Sweden,Attack,right,192.0,GB1,Newcastle United,75000000.0,1,0,25,2,2973,25
+Darwin Núñez,Uruguay,Attack,right,187.0,GB1,Liverpool FC,70000000.0,10,0,18,13,3026,25
+Gabriel Martinelli,Brazil,Attack,right,178.0,GB1,Arsenal FC,70000000.0,1,0,8,5,2640,23
+Leroy Sané,Germany,Attack,left,183.0,L1,Bayern Munich,70000000.0,5,0,10,13,3224,29
+Nico Williams,Spain,Attack,right,181.0,ES1,Athletic Bilbao,70000000.0,7,0,8,19,2729,22
+Jérémy Doku,Belgium,Attack,right,173.0,FR1,Stade Rennais FC,65000000.0,4,0,7,10,2282,22
+Ollie Watkins,England,Attack,right,180.0,GB1,Aston Villa,65000000.0,5,0,22,13,3568,29
+Rasmus Højlund,Denmark,Attack,left,191.0,GB1,Manchester United,65000000.0,2,0,16,2,3088,21
+Marcus Thuram,France,Attack,right,192.0,IT1,Inter Milan,65000000.0,3,0,15,14,3366,27
+Gabriel Jesus,Brazil,Attack,right,175.0,GB1,Arsenal FC,65000000.0,8,0,8,8,1910,27
+Viktor Gyökeres,Sweden,Attack,right,187.0,PO1,Sporting CP,65000000.0,4,1,37,11,3692,26
+Dušan Vlahović,Serbia,Attack,left,190.0,IT1,Juventus FC,65000000.0,9,0,18,3,2609,25
+Anthony Gordon,England,Attack,right,182.0,GB1,Newcastle United,60000000.0,14,0,12,11,3869,23
+Loïs Openda,Belgium,Attack,right,177.0,L1,RB Leipzig,60000000.0,5,0,28,7,3449,24
+Marcus Rashford,England,Attack,right,185.0,GB1,Manchester United,60000000.0,2,1,8,5,3057,27
+Ousmane Dembélé,France,Attack,both,178.0,FR1,Paris Saint-Germain,60000000.0,5,0,5,12,2529,27
+Jack Grealish,England,Attack,right,180.0,GB1,Manchester City,60000000.0,8,0,3,3,2114,29
+Mohamed Salah,Egypt,Attack,left,175.0,GB1,Liverpool FC,55000000.0,2,0,25,14,3132,32
+Pedro Neto,Portugal,Attack,left,172.0,GB1,Wolverhampton Wanderers,55000000.0,5,0,3,11,1729,24
+Michael Olise,France,Attack,left,184.0,GB1,Crystal Palace,55000000.0,0,0,10,6,1278,23
+Moussa Diaby,France,Attack,left,170.0,GB1,Aston Villa,55000000.0,1,0,7,8,2494,25
+Cody Gakpo,Netherlands,Attack,right,193.0,GB1,Liverpool FC,55000000.0,2,0,16,6,3017,25
+Dejan Kulusevski,Sweden,Attack,left,186.0,GB1,Tottenham Hotspur,55000000.0,7,0,8,3,2964,24
+Takefusa Kubo,Japan,Attack,left,173.0,ES1,Real Sociedad,50000000.0,3,0,7,5,2935,23
+Joshua Zirkzee,Netherlands,Attack,right,193.0,IT1,Bologna FC 1909,50000000.0,8,0,12,7,2942,23
+Evan Ferguson,Ireland,Attack,right,188.0,GB1,Brighton & Hove Albion,50000000.0,2,0,6,1,1721,20
+Raphinha,Brazil,Attack,left,176.0,ES1,FC Barcelona,50000000.0,5,1,10,13,1950,28
+Kingsley Coman,France,Attack,right,181.0,L1,Bayern Munich,50000000.0,1,0,5,3,1737,28
+Benjamin Sesko,Slovenia,Attack,right,195.0,L1,RB Leipzig,50000000.0,1,0,18,2,2057,21
+Ivan Toney,England,Attack,right,185.0,GB1,Brentford FC,50000000.0,5,0,4,2,1449,28
+Jonathan David,Canada,Attack,both,180.0,FR1,LOSC Lille,50000000.0,5,0,20,5,2852,25
+Diogo Jota,Portugal,Attack,right,178.0,GB1,Liverpool FC,50000000.0,3,0,15,4,1711,28
+Gonçalo Ramos,Portugal,Attack,right,185.0,FR1,Paris Saint-Germain,50000000.0,2,0,11,2,1631,23
+Savinho,Brazil,Attack,left,176.0,ES1,Girona FC,50000000.0,6,0,11,10,3253,20
+Bradley Barcola,France,Attack,right,182.0,FR1,Olympique Lyon,50000000.0,3,0,5,9,2188,22
+Jarrod Bowen,England,Attack,left,176.0,GB1,West Ham United,50000000.0,4,0,20,10,3842,28
+Brennan Johnson,Wales,Attack,right,186.0,GB1,Nottingham Forest,48000000.0,4,0,5,10,2506,23
+Johan Bakayoko,Belgium,Attack,left,179.0,NL1,PSV Eindhoven,45000000.0,2,0,14,14,3716,21
+Kaoru Mitoma,Japan,Attack,right,178.0,GB1,Brighton & Hove Albion,45000000.0,6,0,3,5,2067,27
+João Pedro,Brazil,Attack,right,188.0,GB1,Brighton & Hove Albion,45000000.0,10,0,25,4,4868,23
+Matheus Cunha,Brazil,Attack,right,183.0,GB1,Wolverhampton Wanderers,45000000.0,9,0,14,8,2772,25
+Randal Kolo Muani,France,Attack,right,187.0,FR1,Paris Saint-Germain,45000000.0,2,0,10,5,2049,26
+Heung-min Son,"Korea, South",Attack,both,184.0,GB1,Tottenham Hotspur,45000000.0,1,0,17,10,2967,32
+Arda Güler,Türkiye,Attack,left,175.0,ES1,Real Madrid,45000000.0,1,0,6,0,440,19
+Mikel Oyarzabal,Spain,Attack,left,181.0,ES1,Real Sociedad,45000000.0,3,0,14,3,3058,27
+Alejandro Garnacho,Argentina,Attack,right,180.0,GB1,Manchester United,45000000.0,4,0,10,5,3574,20
+Leon Bailey,Jamaica,Attack,left,178.0,GB1,Aston Villa,42000000.0,6,0,12,10,2424,27
+Christian Pulisic,United States,Attack,right,177.0,IT1,AC Milan,40000000.0,3,0,15,11,3613,26
+Donyell Malen,Netherlands,Attack,right,176.0,L1,Borussia Dortmund,40000000.0,5,0,15,5,2378,26
+Mathys Tel,France,Attack,right,183.0,L1,Bayern Munich,40000000.0,2,0,10,6,1406,19
+Bryan Mbeumo,Cameroon,Attack,left,171.0,GB1,Brentford FC,40000000.0,2,0,9,6,2079,25
+Ademola Lookman,Nigeria,Attack,right,174.0,IT1,Atalanta BC,40000000.0,6,0,17,10,2809,27
+Serge Gnabry,Germany,Attack,right,176.0,L1,Bayern Munich,40000000.0,0,0,5,2,764,29
+Serhou Guirassy,Guinea,Attack,right,187.0,L1,VfB Stuttgart,40000000.0,0,0,30,3,2380,28
+Victor Boniface,Nigeria,Attack,right,190.0,L1,Bayer 04 Leverkusen,40000000.0,3,0,21,10,2109,24
+Santiago Gimenez,Mexico,Attack,left,183.0,NL1,Feyenoord Rotterdam,40000000.0,6,0,26,8,3204,23
+Dominic Solanke,England,Attack,right,186.0,GB1,AFC Bournemouth,40000000.0,5,0,21,4,3553,27
+Richarlison,Brazil,Attack,right,184.0,GB1,Tottenham Hotspur,38000000.0,3,0,12,4,1737,27
+Federico Chiesa,Italy,Attack,right,175.0,IT1,Juventus FC,35000000.0,1,0,10,3,2512,27
+Artem Dovbyk,Ukraine,Attack,left,189.0,UKR1,SK Dnipro-1,35000000.0,2,0,25,10,2857,27
+Samu Omorodion,Spain,Attack,right,193.0,ES1,Deportivo Alavés,35000000.0,5,0,9,1,2096,20
+Mykhaylo Mudryk,Ukraine,Attack,right,175.0,GB1,Chelsea FC,35000000.0,7,0,7,2,2014,24
+Gianluca Scamacca,Italy,Attack,right,195.0,IT1,Atalanta BC,35000000.0,5,0,19,8,2319,26
+Nicolas Jackson,Senegal,Attack,right,188.0,GB1,Chelsea FC,35000000.0,10,0,17,6,3534,23
+Nicolás González,Argentina,Attack,left,180.0,IT1,ACF Fiorentina,35000000.0,1,0,14,3,2273,26
+Harvey Barnes,England,Attack,right,182.0,GB1,Newcastle United,35000000.0,3,0,5,3,853,27
+Leandro Trossard,Belgium,Attack,right,172.0,GB1,Arsenal FC,35000000.0,2,0,17,2,2263,30
+Elye Wahi,France,Attack,right,181.0,FR1,Montpellier HSC,35000000.0,11,0,12,4,2322,22
+Raheem Sterling,England,Attack,right,170.0,GB1,Chelsea FC,35000000.0,8,0,10,8,2759,30
+Evanilson,Brazil,Attack,both,183.0,PO1,FC Porto,35000000.0,5,1,17,6,2637,25
+Brian Brobbey,Netherlands,Attack,right,182.0,NL1,Ajax Amsterdam,35000000.0,7,0,22,10,3056,22
+Jadon Sancho,England,Attack,right,180.0,L1,Borussia Dortmund,30000000.0,1,0,3,3,1593,24
+Eddie Nketiah,England,Attack,right,175.0,GB1,Arsenal FC,30000000.0,4,0,6,3,1393,25
+Viktor Tsygankov,Ukraine,Attack,left,178.0,ES1,Girona FC,30000000.0,1,0,8,7,2365,27
+Amine Adli,Morocco,Attack,left,174.0,L1,Bayer 04 Leverkusen,30000000.0,6,0,10,12,2261,24
+João Félix,Portugal,Attack,right,181.0,ES1,FC Barcelona,30000000.0,5,0,10,6,2143,25
+Albert Gudmundsson,Iceland,Attack,right,177.0,IT1,Genoa CFC,30000000.0,4,0,16,5,3157,27
+Pepê,Brazil,Attack,right,175.0,PO1,FC Porto,30000000.0,7,0,6,9,3682,27
+Tammy Abraham,England,Attack,right,194.0,IT1,AS Roma,30000000.0,1,0,1,1,321,27
+Ferran Torres,Spain,Attack,right,184.0,ES1,FC Barcelona,30000000.0,5,0,11,4,1994,24
+Folarin Balogun,United States,Attack,right,178.0,FR1,AS Monaco,30000000.0,1,0,7,6,1695,23
+Samuel Lino,Brazil,Attack,right,170.0,ES1,Atlético de Madrid,30000000.0,3,0,8,8,2997,25
+Vitor Roque,Brazil,Attack,right,172.0,ES1,FC Barcelona,30000000.0,4,0,2,0,353,19
+Romelu Lukaku,Belgium,Attack,left,191.0,IT1,AS Roma,30000000.0,5,1,21,4,3908,31
+Maximilian Beier,Germany,Attack,right,185.0,L1,TSG 1899 Hoffenheim,30000000.0,1,0,16,3,2535,22
+Kenan Yıldız,Türkiye,Attack,both,187.0,IT1,Juventus FC,30000000.0,3,0,4,1,1086,19
+Simon Adingra,Cote d'Ivoire,Attack,right,175.0,GB1,Brighton & Hove Albion,30000000.0,3,0,7,3,2853,23
+Désiré Doué,France,Attack,both,181.0,FR1,Stade Rennais FC,30000000.0,4,0,4,5,1971,19
+Yéremy Pino,Spain,Attack,right,172.0,ES1,Villarreal CF,30000000.0,5,0,0,0,621,22
+Taiwo Awoniyi,Nigeria,Attack,right,183.0,GB1,Nottingham Forest,28000000.0,2,0,6,3,1194,27
+Aleksandar Mitrovic,Serbia,Attack,right,189.0,GB1,Fulham FC,28000000.0,0,0,0,0,32,30
+Chris Führich,Germany,Attack,right,181.0,L1,VfB Stuttgart,28000000.0,2,0,9,7,2925,27
+Ermedin Demirovic,Bosnia-Herzegovina,Attack,right,185.0,L1,FC Augsburg,28000000.0,7,0,15,10,2945,26
+Karim Adeyemi,Germany,Attack,left,180.0,L1,Borussia Dortmund,28000000.0,6,0,5,2,1710,23
+Yoane Wissa,DR Congo,Attack,right,176.0,GB1,Brentford FC,28000000.0,8,0,12,3,2626,28
+Jamie Bynoe-Gittens,England,Attack,right,177.0,L1,Borussia Dortmund,28000000.0,1,0,2,8,1396,20
+Noni Madueke,England,Attack,left,182.0,GB1,Chelsea FC,28000000.0,2,0,8,3,1593,22
+Malcom,Brazil,Attack,left,171.0,RU1,Zenit St. Petersburg,28000000.0,0,0,0,0,90,27
+Matías Soulé,Argentina,Attack,left,182.0,IT1,Frosinone Calcio,25000000.0,5,0,11,3,3263,21
+Marcos Leonardo,Brazil,Attack,right,177.0,PO1,SL Benfica,25000000.0,1,0,7,1,437,21
+Galeno,Brazil,Attack,right,179.0,PO1,FC Porto,25000000.0,5,0,14,10,3106,27
+Amine Gouiri,Algeria,Attack,right,181.0,FR1,Stade Rennais FC,25000000.0,4,0,9,3,2403,24
+Edon Zhegrova,Kosovo,Attack,left,181.0,FR1,LOSC Lille,25000000.0,4,1,7,6,2466,25
+Vangelis Pavlidis,Greece,Attack,both,186.0,NL1,AZ Alkmaar,25000000.0,5,0,30,5,3594,26
+Alex Iwobi,Nigeria,Attack,right,183.0,GB1,Fulham FC,25000000.0,2,0,6,2,2544,28
+Antony,Brazil,Attack,left,172.0,GB1,Manchester United,25000000.0,6,0,3,2,1910,24
+Iñaki Williams,Ghana,Attack,right,186.0,ES1,Athletic Bilbao,25000000.0,4,0,14,5,3188,30
+Alexander Sørloth,Norway,Attack,left,195.0,ES1,Villarreal CF,25000000.0,6,0,26,6,2954,29
+Igor Thiago,Brazil,Attack,right,191.0,BE1,Club Brugge KV,25000000.0,9,0,18,3,2203,23
+Ansu Fati,Spain,Attack,right,178.0,GB1,Brighton & Hove Albion,25000000.0,3,0,4,1,1041,22
+Antoine Griezmann,France,Attack,left,176.0,ES1,Atlético de Madrid,25000000.0,7,0,24,8,3918,33
+Rodrigo Riquelme,Spain,Attack,right,174.0,ES1,Atlético de Madrid,25000000.0,1,0,4,6,1990,24
+David Neres,Brazil,Attack,left,176.0,PO1,SL Benfica,25000000.0,2,0,5,9,1683,27
+Hee-chan Hwang,"Korea, South",Attack,right,177.0,GB1,Wolverhampton Wanderers,25000000.0,7,0,13,3,2249,29
+Oscar Bobb,Norway,Attack,left,175.0,GB1,Manchester City,25000000.0,0,0,2,2,819,21
+Mason Greenwood,England,Attack,both,181.0,ES1,Getafe CF,25000000.0,6,1,10,6,2908,23
+Jørgen Strand Larsen,Norway,Attack,right,193.0,ES1,Celta de Vigo,25000000.0,5,0,13,3,2902,24
+Giacomo Raspadori,Italy,Attack,right,172.0,IT1,SSC Napoli,25000000.0,1,0,6,3,1900,24
+Deniz Undav,Germany,Attack,right,179.0,L1,VfB Stuttgart,25000000.0,5,0,19,10,2339,28
+Terem Moffi,Nigeria,Attack,left,188.0,FR1,OGC Nice,25000000.0,4,0,11,2,1961,25
+Nathan Tella,Nigeria,Attack,right,173.0,L1,Bayer 04 Leverkusen,23000000.0,2,0,6,5,1471,25
+Dan Ndoye,Switzerland,Attack,right,184.0,IT1,Bologna FC 1909,22000000.0,4,0,2,3,2078,24
+Francisco Conceição,Portugal,Attack,left,170.0,PO1,FC Porto,22000000.0,13,0,7,5,2308,22
+Kevin Schade,Germany,Attack,right,185.0,GB1,Brentford FC,22000000.0,0,0,2,1,392,23
+Youssoufa Moukoko,Germany,Attack,left,179.0,L1,Borussia Dortmund,22000000.0,1,0,6,0,758,20
+Dominic Calvert-Lewin,England,Attack,right,189.0,GB1,Everton FC,22000000.0,3,1,8,3,2630,27
+Anthony Elanga,Sweden,Attack,right,178.0,GB1,Nottingham Forest,22000000.0,1,0,5,9,2678,22
+Dwight McNeil,England,Attack,left,183.0,GB1,Everton FC,22000000.0,3,0,3,7,3360,25
+Patrik Schick,Czech Republic,Attack,left,191.0,L1,Bayer 04 Leverkusen,22000000.0,2,0,13,3,1555,29
+Armando Broja,Albania,Attack,right,191.0,GB1,Fulham FC,22000000.0,0,0,2,1,776,23
+Omar Marmoush,Egypt,Attack,right,183.0,L1,Eintracht Frankfurt,22000000.0,7,0,13,6,2602,25
+Marcus Edwards,England,Attack,left,168.0,PO1,Sporting CP,20000000.0,5,1,5,8,2084,26
+Dango Ouattara,Burkina Faso,Attack,left,177.0,GB1,AFC Bournemouth,20000000.0,3,0,1,2,1383,22
+Noah Okafor,Switzerland,Attack,right,185.0,IT1,AC Milan,20000000.0,1,0,6,3,1005,24
+Arnaud Kalimuendo,France,Attack,right,178.0,FR1,Stade Rennais FC,20000000.0,7,0,11,4,2459,23
+Georges Mikautadze,Georgia,Attack,right,176.0,FR1,FC Metz,20000000.0,1,0,13,4,2095,24
+Rodrigo Muniz,Brazil,Attack,right,186.0,GB1,Fulham FC,20000000.0,2,0,10,1,2019,23
+Saïd Benrahma,Algeria,Attack,right,172.0,FR1,Olympique Lyon,20000000.0,3,1,3,5,1981,29
+Paulo Dybala,Argentina,Attack,left,177.0,IT1,AS Roma,20000000.0,3,0,16,10,2671,31
+Samuel Chukwueze,Nigeria,Attack,left,172.0,IT1,AC Milan,20000000.0,1,0,3,3,1380,25
+Marco Asensio,Spain,Attack,left,182.0,FR1,Paris Saint-Germain,20000000.0,0,0,4,5,1256,29
+Hugo Ekitiké,France,Attack,right,189.0,FR1,Paris Saint-Germain,20000000.0,3,0,4,2,727,22
+Miguel Almirón,Paraguay,Attack,left,174.0,GB1,Newcastle United,20000000.0,4,0,5,3,2739,30
+Beto,Portugal,Attack,right,194.0,IT1,Udinese Calcio,20000000.0,2,0,6,3,1307,26
+Youssef En-Nesyri,Morocco,Attack,left,192.0,ES1,Sevilla FC,20000000.0,4,0,20,3,3243,27
+Brajan Gruda,Germany,Attack,left,178.0,L1,1.FSV Mainz 05,20000000.0,5,0,4,3,1740,20
+Jonas Wind,Denmark,Attack,right,190.0,L1,VfL Wolfsburg,20000000.0,4,0,12,8,2889,25
+Jean-Philippe Mateta,France,Attack,right,192.0,GB1,Crystal Palace,20000000.0,5,0,19,5,2574,27
+Ander Barrenetxea,Spain,Attack,right,175.0,ES1,Real Sociedad,20000000.0,2,0,5,2,2059,23
+Takumi Minamino,Japan,Attack,right,172.0,FR1,AS Monaco,20000000.0,4,0,9,6,2127,30
+Jhon Durán,Colombia,Attack,left,185.0,GB1,Aston Villa,20000000.0,5,0,6,0,660,21
+Martin Terrier,France,Attack,right,184.0,FR1,Stade Rennais FC,20000000.0,2,1,8,4,1942,27
+Trincão,Portugal,Attack,left,184.0,PO1,Sporting CP,20000000.0,1,0,9,10,2496,25
+Mattia Zaccagni,Italy,Attack,right,177.0,IT1,SS Lazio,20000000.0,9,0,7,2,2519,29
+El Bilal Touré,Mali,Attack,both,185.0,IT1,Atalanta BC,20000000.0,2,0,3,1,478,23
+Barış Alper Yılmaz,Türkiye,Attack,right,186.0,TR1,Galatasaray,20000000.0,10,0,6,11,3170,24
+Ismaïla Sarr,Senegal,Attack,right,185.0,FR1,Olympique Marseille,18000000.0,5,0,5,6,2074,26
+Callum Hudson-Odoi,England,Attack,right,178.0,GB1,Nottingham Forest,18000000.0,0,0,8,2,2190,24
+Jack Harrison,England,Attack,left,175.0,GB1,Everton FC,18000000.0,2,0,4,3,2706,28
+Enes Ünal,Türkiye,Attack,right,187.0,GB1,AFC Bournemouth,18000000.0,2,0,2,4,562,27
+Steven Bergwijn,Netherlands,Attack,right,178.0,NL1,Ajax Amsterdam,18000000.0,6,1,13,5,2549,27
+Andreas Skov Olsen,Denmark,Attack,left,187.0,BE1,Club Brugge KV,18000000.0,6,0,13,4,2531,25
+Ángel Correa,Argentina,Attack,right,171.0,ES1,Atlético de Madrid,18000000.0,4,0,11,3,2013,29
+Isaac Romero,Spain,Attack,left,184.0,ES1,Sevilla FC,18000000.0,2,0,6,4,1190,24
+Amad Diallo,Cote d'Ivoire,Attack,left,173.0,GB1,Manchester United,18000000.0,3,0,2,1,470,22
+Thijs Dallinga,Netherlands,Attack,right,190.0,FR1,FC Toulouse,18000000.0,6,0,18,5,3263,24
+Gorka Guruzeta,Spain,Attack,right,188.0,ES1,Athletic Bilbao,18000000.0,2,0,16,5,2546,28
+Noa Lang,Netherlands,Attack,right,170.0,NL1,PSV Eindhoven,18000000.0,2,0,5,2,1129,25
+Simon Banza,DR Congo,Attack,right,189.0,PO1,SC Braga,18000000.0,5,0,23,5,2631,28
+Ernest Nuamah,Ghana,Attack,left,178.0,DK1,FC Nordsjaelland,18000000.0,6,0,7,3,2243,21
+Odsonne Edouard,France,Attack,right,187.0,GB1,Crystal Palace,18000000.0,4,0,8,0,1722,27
+Ritsu Doan,Japan,Attack,left,172.0,L1,SC Freiburg,18000000.0,2,0,9,7,3225,26
+Solly March,England,Attack,left,180.0,GB1,Brighton & Hove Albion,18000000.0,1,0,3,1,771,30
+Harry Wilson,Wales,Attack,left,173.0,GB1,Fulham FC,17000000.0,8,0,5,9,2039,27
+Luis Sinisterra,Colombia,Attack,right,172.0,GB1,AFC Bournemouth,17000000.0,0,0,3,3,996,25
+Timo Werner,Germany,Attack,right,180.0,L1,RB Leipzig,17000000.0,1,0,4,4,1291,28
+Mauro Icardi,Argentina,Attack,right,181.0,TR1,Galatasaray,17000000.0,2,0,31,12,3821,31
+Yankuba Minteh,The Gambia,Attack,left,180.0,NL1,Feyenoord Rotterdam,16000000.0,4,0,11,6,1991,20
+Mateo Retegui,Italy,Attack,right,186.0,IT1,Genoa CFC,16000000.0,5,0,9,3,2371,25
+Lucas Beltrán,Argentina,Attack,right,176.0,IT1,ACF Fiorentina,16000000.0,6,0,6,3,2093,23
+Hugo Duro,Spain,Attack,left,177.0,ES1,Valencia CF,16000000.0,4,0,13,4,3146,25
+Álvaro Morata,Spain,Attack,right,189.0,ES1,Atlético de Madrid,16000000.0,7,0,21,5,2968,32
+Konstantin Tyukavin,Russia,Attack,right,180.0,RU1,Dynamo Moscow,16000000.0,0,0,17,10,2728,22
+Mohamed Amoura,Algeria,Attack,right,170.0,BE1,Union Saint-Gilloise,16000000.0,6,0,19,3,1880,24
+Kévin Denkey,Togo,Attack,right,181.0,BE1,Cercle Brugge,16000000.0,6,0,23,0,2497,24
+Riccardo Orsolini,Italy,Attack,left,183.0,IT1,Bologna FC 1909,16000000.0,2,0,10,2,1911,28
+Kerem Aktürkoğlu,Türkiye,Attack,right,173.0,TR1,Galatasaray,15000000.0,7,0,15,9,3525,26
+Iliman Ndiaye,Senegal,Attack,right,180.0,FR1,Olympique Marseille,15000000.0,1,1,4,5,2476,24
+Roland Sallai,Hungary,Attack,both,183.0,L1,SC Freiburg,15000000.0,8,0,8,4,2550,27
+Patrick Wimmer,Austria,Attack,right,182.0,L1,VfL Wolfsburg,15000000.0,3,1,2,0,624,23
+Borja Mayoral,Spain,Attack,right,182.0,ES1,Getafe CF,15000000.0,2,0,17,1,2381,27
+Anders Dreyer,Denmark,Attack,left,174.0,BE1,RSC Anderlecht,15000000.0,2,1,15,8,2249,26
+Jérémie Boga,Cote d'Ivoire,Attack,right,172.0,FR1,OGC Nice,15000000.0,1,0,6,6,2011,28
+Ilias Akhomach,Morocco,Attack,left,175.0,ES1,Villarreal CF,15000000.0,5,0,4,5,2124,20
+Keane Lewis-Potter,England,Attack,right,170.0,GB1,Brentford FC,15000000.0,1,0,3,1,1731,23
+Gift Orban,Nigeria,Attack,right,178.0,FR1,Olympique Lyon,15000000.0,4,1,8,0,1658,22
+Gonçalo Guedes,Portugal,Attack,right,179.0,ES1,Villarreal CF,15000000.0,1,0,3,4,1361,28
+Reiss Nelson,England,Attack,right,175.0,GB1,Arsenal FC,15000000.0,1,0,1,2,641,25
+Antonio Nusa,Norway,Attack,right,180.0,BE1,Club Brugge KV,15000000.0,0,0,3,4,1313,19
+Ricardo Horta,Portugal,Attack,right,173.0,PO1,SC Braga,15000000.0,5,0,11,13,3494,30
+Eli Junior Kroupi,France,Attack,right,179.0,FR1,FC Lorient,15000000.0,1,0,5,3,1077,18
+Álvaro Djaló,Spain,Attack,right,175.0,PO1,SC Braga,15000000.0,10,0,14,5,2742,25
+Morgan Rogers,England,Attack,right,187.0,GB1,Aston Villa,15000000.0,5,0,8,4,1182,22
+Malick Fofana,Belgium,Attack,right,169.0,FR1,Olympique Lyon,15000000.0,1,0,6,6,1944,19
+Ângelo,Brazil,Attack,left,180.0,FR1,RC Strasbourg Alsace,15000000.0,2,0,0,4,1090,20
+Robert Lewandowski,Poland,Attack,right,185.0,ES1,FC Barcelona,15000000.0,6,0,26,9,3800,36
+Jacob Murphy,England,Attack,right,173.0,GB1,Newcastle United,15000000.0,1,0,3,8,1597,29
+Niclas Füllkrug,Germany,Attack,right,189.0,L1,SV Werder Bremen,15000000.0,1,0,16,10,3605,31
+Andrea Pinamonti,Italy,Attack,right,185.0,IT1,US Sassuolo,15000000.0,4,0,12,2,3202,25
+Ludovic Blas,France,Attack,left,180.0,FR1,Stade Rennais FC,15000000.0,5,0,7,1,1931,27
+Taty Castellanos,Argentina,Attack,right,178.0,IT1,SS Lazio,15000000.0,5,0,6,5,2131,26
+Jaden Philogene,England,Attack,right,181.0,GB1,Aston Villa,15000000.0,0,0,0,0,3,22
+Hirving Lozano,Mexico,Attack,right,175.0,NL1,PSV Eindhoven,15000000.0,6,0,6,3,1997,29
+Moise Kean,Italy,Attack,right,183.0,IT1,Juventus FC,14000000.0,2,0,0,0,654,24
+Igor Paixão,Brazil,Attack,right,168.0,NL1,Feyenoord Rotterdam,14000000.0,3,0,12,4,2929,24
+Arthur Cabral,Brazil,Attack,right,186.0,PO1,SL Benfica,14000000.0,2,0,8,2,1730,26
+Cengiz Ünder,Türkiye,Attack,left,173.0,TR1,Fenerbahce,14000000.0,3,0,9,3,1074,27
+Nuno Santos,Portugal,Attack,left,177.0,PO1,Sporting CP,14000000.0,10,1,7,17,3739,29
+Justin Kluivert,Netherlands,Attack,both,172.0,GB1,AFC Bournemouth,14000000.0,6,0,9,2,2092,25
+Jhon Córdoba,Colombia,Attack,right,188.0,RU1,FK Krasnodar,14000000.0,4,1,18,6,2624,31
+Bryan Gil,Spain,Attack,left,175.0,GB1,Tottenham Hotspur,14000000.0,1,0,0,0,233,23
+Diego López,Spain,Attack,right,172.0,ES1,Valencia CF,14000000.0,2,0,4,6,2847,22
+Kyogo Furuhashi,Japan,Attack,right,170.0,SC1,Celtic FC,14000000.0,2,0,16,4,2955,30
+Vitinha,Portugal,Attack,right,178.0,FR1,Olympique Marseille,14000000.0,7,0,15,8,4647,24
+Rafa,Portugal,Attack,right,172.0,PO1,SL Benfica,14000000.0,4,0,18,14,3847,31
+Yannick Carrasco,Belgium,Attack,right,181.0,ES1,Atlético de Madrid,14000000.0,0,0,0,1,223,31
+Lyle Foster,South Africa,Attack,right,185.0,GB1,Burnley FC,13000000.0,0,1,5,3,1966,24
+Matteo Politano,Italy,Attack,left,171.0,IT1,SSC Napoli,13000000.0,4,1,9,10,3126,31
+Levi García,Trinidad and Tobago,Attack,left,182.0,GR1,AEK Athens,13000000.0,0,0,12,3,1267,27
+Arnaut Danjuma,Netherlands,Attack,right,178.0,GB1,Everton FC,13000000.0,0,0,2,0,929,27
+Manor Solomon,Israel,Attack,right,170.0,GB1,Tottenham Hotspur,13000000.0,1,0,0,2,303,25
+Paul Onuachu,Nigeria,Attack,right,201.0,TR1,Trabzonspor,13000000.0,3,0,15,4,1536,30
+Carlton Morris,England,Attack,right,185.0,GB1,Luton Town,13000000.0,4,0,11,5,3229,29
+Callum Wilson,England,Attack,right,180.0,GB1,Newcastle United,13000000.0,4,0,10,1,1338,32
+Samuel Iling-Junior,England,Attack,left,182.0,IT1,Juventus FC,13000000.0,1,0,1,2,983,21
+Daniel Podence,Portugal,Attack,right,170.0,GR1,Olympiacos Piraeus,13000000.0,4,0,10,6,1797,29
+Cameron Archer,England,Attack,right,175.0,GB1,Sheffield United,13000000.0,2,0,4,1,2065,23
+Fotis Ioannidis,Greece,Attack,both,187.0,GR1,Panathinaikos FC,13000000.0,4,0,18,7,2310,25
+Dodi Lukébakio,Belgium,Attack,left,187.0,ES1,Sevilla FC,12000000.0,0,0,5,1,1371,27
+Bryan Zaragoza,Spain,Attack,right,164.0,L1,Bayern Munich,12000000.0,6,0,6,2,1810,23
+Alexis Saelemaekers,Belgium,Attack,right,180.0,IT1,Bologna FC 1909,12000000.0,8,0,4,3,2099,25
+Mike Trésor,Belgium,Attack,right,172.0,BE1,KRC Genk,12000000.0,2,0,1,1,901,25
+Gustav Isaksen,Denmark,Attack,both,181.0,DK1,FC Midtjylland,12000000.0,3,0,3,4,1678,23
+Breel Embolo,Switzerland,Attack,right,187.0,FR1,AS Monaco,12000000.0,0,0,1,0,182,27
+Luka Ivanusec,Croatia,Attack,right,175.0,NL1,Feyenoord Rotterdam,12000000.0,1,0,7,8,1853,26
+Neal Maupay,France,Attack,right,173.0,GB1,Everton FC,12000000.0,8,0,8,4,1640,28
+Franck Honorat,France,Attack,right,180.0,L1,Borussia Mönchengladbach,12000000.0,1,0,5,13,2617,28
+Semih Kılıçsoy,Türkiye,Attack,right,178.0,TR1,Besiktas JK,12000000.0,5,0,12,3,1765,19
+Kevin,Brazil,Attack,right,176.0,UKR1,Shakhtar Donetsk,12000000.0,3,0,3,4,1047,22
+Santiago Castro,Argentina,Attack,right,179.0,IT1,Bologna FC 1909,12000000.0,1,0,1,1,237,20
+Jonathan Burkardt,Germany,Attack,right,183.0,L1,1.FSV Mainz 05,12000000.0,2,0,8,2,1543,24
+Álex Berenguer,Spain,Attack,right,175.0,ES1,Athletic Bilbao,12000000.0,4,0,8,4,1939,29
+Adam Hlozek,Czech Republic,Attack,right,188.0,L1,Bayer 04 Leverkusen,12000000.0,3,0,7,5,1011,22
+Assane Diao,Spain,Attack,right,185.0,ES1,Real Betis Balompié,12000000.0,5,0,4,0,1413,19
+Ibrahim Osman,Ghana,Attack,left,179.0,DK1,FC Nordsjaelland,12000000.0,1,0,5,5,1886,20
+Emanuel Emegha,Netherlands,Attack,right,195.0,FR1,RC Strasbourg Alsace,12000000.0,3,0,8,2,2089,21
+Abel Ruiz,Spain,Attack,right,182.0,PO1,SC Braga,12000000.0,7,0,8,3,2796,25
+Zeki Amdouni,Switzerland,Attack,both,185.0,GB1,Burnley FC,12000000.0,2,0,6,1,2099,24
+Lorenzo Lucca,Italy,Attack,right,201.0,IT1,Udinese Calcio,12000000.0,6,0,9,4,2707,24
+Cyril Ngonge,Belgium,Attack,left,180.0,IT1,Hellas Verona,12000000.0,6,0,7,3,1841,24
+Chuba Akpom,England,Attack,right,186.0,NL1,Ajax Amsterdam,12000000.0,0,0,15,3,1318,29
+Krépin Diatta,Senegal,Attack,right,175.0,FR1,AS Monaco,12000000.0,2,0,0,2,1194,25
+Sofiane Diop,Morocco,Attack,right,175.0,FR1,OGC Nice,12000000.0,0,0,0,0,500,24
+David Datro Fofana,Cote d'Ivoire,Attack,right,180.0,L1,1.FC Union Berlin,12000000.0,1,0,6,2,1855,22
+Luiz Henrique,Brazil,Attack,left,182.0,ES1,Real Betis Balompié,12000000.0,2,0,1,3,982,24
+Moses Simon,Nigeria,Attack,right,168.0,FR1,FC Nantes,12000000.0,0,0,3,6,1793,29
+Jota Silva,Portugal,Attack,right,179.0,PO1,Vitória Guimarães SC,12000000.0,9,0,12,6,3006,25
+Vedat Muriqi,Kosovo,Attack,left,194.0,ES1,RCD Mallorca,12000000.0,6,0,7,2,2549,30
+Eren Dinkci,Germany,Attack,right,188.0,L1,1.FC Heidenheim 1846,12000000.0,8,0,11,6,2737,23
+Ricardo Pepi,United States,Attack,right,185.0,NL1,PSV Eindhoven,12000000.0,3,0,9,3,674,22
+Kasper Dolberg,Denmark,Attack,right,187.0,BE1,RSC Anderlecht,12000000.0,2,0,13,2,2177,27
+Artur,Brazil,Attack,left,168.0,RU1,Zenit St. Petersburg,11000000.0,1,0,3,1,1003,26
+Fábio Silva,Portugal,Attack,right,185.0,SC1,Rangers FC,11000000.0,3,0,5,0,1537,22
+Fedor Chalov,Russia,Attack,right,181.0,RU1,CSKA Moscow,11000000.0,4,0,16,5,2815,26
+Wilfried Zaha,Cote d'Ivoire,Attack,right,180.0,TR1,Galatasaray,11000000.0,3,0,10,4,1914,32
+Mateo Cassierra,Colombia,Attack,right,186.0,RU1,Zenit St. Petersburg,11000000.0,2,0,24,8,2784,27
+Maksim Glushenkov,Russia,Attack,left,179.0,RU1,Lokomotiv Moscow,11000000.0,6,0,8,21,2532,25
+Ansgar Knauff,Germany,Attack,right,180.0,L1,Eintracht Frankfurt,10000000.0,7,0,8,3,2169,23
+Armand Laurienté,France,Attack,right,171.0,IT1,US Sassuolo,10000000.0,5,0,5,6,3078,26
+Antoine Semenyo,Ghana,Attack,right,185.0,GB1,AFC Bournemouth,10000000.0,7,0,8,2,2306,25
+Wilson Odobert,France,Attack,right,182.0,GB1,Burnley FC,10000000.0,3,0,4,3,2285,20
+Benjamín Rollheiser,Argentina,Attack,left,172.0,PO1,SL Benfica,10000000.0,1,0,1,0,152,24
+Jonathan Ikoné,France,Attack,left,175.0,IT1,ACF Fiorentina,10000000.0,5,0,3,2,1814,26
+Mohamed Daramy,Denmark,Attack,right,180.0,FR1,Stade Reims,10000000.0,0,0,4,5,1656,23
+Mikkel Damsgaard,Denmark,Attack,right,180.0,GB1,Brentford FC,10000000.0,3,0,0,2,988,24
+Roger,Portugal,Attack,left,166.0,PO1,SC Braga,10000000.0,1,0,3,7,926,19
+Sébastien Haller,Cote d'Ivoire,Attack,right,191.0,L1,Borussia Dortmund,10000000.0,2,0,3,1,524,30
+Dilane Bakwa,France,Attack,left,180.0,FR1,RC Strasbourg Alsace,10000000.0,4,1,3,6,2187,22
+Gaëtan Laborde,France,Attack,left,181.0,FR1,OGC Nice,10000000.0,2,0,5,2,1913,30
+Gianluca Prestianni,Argentina,Attack,right,166.0,PO1,SL Benfica,10000000.0,0,0,0,0,3,18
+Gerard Moreno,Spain,Attack,left,180.0,ES1,Villarreal CF,10000000.0,1,0,11,8,2771,32
+Francesco Camarda,Italy,Attack,both,184.0,IT1,AC Milan,10000000.0,0,0,0,0,12,16
+George Ilenikhena,France,Attack,left,185.0,BE1,Royal Antwerp FC,10000000.0,2,0,9,1,1115,18
+Hugo Cuypers,Belgium,Attack,right,185.0,BE1,KAA Gent,10000000.0,2,0,13,4,2037,27
+Domenico Berardi,Italy,Attack,left,183.0,IT1,US Sassuolo,10000000.0,7,0,9,3,1481,30
+Vladyslav Vanat,Ukraine,Attack,left,182.0,UKR1,Dynamo Kyiv,10000000.0,6,0,14,10,2481,23
+Memphis Depay,Netherlands,Attack,right,178.0,ES1,Atlético de Madrid,10000000.0,2,0,9,2,1205,30
+Sheraldo Becker,Suriname,Attack,right,180.0,L1,1.FC Union Berlin,10000000.0,1,0,6,4,2148,29
+Romain Del Castillo,France,Attack,left,172.0,FR1,Stade Brestois 29,10000000.0,4,0,8,8,2521,28
+Umar Sadiq,Nigeria,Attack,right,191.0,ES1,Real Sociedad,10000000.0,4,0,3,1,1365,27
+Boulaye Dia,Senegal,Attack,right,180.0,IT1,US Salernitana 1919,10000000.0,1,0,4,0,1157,28
+Anthony Martial,France,Attack,right,181.0,GB1,Manchester United,10000000.0,0,0,2,1,629,29
+Giovanni Simeone,Argentina,Attack,right,180.0,IT1,SSC Napoli,10000000.0,6,0,3,1,1093,29
+Mehdi Taremi,Iran,Attack,right,185.0,PO1,FC Porto,10000000.0,4,0,9,7,2194,32
+Mergim Berisha,Germany,Attack,right,188.0,L1,TSG 1899 Hoffenheim,10000000.0,0,0,0,0,340,26
+Facundo Pellistri,Uruguay,Attack,right,175.0,GB1,Manchester United,10000000.0,2,0,2,3,1588,23
+İrfan Can Kahveci,Türkiye,Attack,left,180.0,TR1,Fenerbahce,10000000.0,5,0,16,11,2365,29
+Ben Doak,Scotland,Attack,right,173.0,GB1,Liverpool FC,10000000.0,0,0,0,0,247,19
+Geny Catamo,Mozambique,Attack,left,173.0,PO1,Sporting CP,10000000.0,2,0,5,3,2023,24
+Mostafa Mohamed,Egypt,Attack,right,185.0,FR1,FC Nantes,10000000.0,3,1,8,2,2017,27
+Pablo Sarabia,Spain,Attack,left,174.0,GB1,Wolverhampton Wanderers,10000000.0,7,0,4,10,2168,32
+Silas,DR Congo,Attack,right,189.0,L1,VfB Stuttgart,10000000.0,0,0,7,6,994,26
+Faris Moumbagna,Cameroon,Attack,left,185.0,FR1,Olympique Marseille,10000000.0,2,0,7,3,1370,24
+Tetê,Brazil,Attack,left,175.0,TR1,Galatasaray,10000000.0,2,0,1,5,1423,24
+Tijjani Noslin,Netherlands,Attack,right,178.0,NL1,Fortuna Sittard,10000000.0,4,1,9,6,2463,25
+Mohamed-Ali Cho,France,Attack,left,182.0,FR1,OGC Nice,10000000.0,2,0,1,3,1324,21
+Zakaria Aboukhlal,Morocco,Attack,both,179.0,FR1,FC Toulouse,10000000.0,2,0,3,0,798,24
+Andreas Schjelderup,Norway,Attack,right,176.0,DK1,FC Nordsjaelland,10000000.0,0,0,3,6,1500,20
+Akor Adams,Nigeria,Attack,right,190.0,FR1,Montpellier HSC,10000000.0,2,0,8,1,2264,25
+Joseph Paintsil,Ghana,Attack,right,169.0,BE1,KRC Genk,9500000.0,9,1,7,4,2146,26
+Hakim Ziyech,Morocco,Attack,left,180.0,TR1,Galatasaray,9000000.0,5,0,8,4,1329,31
+Justin Njinmah,Germany,Attack,right,185.0,L1,SV Werder Bremen,9000000.0,1,0,6,2,1012,24
+Hákon Arnar Haraldsson,Iceland,Attack,right,180.0,FR1,LOSC Lille,9000000.0,5,0,2,0,1388,21
+Alexandre Lacazette,France,Attack,right,175.0,FR1,Olympique Lyon,9000000.0,3,1,19,3,2305,33
+Adama Traoré,Spain,Attack,right,178.0,GB1,Fulham FC,9000000.0,2,0,2,3,425,29
+Maxwel Cornet,Cote d'Ivoire,Attack,left,179.0,GB1,West Ham United,9000000.0,0,0,1,1,340,28
+Lucas Ocampos,Argentina,Attack,both,187.0,ES1,Sevilla FC,9000000.0,13,0,5,4,3619,30
+Jamie Leweling,Germany,Attack,both,185.0,L1,VfB Stuttgart,9000000.0,3,0,4,7,1647,23
+Vincenzo Grifo,Italy,Attack,right,180.0,L1,SC Freiburg,9000000.0,3,0,12,10,3152,31
+Deivid Washington,Brazil,Attack,right,187.0,GB1,Chelsea FC,9000000.0,0,0,0,0,25,19
+Michel-Ange Balikwisha,Belgium,Attack,right,178.0,BE1,Royal Antwerp FC,9000000.0,2,0,8,7,2440,23
+Rubén Vargas,Switzerland,Attack,right,179.0,L1,FC Augsburg,9000000.0,3,0,4,4,2067,26
+Abde Ezzalzouli,Morocco,Attack,right,177.0,ES1,Real Betis Balompié,9000000.0,1,0,5,0,1481,23
+Roony Bardghji,Sweden,Attack,left,173.0,DK1,FC Copenhagen,9000000.0,4,0,10,0,1621,19
+Alejo Véliz,Argentina,Attack,right,186.0,ES1,Sevilla FC,9000000.0,1,0,1,0,76,21
+Chermiti,Portugal,Attack,right,192.0,GB1,Everton FC,9000000.0,4,0,0,0,253,20
+Jonathan Bamba,Cote d'Ivoire,Attack,right,175.0,ES1,Celta de Vigo,9000000.0,0,0,5,2,2038,28
+Bertrand Traoré,Burkina Faso,Attack,left,181.0,ES1,Villarreal CF,9000000.0,4,0,1,1,600,29
+Anass Zaroury,Morocco,Attack,right,176.0,GB1,Burnley FC,9000000.0,0,1,0,3,330,24
+Marvin Ducksch,Germany,Attack,right,188.0,L1,SV Werder Bremen,9000000.0,9,0,13,10,2773,30
+Keito Nakamura,Japan,Attack,right,180.0,FR1,Stade Reims,9000000.0,1,0,4,1,1388,24
+Mahmoud Trezeguet,Egypt,Attack,right,180.0,TR1,Trabzonspor,8500000.0,2,0,10,6,1596,30
+Osame Sahraoui,Norway,Attack,right,170.0,NL1,SC Heerenveen,8500000.0,0,0,8,8,2563,23
+Julien Duranville,Belgium,Attack,right,173.0,L1,Borussia Dortmund,8500000.0,0,0,0,0,10,18
+Michy Batshuayi,Belgium,Attack,right,185.0,TR1,Fenerbahce,8500000.0,4,0,14,2,1011,31
+Nicolas Pépé,Cote d'Ivoire,Attack,left,183.0,TR1,Trabzonspor,8500000.0,0,0,5,3,1123,29
+Fran Navarro,Spain,Attack,right,179.0,GR1,Olympiacos Piraeus,8000000.0,2,0,4,1,994,26
+Robin Hack,Germany,Attack,right,178.0,L1,Borussia Mönchengladbach,8000000.0,2,0,13,3,1560,26
+Danny Ings,England,Attack,right,177.0,GB1,West Ham United,8000000.0,1,0,1,0,766,32
+Sardar Azmoun,Iran,Attack,both,186.0,IT1,AS Roma,8000000.0,4,1,3,4,801,30
+Vincent Janssen,Netherlands,Attack,left,185.0,BE1,Royal Antwerp FC,8000000.0,7,0,12,5,2885,30
+Rafael Borré,Colombia,Attack,right,174.0,L1,SV Werder Bremen,8000000.0,0,0,4,0,991,29
+Thomas Müller,Germany,Attack,right,185.0,L1,Bayern Munich,8000000.0,0,0,7,12,2180,35
+Felipe Anderson,Brazil,Attack,right,175.0,IT1,SS Lazio,8000000.0,3,0,5,7,3723,31
+Michael Gregoritsch,Austria,Attack,left,193.0,L1,SC Freiburg,8000000.0,2,0,12,6,2171,30
+Wissam Ben Yedder,France,Attack,both,170.0,FR1,AS Monaco,8000000.0,2,0,16,2,2322,34
+Andrija Zivkovic,Serbia,Attack,left,169.0,GR1,PAOK Thessaloniki,8000000.0,5,0,13,8,2031,28
+Myrto Uzuni,Albania,Attack,right,178.0,ES1,Granada CF,8000000.0,3,0,11,1,2461,29
+Jacob Bruun Larsen,Denmark,Attack,right,183.0,GB1,Burnley FC,8000000.0,1,0,7,0,1502,26
+Duván Zapata,Colombia,Attack,right,188.0,IT1,Torino FC,8000000.0,2,0,13,4,3083,33
+Arnaud Nordin,France,Attack,left,170.0,FR1,Montpellier HSC,8000000.0,1,1,6,4,1251,26
+David Brooks,Wales,Attack,left,173.0,GB1,AFC Bournemouth,8000000.0,2,0,3,3,549,27
+Carlos Forbs,Portugal,Attack,left,169.0,NL1,Ajax Amsterdam,8000000.0,0,0,3,5,1330,20
+Jesper Karlsson,Sweden,Attack,right,179.0,NL1,AZ Alkmaar,8000000.0,0,0,0,0,485,26
+Evann Guessand,Cote d'Ivoire,Attack,right,188.0,FR1,OGC Nice,8000000.0,1,0,6,2,1540,23
+Ayase Ueda,Japan,Attack,right,182.0,NL1,Feyenoord Rotterdam,8000000.0,0,0,5,2,1204,26
+Rafa Mujica,Spain,Attack,right,183.0,PO1,FC Arouca,8000000.0,4,1,22,4,2894,26
+Isi Palazón,Spain,Attack,left,169.0,ES1,Rayo Vallecano,8000000.0,7,0,5,1,2944,30
+Sergey Pinyaev,Russia,Attack,both,167.0,RU1,Lokomotiv Moscow,8000000.0,4,0,3,5,2196,20
+Ben Brereton Díaz,Chile,Attack,right,185.0,ES1,Villarreal CF,8000000.0,5,0,6,1,1760,25
+Junya Ito,Japan,Attack,right,176.0,FR1,Stade Reims,8000000.0,2,0,3,7,2723,31
+Mousa Tamari,Jordan,Attack,left,178.0,FR1,Montpellier HSC,8000000.0,0,0,5,4,1940,27
+Pedrinho,Brazil,Attack,left,172.0,UKR1,Shakhtar Donetsk,8000000.0,5,0,3,2,2830,26
+Benjamín Garré,Argentina,Attack,left,172.0,RU1,Krylya Sovetov Samara,8000000.0,3,0,9,3,1671,24
+Tomas Cvancara,Czech Republic,Attack,right,190.0,L1,Borussia Mönchengladbach,8000000.0,5,0,6,3,1049,24
+Petar Musa,Croatia,Attack,right,190.0,PO1,SL Benfica,8000000.0,2,1,6,2,864,26
+Chiedozie Ogbene,Ireland,Attack,right,181.0,GB1,Luton Town,8000000.0,1,0,5,1,2419,27
+Fran Pérez,Spain,Attack,right,176.0,ES1,Valencia CF,8000000.0,4,0,1,4,2243,22
+Loum Tchaouna,France,Attack,left,180.0,IT1,US Salernitana 1919,8000000.0,4,0,6,4,2233,21
+Luis Henrique,Brazil,Attack,right,181.0,FR1,Olympique Marseille,8000000.0,0,0,1,0,1141,23
+Aleksandr Sobolev,Russia,Attack,right,195.0,RU1,Spartak Moscow,7500000.0,9,0,10,9,2415,27
+Abdallah Sima,Senegal,Attack,right,188.0,SC1,Rangers FC,7500000.0,4,0,15,2,2343,23
+Christian Kouamé,Cote d'Ivoire,Attack,right,185.0,IT1,ACF Fiorentina,7500000.0,1,0,2,1,1342,27
+Ferran Jutglà,Spain,Attack,right,175.0,BE1,Club Brugge KV,7500000.0,1,0,7,1,1230,25
+Manfred Ugalde,Costa Rica,Attack,right,172.0,RU1,Spartak Moscow,7500000.0,8,0,10,7,2962,22
+Milot Rashica,Kosovo,Attack,right,178.0,TR1,Besiktas JK,7500000.0,2,0,5,6,2138,28
+Jean-Mattéo Bahoya,France,Attack,right,180.0,L1,Eintracht Frankfurt,7500000.0,0,0,0,0,171,19
+Marc Guiu,Spain,Attack,right,187.0,ES1,FC Barcelona,7500000.0,2,0,2,0,182,19
+Franculino,Guinea-Bissau,Attack,left,182.0,DK1,FC Midtjylland,7500000.0,1,0,12,5,977,20
+Zito Luvumbo,Angola,Attack,left,171.0,IT1,Cagliari Calcio,7500000.0,5,0,4,7,2099,22
+Alassane Plea,France,Attack,right,181.0,L1,Borussia Mönchengladbach,7000000.0,1,0,7,7,2150,31
+Mika Biereth,Denmark,Attack,right,187.0,SC1,Motherwell FC,7000000.0,2,0,6,5,1023,21
+Jeremy Sarmiento,Ecuador,Attack,right,178.0,GB1,Brighton & Hove Albion,7000000.0,0,0,1,0,118,22
+Daizen Maeda,Japan,Attack,right,173.0,SC1,Celtic FC,7000000.0,4,1,9,3,2432,27
+M'Bala Nzola,Angola,Attack,left,185.0,IT1,ACF Fiorentina,7000000.0,3,0,4,3,1899,28
+Chris Wood,New Zealand,Attack,right,191.0,GB1,Nottingham Forest,7000000.0,1,0,15,1,2195,33
+Luka Jović,Serbia,Attack,right,182.0,IT1,ACF Fiorentina,7000000.0,4,1,9,1,1242,27
+Danylo Sikan,Ukraine,Attack,right,187.0,UKR1,Shakhtar Donetsk,7000000.0,5,0,16,5,2868,23
+Daan Rots,Netherlands,Attack,left,179.0,NL1,Twente Enschede FC,7000000.0,5,0,9,10,3114,23
+Luca Koleosho,Italy,Attack,right,175.0,GB1,Burnley FC,7000000.0,0,0,1,1,986,20
+Oleksandr Zubkov,Ukraine,Attack,left,182.0,UKR1,Shakhtar Donetsk,7000000.0,2,1,6,12,2826,28
+Marquinhos,Brazil,Attack,left,175.0,FR1,FC Nantes,7000000.0,3,0,0,3,2680,21
+Matías Arezo,Uruguay,Attack,right,177.0,ES1,Granada CF,7000000.0,1,0,0,0,359,22
+Martín Satriano,Uruguay,Attack,right,187.0,FR1,Stade Brestois 29,7000000.0,4,0,4,4,1869,23
+Bruma,Portugal,Attack,right,173.0,PO1,SC Braga,7000000.0,4,0,11,7,2581,30
+Paulinho,Portugal,Attack,left,188.0,PO1,Sporting CP,7000000.0,9,0,19,10,4148,32
+Antonio Sanabria,Paraguay,Attack,right,180.0,IT1,Torino FC,7000000.0,2,0,5,0,2300,28
+Liel Abada,Israel,Attack,right,168.0,SC1,Celtic FC,7000000.0,0,0,1,2,503,23
+Nicolò Cambiaghi,Italy,Attack,right,173.0,IT1,FC Empoli,7000000.0,3,0,1,5,2563,24
+Pedro,Brazil,Attack,right,170.0,RU1,Zenit St. Petersburg,7000000.0,9,0,6,1,1946,18
+Kiril Despodov,Bulgaria,Attack,right,180.0,GR1,PAOK Thessaloniki,7000000.0,2,0,12,10,2117,28
+Lucas Boyé,Argentina,Attack,right,183.0,ES1,Granada CF,7000000.0,8,1,6,3,2556,28
+Darío Osorio,Chile,Attack,left,184.0,DK1,FC Midtjylland,7000000.0,0,0,5,0,659,21
+Ayoze Pérez,Spain,Attack,right,178.0,ES1,Real Betis Balompié,7000000.0,5,0,11,2,2680,31
+Vaclav Cerny,Czech Republic,Attack,left,182.0,L1,VfL Wolfsburg,7000000.0,2,0,5,1,1056,27
+Tarik Tissoudali,Morocco,Attack,right,182.0,BE1,KAA Gent,6500000.0,2,0,12,7,1781,31
+Marcus Ingvartsen,Denmark,Attack,left,187.0,DK1,FC Nordsjaelland,6500000.0,2,0,11,3,1967,29
+Chidera Ejuke,Nigeria,Attack,right,176.0,BE1,Royal Antwerp FC,6000000.0,3,0,3,4,1484,27
+Arkadiusz Milik,Poland,Attack,left,186.0,IT1,Juventus FC,6000000.0,2,1,8,1,1056,30
+Tim Kleindienst,Germany,Attack,both,194.0,L1,1.FC Heidenheim 1846,6000000.0,6,0,14,5,2984,29
+Matthis Abline,France,Attack,right,182.0,FR1,FC Nantes,6000000.0,1,0,5,1,1044,21
+Yuito Suzuki,Japan,Attack,right,175.0,DK1,Bröndby IF,6000000.0,1,0,7,3,947,23
+Riccardo Sottil,Italy,Attack,right,180.0,IT1,ACF Fiorentina,6000000.0,2,0,3,4,1298,25
+Steven Berghuis,Netherlands,Attack,left,182.0,NL1,Ajax Amsterdam,6000000.0,3,1,6,10,1933,33
+André Silva,Portugal,Attack,right,185.0,ES1,Real Sociedad,6000000.0,6,0,15,2,3051,29
+Lorenzo Colombo,Italy,Attack,left,183.0,IT1,AC Monza,6000000.0,3,0,4,1,1366,22
+Jaidon Anthony,England,Attack,right,183.0,GB1,AFC Bournemouth,6000000.0,2,0,1,3,591,25
+Juanmi,Spain,Attack,right,172.0,ES1,Cádiz CF,6000000.0,3,0,3,1,883,31
+Steve Mounié,Benin,Attack,right,190.0,FR1,Stade Brestois 29,6000000.0,2,1,6,2,1772,30
+Yussuf Poulsen,Denmark,Attack,right,192.0,L1,RB Leipzig,6000000.0,4,0,5,3,1696,30
+Lameck Banda,Zambia,Attack,right,169.0,IT1,US Lecce,6000000.0,5,1,2,5,1461,24
+Quincy Promes,Netherlands,Attack,right,174.0,RU1,Spartak Moscow,6000000.0,1,0,8,8,1607,33
+Nikola Krstovic,Montenegro,Attack,right,185.0,IT1,US Lecce,6000000.0,5,1,7,2,2569,24
+Anastasios Douvikas,Greece,Attack,right,186.0,NL1,FC Utrecht,6000000.0,3,0,13,3,1514,25
+Walid Cheddira,Morocco,Attack,right,187.0,IT1,Frosinone Calcio,6000000.0,0,0,8,1,2322,27
+Danilo,Brazil,Attack,right,174.0,SC1,Rangers FC,6000000.0,12,0,9,8,6093,25
+Mohamed Elyounoussi,Norway,Attack,right,178.0,DK1,FC Copenhagen,6000000.0,2,0,10,6,2474,30
+Wout Weghorst,Netherlands,Attack,right,197.0,L1,TSG 1899 Hoffenheim,6000000.0,5,0,7,4,2166,32
+Gabriel Strefezza,Brazil,Attack,right,168.0,IT1,US Lecce,6000000.0,5,0,2,0,1280,27
+Jakub Kaminski,Poland,Attack,right,179.0,L1,VfL Wolfsburg,6000000.0,0,0,0,2,606,22
+Adam Buksa,Poland,Attack,left,191.0,TR1,Antalyaspor,6000000.0,8,0,16,2,2927,28
+Tiago Tomás,Portugal,Attack,right,180.0,L1,VfL Wolfsburg,6000000.0,3,0,3,4,1261,22
+Joaquín Correa,Argentina,Attack,right,188.0,FR1,Olympique Marseille,6000000.0,2,0,0,0,682,30
+Oumar Diakité,Cote d'Ivoire,Attack,right,182.0,FR1,Stade Reims,6000000.0,4,0,5,1,1587,21
+Gustaf Nilsson,Sweden,Attack,right,196.0,BE1,Union Saint-Gilloise,6000000.0,9,0,12,6,1736,27
+Alan Minda,Ecuador,Attack,right,171.0,BE1,Cercle Brugge,6000000.0,2,0,7,6,1513,21
+Tahith Chong,Netherlands,Attack,left,185.0,GB1,Luton Town,6000000.0,5,0,5,0,2306,25
+Krzysztof Piatek,Poland,Attack,right,183.0,TR1,Basaksehir FK,6000000.0,4,0,17,1,2707,29
+Cristo,Spain,Attack,right,178.0,PO1,FC Arouca,6000000.0,3,0,17,10,3189,27
+Yusuf Sarı,Türkiye,Attack,left,168.0,TR1,Adana Demirspor,5500000.0,1,0,5,10,2352,26
+Tolu Arokodare,Nigeria,Attack,right,197.0,BE1,KRC Genk,5500000.0,2,0,11,3,1641,24
+Jeffinho,Brazil,Attack,right,176.0,FR1,Olympique Lyon,5000000.0,0,0,1,2,304,25
+Borja Iglesias,Spain,Attack,right,187.0,L1,Bayer 04 Leverkusen,5000000.0,2,0,2,2,1288,32
+Stephan El Shaarawy,Italy,Attack,right,178.0,IT1,AS Roma,5000000.0,2,0,3,9,2795,32
+Dany Mota,Portugal,Attack,right,180.0,IT1,AC Monza,5000000.0,3,0,4,5,2148,26
+Tobias Lauritsen,Norway,Attack,right,196.0,NL1,Sparta Rotterdam,5000000.0,4,1,14,10,3443,27
+Thorgan Hazard,Belgium,Attack,right,175.0,BE1,RSC Anderlecht,5000000.0,4,0,4,6,1387,31
+Nathan Ngoumou,France,Attack,right,185.0,L1,Borussia Mönchengladbach,5000000.0,1,0,6,4,1611,24
+Benson Manuel,Angola,Attack,left,166.0,GB1,Burnley FC,5000000.0,0,0,0,0,137,27
+Víctor Dávila,Chile,Attack,left,174.0,RU1,CSKA Moscow,5000000.0,3,0,6,6,1307,27
+Danny Welbeck,England,Attack,right,185.0,GB1,Brighton & Hove Albion,5000000.0,5,0,7,1,2092,34
+Orri Óskarsson,Iceland,Attack,right,186.0,DK1,FC Copenhagen,5000000.0,1,0,8,7,1411,20
+Lassina Traoré,Burkina Faso,Attack,right,183.0,UKR1,Shakhtar Donetsk,5000000.0,3,0,6,7,782,24
+Ivan Sergeev,Russia,Attack,right,184.0,RU1,Zenit St. Petersburg,5000000.0,3,0,11,5,1969,29
+Yunus Akgün,Türkiye,Attack,left,173.0,TR1,Galatasaray,5000000.0,0,0,1,2,651,24
+Théo Bongonda,DR Congo,Attack,left,175.0,RU1,Spartak Moscow,5000000.0,0,0,8,2,1778,29
+Noah Weißhaupt,Germany,Attack,right,181.0,L1,SC Freiburg,5000000.0,1,0,2,4,1152,23
+Rafik Guitane,Algeria,Attack,left,170.0,PO1,GD Estoril Praia,5000000.0,1,0,7,3,2961,25
+Danny Namaso,England,Attack,right,182.0,PO1,FC Porto,5000000.0,2,0,1,3,389,24
+Michal Skoras,Poland,Attack,right,172.0,BE1,Club Brugge KV,5000000.0,2,0,1,2,590,24
+Ayoub El Kaabi,Morocco,Attack,left,182.0,GR1,Olympiacos Piraeus,5000000.0,2,0,20,0,1941,31
+Shamar Nicholson,Jamaica,Attack,right,192.0,FR1,Clermont Foot 63,5000000.0,2,0,4,3,1487,27
+Nelson Weiper,Germany,Attack,right,192.0,L1,1.FSV Mainz 05,5000000.0,0,0,0,0,122,19
+Emil Forsberg,Sweden,Attack,right,177.0,L1,RB Leipzig,5000000.0,1,0,4,1,958,33
+Andrej Kramaric,Croatia,Attack,right,177.0,L1,TSG 1899 Hoffenheim,5000000.0,4,0,17,6,2297,33
+Casper Tengstedt,Denmark,Attack,right,184.0,PO1,SL Benfica,5000000.0,4,0,4,6,1116,24
+Aboubakary Koita,Mauritania,Attack,right,175.0,BE1,Sint-Truidense VV,5000000.0,5,0,14,2,2286,26
+Karol Świderski,Poland,Attack,left,184.0,IT1,Hellas Verona,5000000.0,0,0,2,0,496,28
+Francis Amuzu,Belgium,Attack,right,169.0,BE1,RSC Anderlecht,5000000.0,0,0,3,0,566,25
+Bobby De Cordova-Reid,Jamaica,Attack,right,170.0,GB1,Fulham FC,5000000.0,4,0,7,4,1932,31
+Divock Origi,Belgium,Attack,right,189.0,GB1,Nottingham Forest,5000000.0,1,0,1,1,754,29
+Luka Romero,Argentina,Attack,left,169.0,IT1,AC Milan,5000000.0,3,0,3,0,590,20
+Eldor Shomurodov,Uzbekistan,Attack,right,190.0,IT1,Cagliari Calcio,5000000.0,1,0,3,3,1044,29
+Yorbe Vertessen,Belgium,Attack,right,174.0,NL1,PSV Eindhoven,5000000.0,2,0,8,5,1364,24
+Ante Budimir,Croatia,Attack,left,190.0,ES1,CA Osasuna,5000000.0,5,0,18,2,2761,33
+Mohamed Bayo,Guinea,Attack,right,188.0,FR1,Le Havre AC,5000000.0,4,0,5,1,1395,26
+Largie Ramazani,Belgium,Attack,right,168.0,ES1,UD Almería,5000000.0,12,0,4,5,1667,23
+Mathias Kvistgaarden,Denmark,Attack,right,174.0,DK1,Bröndby IF,5000000.0,4,0,9,7,1768,22
+Andrea Belotti,Italy,Attack,right,181.0,IT1,ACF Fiorentina,5000000.0,2,0,9,3,2090,31
+Myron Boadu,Netherlands,Attack,right,181.0,FR1,AS Monaco,5000000.0,1,0,4,0,374,24
+Rey Manaj,Albania,Attack,right,182.0,TR1,Sivasspor,5000000.0,11,0,18,3,2505,27
+Willian José,Brazil,Attack,right,186.0,ES1,Real Betis Balompié,5000000.0,0,1,14,6,2265,33
+Nathan Redmond,England,Attack,right,173.0,GB1,Burnley FC,5000000.0,1,0,0,0,299,30
+Tiago Gouveia,Portugal,Attack,right,176.0,PO1,SL Benfica,5000000.0,2,0,3,3,656,23
+Badredine Bouanani,Algeria,Attack,left,177.0,FR1,FC Lorient,5000000.0,0,0,1,0,595,20
+Lukas Nmecha,Germany,Attack,right,185.0,L1,VfL Wolfsburg,5000000.0,0,0,2,0,82,26
+Ruben van Bommel,Netherlands,Attack,right,192.0,NL1,AZ Alkmaar,5000000.0,2,0,9,1,1958,20
+Luis Vázquez,Argentina,Attack,right,190.0,BE1,RSC Anderlecht,5000000.0,2,0,7,1,671,23
+Leo Sauer,Slovakia,Attack,right,184.0,NL1,Feyenoord Rotterdam,5000000.0,1,0,2,4,288,19
+Robert Bozenik,Slovakia,Attack,right,188.0,PO1,Boavista FC,5000000.0,4,0,9,2,2647,25
+Raúl Jiménez,Mexico,Attack,right,187.0,GB1,Fulham FC,5000000.0,4,1,7,0,1629,33
+Ezequiel Ponce,Argentina,Attack,right,181.0,GR1,AEK Athens,5000000.0,2,0,12,0,1337,27
+Jérémy Le Douaron,France,Attack,left,189.0,FR1,Stade Brestois 29,5000000.0,3,0,4,1,1622,26
+Jesús Medina,Paraguay,Attack,left,178.0,RU1,Spartak Moscow,5000000.0,5,0,5,4,1699,27
+Pierre-Emerick Aubameyang,Gabon,Attack,right,187.0,FR1,Olympique Marseille,5000000.0,5,0,29,11,3825,35
+Joselu,Spain,Attack,right,191.0,ES1,Real Madrid,5000000.0,1,0,17,3,2097,34
+Phillip Tietz,Germany,Attack,right,190.0,L1,FC Augsburg,5000000.0,1,0,8,4,2435,27
+Sam Lammers,Netherlands,Attack,both,191.0,SC1,Rangers FC,5000000.0,3,0,12,5,3017,27
+Toni Martínez,Spain,Attack,right,187.0,PO1,FC Porto,5000000.0,3,0,4,0,546,27
+Sasa Kalajdzic,Austria,Attack,right,200.0,L1,Eintracht Frankfurt,5000000.0,1,0,3,2,611,27
+Enis Destan,Türkiye,Attack,right,186.0,TR1,Trabzonspor,4800000.0,4,0,9,4,1367,22
+Matteo Cancellieri,Italy,Attack,left,180.0,IT1,FC Empoli,4800000.0,7,0,4,3,1784,22
+Oli McBurnie,Scotland,Attack,right,188.0,GB1,Sheffield United,4500000.0,7,0,6,3,1357,28
+Luis Palma,Honduras,Attack,right,179.0,GR1,Aris Thessaloniki,4500000.0,8,0,11,13,2221,25
+Arbnor Muja,Albania,Attack,right,179.0,TR1,Samsunspor,4500000.0,6,0,7,3,2179,26
+Jens Odgaard,Denmark,Attack,left,188.0,NL1,AZ Alkmaar,4500000.0,1,0,4,2,1071,25
+Nicolas Moumi Ngamaleu,Cameroon,Attack,right,181.0,RU1,Dynamo Moscow,4500000.0,5,0,7,6,2154,30
+Gue-sung Cho,"Korea, South",Attack,right,188.0,DK1,FC Midtjylland,4500000.0,5,0,11,2,2203,27
+Cyriel Dessers,Nigeria,Attack,right,185.0,SC1,Rangers FC,4500000.0,1,0,18,7,2785,30
+Troy Parrott,Ireland,Attack,right,185.0,NL1,Excelsior Rotterdam,4500000.0,2,1,10,4,1817,22
+Adson,Brazil,Attack,left,171.0,FR1,FC Nantes,4500000.0,0,0,0,0,233,24
+Oğuz Aydın,Türkiye,Attack,right,183.0,TR1,Alanyaspor,4300000.0,3,1,13,7,2587,24
+Emmanuel Dennis,Nigeria,Attack,right,175.0,TR1,Basaksehir FK,4200000.0,2,0,0,0,347,27
+Mama Baldé,Guinea-Bissau,Attack,right,176.0,FR1,Olympique Lyon,4000000.0,1,0,2,3,542,29
+Roberto Piccoli,Italy,Attack,right,190.0,IT1,FC Empoli,4000000.0,5,0,6,1,1579,24
+Carlos Vicente,Spain,Attack,right,179.0,ES1,Deportivo Alavés,4000000.0,1,0,2,4,1275,25
+Javairô Dilrosun,Netherlands,Attack,left,175.0,NL1,Feyenoord Rotterdam,4000000.0,0,0,1,1,421,26
+Ciro Immobile,Italy,Attack,right,185.0,IT1,SS Lazio,4000000.0,9,0,11,1,2359,34
+Ihlas Bebou,Togo,Attack,right,185.0,L1,TSG 1899 Hoffenheim,4000000.0,3,0,7,7,1749,30
+Bamba Dieng,Senegal,Attack,right,178.0,FR1,FC Lorient,4000000.0,3,0,4,1,543,24
+Lawrence Shankland,Scotland,Attack,right,185.0,SC1,Heart of Midlothian FC,4000000.0,11,0,26,7,3475,29
+Georgios Masouras,Greece,Attack,right,184.0,GR1,Olympiacos Piraeus,4000000.0,3,0,9,6,2306,31
+Michail Antonio,Jamaica,Attack,right,180.0,GB1,West Ham United,4000000.0,8,0,7,2,2032,34
+Nazar Voloshyn,Ukraine,Attack,right,175.0,UKR1,Dynamo Kyiv,4000000.0,7,0,9,8,2009,21
+Jordan,United States,Attack,right,191.0,L1,1.FC Union Berlin,4000000.0,12,0,8,4,4118,28
+Couhaib Driouech,Morocco,Attack,right,175.0,NL1,Excelsior Rotterdam,4000000.0,4,0,6,6,2171,22
+Enso González,Paraguay,Attack,left,169.0,GB1,Wolverhampton Wanderers,4000000.0,0,0,0,0,1,20
+Nikolay Komlichenko,Russia,Attack,right,190.0,RU1,FK Rostov,4000000.0,5,0,6,3,1715,29
+Jarne Steuckers,Belgium,Attack,left,179.0,BE1,Sint-Truidense VV,4000000.0,1,0,4,6,2457,22
+Junior Adamu,Austria,Attack,right,183.0,L1,SC Freiburg,4000000.0,0,0,1,1,263,23
+Jordan Ayew,Ghana,Attack,right,182.0,GB1,Crystal Palace,4000000.0,9,0,4,8,2676,33
+Chris Ramos,Spain,Attack,right,190.0,ES1,Cádiz CF,4000000.0,5,0,5,2,2652,28
+Kelvin Yeboah,Italy,Attack,right,185.0,FR1,Montpellier HSC,4000000.0,0,0,4,1,705,24
+Sydney van Hooijdonk,Netherlands,Attack,right,190.0,IT1,Bologna FC 1909,4000000.0,1,0,1,0,382,24
+Benedict Hollerbach,Germany,Attack,right,181.0,L1,1.FC Union Berlin,4000000.0,2,0,5,0,1363,23
+Jorge de Frutos,Spain,Attack,right,173.0,ES1,Rayo Vallecano,4000000.0,1,0,2,0,1851,27
+Arijon Ibrahimovic,Germany,Attack,right,176.0,IT1,Frosinone Calcio,4000000.0,2,0,2,1,594,19
+Cyle Larin,Canada,Attack,right,188.0,ES1,RCD Mallorca,4000000.0,8,0,7,3,2261,29
+Nick Woltemade,Germany,Attack,right,198.0,L1,SV Werder Bremen,4000000.0,1,0,2,0,1184,22
+Wilfried Kanga,Cote d'Ivoire,Attack,right,189.0,BE1,Standard Liège,4000000.0,4,0,9,3,2321,26
+Andraz Sporar,Slovenia,Attack,right,186.0,GR1,Panathinaikos FC,4000000.0,2,0,12,3,1539,30
+Raúl García,Spain,Attack,right,192.0,ES1,CA Osasuna,4000000.0,7,0,7,3,2075,24
+Koki Saito,Japan,Attack,right,170.0,NL1,Sparta Rotterdam,4000000.0,0,0,3,5,1670,23
+Bojan Miovski,North Macedonia,Attack,left,189.0,SC1,Aberdeen FC,4000000.0,3,0,20,3,3375,25
+Yira Sor,Nigeria,Attack,right,174.0,BE1,KRC Genk,4000000.0,1,0,6,1,1330,24
+Ibrahim Salah,Morocco,Attack,right,186.0,FR1,Stade Rennais FC,4000000.0,3,0,5,1,727,23
+Momodou Lamin Sonko,Sweden,Attack,right,176.0,BE1,KAA Gent,4000000.0,1,0,3,1,664,19
+Takuma Asano,Japan,Attack,right,173.0,L1,VfL Bochum,4000000.0,2,0,7,1,2108,30
+Luis Rioja,Spain,Attack,left,176.0,ES1,Deportivo Alavés,4000000.0,4,0,5,4,2617,31
+Óscar Estupiñán,Colombia,Attack,left,182.0,FR1,FC Metz,4000000.0,0,0,1,0,352,28
+Amin Sarr,Sweden,Attack,right,188.0,FR1,Olympique Lyon,4000000.0,0,0,0,0,474,23
+Jacob Ondrejka,Sweden,Attack,right,180.0,BE1,Royal Antwerp FC,4000000.0,2,0,5,2,839,22
+Jackson Muleka,DR Congo,Attack,right,180.0,TR1,Besiktas JK,4000000.0,2,0,7,1,2118,25
+Samuele Mulattieri,Italy,Attack,right,183.0,IT1,US Sassuolo,4000000.0,1,0,2,1,686,24
+Belloumi,Algeria,Attack,left,177.0,PO1,SC Farense,4000000.0,3,0,7,5,2169,22
+Tom Cannon,Ireland,Attack,right,180.0,GB1,Everton FC,4000000.0,1,0,1,1,178,22
+Kevin Volland,Germany,Attack,left,179.0,FR1,AS Monaco,4000000.0,3,1,4,5,1650,32
+Wesley Saïd,France,Attack,right,171.0,FR1,RC Lens,4000000.0,4,0,7,2,1102,29
+Mika Godts,Belgium,Attack,right,176.0,NL1,Ajax Amsterdam,4000000.0,0,0,0,2,624,19
+Wilson Isidor,France,Attack,right,186.0,RU1,Lokomotiv Moscow,4000000.0,2,0,4,1,921,24
+Jacob Brown,Scotland,Attack,right,178.0,GB1,Luton Town,4000000.0,4,0,3,0,1142,26
+Bénie Traoré,Cote d'Ivoire,Attack,right,172.0,FR1,FC Nantes,4000000.0,1,1,0,1,929,22
+Álex Sola,Spain,Attack,right,178.0,ES1,Deportivo Alavés,4000000.0,3,0,0,4,1606,25
+Dion Beljo,Croatia,Attack,left,195.0,L1,FC Augsburg,4000000.0,2,0,2,0,590,22
+Lucas Höler,Germany,Attack,right,184.0,L1,SC Freiburg,4000000.0,9,0,7,5,3195,30
+Alessio Zerbin,Italy,Attack,right,182.0,IT1,AC Monza,4000000.0,3,0,2,1,897,25
+Denis Drăguș,Romania,Attack,right,185.0,TR1,Gaziantep FK,4000000.0,9,0,15,2,3072,25
+Kaio Jorge,Brazil,Attack,right,182.0,IT1,Frosinone Calcio,4000000.0,2,0,3,1,913,23
+Gianluca Caprari,Italy,Attack,right,171.0,IT1,AC Monza,4000000.0,0,0,0,0,344,31
+Suso,Spain,Attack,left,177.0,ES1,Sevilla FC,4000000.0,5,1,1,5,1753,31
+Tadeo Allende,Argentina,Attack,right,183.0,ES1,Celta de Vigo,4000000.0,1,0,1,0,330,25
+Philip Zinckernagel,Denmark,Attack,right,175.0,BE1,Club Brugge KV,4000000.0,3,0,6,7,1793,30
+Carlos Vinícius,Brazil,Attack,left,190.0,TR1,Galatasaray,4000000.0,5,0,4,1,542,29
+Marko Arnautovic,Austria,Attack,both,190.0,IT1,Bologna FC 1909,4000000.0,0,0,7,3,1149,35
+Adam Ounas,Algeria,Attack,left,172.0,FR1,LOSC Lille,4000000.0,0,0,1,0,422,28
+Andrea Petagna,Italy,Attack,left,190.0,IT1,Cagliari Calcio,3800000.0,2,0,1,2,1181,29
+Taxiarchis Fountas,Greece,Attack,right,170.0,TR1,Trabzonspor,3700000.0,1,0,2,1,1133,29
+Moi Gómez,Spain,Attack,right,176.0,ES1,CA Osasuna,3500000.0,4,0,3,0,2252,30
+Lázaro,Brazil,Attack,right,181.0,ES1,UD Almería,3500000.0,0,0,0,0,375,22
+Dusan Tadic,Serbia,Attack,left,181.0,TR1,Fenerbahce,3500000.0,3,0,14,15,3664,36
+André Silva,Brazil,Attack,left,181.0,PO1,Vitória Guimarães SC,3500000.0,6,0,15,2,3051,27
+Adam Idah,Ireland,Attack,right,190.0,SC1,Celtic FC,3500000.0,2,0,9,2,950,23
+Million Manhoef,Netherlands,Attack,left,179.0,NL1,Vitesse Arnhem,3500000.0,0,1,4,1,1703,23
+Aitor Ruibal,Spain,Attack,right,176.0,ES1,Real Betis Balompié,3500000.0,7,0,3,3,1584,28
+Andrey Mostovoy,Russia,Attack,right,180.0,RU1,Zenit St. Petersburg,3500000.0,1,0,3,2,1434,27
+Joel Mvuka,Norway,Attack,right,176.0,FR1,FC Lorient,3500000.0,1,0,0,0,279,22
+João Marques,Portugal,Attack,right,179.0,PO1,GD Estoril Praia,3500000.0,9,0,6,6,2339,22
+Ryan Kent,England,Attack,right,176.0,TR1,Fenerbahce,3500000.0,0,0,1,1,253,28
+Jay Stansfield,England,Attack,right,187.0,GB1,Fulham FC,3500000.0,0,0,1,1,274,22
+Samuel Essende,DR Congo,Attack,right,192.0,PO1,FC Vizela,3500000.0,5,0,15,2,2742,27
+Elias Achouri,Tunisia,Attack,right,177.0,DK1,FC Copenhagen,3500000.0,5,0,4,11,2254,25
+Cherif Ndiaye,Senegal,Attack,right,190.0,TR1,Adana Demirspor,3500000.0,4,0,6,3,1015,29
+Ken Nkuba,Belgium,Attack,right,179.0,BE1,R Charleroi SC,3500000.0,0,0,0,0,196,23
+Bertuğ Yıldırım,Türkiye,Attack,right,191.0,TR1,Hatayspor,3500000.0,4,0,2,2,993,22
+Óscar Cortés,Colombia,Attack,right,178.0,FR1,RC Lens,3500000.0,0,0,2,3,419,21
+Aron Dønnum,Norway,Attack,left,178.0,FR1,FC Toulouse,3500000.0,13,0,1,5,2722,26
+Cihan Çanak,Türkiye,Attack,left,175.0,BE1,Standard Liège,3500000.0,1,0,0,2,611,20
+Alan Virginius,France,Attack,right,180.0,FR1,Clermont Foot 63,3500000.0,0,0,0,3,1015,22
+Myron van Brederode,Netherlands,Attack,right,174.0,NL1,AZ Alkmaar,3500000.0,1,0,3,4,1491,21
+Álvaro Rodríguez,Uruguay,Attack,left,193.0,ES1,Real Madrid,3500000.0,0,0,0,0,3,20
+Portu,Spain,Attack,right,167.0,ES1,Girona FC,3500000.0,4,0,8,8,1633,32
+Andi Zeqiri,Switzerland,Attack,left,185.0,BE1,KRC Genk,3500000.0,3,0,5,0,684,25
+Josip Brekalo,Croatia,Attack,right,175.0,IT1,ACF Fiorentina,3500000.0,0,0,1,0,814,26
+Erik Botheim,Norway,Attack,right,185.0,IT1,US Salernitana 1919,3500000.0,1,0,0,0,526,25
+Luuk de Jong,Netherlands,Attack,right,188.0,NL1,PSV Eindhoven,3500000.0,4,0,38,18,3952,34
+Sead Haksabanovic,Montenegro,Attack,right,174.0,SC1,Celtic FC,3500000.0,0,0,0,0,108,25
+Roman Yaremchuk,Ukraine,Attack,right,191.0,ES1,Valencia CF,3500000.0,5,0,8,0,1369,29
+Ronaldo,Brazil,Attack,right,177.0,RU1,FK Rostov,3500000.0,3,0,8,2,1615,24
+Luis Suárez,Colombia,Attack,right,181.0,ES1,UD Almería,3500000.0,3,0,6,0,920,27
+Christopher Bonsu Baah,Ghana,Attack,left,172.0,BE1,KRC Genk,3500000.0,7,2,1,1,1308,20
+Jesús Corona,Mexico,Attack,both,173.0,ES1,Sevilla FC,3500000.0,0,0,0,0,16,32
+Mohammad Mohebi,Iran,Attack,right,186.0,RU1,FK Rostov,3500000.0,4,0,6,5,1943,26
+Vincent Aboubakar,Cameroon,Attack,right,184.0,TR1,Besiktas JK,3400000.0,3,0,10,2,1543,33
+Carlo Holse,Denmark,Attack,left,177.0,TR1,Samsunspor,3200000.0,4,0,6,3,3177,25
+João Batxi,Angola,Attack,right,174.0,RU1,FK Krasnodar,3200000.0,6,0,1,4,2200,26
+Nabil Alioui,France,Attack,right,175.0,FR1,Le Havre AC,3200000.0,1,0,4,1,1199,25
+Sontje Hansen,Netherlands,Attack,right,176.0,NL1,NEC Nijmegen,3000000.0,4,0,6,7,2168,22
+Moussa Djenepo,Mali,Attack,right,177.0,BE1,Standard Liège,3000000.0,3,0,1,0,1595,26
+Ignatius Ganago,Cameroon,Attack,right,176.0,FR1,FC Nantes,3000000.0,0,0,0,0,182,25
+Gonçalo Borges,Portugal,Attack,right,184.0,PO1,FC Porto,3000000.0,2,0,0,3,330,23
+Taylor Booth,United States,Attack,right,174.0,NL1,FC Utrecht,3000000.0,0,0,6,0,996,23
+Alexander Lind,Denmark,Attack,right,186.0,DK1,Silkeborg IF,3000000.0,2,1,10,3,1616,22
+Sergio Camello,Spain,Attack,right,182.0,ES1,Rayo Vallecano,3000000.0,3,0,4,1,1746,23
+Aziz Yakubu,Ghana,Attack,right,187.0,PO1,Rio Ave FC,3000000.0,0,0,6,2,1124,26
+Mirlind Daku,Albania,Attack,right,192.0,RU1,Rubin Kazan,3000000.0,7,0,10,4,2598,27
+Florian Thauvin,France,Attack,left,181.0,IT1,Udinese Calcio,3000000.0,4,0,6,5,1870,32
+Koki Ogawa,Japan,Attack,right,186.0,NL1,NEC Nijmegen,3000000.0,1,0,15,1,2621,27
+Marvin Pieringer,Germany,Attack,right,191.0,L1,1.FC Heidenheim 1846,3000000.0,5,0,5,3,1650,25
+Michel Vlap,Netherlands,Attack,right,190.0,NL1,Twente Enschede FC,3000000.0,3,0,2,6,2430,27
+Mohamed Konaté,Burkina Faso,Attack,right,191.0,RU1,Akhmat Grozny,3000000.0,1,0,13,1,2214,27
+Zymer Bytyqi,Kosovo,Attack,right,176.0,TR1,Antalyaspor,3000000.0,0,0,1,2,1364,28
+Ola Brynhildsen,Norway,Attack,right,175.0,DK1,FC Midtjylland,3000000.0,2,0,6,0,1627,25
+Alireza Jahanbakhsh,Iran,Attack,right,181.0,NL1,Feyenoord Rotterdam,3000000.0,0,0,1,2,614,31
+Álvaro García,Spain,Attack,both,167.0,ES1,Rayo Vallecano,3000000.0,8,0,6,1,2522,32
+Iago Aspas,Spain,Attack,left,176.0,ES1,Celta de Vigo,3000000.0,6,1,9,10,2743,37
+Tim Skarke,Germany,Attack,right,181.0,L1,SV Darmstadt 98,3000000.0,7,0,8,2,2419,28
+Andrej Ilic,Serbia,Attack,right,189.0,FR1,LOSC Lille,3000000.0,1,0,2,1,362,24
+Loren Morón,Spain,Attack,right,185.0,GR1,Aris Thessaloniki,3000000.0,5,0,15,3,2723,31
+Olivier Giroud,France,Attack,left,192.0,IT1,AC Milan,3000000.0,2,1,17,9,3341,38
+Morlaye Sylla,Guinea,Attack,right,170.0,PO1,FC Arouca,3000000.0,8,0,4,6,2977,26
+Mame Thiam,Senegal,Attack,right,185.0,TR1,Pendikspor,3000000.0,4,0,17,7,3164,32
+Jason,Spain,Attack,right,178.0,PO1,FC Arouca,3000000.0,5,0,7,6,2950,30
+Anton Zinkovskiy,Russia,Attack,right,175.0,RU1,Spartak Moscow,3000000.0,0,0,4,1,2012,28
+Rabbi Matondo,Wales,Attack,right,175.0,SC1,Rangers FC,3000000.0,2,0,6,4,1085,24
+Ryan Fraser,Scotland,Attack,right,163.0,GB1,Newcastle United,3000000.0,0,0,2,1,117,30
+Josué Casimir,Guadeloupe,Attack,right,178.0,FR1,Le Havre AC,3000000.0,6,0,0,5,2028,23
+Moritz Broschinski,Germany,Attack,right,190.0,L1,VfL Bochum,3000000.0,4,0,2,4,1296,24
+Rhian Brewster,England,Attack,right,180.0,GB1,Sheffield United,3000000.0,0,1,0,0,358,24
+Mayckel Lahdo,Sweden,Attack,right,171.0,NL1,AZ Alkmaar,3000000.0,1,0,5,6,1068,22
+Pietro Pellegri,Italy,Attack,right,189.0,IT1,Torino FC,3000000.0,3,0,1,1,761,23
+Diego Moreira,Portugal,Attack,left,179.0,FR1,Olympique Lyon,3000000.0,1,0,0,0,316,20
+Roman Ezhov,Russia,Attack,left,181.0,RU1,Krylya Sovetov Samara,3000000.0,5,0,3,6,1423,27
+Lucas Stassin,Belgium,Attack,right,183.0,BE1,KVC Westerlo,3000000.0,2,0,6,1,860,20
+Jhonder Cádiz,Venezuela,Attack,right,190.0,PO1,FC Famalicão,3000000.0,9,1,16,0,2410,29
+Bruno Duarte,Brazil,Attack,right,182.0,PO1,SC Farense,3000000.0,16,0,16,4,4599,28
+Keinan Davis,England,Attack,left,189.0,IT1,Udinese Calcio,3000000.0,2,0,1,0,182,26
+William Osula,Denmark,Attack,right,186.0,GB1,Sheffield United,3000000.0,4,0,3,0,946,21
+Ludovic Ajorque,Réunion,Attack,left,196.0,L1,1.FSV Mainz 05,3000000.0,5,0,3,0,1478,30
+Peter Federico,Dominican Republic,Attack,left,180.0,ES1,Valencia CF,3000000.0,1,0,0,1,646,22
+Pontus Almqvist,Sweden,Attack,left,183.0,IT1,US Lecce,3000000.0,5,0,3,3,2226,25
+Nikita Saltykov,Russia,Attack,right,174.0,RU1,Krylya Sovetov Samara,3000000.0,4,0,4,5,2556,20
+Chiquinho,Portugal,Attack,right,179.0,PO1,FC Famalicão,3000000.0,13,1,5,5,2558,24
+Mikey Johnston,Ireland,Attack,right,176.0,SC1,Celtic FC,3000000.0,0,0,2,2,426,25
+Rodrigo Ribeiro,Portugal,Attack,right,185.0,PO1,Sporting CP,3000000.0,0,0,0,0,15,19
+Tiago Morais,Portugal,Attack,right,168.0,PO1,Boavista FC,3000000.0,5,0,6,3,1457,21
+André Franco,Portugal,Attack,left,177.0,PO1,FC Porto,3000000.0,1,0,0,1,767,26
+Willian,Brazil,Attack,right,175.0,GB1,Fulham FC,3000000.0,1,0,5,2,2420,36
+Matija Frigan,Croatia,Attack,left,185.0,BE1,KVC Westerlo,3000000.0,1,0,4,1,1006,21
+Felipe Augusto,Brazil,Attack,left,187.0,BE1,Cercle Brugge,3000000.0,1,0,1,1,444,20
+Matías Segovia,Paraguay,Attack,left,165.0,BE1,RWD Molenbeek,3000000.0,0,0,0,0,34,22
+Thibo Somers,Belgium,Attack,right,183.0,BE1,Cercle Brugge,3000000.0,5,0,5,4,2295,25
+Aiyegun Tosin,Benin,Attack,right,179.0,FR1,FC Lorient,3000000.0,0,1,2,1,901,26
+Billal Brahimi,Algeria,Attack,left,183.0,FR1,Stade Brestois 29,3000000.0,1,1,0,0,217,24
+Matias Fernandez-Pardo,Belgium,Attack,right,183.0,BE1,KAA Gent,3000000.0,0,0,1,0,256,19
+Frank Magri,Cameroon,Attack,right,178.0,FR1,FC Toulouse,3000000.0,6,0,6,3,1644,25
+Daniel Mancini,Argentina,Attack,right,172.0,GR1,Panathinaikos FC,3000000.0,3,0,3,6,2152,28
+Florian Sotoca,France,Attack,right,187.0,FR1,RC Lens,3000000.0,7,1,7,7,3283,34
+Ángel Di María,Argentina,Attack,left,178.0,PO1,SL Benfica,3000000.0,5,0,17,14,3539,36
+Chimy Ávila,Argentina,Attack,right,172.0,ES1,CA Osasuna,3000000.0,8,2,3,3,1326,30
+Olimpiu Moruțan,Romania,Attack,left,173.0,TR1,MKE Ankaragücü,3000000.0,3,0,2,3,2159,25
+Giuliano Simeone,Argentina,Attack,right,173.0,ES1,Deportivo Alavés,3000000.0,1,0,1,2,719,22
+Kevin Rodríguez,Ecuador,Attack,right,190.0,BE1,Union Saint-Gilloise,3000000.0,1,0,3,2,673,24
+Morgan Guilavogui,Guinea,Attack,right,189.0,FR1,RC Lens,3000000.0,3,0,2,0,662,26
+Juanmi Latasa,Spain,Attack,left,192.0,ES1,Getafe CF,2800000.0,7,0,5,0,1793,23
+Davie Selke,Germany,Attack,right,195.0,L1,1.FC Köln,2800000.0,3,0,6,0,1394,30
+Nemanja Radonjic,Serbia,Attack,both,185.0,IT1,Torino FC,2800000.0,2,0,3,1,862,28
+Olakunle Olusegun,Nigeria,Attack,right,167.0,RU1,FK Krasnodar,2800000.0,6,0,3,4,1865,22
+Edin Dzeko,Bosnia-Herzegovina,Attack,right,193.0,TR1,Fenerbahce,2700000.0,3,0,23,9,2995,38
+Andri Gudjohnsen,Iceland,Attack,right,188.0,DK1,Lyngby BK,2700000.0,1,0,10,1,1918,23
+Mikkel Kaufmann,Denmark,Attack,right,189.0,L1,1.FC Union Berlin,2700000.0,0,0,1,0,509,24
+Cédric Bakambu,DR Congo,Attack,right,182.0,TR1,Galatasaray,2500000.0,3,0,2,1,558,33
+Clayton,Brazil,Attack,right,184.0,PO1,Casa Pia AC,2500000.0,5,0,12,1,1938,26
+Ibrahima Koné,Mali,Attack,left,190.0,FR1,FC Lorient,2500000.0,0,0,0,0,304,25
+Santiago Pierotti,Argentina,Attack,right,189.0,IT1,US Lecce,2500000.0,0,0,0,2,190,23
+Anwar El Ghazi,Netherlands,Attack,right,189.0,NL1,PSV Eindhoven,2500000.0,0,0,0,1,58,29
+Gustavo Mantuan,Brazil,Attack,right,176.0,RU1,Zenit St. Petersburg,2500000.0,1,0,4,3,1938,23
+Luca Oyen,Belgium,Attack,right,174.0,BE1,KRC Genk,2500000.0,1,0,1,1,815,21
+Jon Karrikaburu,Spain,Attack,right,183.0,ES1,Deportivo Alavés,2500000.0,0,0,3,0,177,22
+Justin Diehl,Germany,Attack,right,174.0,L1,1.FC Köln,2500000.0,0,0,0,0,164,20
+Ibrahim Sadiq,Ghana,Attack,right,167.0,NL1,AZ Alkmaar,2500000.0,4,0,10,5,1413,24
+Newerton,Brazil,Attack,right,165.0,UKR1,Shakhtar Donetsk,2500000.0,1,0,1,1,974,19
+Hélio Varela,Cape Verde,Attack,right,176.0,PO1,Portimonense SC,2500000.0,7,0,6,3,2785,22
+Patrik Walemark,Sweden,Attack,left,184.0,NL1,SC Heerenveen,2500000.0,2,0,3,4,1265,23
+Adrian Mazilu,Romania,Attack,left,186.0,NL1,Vitesse Arnhem,2500000.0,2,0,1,1,643,19
+Rony Lopes,Portugal,Attack,left,174.0,PO1,SC Braga,2500000.0,1,0,2,0,496,29
+Bernard,Brazil,Attack,right,164.0,GR1,Panathinaikos FC,2500000.0,7,0,6,8,2880,32
+Eguinaldo,Brazil,Attack,right,175.0,UKR1,Shakhtar Donetsk,2500000.0,2,1,4,2,580,20
+Denis Makarov,Russia,Attack,left,183.0,RU1,Dynamo Moscow,2500000.0,4,0,5,0,1114,26
+Henrique Araújo,Portugal,Attack,right,182.0,PO1,FC Famalicão,2500000.0,1,0,0,1,674,23
+Khaled Narey,Togo,Attack,both,180.0,GR1,PAOK Thessaloniki,2500000.0,0,0,0,0,273,30
+Lechi Sadulaev,Russia,Attack,left,179.0,RU1,Akhmat Grozny,2500000.0,0,0,2,0,812,25
+Kevin Kelsy,Venezuela,Attack,left,193.0,UKR1,Shakhtar Donetsk,2500000.0,1,0,3,2,504,20
+Marius Bülter,Germany,Attack,right,188.0,L1,TSG 1899 Hoffenheim,2500000.0,3,0,2,5,1515,31
+Naci Ünüvar,Türkiye,Attack,right,168.0,NL1,Twente Enschede FC,2500000.0,2,0,4,3,604,21
+Ilya Kvasnytsya,Ukraine,Attack,right,174.0,UKR1,Rukh Lviv,2500000.0,3,0,9,8,1997,21
+Rober González,Spain,Attack,both,169.0,NL1,NEC Nijmegen,2500000.0,2,0,10,5,1666,24
+Edin Visca,Bosnia-Herzegovina,Attack,right,172.0,TR1,Trabzonspor,2500000.0,1,0,5,12,2841,34
+Alieu Fadera,The Gambia,Attack,right,182.0,BE1,KRC Genk,2500000.0,5,0,3,3,1276,23
+Mislav Orsic,Croatia,Attack,right,179.0,TR1,Trabzonspor,2500000.0,0,0,0,0,50,32
+Sorriso,Brazil,Attack,right,175.0,PO1,FC Famalicão,2500000.0,1,0,1,2,853,23
+Mickaël Biron,Martinique,Attack,right,170.0,BE1,RWD Molenbeek,2500000.0,1,0,7,1,1452,27
+M'Baye Niang,Senegal,Attack,right,188.0,TR1,Adana Demirspor,2500000.0,3,0,14,3,1782,30
+Franco Orozco,Argentina,Attack,right,168.0,RU1,Krylya Sovetov Samara,2500000.0,3,0,1,1,542,23
+Luca Waldschmidt,Germany,Attack,left,181.0,L1,1.FC Köln,2500000.0,0,0,3,1,1327,28
+Jens Petter Hauge,Norway,Attack,right,184.0,L1,Eintracht Frankfurt,2500000.0,0,0,0,3,313,25
+Munir El Haddadi,Morocco,Attack,left,177.0,ES1,UD Las Palmas,2500000.0,2,0,4,2,2510,29
+Mathias Pereira Lage,France,Attack,right,180.0,FR1,Stade Brestois 29,2500000.0,3,0,3,2,1181,28
+Rubén García,Spain,Attack,left,172.0,ES1,CA Osasuna,2500000.0,4,0,3,1,2758,31
+Carles Pérez,Spain,Attack,left,173.0,ES1,Celta de Vigo,2500000.0,3,0,3,1,841,26
+Gelson Martins,Portugal,Attack,right,170.0,GR1,Olympiacos Piraeus,2500000.0,0,0,0,1,189,29
+Federico Bonazzoli,Italy,Attack,left,185.0,IT1,Hellas Verona,2500000.0,2,0,3,1,1014,27
+Emmanuel Sabbi,United States,Attack,right,178.0,FR1,Le Havre AC,2500000.0,5,0,5,1,1593,27
+Jovane,Cape Verde,Attack,right,174.0,GR1,Olympiacos Piraeus,2500000.0,1,0,2,0,839,26
+Isaac Success,Nigeria,Attack,right,182.0,IT1,Udinese Calcio,2500000.0,4,0,1,1,871,29
+Alexis Sánchez,Chile,Attack,right,169.0,IT1,Inter Milan,2500000.0,0,0,4,5,1110,36
+Junior Messias,Brazil,Attack,left,174.0,IT1,Genoa CFC,2500000.0,0,0,1,0,1057,33
+Oleksiy Gutsulyak,Ukraine,Attack,left,184.0,UKR1,SK Dnipro-1,2500000.0,5,0,9,4,2721,27
+Chris Bedia,Cote d'Ivoire,Attack,left,190.0,L1,1.FC Union Berlin,2500000.0,3,0,5,0,870,28
+Jón Dagur Thorsteinsson,Iceland,Attack,right,177.0,BE1,Oud-Heverlee Leuven,2500000.0,6,0,4,5,1843,26
+Irvin Cardona,France,Attack,right,185.0,L1,FC Augsburg,2500000.0,1,0,0,0,51,27
+Asier Villalibre,Spain,Attack,left,182.0,ES1,Athletic Bilbao,2500000.0,0,0,8,1,856,27
+Sergi Canós,Spain,Attack,right,177.0,ES1,Valencia CF,2500000.0,1,0,2,2,1489,27
+Tino Kadewere,Zimbabwe,Attack,right,183.0,FR1,FC Nantes,2500000.0,1,0,1,0,1069,29
+Faride Alidou,Germany,Attack,right,186.0,L1,1.FC Köln,2500000.0,4,0,4,0,1285,23
+Valery Fernández,Spain,Attack,right,182.0,ES1,Girona FC,2500000.0,1,0,4,1,816,25
+Tom Lawrence,Wales,Attack,right,175.0,SC1,Rangers FC,2500000.0,1,0,2,3,1454,31
+Ola Solbakken,Norway,Attack,left,189.0,GR1,Olympiacos Piraeus,2500000.0,0,0,0,0,327,26
+Dennis Eckert Ayensa,Germany,Attack,right,183.0,BE1,Union Saint-Gilloise,2500000.0,2,0,9,3,1348,28
+Jordan Larsson,Sweden,Attack,left,175.0,DK1,FC Copenhagen,2500000.0,3,0,5,2,1329,27
+Eric-Maxim Choupo-Moting,Cameroon,Attack,right,191.0,L1,Bayern Munich,2500000.0,3,0,3,3,921,35
+Rafa Mir,Spain,Attack,right,191.0,ES1,Sevilla FC,2500000.0,3,0,3,1,696,27
+Florent Muslija,Kosovo,Attack,right,172.0,L1,SC Freiburg,2500000.0,1,0,2,2,353,26
+Nicolas Kühn,Germany,Attack,left,174.0,SC1,Celtic FC,2500000.0,4,0,3,2,864,25
+Yann Karamoh,France,Attack,right,184.0,FR1,Montpellier HSC,2500000.0,1,0,1,0,470,26
+Miguel de la Fuente,Spain,Attack,right,182.0,ES1,Deportivo Alavés,2500000.0,0,0,0,0,64,25
+Félix Correia,Portugal,Attack,right,178.0,PO1,Gil Vicente FC,2500000.0,4,0,5,4,2183,24
+David Okereke,Nigeria,Attack,right,181.0,IT1,Torino FC,2400000.0,0,0,0,1,359,27
+Joshua King,Norway,Attack,right,180.0,TR1,Fenerbahce,2300000.0,2,0,3,4,546,33
+João Figueiredo,Brazil,Attack,right,180.0,TR1,Basaksehir FK,2300000.0,8,0,8,2,2030,28
+Othmane Boussaid,Morocco,Attack,right,166.0,NL1,FC Utrecht,2300000.0,2,0,4,3,2077,24
+Saviour Godwin,Nigeria,Attack,right,173.0,PO1,Casa Pia AC,2300000.0,0,0,1,2,522,28
+Gyrano Kerk,Suriname,Attack,right,183.0,BE1,Royal Antwerp FC,2200000.0,5,0,3,2,1176,29
+Carlos Strandberg,Sweden,Attack,left,187.0,TR1,Hatayspor,2200000.0,2,0,8,2,2253,28
+Michael Obafemi,Ireland,Attack,right,170.0,GB1,Burnley FC,2200000.0,0,0,0,0,18,24
+Ante Rebic,Croatia,Attack,right,185.0,TR1,Besiktas JK,2200000.0,6,0,0,3,458,31
+Casper Terho,Finland,Attack,left,184.0,BE1,Union Saint-Gilloise,2200000.0,1,0,4,2,1304,21
+Oscar Vilhelmsson,Sweden,Attack,left,188.0,L1,SV Darmstadt 98,2000000.0,2,0,4,1,1390,21
+Noah Ohio,Netherlands,Attack,left,183.0,BE1,Standard Liège,2000000.0,1,0,0,0,307,22
+Nathanaël Mbuku,France,Attack,left,170.0,L1,FC Augsburg,2000000.0,0,0,0,0,4,22
+Omari Forson,England,Attack,left,179.0,GB1,Manchester United,2000000.0,0,0,0,1,88,20
+Tanguy Coulibaly,France,Attack,left,179.0,FR1,Montpellier HSC,2000000.0,2,0,1,1,622,23
+Ivan Perisic,Croatia,Attack,both,186.0,GB1,Tottenham Hotspur,2000000.0,2,0,0,2,169,35
+Erencan Yardımcı,Türkiye,Attack,right,188.0,TR1,Pendikspor,2000000.0,0,0,6,2,1397,22
+Steven Zuber,Switzerland,Attack,right,182.0,GR1,AEK Athens,2000000.0,4,0,7,4,2275,33
+Damion Downs,United States,Attack,right,192.0,L1,1.FC Köln,2000000.0,0,0,2,0,173,20
+Papu Gómez,Argentina,Attack,right,167.0,ES1,Sevilla FC,2000000.0,0,0,0,0,40,36
+Maximilian Philipp,Germany,Attack,right,183.0,L1,SC Freiburg,2000000.0,3,0,2,0,410,30
+Adnan Januzaj,Belgium,Attack,left,186.0,ES1,Sevilla FC,2000000.0,0,0,0,1,308,29
+Shapi Suleymanov,Russia,Attack,left,171.0,GR1,Aris Thessaloniki,2000000.0,2,0,5,4,2229,25
+Héctor Hernández,Spain,Attack,right,180.0,PO1,GD Chaves,2000000.0,2,0,14,1,2699,29
+Filip Bundgaard,Denmark,Attack,left,176.0,DK1,Randers FC,2000000.0,1,0,5,2,1386,20
+Demba Seck,Senegal,Attack,left,190.0,IT1,Frosinone Calcio,2000000.0,1,0,0,0,749,23
+Victor Sá,Brazil,Attack,both,178.0,RU1,FK Krasnodar,2000000.0,1,0,1,2,854,30
+Moïse Sahi Dion,Cote d'Ivoire,Attack,left,175.0,FR1,RC Strasbourg Alsace,2000000.0,0,0,3,1,624,23
+David Ankeye,Nigeria,Attack,right,191.0,IT1,Genoa CFC,2000000.0,0,0,3,1,677,22
+Kieffer Moore,Wales,Attack,right,196.0,GB1,AFC Bournemouth,2000000.0,0,0,2,0,288,32
+Domingo Blanco,Argentina,Attack,right,167.0,UKR1,SK Dnipro-1,2000000.0,3,0,1,0,460,29
+Artem Dzyuba,Russia,Attack,right,197.0,RU1,Lokomotiv Moscow,2000000.0,3,0,4,4,1627,36
+Antonio Puertas,Spain,Attack,right,183.0,ES1,Granada CF,2000000.0,2,1,0,2,719,32
+Ivan Cavaleiro,Angola,Attack,right,175.0,FR1,LOSC Lille,2000000.0,1,0,1,2,884,31
+Nacho Ferri,Spain,Attack,right,192.0,L1,Eintracht Frankfurt,2000000.0,0,0,1,0,113,20
+Raúl de Tomás,Spain,Attack,right,180.0,ES1,Rayo Vallecano,2000000.0,5,0,2,2,1541,30
+Hyun-jun Yang,"Korea, South",Attack,right,176.0,SC1,Celtic FC,2000000.0,2,1,1,3,1253,22
+Marvin Park,Spain,Attack,right,177.0,ES1,UD Las Palmas,2000000.0,5,0,0,2,1909,24
+Thomas Henry,France,Attack,right,191.0,IT1,Hellas Verona,2000000.0,2,2,3,0,323,30
+Makhtar Gueye,Senegal,Attack,right,195.0,BE1,RWD Molenbeek,2000000.0,9,0,8,1,2186,27
+Jim Allevinah,Gabon,Attack,right,172.0,FR1,Clermont Foot 63,2000000.0,1,0,2,1,1871,29
+Daisuke Yokota,Japan,Attack,left,171.0,BE1,KAA Gent,2000000.0,1,0,0,1,319,24
+Emre Mor,Türkiye,Attack,left,169.0,TR1,Fatih Karagümrük,2000000.0,4,0,1,1,736,27
+Jesurun Rak-Sakyi,England,Attack,left,178.0,GB1,Crystal Palace,2000000.0,0,0,0,0,232,22
+Maxi Gómez,Uruguay,Attack,right,186.0,ES1,Cádiz CF,2000000.0,2,0,0,0,1325,28
+Micah Hamilton,England,Attack,right,177.0,GB1,Manchester City,2000000.0,0,0,1,1,120,21
+Sebastián Palacios,Argentina,Attack,right,169.0,GR1,Panathinaikos FC,2000000.0,3,0,7,8,2274,33
+Kamil Jóźwiak,Poland,Attack,right,176.0,ES1,Granada CF,2000000.0,2,0,0,1,573,26
+Cheikh Sabaly,Senegal,Attack,right,168.0,FR1,FC Metz,2000000.0,5,0,3,1,1385,25
+Fedor Smolov,Russia,Attack,right,187.0,RU1,Dynamo Moscow,2000000.0,5,0,6,5,1646,34
+Edgar Sevikyan,Armenia,Attack,left,175.0,RU1,FC Pari Nizhniy Novgorod,2000000.0,2,0,7,0,1512,23
+Andriy Yarmolenko,Ukraine,Attack,left,189.0,UKR1,Dynamo Kyiv,2000000.0,3,0,8,5,1364,35
+Puma,Panama,Attack,left,180.0,PO1,FC Famalicão,2000000.0,3,1,1,5,1503,26
+Christian Rasmussen,Denmark,Attack,left,184.0,DK1,FC Nordsjaelland,2000000.0,3,0,3,2,1003,22
+Zelimkhan Bakaev,Russia,Attack,left,180.0,RU1,Zenit St. Petersburg,2000000.0,1,0,0,1,264,28
+Cenk Tosun,Türkiye,Attack,right,183.0,TR1,Besiktas JK,2000000.0,2,0,6,7,1964,33
+Milutin Osmajic,Montenegro,Attack,both,186.0,ES1,Cádiz CF,2000000.0,0,0,0,0,68,25
+Emil Konradsen Ceide,Norway,Attack,right,175.0,IT1,US Sassuolo,2000000.0,1,0,1,0,345,23
+Élie Youan,France,Attack,right,183.0,SC1,Hibernian FC,2000000.0,2,0,8,9,2786,25
+Nazariy Rusyn,Ukraine,Attack,right,177.0,UKR1,Zorya Lugansk,2000000.0,0,0,1,0,265,26
+Amine Salama,France,Attack,right,192.0,FR1,Stade Reims,2000000.0,0,0,0,0,306,24
+Ablie Jallow,The Gambia,Attack,left,166.0,FR1,FC Metz,2000000.0,1,0,3,2,922,26
+Léo Jabá,Brazil,Attack,right,178.0,PO1,CF Estrela Amadora SAD,2000000.0,3,1,5,4,2234,26
+Luis Muriel,Colombia,Attack,right,180.0,IT1,Atalanta BC,2000000.0,0,0,6,1,683,33
+Callum Marshall,Northern Ireland,Attack,left,172.0,GB1,West Ham United,2000000.0,0,0,0,0,10,20
+Arbër Zeneli,Kosovo,Attack,right,176.0,TR1,Adana Demirspor,2000000.0,0,0,0,1,354,29
+Doğukan Sinik,Türkiye,Attack,right,180.0,TR1,Hatayspor,2000000.0,4,0,1,2,318,26
+Benjamin Verbic,Slovenia,Attack,right,183.0,GR1,Panathinaikos FC,2000000.0,4,0,3,0,956,31
+Yoann Cathline,France,Attack,right,176.0,NL1,Almere City FC,2000000.0,2,0,6,4,1935,22
+Erik Lamela,Argentina,Attack,left,184.0,ES1,Sevilla FC,2000000.0,6,0,2,1,845,32
+Darwin Machís,Venezuela,Attack,right,171.0,ES1,Cádiz CF,2000000.0,0,1,4,0,775,31
+Emre Kılınç,Türkiye,Attack,left,174.0,TR1,Samsunspor,2000000.0,4,0,4,5,2576,30
+Rachid Ghezzal,Algeria,Attack,left,182.0,TR1,Besiktas JK,2000000.0,6,0,1,3,1166,32
+José Manuel Arnáiz,Spain,Attack,right,173.0,ES1,CA Osasuna,2000000.0,4,0,3,1,1138,29
+Benjamin Nygren,Sweden,Attack,left,188.0,DK1,FC Nordsjaelland,2000000.0,3,0,4,1,1010,23
+Dawid Kownacki,Poland,Attack,right,186.0,L1,SV Werder Bremen,2000000.0,0,0,0,0,364,27
+Kevin Behrens,Germany,Attack,both,185.0,L1,VfL Wolfsburg,2000000.0,4,0,5,2,2310,33
+Adu Ares,Spain,Attack,right,183.0,ES1,Athletic Bilbao,2000000.0,2,0,2,0,482,23
+Stiven Shpendi,Albania,Attack,right,181.0,IT1,FC Empoli,2000000.0,0,0,0,0,429,21
+Oliver Burke,Scotland,Attack,right,188.0,L1,SV Werder Bremen,2000000.0,0,0,0,0,193,27
+Nikola Storm,Belgium,Attack,right,178.0,BE1,KV Mechelen,2000000.0,2,0,1,3,1074,30
+Kike Barja,Spain,Attack,right,179.0,ES1,CA Osasuna,2000000.0,3,0,0,0,398,27
+Shavy Babicka,Gabon,Attack,right,179.0,FR1,FC Toulouse,2000000.0,0,0,5,3,1026,24
+Can Keleş,Austria,Attack,left,180.0,TR1,Fatih Karagümrük,2000000.0,3,0,5,4,2273,23
+Anis Hadj Moussa,Algeria,Attack,left,176.0,NL1,Vitesse Arnhem,2000000.0,4,0,2,2,937,22
+Egor Golenkov,Russia,Attack,right,189.0,RU1,FK Rostov,2000000.0,4,0,9,7,2091,25
+Rigoberto Rivas,Honduras,Attack,right,178.0,TR1,Hatayspor,1900000.0,6,0,5,4,2434,26
+Dries Mertens,Belgium,Attack,right,169.0,TR1,Galatasaray,1800000.0,4,0,12,19,3196,37
+Umut Bozok,Türkiye,Attack,right,178.0,TR1,Trabzonspor,1800000.0,1,0,1,2,424,28
+Ronald,Brazil,Attack,right,177.0,PO1,CF Estrela Amadora SAD,1800000.0,4,0,1,2,1405,23
+Abdón Prats,Spain,Attack,left,181.0,ES1,RCD Mallorca,1800000.0,3,0,12,2,1836,32
+Ercan Kara,Austria,Attack,right,192.0,TR1,Samsunspor,1800000.0,0,0,3,0,944,29
+Ui-jo Hwang,"Korea, South",Attack,both,185.0,TR1,Alanyaspor,1800000.0,0,0,1,1,334,32
+Lazar Randjelovic,Serbia,Attack,right,175.0,RU1,Rubin Kazan,1800000.0,1,0,1,0,1359,27
+Altin Zeqiri,Kosovo,Attack,right,185.0,TR1,Caykur Rizespor,1800000.0,4,0,5,5,2288,24
+Mason Burstow,England,Attack,right,187.0,GB1,Chelsea FC,1800000.0,0,0,0,0,73,21
+Romeo Vermant,Belgium,Attack,right,184.0,BE1,KVC Westerlo,1800000.0,3,0,2,3,578,21
+Yousef Salech,Denmark,Attack,right,195.0,DK1,Bröndby IF,1800000.0,1,0,0,0,20,23
+Eduardo Guerrero,Panama,Attack,right,180.0,UKR1,Zorya Lugansk,1800000.0,8,0,10,4,2330,24
+Aylton Boa Morte,Portugal,Attack,right,182.0,TR1,Kayserispor,1800000.0,7,0,8,2,2634,31
+Philipp Hofmann,Germany,Attack,left,195.0,L1,VfL Bochum,1800000.0,1,0,4,3,1696,31
+Emmanuel Gyasi,Ghana,Attack,right,181.0,IT1,FC Empoli,1800000.0,10,0,1,3,1951,31
+Ally Samatta,Tanzania,Attack,right,183.0,GR1,PAOK Thessaloniki,1800000.0,2,0,2,3,1290,32
+Bilal Boutobba,France,Attack,left,172.0,FR1,Clermont Foot 63,1800000.0,1,0,1,1,919,26
+Martin Minchev,Bulgaria,Attack,right,185.0,TR1,Caykur Rizespor,1800000.0,4,0,3,2,1832,23
+Oleksiy Kashchuk,Ukraine,Attack,left,180.0,UKR1,Shakhtar Donetsk,1800000.0,0,0,4,1,592,24
+Allahyar Sayyadmanesh,Iran,Attack,right,180.0,BE1,KVC Westerlo,1800000.0,0,0,0,0,542,23
+Anastasios Chatzigiovanis,Greece,Attack,right,177.0,TR1,MKE Ankaragücü,1800000.0,1,0,2,1,1371,27
+Hyeon-gyu Oh,"Korea, South",Attack,right,185.0,SC1,Celtic FC,1800000.0,1,0,5,0,725,23
+Renat Dadashov,Azerbaijan,Attack,right,188.0,TR1,Hatayspor,1800000.0,7,0,6,0,1379,25
+Cristhian Stuani,Uruguay,Attack,right,184.0,ES1,Girona FC,1800000.0,8,0,14,3,1218,38
+Aitor Cantalapiedra,Spain,Attack,left,177.0,GR1,Panathinaikos FC,1800000.0,4,0,4,1,986,28
+Landry Dimata,Belgium,Attack,right,185.0,TR1,Samsunspor,1800000.0,6,0,2,0,632,27
+Brandon Thomas,Spain,Attack,right,173.0,GR1,PAOK Thessaloniki,1800000.0,8,0,8,5,1812,29
+Adrián Embarba,Spain,Attack,right,173.0,ES1,UD Almería,1800000.0,5,0,3,2,2485,32
+Chukwubuikem Ikwuemesi,Nigeria,Attack,right,195.0,IT1,US Salernitana 1919,1800000.0,2,0,4,2,1425,23
+Andros Townsend,England,Attack,left,181.0,GB1,Luton Town,1800000.0,1,0,1,3,1348,33
+Wahbi Khazri,Tunisia,Attack,right,176.0,FR1,Montpellier HSC,1800000.0,6,0,1,0,1131,33
+Joelson Fernandes,Portugal,Attack,right,172.0,TR1,Hatayspor,1800000.0,6,0,0,3,1399,21
+Stefan Mitrović,Serbia,Attack,right,182.0,IT1,Hellas Verona,1800000.0,0,0,0,0,601,22
+Yaroslav Gladyshev,Russia,Attack,left,181.0,RU1,Dynamo Moscow,1800000.0,0,0,4,3,934,21
+Dane Scarlett,England,Attack,right,180.0,GB1,Tottenham Hotspur,1800000.0,0,0,0,0,72,20
+Stefanos Tzimas,Greece,Attack,both,186.0,GR1,PAOK Thessaloniki,1800000.0,0,0,4,1,402,19
+Kaj Sierhuis,Netherlands,Attack,right,180.0,NL1,Fortuna Sittard,1800000.0,4,0,15,4,2526,26
+Kamal Sowah,Ghana,Attack,left,179.0,BE1,Standard Liège,1800000.0,0,0,2,0,1227,25
+Ohi Omoijuanfo,Norway,Attack,right,188.0,DK1,Bröndby IF,1800000.0,3,0,8,2,1656,31
+Robert Muric,Croatia,Attack,left,180.0,TR1,Konyaspor,1800000.0,0,0,2,0,685,28
+Jaloliddin Masharipov,Uzbekistan,Attack,right,172.0,GR1,Panserraikos,1700000.0,1,0,0,2,483,31
+Ali Sowe,The Gambia,Attack,right,191.0,TR1,MKE Ankaragücü,1700000.0,5,0,6,4,2136,30
+Shon Weissman,Israel,Attack,right,174.0,IT1,US Salernitana 1919,1700000.0,0,0,2,0,660,28
+Gonçalo Sousa,Portugal,Attack,right,186.0,PO1,FC Porto,1700000.0,0,0,0,0,7,18
+Queensy Menig,Netherlands,Attack,right,174.0,TR1,Sivasspor,1700000.0,0,0,2,1,810,29
+Adolfo Gaich,Argentina,Attack,right,190.0,TR1,Caykur Rizespor,1700000.0,3,0,8,2,1818,25
+Alberto Cerri,Italy,Attack,right,194.0,IT1,FC Empoli,1700000.0,2,0,1,0,623,28
+German Onugkha,Russia,Attack,right,193.0,DK1,Vejle Boldklub,1700000.0,4,0,7,0,1804,28
+Güven Yalçın,Türkiye,Attack,right,184.0,TR1,Fatih Karagümrük,1700000.0,5,0,9,4,2137,26
+Deniz Türüç,Türkiye,Attack,left,177.0,TR1,Basaksehir FK,1700000.0,11,0,2,12,2680,32
+Isak Jensen,Denmark,Attack,right,186.0,DK1,Viborg FF,1700000.0,0,0,3,2,1132,21
+David Akintola,Nigeria,Attack,right,178.0,TR1,Caykur Rizespor,1600000.0,4,0,4,3,2281,29
+Marley Aké,France,Attack,right,178.0,IT1,Udinese Calcio,1600000.0,0,0,0,0,131,24
+Younes Namli,Denmark,Attack,left,180.0,NL1,PEC Zwolle,1600000.0,5,0,4,8,2665,30
+Duckens Nazon,Haiti,Attack,right,181.0,TR1,Kayserispor,1600000.0,3,1,2,1,1002,30
+Philippe Keny,Senegal,Attack,right,190.0,TR1,Basaksehir FK,1600000.0,2,0,1,1,626,25
+Louka Prip,Denmark,Attack,left,182.0,TR1,Konyaspor,1600000.0,1,0,8,1,1701,27
+Vyacheslav Grulev,Russia,Attack,left,190.0,RU1,Dynamo Moscow,1500000.0,0,0,4,3,725,25
+Kobamelo Kodisang,South Africa,Attack,left,168.0,PO1,Moreirense FC,1500000.0,1,0,1,3,1711,25
+Gerson Rodrigues,Luxembourg,Attack,right,188.0,TR1,Sivasspor,1500000.0,2,0,2,0,669,29
+Christian Bassogog,Cameroon,Attack,left,173.0,TR1,MKE Ankaragücü,1500000.0,2,0,2,0,919,29
+Fábio Ronaldo,Portugal,Attack,right,178.0,PO1,Rio Ave FC,1500000.0,3,0,1,6,2718,23
+Emil Hansson,Sweden,Attack,right,172.0,NL1,Heracles Almelo,1500000.0,2,0,5,6,1924,26
+Nikola Cumic,Serbia,Attack,right,176.0,RU1,Rubin Kazan,1500000.0,3,0,1,4,1091,26
+Alberto Marí,Spain,Attack,right,183.0,ES1,Valencia CF,1500000.0,0,0,1,1,378,23
+Julian Rijkhoff,Netherlands,Attack,right,183.0,NL1,Ajax Amsterdam,1500000.0,0,0,0,0,63,20
+Steffen Tigges,Germany,Attack,left,194.0,L1,1.FC Köln,1500000.0,0,0,3,0,736,26
+Giuseppe Caso,Italy,Attack,right,172.0,IT1,Frosinone Calcio,1500000.0,3,0,1,2,547,26
+Sergio Araujo,Argentina,Attack,right,180.0,GR1,AEK Athens,1500000.0,3,0,3,0,906,33
+Joel Asoro,Sweden,Attack,right,176.0,FR1,FC Metz,1500000.0,2,0,3,2,966,25
+Sory Kaba,Guinea,Attack,right,189.0,DK1,FC Midtjylland,1500000.0,3,0,3,2,1272,29
+Sergio Córdova,Venezuela,Attack,right,188.0,TR1,Alanyaspor,1500000.0,3,1,3,2,1563,27
+Daniil Lesovoy,Russia,Attack,right,177.0,RU1,Dynamo Moscow,1500000.0,2,0,0,1,422,27
+Dmitriy Vorobyev,Russia,Attack,right,185.0,RU1,FK Orenburg,1500000.0,4,0,8,1,2163,27
+Rochinha,Portugal,Attack,right,169.0,TR1,Kasimpasa,1500000.0,1,0,0,0,182,29
+Vito van Crooij,Netherlands,Attack,right,179.0,NL1,Sparta Rotterdam,1500000.0,1,0,0,1,263,29
+Iván Alejo,Spain,Attack,right,186.0,ES1,Cádiz CF,1500000.0,17,0,0,2,1690,29
+Norman Bassette,Belgium,Attack,left,186.0,BE1,KV Mechelen,1500000.0,0,0,3,1,572,20
+Grejohn Kyei,France,Attack,right,187.0,FR1,Clermont Foot 63,1500000.0,1,0,2,1,1020,29
+Masaya Okugawa,Japan,Attack,both,177.0,L1,FC Augsburg,1500000.0,0,0,0,0,30,28
+Karim Onisiwo,Austria,Attack,right,188.0,L1,1.FSV Mainz 05,1500000.0,1,0,1,3,1677,32
+Gianluca Lapadula,Peru,Attack,left,178.0,IT1,Cagliari Calcio,1500000.0,3,0,4,1,1249,34
+Marko Lazetić,Serbia,Attack,right,192.0,NL1,Fortuna Sittard,1500000.0,1,0,0,0,176,21
+Chaka Traorè,Cote d'Ivoire,Attack,right,175.0,IT1,AC Milan,1500000.0,0,0,2,0,101,20
+Isaak Davies,Wales,Attack,right,175.0,BE1,KV Kortrijk,1500000.0,1,0,8,0,1742,23
+Franco Cervi,Argentina,Attack,left,166.0,ES1,Celta de Vigo,1500000.0,2,0,0,1,716,30
+Anosike Ementa,Denmark,Attack,right,202.0,DK1,Viborg FF,1500000.0,5,0,8,4,1691,22
+Jessic Ngankam,Germany,Attack,right,184.0,L1,1.FSV Mainz 05,1500000.0,3,1,3,1,569,24
+Raúl García,Spain,Attack,right,184.0,ES1,Athletic Bilbao,1500000.0,7,0,7,3,2075,38
+Nilson Angulo,Ecuador,Attack,right,183.0,BE1,RSC Anderlecht,1500000.0,1,0,1,0,42,21
+Hugo Álvarez,Spain,Attack,right,176.0,ES1,Celta de Vigo,1500000.0,1,0,1,1,886,21
+Duk,Cape Verde,Attack,right,182.0,SC1,Aberdeen FC,1500000.0,5,0,4,5,1842,24
+Tobias Bech,Denmark,Attack,left,189.0,DK1,Aarhus GF,1500000.0,4,0,7,0,1983,22
+Valon Ethemi,North Macedonia,Attack,right,179.0,TR1,Istanbulspor,1500000.0,4,0,2,5,1993,27
+Gonçalo Paciência,Portugal,Attack,right,184.0,L1,VfL Bochum,1500000.0,2,0,3,1,644,30
+André Luis,Brazil,Attack,right,184.0,PO1,Moreirense FC,1500000.0,4,0,7,2,1425,30
+Xeber Alkain,Spain,Attack,right,174.0,ES1,Deportivo Alavés,1500000.0,2,0,3,2,554,27
+Mamadou Sylla,Senegal,Attack,right,180.0,ES1,Deportivo Alavés,1500000.0,0,0,0,0,16,30
+José Luis Morales,Spain,Attack,right,180.0,ES1,Villarreal CF,1500000.0,0,0,10,1,1504,37
+Iñigo Córdoba,Spain,Attack,left,178.0,NL1,Fortuna Sittard,1500000.0,3,0,4,2,2906,27
+Emre Gökay,Türkiye,Attack,left,181.0,TR1,Sivasspor,1500000.0,0,0,0,0,84,18
+Ibrahim Cissoko,Netherlands,Attack,right,188.0,FR1,FC Toulouse,1500000.0,1,0,1,1,320,21
+Lebo Mothiba,South Africa,Attack,right,182.0,FR1,RC Strasbourg Alsace,1500000.0,0,0,3,0,610,29
+Kazeem Olaigbe,Belgium,Attack,right,178.0,BE1,Cercle Brugge,1500000.0,0,0,3,0,596,22
+Oday Dabbagh,Palestine,Attack,left,183.0,BE1,R Charleroi SC,1500000.0,1,0,4,2,1472,26
+Milan Djuric,Bosnia-Herzegovina,Attack,right,199.0,IT1,Hellas Verona,1500000.0,4,0,10,4,2554,34
+Theo Corbeanu,Canada,Attack,left,190.0,ES1,Granada CF,1500000.0,2,0,1,0,196,22
+Samuel Grandsir,France,Attack,right,170.0,FR1,Le Havre AC,1500000.0,4,1,1,0,586,28
+George Pușcaș,Romania,Attack,right,188.0,IT1,Genoa CFC,1500000.0,0,0,0,1,283,28
+Carlos Fernández,Spain,Attack,left,185.0,ES1,Real Sociedad,1500000.0,4,0,3,1,560,28
+Sandro Ramírez,Spain,Attack,right,174.0,ES1,UD Las Palmas,1500000.0,2,0,1,3,1819,29
+Edward Chilufya,Zambia,Attack,right,171.0,DK1,FC Midtjylland,1500000.0,0,0,1,0,571,25
+Caleb Ekuban,Ghana,Attack,right,182.0,IT1,Genoa CFC,1500000.0,0,0,4,3,1169,30
+Alexander Jeremejeff,Sweden,Attack,right,192.0,GR1,Panathinaikos FC,1500000.0,1,0,7,0,349,31
+Diego Valencia,Chile,Attack,right,185.0,GR1,Atromitos Athens,1500000.0,7,0,2,4,1872,25
+Danny Armstrong,Scotland,Attack,left,175.0,SC1,Kilmarnock FC,1500000.0,9,0,8,11,2928,27
+Mariano Díaz,Dominican Republic,Attack,right,180.0,ES1,Sevilla FC,1500000.0,2,0,0,1,319,31
+Manu Vallejo,Spain,Attack,right,167.0,ES1,Girona FC,1500000.0,0,0,0,0,11,27
+Josh Bowler,England,Attack,left,184.0,GB1,Nottingham Forest,1500000.0,1,0,0,0,90,25
+Malcolm Ebiowei,England,Attack,left,185.0,BE1,RWD Molenbeek,1500000.0,1,0,0,1,144,21
+Aral Şimşir,Türkiye,Attack,right,167.0,DK1,FC Midtjylland,1500000.0,3,0,3,1,1886,22
+Léo Baptistão,Brazil,Attack,right,183.0,ES1,UD Almería,1500000.0,6,1,6,0,1910,32
+Marius Mouandilmadji,Chad,Attack,right,190.0,TR1,Samsunspor,1500000.0,5,1,9,2,2093,27
+Marouan Azarkan,Morocco,Attack,left,165.0,NL1,FC Utrecht,1500000.0,3,0,0,1,865,23
+Pelle van Amersfoort,Netherlands,Attack,right,195.0,NL1,SC Heerenveen,1500000.0,3,0,13,1,2265,28
+Elbasan Rashani,Kosovo,Attack,left,181.0,FR1,Clermont Foot 63,1500000.0,4,2,2,1,1176,31
+Sam Larsson,Sweden,Attack,right,180.0,TR1,Antalyaspor,1500000.0,1,0,5,1,2572,31
+Victor Lind,Denmark,Attack,left,176.0,DK1,Vejle Boldklub,1500000.0,0,0,0,0,170,21
+Yuki Soma,Japan,Attack,right,166.0,PO1,Casa Pia AC,1500000.0,3,0,5,3,2084,27
+Toni Villa,Spain,Attack,right,172.0,ES1,Girona FC,1500000.0,0,0,0,0,11,30
+Ross McCausland,Northern Ireland,Attack,right,183.0,SC1,Rangers FC,1500000.0,0,0,2,3,1602,21
+Juan Cruz,Spain,Attack,left,180.0,ES1,Real Betis Balompié,1500000.0,3,0,0,1,2192,24
+Nemanja Jovic,Serbia,Attack,right,178.0,PO1,GD Estoril Praia,1500000.0,0,0,0,0,13,22
+Loizos Loizou,Cyprus,Attack,left,168.0,NL1,SC Heerenveen,1500000.0,0,0,0,0,340,21
+Amath Ndiaye,Senegal,Attack,right,173.0,ES1,RCD Mallorca,1500000.0,3,0,0,0,620,28
+Marcus Coco,Guadeloupe,Attack,right,184.0,FR1,FC Nantes,1500000.0,2,0,1,0,1489,28
+Gustavo Sauer,Brazil,Attack,left,181.0,TR1,Caykur Rizespor,1400000.0,4,0,1,1,1539,31
+Federico Di Francesco,Italy,Attack,right,171.0,IT1,US Lecce,1400000.0,0,0,1,0,31,30
+Marc Cardona,Spain,Attack,right,182.0,ES1,UD Las Palmas,1400000.0,5,0,4,2,832,29
+Rubén Sobrino,Spain,Attack,right,185.0,ES1,Cádiz CF,1400000.0,8,1,0,1,1675,32
+Halil Akbunar,Türkiye,Attack,left,170.0,TR1,Pendikspor,1400000.0,2,1,5,3,2812,31
+Gennaro Borrelli,Italy,Attack,right,194.0,IT1,Frosinone Calcio,1400000.0,0,0,0,0,88,24
+Nico Serrano,Spain,Attack,left,176.0,NL1,PEC Zwolle,1400000.0,1,0,0,1,189,21
+Mustafa Eskihellaç,Türkiye,Attack,right,175.0,TR1,Gaziantep FK,1400000.0,5,0,2,4,3069,27
+Pione Sisto,Denmark,Attack,right,172.0,TR1,Alanyaspor,1300000.0,1,0,1,0,662,29
+Ernest Poku,Netherlands,Attack,right,176.0,NL1,AZ Alkmaar,1300000.0,1,0,2,4,911,21
+Alassane Ndao,Senegal,Attack,right,176.0,TR1,Istanbulspor,1300000.0,3,0,3,4,2848,28
+Fredrik Gulbrandsen,Norway,Attack,right,175.0,TR1,Adana Demirspor,1300000.0,0,0,2,0,272,32
+Andre Gray,Jamaica,Attack,right,178.0,GR1,Aris Thessaloniki,1300000.0,0,0,0,0,59,33
+Renaldo Cephas,Jamaica,Attack,right,179.0,TR1,MKE Ankaragücü,1300000.0,5,0,7,3,1975,25
+Martin Boyle,Australia,Attack,right,172.0,SC1,Hibernian FC,1300000.0,7,0,7,4,2517,31
+Benito Raman,Belgium,Attack,right,172.0,TR1,Samsunspor,1300000.0,3,0,0,1,705,30
+Ivan Oleynikov,Russia,Attack,right,178.0,RU1,Akhmat Grozny,1300000.0,3,0,4,5,2052,26
+Carlos Alberto,Brazil,Attack,right,181.0,BE1,RWD Molenbeek,1300000.0,0,0,2,0,664,22
+Franck Surdez,Switzerland,Attack,right,188.0,BE1,KAA Gent,1300000.0,0,0,0,0,52,22
+Christopher Antwi-Adjei,Ghana,Attack,right,174.0,L1,VfL Bochum,1200000.0,5,0,2,2,1304,30
+Vladislav Shitov,Russia,Attack,left,177.0,RU1,Krylya Sovetov Samara,1200000.0,0,0,4,4,1748,21
+Aleksey Sutormin,Russia,Attack,right,188.0,RU1,FC Sochi,1200000.0,2,0,2,3,909,31
+Murilo de Souza,Brazil,Attack,left,176.0,PO1,Gil Vicente FC,1200000.0,3,0,4,5,1999,30
+Kaide Gordon,England,Attack,left,173.0,GB1,Liverpool FC,1200000.0,0,0,0,0,77,20
+Fraser Hornby,Scotland,Attack,right,195.0,L1,SV Darmstadt 98,1200000.0,1,0,0,0,303,25
+Saevar Atli Magnússon,Iceland,Attack,right,177.0,DK1,Lyngby BK,1200000.0,3,0,2,4,1701,24
+Marcão,Brazil,Attack,both,196.0,TR1,Fatih Karagümrük,1200000.0,5,0,7,1,1214,30
+Karol Angielski,Poland,Attack,left,181.0,GR1,Atromitos Athens,1200000.0,1,0,10,0,1376,28
+Lazar Markovic,Serbia,Attack,right,175.0,TR1,Gaziantep FK,1200000.0,7,0,3,5,1547,30
+Oscar Schwartau,Denmark,Attack,right,186.0,DK1,Bröndby IF,1200000.0,1,0,1,0,289,18
+Timur Suleymanov,Russia,Attack,both,183.0,RU1,Lokomotiv Moscow,1200000.0,4,0,13,2,1686,24
+Aliou Badji,Senegal,Attack,right,189.0,TR1,Gaziantep FK,1200000.0,2,0,1,0,328,27
+Béni Makouana,Congo,Attack,right,182.0,UKR1,Polissya Zhytomyr,1200000.0,2,0,4,3,1575,22
+Choco Lozano,Honduras,Attack,right,183.0,ES1,UD Almería,1200000.0,2,0,4,4,959,31
+Joel Fameyeh,Ghana,Attack,right,180.0,RU1,Baltika Kaliningrad,1200000.0,3,0,4,1,1253,27
+Adrian Grbic,Austria,Attack,left,188.0,FR1,FC Lorient,1200000.0,0,0,0,0,30,28
+Oleg Kozhushko,Ukraine,Attack,right,173.0,UKR1,Kryvbas Kryvyi Rig,1200000.0,5,0,9,4,1673,26
+Bill Antonio,Zimbabwe,Attack,right,177.0,BE1,KV Mechelen,1200000.0,0,0,3,0,576,22
+Scott Wright,Scotland,Attack,right,176.0,SC1,Rangers FC,1200000.0,2,0,1,0,914,27
+Roger Martí,Spain,Attack,right,179.0,ES1,Cádiz CF,1200000.0,3,0,2,3,1369,34
+Salvi Sánchez,Spain,Attack,right,170.0,ES1,Rayo Vallecano,1200000.0,0,0,2,1,225,33
+Tamerlan Musaev,Russia,Attack,right,186.0,RU1,Baltika Kaliningrad,1200000.0,5,0,10,5,2206,23
+Carlos Mané,Guinea-Bissau,Attack,right,173.0,TR1,Kayserispor,1200000.0,2,0,5,2,1133,30
+Jordi Mboula,Spain,Attack,right,183.0,IT1,Hellas Verona,1200000.0,0,0,1,1,483,25
+Maryan Shved,Ukraine,Attack,left,171.0,UKR1,Shakhtar Donetsk,1200000.0,0,0,3,2,603,27
+Pejiño,Spain,Attack,left,178.0,ES1,UD Las Palmas,1200000.0,1,0,2,0,674,28
+Patrick Pflücke,Germany,Attack,left,170.0,BE1,KV Mechelen,1200000.0,1,0,4,4,1154,28
+Islam Slimani,Algeria,Attack,right,188.0,BE1,KV Mechelen,1200000.0,1,0,0,2,407,36
+Keita Baldé,Senegal,Attack,both,178.0,RU1,Spartak Moscow,1200000.0,1,0,0,1,278,29
+Mathias Honsak,Austria,Attack,left,188.0,L1,SV Darmstadt 98,1200000.0,1,0,1,1,1089,28
+Mamadou Fall,Senegal,Attack,right,184.0,TR1,Kasimpasa,1200000.0,4,0,8,5,2858,33
+Brian Mansilla,Argentina,Attack,left,178.0,RU1,FK Orenburg,1200000.0,6,1,3,4,2211,27
+Ahmed Hassan,Egypt,Attack,right,191.0,TR1,Pendikspor,1200000.0,1,0,6,2,994,31
+Saúl Guarirapa,Venezuela,Attack,right,189.0,RU1,FC Sochi,1200000.0,3,0,9,1,843,22
+Luca Pfeiffer,Germany,Attack,right,196.0,L1,SV Darmstadt 98,1200000.0,3,0,1,4,1626,28
+Braydon Manu,Ghana,Attack,both,170.0,L1,SV Darmstadt 98,1200000.0,1,0,0,0,216,27
+Noah Adedeji-Sternberg,Belgium,Attack,right,182.0,BE1,KRC Genk,1200000.0,0,0,0,0,17,19
+Jaydon Banel,Netherlands,Attack,right,172.0,NL1,Ajax Amsterdam,1200000.0,0,0,0,1,93,20
+Isaac Mbenza,Belgium,Attack,right,188.0,BE1,R Charleroi SC,1200000.0,3,0,1,3,1579,28
+Marco Tilio,Australia,Attack,left,170.0,SC1,Celtic FC,1200000.0,0,0,0,0,28,23
+Benhur Keser,Türkiye,Attack,right,185.0,TR1,Caykur Rizespor,1200000.0,3,0,4,4,1542,28
+Louicius Don Deedson,Haiti,Attack,left,178.0,DK1,Odense Boldklub,1200000.0,4,0,8,0,1275,23
+Ivan Brnic,Croatia,Attack,right,173.0,GR1,Olympiacos Piraeus,1200000.0,0,0,2,1,625,23
+Garry Rodrigues,Cape Verde,Attack,right,173.0,TR1,MKE Ankaragücü,1100000.0,3,0,2,4,804,34
+Tonio Teklic,Croatia,Attack,left,182.0,TR1,Fatih Karagümrük,1100000.0,3,0,0,1,447,25
+Emanuel Vignato,Italy,Attack,right,175.0,IT1,US Salernitana 1919,1100000.0,1,0,0,1,308,24
+Vitaliy Lisakovich,Belarus,Attack,right,179.0,RU1,Baltika Kaliningrad,1000000.0,5,0,4,4,1370,26
+Papa Amadou Diallo,Senegal,Attack,right,182.0,FR1,FC Metz,1000000.0,1,0,2,1,890,20
+Kingstone Mutandwa,Zambia,Attack,right,180.0,IT1,Cagliari Calcio,1000000.0,0,0,1,0,34,22
+Emmanuel Boateng,Ghana,Attack,right,175.0,PO1,Rio Ave FC,1000000.0,10,0,7,4,1928,28
+Rildo,Brazil,Attack,right,178.0,PO1,Portimonense SC,1000000.0,3,0,1,1,660,25
+Jordhy Thompson,Chile,Attack,left,161.0,RU1,FK Orenburg,1000000.0,0,0,2,1,780,20
+Dzenan Pejcinovic,Germany,Attack,left,188.0,L1,VfL Wolfsburg,1000000.0,1,0,0,0,33,19
+Simon Elisor,France,Attack,left,185.0,FR1,FC Metz,1000000.0,1,0,1,0,769,25
+Siriné Doucouré,Mali,Attack,right,193.0,FR1,FC Lorient,1000000.0,2,0,1,3,422,22
+Pablo Pagis,France,Attack,both,180.0,FR1,FC Lorient,1000000.0,1,0,0,0,167,22
+Seydou Fini,Italy,Attack,left,178.0,BE1,Standard Liège,1000000.0,1,0,0,0,80,18
+Nathan Fraser,Ireland,Attack,right,188.0,GB1,Wolverhampton Wanderers,1000000.0,1,0,2,1,351,19
+Alex Fernandes,Brazil,Attack,left,172.0,RU1,Baltika Kaliningrad,1000000.0,3,0,5,1,1234,22
+Max Moerstedt,Germany,Attack,right,194.0,L1,TSG 1899 Hoffenheim,1000000.0,0,0,0,0,11,19
+Jayden Danns,England,Attack,right,183.0,GB1,Liverpool FC,1000000.0,1,0,2,0,78,19
+Zanos Savva,Cyprus,Attack,left,191.0,IT1,Torino FC,1000000.0,0,0,1,0,26,19
+João Costa,Portugal,Attack,left,178.0,IT1,AS Roma,1000000.0,1,0,0,0,18,19
+Salim El Jebari,Morocco,Attack,right,178.0,ES1,Atlético de Madrid,1000000.0,0,0,0,0,12,20
+Madson,Brazil,Attack,left,164.0,PO1,Moreirense FC,1000000.0,2,0,5,1,1359,25
+Ion Nicolaescu,Moldova,Attack,both,184.0,NL1,SC Heerenveen,1000000.0,1,0,5,1,849,26
+Ali Alipour,Iran,Attack,both,181.0,PO1,Gil Vicente FC,1000000.0,1,0,2,1,802,29
+Luiz Phellype,Brazil,Attack,right,188.0,GR1,OFI Crete FC,1000000.0,4,0,7,1,1897,31
+Didier Lamkel Zé,Cameroon,Attack,right,189.0,FR1,FC Metz,1000000.0,4,0,4,3,1499,28
+Simen Nordli,Norway,Attack,right,181.0,DK1,Randers FC,1000000.0,1,0,5,0,1455,25
+Vladimir Pisarskiy,Russia,Attack,right,188.0,RU1,Krylya Sovetov Samara,1000000.0,0,0,4,0,546,28
+Yvandro Borges Sanches,Luxembourg,Attack,right,177.0,NL1,NEC Nijmegen,1000000.0,0,0,0,2,304,20
+Grant-Leon Ranos,Armenia,Attack,right,180.0,L1,Borussia Mönchengladbach,1000000.0,0,0,1,1,60,21
+Evgeniy Markov,Russia,Attack,right,187.0,RU1,Fakel Voronezh,1000000.0,4,0,9,1,1839,30
+Cauley Woodrow,England,Attack,right,184.0,GB1,Luton Town,1000000.0,2,0,3,1,656,30
+Mads Hansen,Denmark,Attack,left,185.0,DK1,FC Nordsjaelland,1000000.0,1,0,2,0,695,22
+Grégoire Defrel,France,Attack,left,179.0,IT1,US Sassuolo,1000000.0,1,0,1,2,949,33
+Theo Bair,Canada,Attack,right,191.0,SC1,Motherwell FC,1000000.0,1,0,13,4,2382,25
+Andreas Cornelius,Denmark,Attack,left,193.0,DK1,FC Copenhagen,1000000.0,1,0,1,1,728,31
+Henok Teklab,Germany,Attack,right,174.0,BE1,Union Saint-Gilloise,1000000.0,1,0,0,1,368,26
+Stephen Odey,Nigeria,Attack,right,182.0,DK1,Randers FC,1000000.0,2,0,3,3,1707,27
+Alejandro Marqués,Venezuela,Attack,right,189.0,PO1,GD Estoril Praia,1000000.0,4,0,9,1,1465,24
+Oliver Antman,Finland,Attack,right,185.0,DK1,FC Nordsjaelland,1000000.0,0,0,1,1,886,23
+Halil Dervişoğlu,Türkiye,Attack,right,183.0,TR1,Hatayspor,1000000.0,1,0,2,1,1028,25
+Gerrit Holtmann,Philippines,Attack,left,185.0,L1,SV Darmstadt 98,1000000.0,2,0,0,1,584,29
+Britt Assombalonga,DR Congo,Attack,right,177.0,TR1,Antalyaspor,1000000.0,5,0,2,0,626,32
+Nuno Moreira,Portugal,Attack,right,175.0,PO1,FC Vizela,1000000.0,4,0,4,3,2064,25
+Jizz Hornkamp,Netherlands,Attack,right,182.0,NL1,Heracles Almelo,1000000.0,2,0,10,2,1295,26
+Elayis Tavsan,Netherlands,Attack,left,183.0,NL1,NEC Nijmegen,1000000.0,3,0,3,3,521,23
+Uros Kabic,Serbia,Attack,left,183.0,IT1,Torino FC,1000000.0,0,0,0,0,12,21
+Serginho,Cape Verde,Attack,right,183.0,DK1,Viborg FF,1000000.0,2,0,2,2,882,24
+Stiven Mendoza,Colombia,Attack,left,171.0,TR1,Adana Demirspor,1000000.0,2,0,3,0,1082,32
+Konrad Michalak,Poland,Attack,right,176.0,TR1,Konyaspor,1000000.0,0,0,0,1,228,27
+Jorge Pascual,Spain,Attack,left,187.0,ES1,Villarreal CF,1000000.0,0,0,1,0,139,21
+Divin Mubama,England,Attack,left,183.0,GB1,West Ham United,1000000.0,0,0,0,0,271,20
+Mark Uth,Germany,Attack,left,185.0,L1,1.FC Köln,1000000.0,2,0,1,2,435,33
+Alex Dobre,Romania,Attack,right,185.0,PO1,FC Famalicão,1000000.0,0,0,0,0,340,26
+Kaio César,Brazil,Attack,right,168.0,PO1,Vitória Guimarães SC,1000000.0,3,0,0,0,419,20
+Ferdy Druijf,Netherlands,Attack,right,190.0,NL1,PEC Zwolle,1000000.0,2,0,5,2,949,26
+Juan Miritello,Argentina,Attack,right,182.0,GR1,Asteras Aktor,1000000.0,5,0,13,2,1897,25
+Ibrahim Said,Nigeria,Attack,right,172.0,DK1,Viborg FF,1000000.0,5,1,2,5,1427,22
+Benjamin Tetteh,Ghana,Attack,right,193.0,FR1,FC Metz,1000000.0,2,0,0,0,268,27
+Jason van Duiven,Netherlands,Attack,right,175.0,NL1,Almere City FC,1000000.0,1,0,0,0,326,19
+Daniel Jebbison,Canada,Attack,right,190.0,GB1,Sheffield United,1000000.0,0,0,0,0,20,21
+Jayden Addai,Netherlands,Attack,left,176.0,NL1,AZ Alkmaar,1000000.0,2,0,0,1,355,19
+Lequincio Zeefuik,Netherlands,Attack,right,197.0,NL1,FC Volendam,1000000.0,3,0,3,3,933,20
+Yayah Kallon,Sierra Leone,Attack,left,175.0,IT1,Hellas Verona,1000000.0,0,0,0,0,3,23
+Thierry Ambrose,Guadeloupe,Attack,right,180.0,BE1,KV Kortrijk,1000000.0,0,0,0,0,52,27
+Luifer Hernández,Venezuela,Attack,right,178.0,UKR1,Polissya Zhytomyr,1000000.0,0,0,4,0,566,23
+Kemar Roofe,Jamaica,Attack,right,178.0,SC1,Rangers FC,1000000.0,2,0,2,1,629,32
+Úmaro Embaló,Portugal,Attack,left,170.0,PO1,Rio Ave FC,1000000.0,1,0,1,1,869,23
+Komnen Andric,Serbia,Attack,right,189.0,FR1,Clermont Foot 63,1000000.0,0,0,0,0,164,29
+Marrony,Brazil,Attack,left,186.0,DK1,FC Midtjylland,1000000.0,0,0,1,1,179,25
+Jakob Breum,Denmark,Attack,right,178.0,NL1,Go Ahead Eagles,1000000.0,2,0,3,4,1696,21
+Marios Vrousai,Greece,Attack,both,183.0,GR1,Olympiacos Piraeus,1000000.0,0,0,1,1,862,26
+Nicola Sansone,Italy,Attack,right,174.0,IT1,US Lecce,1000000.0,4,0,2,2,813,33
+Massimo Coda,Italy,Attack,right,184.0,IT1,Genoa CFC,1000000.0,0,0,1,0,54,36
+Kike García,Spain,Attack,right,186.0,ES1,Deportivo Alavés,1000000.0,3,0,3,2,1526,35
+Patrick Herrmann,Germany,Attack,right,179.0,L1,Borussia Mönchengladbach,1000000.0,1,0,0,0,78,33
+Pedro,Spain,Attack,both,167.0,IT1,SS Lazio,1000000.0,9,0,6,1,1946,37
+James Forrest,Scotland,Attack,right,175.0,SC1,Celtic FC,1000000.0,1,0,4,1,601,33
+André Ayew,Ghana,Attack,left,175.0,FR1,Le Havre AC,1000000.0,2,1,5,0,1105,35
+Jóhann Berg Gudmundsson,Iceland,Attack,left,186.0,GB1,Burnley FC,1000000.0,2,0,1,3,1282,34
+Francesco Caputo,Italy,Attack,right,181.0,IT1,FC Empoli,1000000.0,0,0,4,0,1364,37
+Jay Rodríguez,England,Attack,right,185.0,GB1,Burnley FC,1000000.0,1,0,2,1,1039,35
+Kahveh Zahiroleslam,United States,Attack,right,193.0,BE1,Sint-Truidense VV,950000.0,3,0,5,1,1264,22
+Clinton N'Jie,Cameroon,Attack,right,175.0,TR1,Sivasspor,950000.0,4,0,2,2,1283,31
+Yusuf Barası,Türkiye,Attack,right,182.0,TR1,Adana Demirspor,950000.0,2,0,4,2,862,21
+Stéphane Bahoken,Cameroon,Attack,right,185.0,TR1,Kayserispor,950000.0,1,0,3,0,746,32
+Kevin Lasagna,Italy,Attack,left,186.0,TR1,Fatih Karagümrük,950000.0,3,0,2,2,1179,32
+Sagiv Jehezkel,Israel,Attack,right,184.0,TR1,Antalyaspor,900000.0,7,0,6,2,1157,29
+Jaime Mata,Spain,Attack,right,186.0,ES1,Getafe CF,900000.0,11,0,6,2,1964,36
+Loide Augusto,Angola,Attack,right,183.0,TR1,Alanyaspor,900000.0,6,0,3,2,1790,24
+Franco Tongya,Italy,Attack,right,175.0,DK1,Odense Boldklub,900000.0,0,0,1,0,303,22
+Carlos Eduardo,Brazil,Attack,right,173.0,TR1,Alanyaspor,900000.0,3,0,4,1,1519,28
+Yuriy Klymchuk,Ukraine,Attack,right,178.0,UKR1,Rukh Lviv,900000.0,1,0,5,3,1319,27
+Giorgi Beridze,Georgia,Attack,right,174.0,TR1,MKE Ankaragücü,900000.0,0,0,0,0,45,27
+Adriano Bertaccini,Belgium,Attack,right,173.0,BE1,Sint-Truidense VV,900000.0,0,0,0,0,35,24
+Bernard Berisha,Kosovo,Attack,right,165.0,RU1,Akhmat Grozny,900000.0,7,0,3,6,1873,33
+Jesús Jiménez,Spain,Attack,right,183.0,GR1,OFI Crete FC,900000.0,0,0,1,0,137,31
+Jaime Báez,Uruguay,Attack,right,178.0,IT1,Frosinone Calcio,900000.0,1,0,1,1,576,29
+Søren Tengstedt,Denmark,Attack,left,187.0,DK1,Silkeborg IF,900000.0,0,0,6,3,1407,24
+Myziane Maolida,Comoros,Attack,right,181.0,SC1,Hibernian FC,900000.0,1,0,8,1,1115,25
+Jewison Bennette,Costa Rica,Attack,left,173.0,GR1,Aris Thessaloniki,900000.0,1,0,0,0,160,20
+Daniel Karlsbakk,Norway,Attack,right,186.0,NL1,SC Heerenveen,900000.0,0,0,2,0,325,21
+Tonni Adamsen,Denmark,Attack,left,180.0,DK1,Silkeborg IF,900000.0,2,0,7,5,1425,30
+Brian Ocampo,Uruguay,Attack,right,172.0,ES1,Cádiz CF,900000.0,2,0,1,0,304,25
+Bobby Adekanye,Netherlands,Attack,left,175.0,NL1,Go Ahead Eagles,900000.0,4,1,0,6,1980,25
+Anton Zabolotnyi,Russia,Attack,right,191.0,RU1,CSKA Moscow,900000.0,5,0,12,4,2383,33
+Maksym Zaderaka,Ukraine,Attack,right,171.0,UKR1,Kryvbas Kryvyi Rig,900000.0,1,0,7,3,1705,30
+Filip Stevanovic,Serbia,Attack,right,177.0,NL1,RKC Waalwijk,900000.0,1,0,2,0,631,22
+Mikael Anderson,Iceland,Attack,right,180.0,DK1,Aarhus GF,900000.0,4,0,2,4,2273,26
+Umut Nayir,Türkiye,Attack,right,191.0,TR1,Pendikspor,900000.0,3,0,4,1,1346,31
+Mitchell van Bergen,Netherlands,Attack,right,170.0,NL1,Twente Enschede FC,900000.0,0,0,0,1,524,25
+Vladislav Sarveli,Russia,Attack,right,176.0,RU1,Lokomotiv Moscow,900000.0,1,0,3,3,724,27
+Max Fenger,Denmark,Attack,right,185.0,DK1,Odense Boldklub,900000.0,0,0,1,0,214,23
+Dardan Shabanhaxhaj,Austria,Attack,right,183.0,RU1,Rubin Kazan,900000.0,0,0,0,1,427,23
+Yanis Begraoui,Morocco,Attack,both,179.0,FR1,FC Toulouse,900000.0,0,0,0,0,330,23
+Marko Milovanovic,Serbia,Attack,right,197.0,ES1,UD Almería,900000.0,0,0,2,0,368,21
+Abdoul Kader Bamba,France,Attack,right,177.0,FR1,FC Nantes,900000.0,2,0,2,1,593,30
+Marvin Cuni,Albania,Attack,right,188.0,IT1,Frosinone Calcio,900000.0,0,0,1,1,548,23
+Douglas Tanque,Brazil,Attack,left,188.0,TR1,Samsunspor,900000.0,0,0,0,0,21,31
+Gamid Agalarov,Russia,Attack,left,181.0,RU1,Akhmat Grozny,900000.0,2,0,3,0,798,24
+Mexx Meerdink,Netherlands,Attack,left,182.0,NL1,Vitesse Arnhem,900000.0,0,0,0,0,709,21
+Dimitrios Limnios,Greece,Attack,right,178.0,GR1,Panathinaikos FC,900000.0,1,0,1,0,176,26
+Elias Hoff Melkersen,Norway,Attack,right,179.0,SC1,Hibernian FC,900000.0,0,0,0,0,66,22
+Jonatan Braut Brunes,Norway,Attack,left,188.0,BE1,Oud-Heverlee Leuven,900000.0,1,0,3,2,1055,24
+Davidson,Brazil,Attack,right,177.0,TR1,Basaksehir FK,850000.0,2,0,4,0,981,33
+Mats Seuntjens,Netherlands,Attack,right,187.0,NL1,RKC Waalwijk,850000.0,4,0,2,2,1804,32
+Musa Juwara,The Gambia,Attack,left,170.0,DK1,Vejle Boldklub,850000.0,2,0,1,7,869,23
+Marlos Moreno,Colombia,Attack,right,173.0,TR1,Konyaspor,850000.0,4,0,2,2,1917,28
+Anderson Silva,Brazil,Attack,right,186.0,TR1,Alanyaspor,850000.0,1,0,0,0,244,27
+Jackson,Brazil,Attack,right,178.0,TR1,Istanbulspor,850000.0,2,0,1,5,2265,25
+Issa Soumaré,Senegal,Attack,right,182.0,FR1,Le Havre AC,800000.0,0,0,0,0,236,24
+Barrie McKay,Scotland,Attack,right,175.0,SC1,Heart of Midlothian FC,800000.0,0,0,0,0,374,30
+Yusuke Matsuo,Japan,Attack,right,170.0,BE1,KVC Westerlo,800000.0,0,0,0,1,838,27
+Suphanat Mueanta,Thailand,Attack,right,173.0,BE1,Oud-Heverlee Leuven,800000.0,0,0,1,0,136,22
+Leonardo Cerri,Italy,Attack,both,198.0,IT1,Juventus FC,800000.0,0,0,0,0,6,21
+Aliou Baldé,Guinea,Attack,right,170.0,FR1,OGC Nice,800000.0,0,0,0,0,65,22
+Camiel Neghli,Algeria,Attack,left,179.0,NL1,Sparta Rotterdam,800000.0,1,0,6,1,1508,23
+Luke Plange,England,Attack,right,188.0,GB1,Crystal Palace,800000.0,0,0,0,0,77,22
+Maximilian Breunig,Germany,Attack,left,195.0,L1,SC Freiburg,800000.0,0,0,0,0,18,24
+Thomas Robinet,France,Attack,right,180.0,NL1,Almere City FC,800000.0,5,1,12,3,3116,28
+Mamady Bangré,Burkina Faso,Attack,left,171.0,FR1,FC Toulouse,800000.0,2,0,0,1,98,23
+Nikola Dovedan,Austria,Attack,right,172.0,L1,1.FC Heidenheim 1846,800000.0,0,1,3,1,675,30
+Sebastián Lomónaco,Argentina,Attack,right,173.0,GR1,Panetolikos GFS,800000.0,1,0,0,0,108,26
+Sheyi Ojo,England,Attack,left,179.0,BE1,KV Kortrijk,800000.0,3,0,1,1,1551,27
+Kenneth Vargas,Costa Rica,Attack,right,178.0,SC1,Heart of Midlothian FC,800000.0,6,0,8,3,2098,22
+Shunsuke Mito,Japan,Attack,right,164.0,NL1,Sparta Rotterdam,800000.0,0,0,2,0,1024,22
+Diego Collado,Spain,Attack,right,183.0,ES1,Villarreal CF,800000.0,0,0,0,0,27,24
+Xesc Regis,Spain,Attack,right,180.0,GR1,Asteras Aktor,800000.0,5,0,7,5,2008,28
+Samuel Bamba,Germany,Attack,both,179.0,L1,Borussia Dortmund,800000.0,0,0,0,0,45,20
+Anthony Valencia,Ecuador,Attack,left,174.0,BE1,Royal Antwerp FC,800000.0,0,0,0,0,220,21
+Moustapha Cissé,Guinea,Attack,right,182.0,IT1,Atalanta BC,800000.0,0,0,0,0,1,21
+Mirko Maric,Croatia,Attack,left,188.0,IT1,AC Monza,800000.0,0,0,1,0,280,29
+Marciano Sanca,Guinea-Bissau,Attack,right,182.0,ES1,UD Almería,800000.0,0,0,0,0,93,20
+Giorgi Kvernadze,Georgia,Attack,right,188.0,IT1,Frosinone Calcio,800000.0,1,0,0,0,190,21
+Miguel Rodríguez,Spain,Attack,left,179.0,ES1,Celta de Vigo,800000.0,3,0,1,2,647,21
+Pedro Marques,Portugal,Attack,right,181.0,NL1,NEC Nijmegen,800000.0,2,0,0,0,41,26
+François Mughe,Cameroon,Attack,right,173.0,FR1,Olympique Marseille,800000.0,1,0,0,0,202,20
+Felippe Cardoso,Brazil,Attack,right,187.0,PO1,Casa Pia AC,800000.0,9,0,8,0,1728,26
+David Min,Netherlands,Attack,right,194.0,NL1,RKC Waalwijk,800000.0,3,0,10,1,1653,25
+Modou Barrow,The Gambia,Attack,left,176.0,TR1,Sivasspor,800000.0,0,0,1,1,980,32
+Said Hamulic,Bosnia-Herzegovina,Attack,right,186.0,RU1,Lokomotiv Moscow,800000.0,2,0,0,1,820,24
+Radamel Falcao,Colombia,Attack,right,177.0,ES1,Rayo Vallecano,800000.0,4,0,4,1,528,38
+José Callejón,Spain,Attack,right,178.0,ES1,Granada CF,800000.0,2,0,1,1,884,37
+Paolo Fernandes,Spain,Attack,left,167.0,GR1,AEK Athens,800000.0,0,0,0,0,110,26
+Aleksey Kashtanov,Russia,Attack,right,193.0,RU1,Ural Yekaterinburg,800000.0,3,0,8,3,1654,28
+Aleksandr Yushin,Russia,Attack,right,180.0,RU1,Ural Yekaterinburg,800000.0,1,0,2,1,1058,29
+Isaac Nuhu,Ghana,Attack,right,171.0,BE1,KAS Eupen,800000.0,2,0,4,3,2288,23
+Svetoslav Kovachev,Bulgaria,Attack,both,175.0,RU1,Akhmat Grozny,800000.0,2,0,4,2,1541,26
+Ole Romeny,Netherlands,Attack,right,185.0,NL1,FC Utrecht,800000.0,0,0,1,0,602,24
+Josimar Alcócer,Costa Rica,Attack,right,185.0,BE1,KVC Westerlo,800000.0,0,0,0,0,23,20
+Abde Rebbach,Algeria,Attack,right,176.0,ES1,Deportivo Alavés,800000.0,1,0,3,2,809,26
+Martin Kramaric,Slovenia,Attack,right,178.0,RU1,FC Sochi,800000.0,2,0,5,5,2086,27
+Nachon Nsingi,Belgium,Attack,right,176.0,BE1,Oud-Heverlee Leuven,800000.0,3,0,2,3,1210,23
+Nikola Sekulov,Italy,Attack,right,185.0,IT1,Juventus FC,800000.0,0,0,0,0,111,22
+Nélson da Luz,Angola,Attack,left,183.0,PO1,Vitória Guimarães SC,800000.0,1,0,1,0,479,26
+Júnior Brumado,Brazil,Attack,right,190.0,DK1,FC Midtjylland,800000.0,2,0,1,0,245,25
+Dylan Vente,Netherlands,Attack,right,185.0,SC1,Hibernian FC,800000.0,2,0,5,4,1966,25
+Riad Bajic,Bosnia-Herzegovina,Attack,left,189.0,TR1,MKE Ankaragücü,800000.0,0,0,4,0,805,30
+Nuno Da Costa,Cape Verde,Attack,right,184.0,TR1,Kasimpasa,800000.0,1,0,14,5,2343,33
+Aleksandr Kokorin,Russia,Attack,right,184.0,IT1,ACF Fiorentina,800000.0,2,0,2,1,291,33
+Joca,Portugal,Attack,right,168.0,PO1,Rio Ave FC,800000.0,2,0,4,3,1785,29
+Jayden Braaf,Netherlands,Attack,right,181.0,NL1,Fortuna Sittard,800000.0,0,0,0,0,43,22
+Kikas,Portugal,Attack,right,177.0,PO1,CF Estrela Amadora SAD,800000.0,4,0,8,1,1573,26
+Denys Antyukh,Ukraine,Attack,left,183.0,UKR1,Zorya Lugansk,800000.0,3,0,5,4,2328,27
+Serdar Gürler,Türkiye,Attack,right,175.0,TR1,Basaksehir FK,800000.0,2,0,1,0,1011,33
+Leonardo Pavoletti,Italy,Attack,right,188.0,IT1,Cagliari Calcio,800000.0,4,0,4,1,706,36
+Filip Stojilkovic,Switzerland,Attack,right,186.0,L1,SV Darmstadt 98,800000.0,1,0,0,0,244,25
+João Camacho,Portugal,Attack,right,174.0,PO1,Moreirense FC,800000.0,6,0,4,5,2168,30
+Sergi Guardiola,Spain,Attack,left,185.0,ES1,Cádiz CF,800000.0,1,0,1,1,627,33
+Andy Logbo,France,Attack,left,188.0,FR1,Le Havre AC,800000.0,0,0,0,0,242,20
+Janni Serra,Germany,Attack,left,193.0,DK1,Aarhus GF,750000.0,0,0,3,0,635,26
+Levan Shengelia,Georgia,Attack,left,184.0,GR1,Panetolikos GFS,750000.0,4,0,2,1,1227,29
+Max Gradel,Cote d'Ivoire,Attack,right,175.0,TR1,Gaziantep FK,750000.0,5,0,1,4,1707,37
+David Moberg Karlsson,Sweden,Attack,left,179.0,GR1,Aris Thessaloniki,750000.0,2,0,0,0,711,30
+Serdar Dursun,Türkiye,Attack,right,190.0,TR1,Fatih Karagümrük,750000.0,0,0,6,2,1045,33
+Viv Solomon-Otabor,Nigeria,Attack,right,175.0,UKR1,Rukh Lviv,750000.0,1,0,0,0,668,29
+Jefté Betancor,Spain,Attack,right,186.0,GR1,Panserraikos,750000.0,1,0,4,0,533,31
+Julien Ngoy,Belgium,Attack,right,185.0,TR1,Kasimpasa,750000.0,2,0,2,2,1519,27
+Youssouph Badji,Senegal,Attack,right,192.0,BE1,R Charleroi SC,750000.0,2,0,0,0,933,23
+Luan,Brazil,Attack,right,165.0,PO1,CF Estrela Amadora SAD,750000.0,3,0,1,0,645,22
+Alan Forrest,Scotland,Attack,right,175.0,SC1,Heart of Midlothian FC,750000.0,3,0,3,5,2207,28
+Ryan Mendes,Cape Verde,Attack,right,178.0,TR1,Fatih Karagümrük,700000.0,5,2,4,4,1509,35
+Paul Mukairu,Nigeria,Attack,right,182.0,DK1,FC Copenhagen,700000.0,0,0,0,0,90,25
+Antoine Bernier,Belgium,Attack,right,170.0,BE1,R Charleroi SC,700000.0,1,0,2,1,656,27
+Emeka Eze,Nigeria,Attack,right,187.0,TR1,Pendikspor,700000.0,0,0,0,0,153,28
+Luís Asué,Equatorial Guinea,Attack,left,184.0,PO1,Moreirense FC,700000.0,1,0,0,0,944,23
+Javi Llabrés,Spain,Attack,both,174.0,ES1,RCD Mallorca,700000.0,2,0,3,0,525,22
+Roko Baturina,Croatia,Attack,left,187.0,PO1,Gil Vicente FC,700000.0,0,0,2,1,756,24
+Alberto Soro,Spain,Attack,left,173.0,PO1,FC Vizela,700000.0,3,0,4,1,907,25
+Gaëtan Robail,France,Attack,right,182.0,GR1,Atromitos Athens,700000.0,1,0,4,3,1340,31
+Oleksandr Nazarenko,Ukraine,Attack,left,177.0,UKR1,Polissya Zhytomyr,700000.0,2,0,3,1,1230,24
+Rareș Burnete,Romania,Attack,right,185.0,IT1,US Lecce,700000.0,0,0,0,1,14,21
+Álvaro Zamora,Costa Rica,Attack,right,180.0,GR1,Aris Thessaloniki,700000.0,4,0,3,3,1269,22
+Kyan Vaesen,Belgium,Attack,right,190.0,BE1,KVC Westerlo,700000.0,1,0,0,1,499,23
+Stevan Jovetic,Montenegro,Attack,right,183.0,GR1,Olympiacos Piraeus,700000.0,1,0,4,2,618,35
+Dmytro Topalov,Ukraine,Attack,left,176.0,UKR1,Kolos Kovalivka,700000.0,2,0,0,0,1365,26
+Mohamed Buya Turay,Sierra Leone,Attack,right,180.0,DK1,Odense Boldklub,700000.0,2,0,3,1,666,30
+Andriy Shtogrin,Ukraine,Attack,right,182.0,UKR1,Chornomorets Odessa,700000.0,2,0,12,5,2787,26
+Pape Habib Guèye,Senegal,Attack,right,188.0,BE1,KV Kortrijk,700000.0,0,0,0,0,90,25
+Mohamed Sankoh,Netherlands,Attack,right,183.0,NL1,Heracles Almelo,700000.0,2,0,6,0,1141,21
+Bambasé Conté,Germany,Attack,left,182.0,L1,TSG 1899 Hoffenheim,700000.0,0,0,0,0,69,21
+Mounaïm El Idrissy,France,Attack,right,181.0,BE1,KV Kortrijk,700000.0,5,0,0,0,730,25
+Benji Michel,United States,Attack,right,178.0,PO1,FC Arouca,700000.0,0,0,0,0,40,27
+Sven Michel,Germany,Attack,left,177.0,L1,FC Augsburg,700000.0,2,0,2,1,649,34
+Ángelo Henríquez,Chile,Attack,right,175.0,RU1,Baltika Kaliningrad,700000.0,1,0,9,2,1957,30
+Bruno Lourenço,Portugal,Attack,left,179.0,PO1,Boavista FC,700000.0,4,1,5,1,2098,26
+Billal Messaoudi,Algeria,Attack,right,184.0,BE1,KV Kortrijk,700000.0,0,0,0,0,28,27
+Florian Pick,Germany,Attack,right,176.0,L1,1.FC Heidenheim 1846,700000.0,2,0,0,2,428,29
+Emir Kaan Gültekin,Türkiye,Attack,right,181.0,TR1,Istanbulspor,700000.0,4,0,4,1,1703,24
+Konan N’Dri,Cote d'Ivoire,Attack,left,174.0,BE1,Oud-Heverlee Leuven,700000.0,1,0,0,1,497,24
+Sylla Sow,Netherlands,Attack,right,182.0,NL1,NEC Nijmegen,700000.0,3,0,9,5,1354,28
+Anthony Limbombe,Belgium,Attack,right,177.0,NL1,Almere City FC,700000.0,0,0,0,0,185,30
+Abat Aymbetov,Kazakhstan,Attack,right,184.0,TR1,Adana Demirspor,700000.0,1,0,2,0,601,29
+Dadá Belmonte,Brazil,Attack,right,172.0,UKR1,Chornomorets Odessa,700000.0,1,0,1,1,331,27
+Matías Lacava,Venezuela,Attack,left,167.0,PO1,FC Vizela,700000.0,7,0,0,4,1434,22
+Jason Lokilo,Belgium,Attack,left,175.0,PO1,FC Vizela,700000.0,0,0,2,1,946,26
+Yann Kitala,DR Congo,Attack,left,186.0,NL1,Almere City FC,700000.0,3,0,2,0,583,26
+Kirill Glebov,Russia,Attack,right,173.0,RU1,CSKA Moscow,700000.0,1,0,2,1,319,19
+Ilnur Alshin,Russia,Attack,right,175.0,RU1,Fakel Voronezh,700000.0,4,0,1,3,2403,31
+Nigel Thomas,Curacao,Attack,right,177.0,DK1,Viborg FF,700000.0,3,0,2,1,527,23
+Ché Nunnely,Suriname,Attack,right,170.0,NL1,SC Heerenveen,700000.0,0,0,2,2,1849,25
+Axel Gueguin,France,Attack,left,172.0,FR1,Montpellier HSC,700000.0,0,0,0,0,130,19
+Eliezer Mayenda,Spain,Attack,left,180.0,SC1,Hibernian FC,700000.0,0,0,0,0,106,19
+Jovan Milosevic,Serbia,Attack,right,190.0,L1,VfB Stuttgart,700000.0,0,0,0,0,40,19
+Mamadou Diakhon,France,Attack,left,180.0,FR1,Stade Reims,700000.0,0,0,0,0,200,19
+Maksym Lunyov,Ukraine,Attack,left,183.0,UKR1,Kryvbas Kryvyi Rig,700000.0,4,0,4,0,1137,26
+Elton Kabangu,Belgium,Attack,left,178.0,BE1,Union Saint-Gilloise,700000.0,0,0,1,1,121,26
+Emrah Başsan,Türkiye,Attack,left,177.0,TR1,Sivasspor,700000.0,2,0,0,7,1493,32
+Roman Tugarev,Russia,Attack,right,170.0,RU1,FK Rostov,700000.0,3,0,1,1,742,26
+Amr Warda,Egypt,Attack,right,176.0,GR1,Panserraikos,700000.0,1,0,3,2,1045,31
+Víctor Barberá,Spain,Attack,right,177.0,BE1,Club Brugge KV,700000.0,0,0,0,0,28,20
+Ivan Komarov,Russia,Attack,left,177.0,RU1,FK Rostov,700000.0,7,0,3,2,1039,21
+Vladimir Iljin,Russia,Attack,right,187.0,RU1,Akhmat Grozny,700000.0,2,0,5,1,1886,32
+Dele,Nigeria,Attack,right,180.0,PO1,GD Estoril Praia,700000.0,0,0,0,0,1,23
+Juan Manuel Boselli,Uruguay,Attack,left,175.0,RU1,FC Pari Nizhniy Novgorod,700000.0,1,0,3,2,1169,25
+Alfonso Trezza,Uruguay,Attack,right,166.0,PO1,FC Arouca,700000.0,6,0,0,0,1006,25
+Guilherme Schettine,Brazil,Attack,right,184.0,RU1,Ural Yekaterinburg,700000.0,5,0,4,1,1492,29
+Isac Lidberg,Sweden,Attack,right,187.0,NL1,FC Utrecht,700000.0,2,0,5,3,1033,26
+Simon Hedlund,Sweden,Attack,right,173.0,DK1,Bröndby IF,700000.0,0,0,0,0,5,31
+Jimmy Marín,Costa Rica,Attack,both,170.0,RU1,FK Orenburg,700000.0,3,0,4,3,1622,27
+Igor Dmitriev,Russia,Attack,left,183.0,RU1,Ural Yekaterinburg,700000.0,1,0,0,2,1607,20
+Kévin Gameiro,France,Attack,right,172.0,FR1,RC Strasbourg Alsace,700000.0,0,0,4,2,1346,37
+Juan Manuel García,Argentina,Attack,right,183.0,GR1,Volos NPS,700000.0,11,0,6,2,1828,32
+Chemsdine Talbi,Belgium,Attack,right,175.0,BE1,Club Brugge KV,650000.0,0,0,0,0,8,19
+Rui Pedro,Portugal,Attack,right,182.0,TR1,Hatayspor,650000.0,5,0,2,3,1108,26
+Emmanuel Yeboah,Ghana,Attack,right,188.0,DK1,Bröndby IF,650000.0,0,0,0,0,118,21
+Ahmed Musa,Nigeria,Attack,right,171.0,TR1,Sivasspor,650000.0,0,0,0,0,73,32
+Mario Balotelli,Italy,Attack,right,189.0,TR1,Adana Demirspor,650000.0,6,1,7,1,939,34
+Geoffry Hairemans,Belgium,Attack,left,183.0,BE1,KV Mechelen,650000.0,2,0,5,3,2093,33
+Regan Charles-Cook,Grenada,Attack,right,174.0,BE1,KAS Eupen,650000.0,1,0,3,2,1335,27
+Kaheem Parris,Jamaica,Attack,left,184.0,UKR1,Dynamo Kyiv,650000.0,0,0,0,0,14,25
+Oscar Uddenäs,Sweden,Attack,left,186.0,NL1,Excelsior Rotterdam,650000.0,1,0,3,1,654,22
+Erdon Daci,North Macedonia,Attack,left,187.0,BE1,KVC Westerlo,650000.0,2,0,3,1,697,26
+Milos Deletic,Serbia,Attack,left,179.0,GR1,Volos NPS,650000.0,5,0,4,1,1403,31
+Lion Lauberbach,Germany,Attack,left,194.0,BE1,KV Mechelen,650000.0,2,0,2,1,1818,26
+Aleksandr Lomovitskiy,Russia,Attack,left,182.0,RU1,Rubin Kazan,600000.0,0,0,0,1,609,27
+Bebé,Cape Verde,Attack,right,190.0,ES1,Rayo Vallecano,600000.0,2,0,4,0,347,34
+Benito Ramírez,Spain,Attack,left,179.0,ES1,UD Las Palmas,600000.0,0,0,1,1,622,29
+Florian Dietz,Germany,Attack,right,190.0,L1,1.FC Köln,600000.0,0,0,0,0,65,26
+Abdoulay Diaby,Mali,Attack,left,173.0,TR1,Pendikspor,600000.0,3,0,2,0,1071,33
+Jérémie Bela,Angola,Attack,right,173.0,FR1,Clermont Foot 63,600000.0,0,0,0,0,194,31
+Ognjen Ozegovic,Serbia,Attack,both,180.0,GR1,AE Kifisias,600000.0,7,0,12,1,1862,30
+Greg Kiltie,Scotland,Attack,left,173.0,SC1,St. Mirren FC,600000.0,1,0,4,7,2757,28
+Ivan Ignatjev,Russia,Attack,right,180.0,RU1,FC Sochi,600000.0,1,0,2,1,733,26
+Bas Dost,Netherlands,Attack,right,196.0,NL1,NEC Nijmegen,600000.0,0,0,3,2,463,35
+Quentin Cornette,France,Attack,right,172.0,GR1,Volos NPS,600000.0,3,0,0,0,688,31
+Bilal Ould-Chikh,Morocco,Attack,left,170.0,NL1,FC Volendam,600000.0,2,0,2,7,2176,27
+Artem Shulyanskyi,Ukraine,Attack,right,173.0,UKR1,FK Oleksandriya,600000.0,0,0,5,3,1825,23
+Kosta Aleksic,Serbia,Attack,right,183.0,GR1,Panserraikos,600000.0,7,0,7,2,1882,26
+Sargis Adamyan,Armenia,Attack,right,184.0,L1,1.FC Köln,600000.0,2,0,2,3,864,31
+Ivan Petryak,Ukraine,Attack,right,171.0,UKR1,Shakhtar Donetsk,600000.0,2,0,0,0,240,30
+Amine Boutrah,France,Attack,right,171.0,NL1,Vitesse Arnhem,600000.0,3,0,4,3,1959,24
+Kristoffer Peterson,Sweden,Attack,right,185.0,NL1,Fortuna Sittard,600000.0,1,0,0,2,821,30
+Kiko Bondoso,Portugal,Attack,right,169.0,PO1,FC Vizela,600000.0,0,0,0,1,373,29
+Julián Bartolo,Argentina,Attack,left,166.0,GR1,Asteras Aktor,600000.0,3,0,3,4,1256,28
+Bogdan Viunnyk,Ukraine,Attack,both,185.0,UKR1,Shakhtar Donetsk,600000.0,1,0,1,2,170,22
+Sylvester Jasper,Bulgaria,Attack,right,180.0,PO1,Portimonense SC,600000.0,2,0,2,2,1836,23
+Bryan Limbombe,Belgium,Attack,right,172.0,NL1,Heracles Almelo,600000.0,2,1,2,2,1834,23
+Denzel Jubitana,Belgium,Attack,left,175.0,GR1,Atromitos Athens,600000.0,8,0,5,3,1225,25
+Alex Mighten,England,Attack,right,171.0,BE1,KV Kortrijk,600000.0,1,0,0,0,241,22
+Théo Fonseca,Portugal,Attack,right,178.0,PO1,FC Famalicão,600000.0,0,0,2,0,649,24
+Samu Castillejo,Spain,Attack,left,182.0,IT1,US Sassuolo,600000.0,2,0,0,0,681,30
+Nikolas Agrafiotis,Netherlands,Attack,right,190.0,NL1,Excelsior Rotterdam,600000.0,1,0,6,2,937,24
+Thibo Baeten,Belgium,Attack,left,185.0,NL1,Go Ahead Eagles,600000.0,3,0,3,2,1020,22
+Benito,Nigeria,Attack,left,180.0,UKR1,Dynamo Kyiv,600000.0,1,0,2,1,631,26
+Lennart Thy,Germany,Attack,right,184.0,NL1,PEC Zwolle,600000.0,2,0,13,2,2713,32
+Ange-Freddy Plumain,Guadeloupe,Attack,right,184.0,UKR1,Rukh Lviv,600000.0,3,0,3,3,1342,29
+Kornelius Hansen,Norway,Attack,right,175.0,NL1,Almere City FC,600000.0,2,0,9,2,1592,23
+Lars Olden Larsen,Norway,Attack,right,175.0,NL1,NEC Nijmegen,600000.0,0,0,1,1,811,26
+Dmitriy Tsypchenko,Russia,Attack,right,184.0,RU1,Krylya Sovetov Samara,600000.0,0,0,0,0,23,25
+Vladyslav Supryaga,Ukraine,Attack,right,185.0,UKR1,Dynamo Kyiv,600000.0,0,0,0,2,120,24
+Renato Júnior,Brazil,Attack,right,190.0,DK1,Viborg FF,600000.0,2,1,1,2,736,22
+Amourricho Van Axel-Dongen,Netherlands,Attack,right,175.0,NL1,Ajax Amsterdam,600000.0,0,0,0,0,106,20
+Charly Nouck,Denmark,Attack,both,184.0,DK1,Odense Boldklub,600000.0,1,0,1,0,1003,20
+Nadhir Benbouali,Algeria,Attack,left,190.0,BE1,R Charleroi SC,600000.0,0,0,0,0,331,24
+Jajá,Brazil,Attack,right,177.0,PO1,Casa Pia AC,600000.0,0,0,0,1,421,23
+Igor Gorbach,Ukraine,Attack,right,183.0,UKR1,Zorya Lugansk,600000.0,3,0,2,0,985,20
+Luigi Canotto,Italy,Attack,both,178.0,IT1,Frosinone Calcio,600000.0,0,0,0,0,15,30
+Nilton,Portugal,Attack,left,182.0,PO1,CF Estrela Amadora SAD,600000.0,2,0,0,0,552,23
+Malik Abubakari,Ghana,Attack,right,185.0,DK1,Viborg FF,600000.0,0,0,0,1,420,24
+André Luiz,Brazil,Attack,right,185.0,PO1,CF Estrela Amadora SAD,600000.0,2,0,4,0,1191,22
+Garang Kuol,Australia,Attack,right,175.0,NL1,FC Volendam,600000.0,1,0,1,1,724,20
+Vinicius Mingotti,Brazil,Attack,right,190.0,PO1,Moreirense FC,600000.0,2,0,1,0,486,25
+Moses David Cobnan,Nigeria,Attack,left,178.0,RU1,FK Krasnodar,600000.0,0,0,2,3,639,22
+Emircan Gürlük,Türkiye,Attack,right,180.0,RU1,FK Orenburg,600000.0,0,0,1,3,998,21
+Farès Ghedjemis,France,Attack,left,183.0,IT1,Frosinone Calcio,600000.0,1,0,0,0,180,22
+Egor Karpitskiy,Belarus,Attack,right,188.0,RU1,Krylya Sovetov Samara,600000.0,0,0,1,1,473,21
+Charles-Andreas Brym,Canada,Attack,left,185.0,NL1,Sparta Rotterdam,550000.0,1,0,5,2,1460,26
+Nikola Stulic,Serbia,Attack,right,188.0,BE1,R Charleroi SC,550000.0,1,1,1,0,438,23
+Ricky van Wolfswinkel,Netherlands,Attack,right,186.0,NL1,Twente Enschede FC,550000.0,4,0,16,2,2305,36
+Denilho Cleonise,Netherlands,Attack,left,179.0,NL1,RKC Waalwijk,550000.0,0,0,1,5,1857,23
+Bruce Anderson,Scotland,Attack,right,173.0,SC1,Livingston FC,550000.0,2,0,5,0,1683,26
+Bouly Junior Sambou,Senegal,Attack,right,183.0,TR1,Konyaspor,550000.0,4,0,0,0,332,26
+Kyosuke Tagawa,Japan,Attack,left,181.0,SC1,Heart of Midlothian FC,550000.0,0,0,0,0,559,25
+Brayan Riascos,Colombia,Attack,right,178.0,TR1,Gaziantep FK,550000.0,2,0,1,0,449,30
+Florian Danho,France,Attack,right,188.0,PO1,FC Famalicão,500000.0,0,0,1,0,234,24
+Stepan Oganesyan,Russia,Attack,right,183.0,RU1,FK Orenburg,500000.0,3,0,2,1,760,23
+Artur Avagimyan,Ukraine,Attack,right,172.0,UKR1,Chornomorets Odessa,500000.0,7,1,4,4,1586,28
+Tidjany Touré,France,Attack,right,184.0,PO1,Gil Vicente FC,500000.0,6,0,3,1,1070,22
+Pavel Meleshin,Russia,Attack,right,188.0,RU1,Spartak Moscow,500000.0,1,0,1,0,318,20
+Aleksandr Koksharov,Russia,Attack,right,190.0,RU1,FK Krasnodar,500000.0,1,0,2,1,415,20
+Daniil Kuznetsov,Russia,Attack,both,182.0,RU1,Rubin Kazan,500000.0,0,0,0,0,511,21
+Jonathan Menéndez,Argentina,Attack,right,164.0,GR1,AE Kifisias,500000.0,3,0,1,4,1544,30
+Afonso Rodrigues,Portugal,Attack,left,178.0,PO1,FC Famalicão,500000.0,1,0,1,0,320,22
+Nélson Oliveira,Portugal,Attack,right,186.0,PO1,Vitória Guimarães SC,500000.0,7,0,2,4,1055,33
+Jack Vale,Wales,Attack,right,185.0,SC1,Motherwell FC,500000.0,2,0,3,2,730,23
+Rúben Lameiras,Portugal,Attack,left,174.0,PO1,GD Chaves,500000.0,3,0,0,1,754,30
+Aingeru Olabarrieta,Spain,Attack,left,182.0,ES1,Athletic Bilbao,500000.0,0,0,0,0,8,19
+Matviy Ponomarenko,Ukraine,Attack,right,188.0,UKR1,Dynamo Kyiv,500000.0,1,0,1,0,68,19
+Adama Bojang,The Gambia,Attack,right,191.0,FR1,Stade Reims,500000.0,1,0,0,0,75,20
+Bassirou N'Diaye,Senegal,Attack,right,181.0,FR1,FC Lorient,500000.0,0,0,0,0,149,22
+Gustavo Varela,Portugal,Attack,right,184.0,PO1,SL Benfica,500000.0,0,0,0,0,15,20
+Mathis Lambourde,France,Attack,left,179.0,FR1,Stade Rennais FC,500000.0,0,0,0,0,16,19
+Jérémy Sebas,Martinique,Attack,right,187.0,FR1,RC Strasbourg Alsace,500000.0,0,0,2,1,391,21
+David Otorbi,Spain,Attack,right,180.0,ES1,Valencia CF,500000.0,0,0,0,0,48,17
+Vivaldo Semedo,Portugal,Attack,left,192.0,NL1,FC Volendam,500000.0,1,0,1,0,636,20
+Daniel Sosah,Niger,Attack,right,179.0,UKR1,Kryvbas Kryvyi Rig,500000.0,1,0,1,2,766,26
+Luca Raimund,Germany,Attack,left,188.0,L1,VfB Stuttgart,500000.0,1,0,0,0,28,19
+Fabio Torsiello,Germany,Attack,right,177.0,L1,SV Darmstadt 98,500000.0,0,0,0,0,147,19
+Óscar Aranda,Spain,Attack,right,181.0,PO1,FC Famalicão,500000.0,2,0,1,0,712,22
+Zak Lovelace,England,Attack,right,182.0,SC1,Rangers FC,500000.0,1,0,0,0,47,19
+Denys Teslyuk,Ukraine,Attack,right,184.0,UKR1,Rukh Lviv,500000.0,5,0,1,0,852,21
+Dylan Mbayo,Belgium,Attack,left,175.0,BE1,KV Kortrijk,500000.0,1,0,0,0,446,23
+Depú,Angola,Attack,right,187.0,PO1,Gil Vicente FC,500000.0,2,0,3,0,774,25
+Vladislav Morozov,Belarus,Attack,right,188.0,PO1,FC Arouca,500000.0,0,0,1,1,274,24
+Pylyp Budkivskyi,Ukraine,Attack,right,196.0,UKR1,Polissya Zhytomyr,500000.0,4,0,5,0,1425,32
+Oğulcan Çağlayan,Türkiye,Attack,right,188.0,TR1,Gaziantep FK,500000.0,1,0,0,1,891,28
+Unai Ropero,Spain,Attack,right,188.0,ES1,Deportivo Alavés,500000.0,0,0,0,0,77,23
+Javier Martón,Spain,Attack,right,181.0,ES1,Athletic Bilbao,500000.0,0,0,0,0,46,25
+Malick Mbaye,Senegal,Attack,right,173.0,FR1,FC Metz,500000.0,1,0,0,0,151,20
+Mitchy Ntelo,Belgium,Attack,left,188.0,BE1,R Charleroi SC,500000.0,0,0,0,0,35,23
+Anthony Descotte,Belgium,Attack,right,180.0,NL1,FC Utrecht,500000.0,1,0,0,0,209,21
+Adedire Mebude,Scotland,Attack,right,189.0,BE1,KVC Westerlo,500000.0,0,0,0,0,95,20
+Aaron Seydel,Germany,Attack,left,199.0,L1,SV Darmstadt 98,500000.0,1,0,1,0,615,28
+Jeremy Antonisse,Curacao,Attack,right,184.0,PO1,Moreirense FC,500000.0,6,0,0,1,532,22
+Tyler Burey,England,Attack,right,187.0,DK1,Odense Boldklub,500000.0,0,0,0,0,228,24
+Emmanuel Ekong,Sweden,Attack,right,181.0,IT1,FC Empoli,500000.0,0,0,0,0,17,22
+Nouha Dicko,Mali,Attack,right,173.0,GR1,OFI Crete FC,500000.0,4,0,3,0,977,32
+Maksym Tretyakov,Ukraine,Attack,right,174.0,UKR1,SK Dnipro-1,500000.0,0,0,1,0,258,28
+Malamine Efekele,France,Attack,right,180.0,FR1,AS Monaco,500000.0,1,0,0,0,179,20
+Danyil Alefirenko,Ukraine,Attack,right,176.0,UKR1,Zorya Lugansk,500000.0,0,0,2,0,753,24
+Vasyl Runich,Ukraine,Attack,right,168.0,UKR1,Rukh Lviv,500000.0,5,0,4,0,1063,25
+Sokol Cikalleshi,Albania,Attack,right,187.0,TR1,Konyaspor,500000.0,3,0,12,5,2365,34
+Yusuf Erdoğan,Türkiye,Attack,left,171.0,TR1,Adana Demirspor,500000.0,4,0,7,4,2690,32
+Kevin Rosero,Colombia,Attack,right,178.0,GR1,PAS Giannina,500000.0,3,0,2,1,1672,26
+Famara Diédhiou,Senegal,Attack,right,189.0,ES1,Granada CF,500000.0,1,0,1,1,171,32
+Oleksandr Filippov,Ukraine,Attack,right,183.0,UKR1,SK Dnipro-1,500000.0,0,0,9,3,1712,32
+Antwoine Hackford,England,Attack,right,177.0,GB1,Sheffield United,500000.0,0,0,0,0,11,20
+Mateus Criciúma,Brazil,Attack,left,176.0,GR1,AE Kifisias,500000.0,7,0,1,8,1750,26
+Aleksey Ionov,Russia,Attack,right,177.0,RU1,FK Rostov,500000.0,2,0,3,1,1714,35
+Vadim Rakov,Russia,Attack,right,178.0,RU1,Lokomotiv Moscow,500000.0,0,0,0,0,102,20
+Jonathan Amon,United States,Attack,right,175.0,DK1,Lyngby BK,500000.0,0,0,0,0,462,25
+Luka Djordjevic,Montenegro,Attack,both,185.0,RU1,FC Sochi,500000.0,4,0,2,4,779,30
+Artem Kontsevoy,Belarus,Attack,right,182.0,RU1,Ural Yekaterinburg,500000.0,1,0,3,1,823,25
+Sebastian Polter,Germany,Attack,right,192.0,L1,SV Darmstadt 98,500000.0,0,0,0,2,533,33
+Taison,Brazil,Attack,right,172.0,GR1,PAOK Thessaloniki,500000.0,6,1,4,10,2018,37
+Dylan Saint-Louis,Congo,Attack,right,184.0,PO1,FC Vizela,500000.0,1,0,1,0,243,29
+Nikolaos Karelis,Greece,Attack,left,173.0,GR1,Panetolikos GFS,500000.0,3,0,3,0,1294,32
+Elves Baldé,Guinea-Bissau,Attack,right,169.0,PO1,SC Farense,500000.0,0,0,1,3,1055,25
+Zé Turbo,Guinea-Bissau,Attack,left,188.0,RU1,FC Pari Nizhniy Novgorod,500000.0,2,0,4,1,997,28
+Amadou Bakayoko,Sierra Leone,Attack,left,193.0,SC1,Dundee FC,500000.0,6,0,6,5,2537,29
+Bogdan Boychuk,Ukraine,Attack,right,170.0,UKR1,Chornomorets Odessa,500000.0,3,0,4,2,1644,28
+Ronie Carrillo,Ecuador,Attack,right,186.0,PO1,Portimonense SC,500000.0,1,1,5,0,1402,28
+Gedeon Guzina,Bosnia-Herzegovina,Attack,right,187.0,RU1,Baltika Kaliningrad,500000.0,5,0,3,2,1422,31
+Heri Tavares,Portugal,Attack,left,181.0,PO1,GD Estoril Praia,500000.0,6,0,3,2,1668,27
+Felipe Avenatti,Uruguay,Attack,left,196.0,BE1,KV Kortrijk,500000.0,5,1,3,0,1572,31
+Toyosi Olusanya,England,Attack,right,181.0,SC1,St. Mirren FC,500000.0,5,1,5,3,1171,27
+Vladimir Khubulov,Russia,Attack,both,179.0,RU1,Krylya Sovetov Samara,500000.0,2,0,3,0,643,23
+Yutaro Oda,Japan,Attack,right,181.0,SC1,Heart of Midlothian FC,500000.0,2,0,5,0,1088,23
+Denys Bezborodko,Ukraine,Attack,right,183.0,UKR1,Kolos Kovalivka,500000.0,4,0,2,1,1286,30
+Rui Costa,Portugal,Attack,right,179.0,PO1,SC Farense,500000.0,2,0,5,3,868,28
+Simy,Nigeria,Attack,right,198.0,IT1,US Salernitana 1919,500000.0,0,0,3,1,742,32
+Christian Kühlwetter,Germany,Attack,both,182.0,L1,1.FC Heidenheim 1846,500000.0,0,0,0,1,52,28
+Frederico Duarte,Portugal,Attack,right,175.0,GR1,Panetolikos GFS,500000.0,4,0,4,3,1866,25
+Mattia Destro,Italy,Attack,right,182.0,IT1,FC Empoli,500000.0,2,0,0,0,356,33
+Muamer Brajanac,Denmark,Attack,right,189.0,DK1,Randers FC,500000.0,0,0,2,0,228,23
+Aaron Leya Iseka,Belgium,Attack,right,183.0,GR1,OFI Crete FC,500000.0,1,0,4,1,416,27
+Kike Saverio,Ecuador,Attack,both,178.0,GR1,Aris Thessaloniki,500000.0,3,0,5,2,995,25
+Stefan Schimmer,Germany,Attack,right,185.0,L1,1.FC Heidenheim 1846,500000.0,0,0,1,1,152,30
+Gaëtan Laura,DR Congo,Attack,right,182.0,TR1,Samsunspor,500000.0,0,0,0,1,322,29
+Samson Iyede,Nigeria,Attack,right,181.0,UKR1,Chornomorets Odessa,500000.0,5,0,2,3,1645,27
+Vladyslav Naumets,Ukraine,Attack,left,171.0,UKR1,LNZ Cherkasy,500000.0,1,0,5,1,1382,25
+Andriy Kulakov,Ukraine,Attack,right,184.0,UKR1,FK Oleksandriya,500000.0,2,0,1,1,1427,25
+Sava Petrov,Serbia,Attack,right,190.0,PO1,FC Vizela,500000.0,2,0,2,0,515,26
+Vladislav Karapuzov,Russia,Attack,right,179.0,RU1,Dynamo Moscow,500000.0,3,0,0,1,1737,25
+Karim Ansarifard,Iran,Attack,right,186.0,GR1,Aris Thessaloniki,450000.0,3,0,1,1,290,34
+Mete Demir,Türkiye,Attack,left,170.0,GR1,PAS Giannina,450000.0,1,0,0,0,161,26
+Mendy Mamadou,Senegal,Attack,right,185.0,TR1,Istanbulspor,450000.0,0,1,2,3,1770,26
+Jonah Ayunga,Kenya,Attack,right,185.0,SC1,St. Mirren FC,450000.0,1,0,2,0,830,27
+Eamonn Brophy,Scotland,Attack,right,175.0,SC1,Ross County FC,450000.0,1,0,3,2,965,28
+Mario Engels,Germany,Attack,right,184.0,NL1,Heracles Almelo,450000.0,4,0,5,3,1636,31
+João Pedro,Guinea-Bissau,Attack,right,185.0,GR1,Panetolikos GFS,450000.0,10,0,25,4,4868,28
+Nikolaos Vergos,Greece,Attack,right,184.0,GR1,Atromitos Athens,450000.0,1,0,5,0,1209,29
+Ernest Agyiri,Ghana,Attack,left,176.0,DK1,Randers FC,450000.0,0,0,4,1,705,26
+Santiago Mosquera,Colombia,Attack,right,172.0,GR1,OFI Crete FC,450000.0,1,0,2,1,848,29
+Abdenego Nankishi,Germany,Attack,left,178.0,NL1,Heracles Almelo,450000.0,0,0,3,1,343,22
+Tobias Klysner,Denmark,Attack,right,183.0,DK1,Randers FC,450000.0,0,0,0,0,155,23
+Massimo Bruno,Belgium,Attack,right,178.0,BE1,KV Kortrijk,450000.0,2,0,1,3,1136,31
+Bashkim Kadrii,Denmark,Attack,both,177.0,DK1,Odense Boldklub,450000.0,2,0,7,3,1635,33
+Makana Baku,Germany,Attack,right,177.0,GR1,OFI Crete FC,450000.0,1,0,1,3,789,26
+Lirim Qamili,North Macedonia,Attack,left,191.0,DK1,Hvidovre IF,450000.0,3,0,3,2,1558,26
+Berto,Cape Verde,Attack,right,177.0,PO1,Portimonense SC,450000.0,2,0,2,2,849,28
+Alberto Perea,Spain,Attack,right,175.0,ES1,Granada CF,450000.0,0,0,0,0,77,34
+Stipe Perica,Croatia,Attack,right,192.0,BE1,Standard Liège,450000.0,0,0,0,0,88,29
+Sotiris Tsiloulis,Greece,Attack,right,185.0,GR1,PAS Lamia 1964,450000.0,2,0,5,2,1703,29
+Silvester van der Water,Netherlands,Attack,left,184.0,NL1,PEC Zwolle,450000.0,0,0,1,0,576,28
+Samuel Mraz,Slovakia,Attack,right,183.0,GR1,Volos NPS,450000.0,0,0,0,0,199,27
+Finn Stokkers,Netherlands,Attack,right,186.0,NL1,Go Ahead Eagles,450000.0,0,0,0,2,377,28
+Juan Manuel Cruz,Argentina,Attack,right,185.0,IT1,Hellas Verona,450000.0,0,0,0,0,174,25
+Agustín Anello,United States,Attack,right,182.0,NL1,Sparta Rotterdam,450000.0,1,0,0,0,282,22
+Ragnar Oratmangoen,Indonesia,Attack,right,181.0,NL1,Fortuna Sittard,450000.0,2,0,0,1,1134,27
+Derensili Sanches Fernandes,Netherlands,Attack,left,176.0,NL1,Excelsior Rotterdam,450000.0,0,0,2,0,1395,23
+Scott Tiffoney,Scotland,Attack,right,176.0,SC1,Dundee FC,400000.0,1,0,3,2,1272,26
+Nacer Chadli,Belgium,Attack,right,187.0,TR1,Basaksehir FK,400000.0,1,0,0,2,708,35
+Arvin Appiah,England,Attack,left,177.0,ES1,UD Almería,400000.0,0,0,0,0,65,24
+Alisson Safira,Brazil,Attack,right,185.0,PO1,Vitória Guimarães SC,400000.0,1,0,1,0,218,29
+Jonathan Afolabi,Ireland,Attack,left,189.0,BE1,KV Kortrijk,400000.0,1,0,1,0,395,25
+Antoine Colassin,Belgium,Attack,right,186.0,BE1,RSC Anderlecht,400000.0,0,0,0,0,8,23
+Samba Diallo,Senegal,Attack,right,168.0,UKR1,Dynamo Kyiv,400000.0,2,0,1,0,354,22
+Joel Voelkerling Persson,Sweden,Attack,right,194.0,NL1,Vitesse Arnhem,400000.0,1,0,0,0,295,22
+Vladislav Yakovlev,Russia,Attack,both,187.0,RU1,CSKA Moscow,400000.0,0,0,0,0,23,22
+Miguel Puche,Spain,Attack,right,180.0,PO1,FC Arouca,400000.0,0,0,0,0,387,23
+Noel Futkeu,Germany,Attack,right,183.0,L1,Eintracht Frankfurt,400000.0,0,1,0,0,5,22
+Paulo Victor,Brazil,Attack,left,180.0,PO1,GD Chaves,400000.0,8,0,1,1,812,23
+Valmir Veliu,Kosovo,Attack,right,177.0,TR1,Gaziantep FK,400000.0,0,0,0,0,26,24
+Michalis Panagidis,Greece,Attack,left,175.0,GR1,Aris Thessaloniki,400000.0,2,0,0,0,720,20
+Pablo,Brazil,Attack,right,184.0,PO1,FC Famalicão,400000.0,4,0,0,0,282,21
+Tete Yengi,Australia,Attack,right,197.0,SC1,Livingston FC,400000.0,7,0,5,2,1160,24
+Zinho,Brazil,Attack,right,178.0,PO1,Portimonense SC,400000.0,1,0,0,0,135,21
+Poyraz Yıldırım,Türkiye,Attack,left,189.0,TR1,Trabzonspor,400000.0,0,0,1,0,9,20
+Igor Krasnopir,Ukraine,Attack,right,187.0,UKR1,Obolon Kyiv,400000.0,1,0,6,1,2184,22
+Pathé Mboup,Senegal,Attack,right,175.0,BE1,RWD Molenbeek,400000.0,3,0,2,2,752,21
+Mollo Bessala,Cameroon,Attack,right,181.0,UKR1,LNZ Cherkasy,400000.0,0,0,0,1,852,21
+Mustafa Hekimoğlu,Türkiye,Attack,right,186.0,TR1,Besiktas JK,400000.0,0,0,0,0,122,17
+Afonso Moreira,Portugal,Attack,right,176.0,PO1,Sporting CP,400000.0,0,0,0,0,68,19
+Steve Ngoura,France,Attack,right,193.0,FR1,Le Havre AC,400000.0,0,0,0,1,213,19
+Giacomo Corona,Italy,Attack,right,195.0,IT1,FC Empoli,400000.0,0,0,0,0,4,20
+Martim Tavares,Portugal,Attack,right,183.0,PO1,Boavista FC,400000.0,1,0,1,2,527,21
+Zini,Angola,Attack,right,181.0,GR1,AEK Athens,400000.0,0,0,0,0,239,22
+Jeppe Corfitzen,Denmark,Attack,left,179.0,IT1,US Lecce,400000.0,0,0,0,0,25,20
+Régis N'Do,Burkina Faso,Attack,left,181.0,PO1,CF Estrela Amadora SAD,400000.0,7,0,1,2,1050,23
+Max Svensson,Spain,Attack,right,182.0,ES1,CA Osasuna,400000.0,0,0,0,0,2,23
+Oleksiy Sydorov,Ukraine,Attack,right,186.0,UKR1,Metalist 1925 Kharkiv,400000.0,3,0,2,3,1603,23
+Richie Omorowa,Sweden,Attack,right,183.0,NL1,Excelsior Rotterdam,400000.0,1,0,2,2,497,20
+Yaroslav Karabin,Ukraine,Attack,left,182.0,UKR1,Rukh Lviv,400000.0,0,0,2,2,733,22
+Hernâni,Portugal,Attack,right,178.0,PO1,Moreirense FC,400000.0,0,0,1,1,549,23
+André Lacximicant,Portugal,Attack,left,188.0,PO1,Casa Pia AC,400000.0,0,0,1,1,207,23
+Ruslanbek Jiyanov,Uzbekistan,Attack,right,170.0,RU1,FC Pari Nizhniy Novgorod,400000.0,1,0,0,0,11,23
+Nikolaos Zouglis,Greece,Attack,both,180.0,GR1,Asteras Aktor,400000.0,4,0,0,3,1012,21
+Vladyslav Veleten,Ukraine,Attack,right,176.0,UKR1,Kolos Kovalivka,400000.0,4,0,2,2,1069,22
+Iman Griffith,Netherlands,Attack,right,170.0,NL1,Fortuna Sittard,400000.0,0,0,0,1,398,23
+Maksym Pryadun,Ukraine,Attack,right,178.0,UKR1,LNZ Cherkasy,400000.0,1,0,3,1,765,27
+Ahmet Engin,Germany,Attack,right,180.0,GR1,Volos NPS,400000.0,0,0,0,0,286,28
+Ester Sokler,Slovenia,Attack,right,181.0,SC1,Aberdeen FC,400000.0,2,0,1,1,650,25
+Dimitris Emmanouilidis,Greece,Attack,right,175.0,DK1,Vejle Boldklub,400000.0,0,0,1,0,287,24
+João Carlos,Brazil,Attack,both,187.0,PO1,GD Estoril Praia,400000.0,3,0,5,0,382,29
+Eynel Soares,Cape Verde,Attack,right,174.0,UKR1,LNZ Cherkasy,400000.0,2,0,2,0,566,26
+Emilio Kehrer,Germany,Attack,right,177.0,BE1,Cercle Brugge,400000.0,0,0,0,0,36,22
+Kristian Kirkegaard,Denmark,Attack,right,174.0,DK1,Vejle Boldklub,400000.0,1,0,2,2,1053,27
+Leandro Sanca,Guinea-Bissau,Attack,right,184.0,PO1,GD Chaves,400000.0,3,0,0,3,1464,25
+Samed Onur,Türkiye,Attack,left,175.0,TR1,Fatih Karagümrük,400000.0,1,0,0,0,15,22
+Sergiy Bolbat,Ukraine,Attack,right,175.0,UKR1,Kolos Kovalivka,400000.0,2,0,0,1,756,31
+Ruslan Stepanyuk,Ukraine,Attack,both,181.0,UKR1,Vorskla Poltava,400000.0,6,0,10,9,2878,33
+Fernando Andrade,Brazil,Attack,right,182.0,PO1,Casa Pia AC,400000.0,0,0,2,1,580,32
+Roman Debelko,Ukraine,Attack,right,187.0,UKR1,Kryvbas Kryvyi Rig,400000.0,1,0,1,2,605,31
+Leonardo Ruiz,Colombia,Attack,right,187.0,PO1,Rio Ave FC,400000.0,1,0,2,0,864,28
+André Bukia,DR Congo,Attack,left,173.0,PO1,FC Arouca,400000.0,0,0,1,1,163,29
+Ronaldo Tavares,Portugal,Attack,right,194.0,PO1,CF Estrela Amadora SAD,400000.0,2,0,4,0,1243,27
+Savvas Mourgos,Greece,Attack,left,173.0,GR1,Panserraikos,400000.0,3,0,2,2,1208,26
+Burak Kapacak,Türkiye,Attack,right,180.0,TR1,Sivasspor,400000.0,3,0,0,2,1092,25
+Mykola Kovtalyuk,Ukraine,Attack,right,191.0,UKR1,Vorskla Poltava,400000.0,5,0,6,0,1130,29
+Yassin Fortuné,France,Attack,right,186.0,UKR1,Polissya Zhytomyr,400000.0,5,0,0,1,642,26
+Matheus Aiás,Brazil,Attack,both,176.0,PO1,Moreirense FC,400000.0,0,0,2,0,471,28
+Fatih Kaya,Germany,Attack,right,183.0,BE1,Sint-Truidense VV,400000.0,3,0,0,0,1157,25
+Rodrigo Pinho,Brazil,Attack,left,185.0,PO1,CF Estrela Amadora SAD,400000.0,2,0,1,1,314,33
+Benny,Portugal,Attack,left,178.0,PO1,GD Chaves,400000.0,1,0,1,1,1257,24
+Andriy Boryachuk,Ukraine,Attack,right,176.0,UKR1,Metalist 1925 Kharkiv,400000.0,4,0,4,3,1306,28
+Panagiotis Moraitis,Greece,Attack,right,180.0,GR1,Volos NPS,400000.0,1,0,3,1,1182,27
+Felipe Pires,Brazil,Attack,right,178.0,UKR1,SK Dnipro-1,400000.0,0,0,0,0,136,29
+Maksim Maksimov,Russia,Attack,right,190.0,RU1,Fakel Voronezh,400000.0,0,0,4,0,1039,29
+Yonas Malede,Israel,Attack,right,188.0,BE1,KV Mechelen,400000.0,1,0,0,3,312,25
+Yeni Ngbakoto,DR Congo,Attack,right,173.0,DK1,Vejle Boldklub,400000.0,1,0,4,2,999,33
+Merabi Uridia,Russia,Attack,right,175.0,RU1,Rubin Kazan,400000.0,0,0,0,0,431,31
+Patrick Mortensen,Denmark,Attack,right,188.0,DK1,Aarhus GF,400000.0,2,0,10,3,2599,35
+Oleksiy Khoblenko,Ukraine,Attack,right,185.0,UKR1,LNZ Cherkasy,400000.0,3,0,2,3,1252,30
+Tuur Dierckx,Belgium,Attack,left,171.0,GR1,Atromitos Athens,400000.0,0,0,0,2,548,29
+Daryl van Mieghem,Netherlands,Attack,left,170.0,NL1,FC Volendam,400000.0,0,0,2,0,442,35
+Frederik Gytkjaer,Denmark,Attack,right,180.0,DK1,Lyngby BK,400000.0,2,0,7,4,1758,31
+John Mary,Cameroon,Attack,right,186.0,TR1,Caykur Rizespor,375000.0,0,0,1,0,135,31
+James Scott,Scotland,Attack,right,189.0,SC1,St. Mirren FC,375000.0,0,0,1,0,588,24
+Magnus Kaastrup,Denmark,Attack,right,176.0,DK1,Lyngby BK,375000.0,1,0,0,0,90,24
+Fernand Goure,Cote d'Ivoire,Attack,right,189.0,BE1,KVC Westerlo,375000.0,0,0,0,0,26,22
+David Sambissa,Gabon,Attack,left,177.0,TR1,Istanbulspor,375000.0,1,0,1,3,1564,29
+Josh Sims,England,Attack,right,174.0,SC1,Ross County FC,375000.0,1,0,3,0,936,27
+Simon Zoller,Germany,Attack,right,179.0,L1,VfL Bochum,350000.0,1,0,1,0,161,33
+Georgios Pamlidis,Greece,Attack,right,179.0,GR1,PAS Giannina,350000.0,3,0,2,2,1846,31
+Maximiliano Comba,Argentina,Attack,right,170.0,GR1,Volos NPS,350000.0,9,0,3,1,1827,31
+Alex Greive,New Zealand,Attack,right,178.0,SC1,St. Mirren FC,350000.0,0,0,2,0,433,25
+Tobias Thomsen,Denmark,Attack,right,183.0,DK1,Hvidovre IF,350000.0,2,0,5,1,1284,32
+Sergio Díaz,Paraguay,Attack,right,170.0,GR1,Panetolikos GFS,350000.0,2,0,1,1,918,26
+Erdem Çetinkaya,Türkiye,Attack,left,177.0,TR1,Kasimpasa,350000.0,1,0,0,1,177,23
+David Henen,Togo,Attack,right,186.0,BE1,KV Kortrijk,350000.0,0,0,0,1,269,28
+Arielson,Brazil,Attack,right,180.0,UKR1,Polissya Zhytomyr,350000.0,3,0,1,2,867,20
+Sito,Spain,Attack,left,180.0,GR1,Asteras Aktor,350000.0,0,0,0,1,782,28
+Jair Tavares,Portugal,Attack,both,181.0,SC1,Hibernian FC,350000.0,0,0,2,1,1474,23
+Matty Kennedy,Northern Ireland,Attack,right,175.0,SC1,Kilmarnock FC,350000.0,3,0,3,3,2595,30
+Fodé Fofana,Netherlands,Attack,both,187.0,NL1,Vitesse Arnhem,350000.0,0,0,0,0,98,22
+Marlon,Brazil,Attack,right,176.0,PO1,Gil Vicente FC,350000.0,4,0,0,0,578,27
+Jeriel de Santis,Venezuela,Attack,right,190.0,PO1,Boavista FC,350000.0,3,0,0,2,173,22
+Rory McKenzie,Scotland,Attack,right,176.0,SC1,Kilmarnock FC,350000.0,4,0,1,1,693,31
+Marvin Egho,Austria,Attack,left,188.0,DK1,Randers FC,350000.0,0,0,0,1,489,30
+Kyle Vassell,Northern Ireland,Attack,right,183.0,SC1,Kilmarnock FC,350000.0,4,0,9,4,2516,31
+Chris Kane,Scotland,Attack,right,174.0,SC1,St. Johnstone FC,350000.0,2,0,1,0,789,30
+Richonell Margaret,Netherlands,Attack,right,191.0,NL1,RKC Waalwijk,350000.0,2,0,4,1,822,24
+Mouhamed Belkheir,Algeria,Attack,left,185.0,NL1,Fortuna Sittard,350000.0,1,1,1,0,468,26
+Gytis Paulauskas,Lithuania,Attack,right,196.0,UKR1,Kolos Kovalivka,350000.0,1,0,1,1,487,25
+Luigi Cherubini,Italy,Attack,right,175.0,IT1,AS Roma,350000.0,0,0,0,0,2,21
+Ari Moura,Brazil,Attack,both,174.0,UKR1,Metalist 1925 Kharkiv,350000.0,1,0,4,1,1112,28
+Kaj de Rooij,Netherlands,Attack,right,184.0,NL1,PEC Zwolle,350000.0,1,0,0,0,163,24
+Steven Bradley,Scotland,Attack,left,187.0,SC1,Livingston FC,350000.0,1,0,0,0,650,22
+Denys Ustymenko,Ukraine,Attack,right,185.0,UKR1,FK Minaj,350000.0,3,0,5,2,1255,25
+Frederic Soelle Soelle,Belgium,Attack,right,190.0,BE1,RWD Molenbeek,350000.0,0,0,0,0,94,19
+Jasin Assehnoun,Finland,Attack,both,175.0,GR1,Volos NPS,350000.0,5,0,5,1,1094,26
+Renaud Emond,Belgium,Attack,right,185.0,BE1,KAS Eupen,350000.0,2,0,2,0,533,33
+Georgiy Melkadze,Russia,Attack,right,183.0,RU1,FC Sochi,350000.0,1,0,0,2,626,27
+Niklo Dailly,Belgium,Attack,right,185.0,BE1,RWD Molenbeek,350000.0,0,0,0,0,322,23
+Vasilios Mantzis,Greece,Attack,right,183.0,GR1,Asteras Aktor,350000.0,2,0,4,1,822,33
+Zak Rudden,Scotland,Attack,right,187.0,SC1,Dundee FC,350000.0,3,0,2,1,822,24
+Artur Serobyan,Armenia,Attack,left,181.0,PO1,Casa Pia AC,350000.0,2,0,0,1,482,21
+Sofus Berger,Denmark,Attack,left,175.0,DK1,Viborg FF,350000.0,1,0,2,1,454,21
+Frederik Carstensen,Denmark,Attack,right,179.0,DK1,Silkeborg IF,350000.0,1,0,4,0,288,22
+Milan Robberechts,Belgium,Attack,left,181.0,NL1,Fortuna Sittard,350000.0,1,0,1,0,231,20
+Dara Costelloe,Ireland,Attack,left,175.0,SC1,St. Johnstone FC,325000.0,5,1,1,2,1524,22
+Alassana Jatta,The Gambia,Attack,right,192.0,DK1,Viborg FF,325000.0,0,0,1,0,123,26
+Volodymyr Odaryuk,Ukraine,Attack,right,183.0,UKR1,FK Minaj,300000.0,2,0,0,0,866,30
+Cristian Herrera,Spain,Attack,both,182.0,ES1,UD Las Palmas,300000.0,1,0,1,2,460,33
+Jean-Morel Poé,Cote d'Ivoire,Attack,left,184.0,UKR1,Kryvbas Kryvyi Rig,300000.0,2,0,1,0,217,28
+Mateusz Musialowski,Poland,Attack,both,175.0,GB1,Liverpool FC,300000.0,0,0,0,0,16,21
+Álvaro Negredo,Spain,Attack,left,186.0,ES1,Cádiz CF,300000.0,0,0,0,0,194,39
+Prince Kwabena Adu,Ghana,Attack,right,179.0,UKR1,Kryvbas Kryvyi Rig,300000.0,1,0,2,0,485,21
+Faiz Mattoir,Comoros,Attack,right,169.0,NL1,Almere City FC,300000.0,0,0,0,0,51,24
+Marco Camus,Spain,Attack,left,181.0,ES1,Valencia CF,300000.0,0,0,0,0,70,23
+Artur Mykytyshyn,Ukraine,Attack,right,177.0,UKR1,Kryvbas Kryvyi Rig,300000.0,1,0,1,2,495,21
+Anders Jacobsen,Denmark,Attack,right,181.0,DK1,Vejle Boldklub,300000.0,0,0,0,0,186,35
+Nicolás Andereggen,Argentina,Attack,right,176.0,GR1,AE Kifisias,300000.0,3,0,1,0,833,25
+Luís dos Santos,Portugal,Attack,right,176.0,PO1,Boavista FC,300000.0,3,0,0,1,673,25
+Diego Carioca,Brazil,Attack,right,177.0,UKR1,Kolos Kovalivka,300000.0,0,0,1,0,427,26
+Nikolaos Kaltsas,Greece,Attack,right,172.0,GR1,Asteras Aktor,300000.0,7,0,5,11,1932,34
+Mathías Acuña,Uruguay,Attack,right,174.0,GR1,PAS Lamia 1964,300000.0,5,0,3,1,576,32
+Nikoloz Kutateladze,Georgia,Attack,right,184.0,RU1,FC Pari Nizhniy Novgorod,300000.0,1,0,2,4,783,23
+Soltmurad Bakaev,Russia,Attack,right,183.0,RU1,Rubin Kazan,300000.0,1,0,0,0,281,25
+Alexandros Voilis,Greece,Attack,both,187.0,GR1,Panetolikos GFS,300000.0,1,0,1,1,340,24
+Bill,Brazil,Attack,right,175.0,UKR1,SK Dnipro-1,300000.0,0,0,0,0,239,25
+Jordan White,Scotland,Attack,right,193.0,SC1,Ross County FC,300000.0,7,0,4,2,2010,32
+Gustavo Henrique,Brazil,Attack,right,176.0,PO1,CF Estrela Amadora SAD,300000.0,0,0,0,0,128,25
+Kasper Kusk,Denmark,Attack,left,180.0,DK1,Silkeborg IF,300000.0,1,0,0,2,569,33
+Claudiu Bălan,Romania,Attack,right,186.0,GR1,PAS Giannina,300000.0,1,0,1,0,814,30
+Picas,Angola,Attack,right,170.0,PO1,GD Chaves,300000.0,0,0,0,0,3,23
+Dmytro Yusov,Ukraine,Attack,right,188.0,UKR1,Metalist 1925 Kharkiv,300000.0,3,0,6,3,1709,31
+Adrien Lebeau,France,Attack,left,175.0,FR1,Stade Brestois 29,300000.0,0,0,0,1,48,25
+Vladyslav Bugay,Ukraine,Attack,right,186.0,UKR1,Zorya Lugansk,300000.0,1,0,1,0,396,27
+Tom van Weert,Netherlands,Attack,right,183.0,GR1,AEK Athens,300000.0,0,0,1,0,209,34
+Alioune Ndour,Senegal,Attack,right,188.0,PO1,CF Estrela Amadora SAD,300000.0,2,0,0,2,452,23
+Daniel Kivinda,Ukraine,Attack,right,179.0,UKR1,SK Dnipro-1,300000.0,1,0,0,0,389,20
+Salvador Agra,Portugal,Attack,right,166.0,PO1,Boavista FC,300000.0,7,0,3,4,2543,33
+Jô,Brazil,Attack,left,192.0,PO1,GD Chaves,300000.0,1,0,2,3,1036,29
+Rangel,Brazil,Attack,right,185.0,UKR1,Kolos Kovalivka,300000.0,3,0,1,0,633,30
+Mykola Gayduchyk,Ukraine,Attack,left,188.0,UKR1,NK Veres Rivne,300000.0,2,0,4,3,1568,25
+Abde Raihani,Morocco,Attack,right,187.0,ES1,Atlético de Madrid,300000.0,0,0,0,0,9,20
+Iker Unzueta,Spain,Attack,right,184.0,PO1,FC Vizela,300000.0,0,0,0,0,92,26
+Zé Luís,Cape Verde,Attack,left,184.0,PO1,SC Farense,300000.0,2,0,3,1,692,34
+Vladimir Obukhov,Russia,Attack,left,184.0,RU1,FK Orenburg,300000.0,4,0,5,0,897,32
+Tamble,Portugal,Attack,right,191.0,PO1,Portimonense SC,300000.0,1,0,1,0,364,24
+Anton Salabay,Ukraine,Attack,right,187.0,UKR1,Kolos Kovalivka,300000.0,5,0,2,1,648,22
+Giannis Fetfatzidis,Greece,Attack,left,165.0,GR1,Aris Thessaloniki,300000.0,0,0,2,0,703,34
+Cristian Ponde,Portugal,Attack,right,181.0,PO1,SC Farense,300000.0,1,0,1,1,404,30
+Călin Popescu,Romania,Attack,right,175.0,GR1,Volos NPS,300000.0,0,0,0,0,96,23
+John McAtee,England,Attack,right,180.0,GB1,Luton Town,300000.0,0,0,2,0,157,25
+Sergiy Sukhanov,Ukraine,Attack,right,183.0,UKR1,Obolon Kyiv,300000.0,3,1,4,0,1217,29
+Geovani,Brazil,Attack,left,177.0,UKR1,FK Oleksandriya,300000.0,1,0,1,0,765,23
+Yegor Gunichev,Ukraine,Attack,right,180.0,UKR1,FK Minaj,300000.0,2,0,3,0,960,21
+Dan MacKay,Scotland,Attack,left,174.0,SC1,Livingston FC,300000.0,3,0,3,2,1103,23
+Denys Ndukve,Ukraine,Attack,left,180.0,UKR1,Polissya Zhytomyr,300000.0,4,0,2,0,649,24
+Paul Gladon,Netherlands,Attack,right,188.0,NL1,Fortuna Sittard,300000.0,0,0,0,0,173,32
+Luan,Brazil,Attack,right,175.0,PO1,Portimonense SC,300000.0,3,0,1,0,645,22
+Artur Remenyak,Ukraine,Attack,right,181.0,UKR1,FK Minaj,300000.0,3,0,5,1,1057,24
+Nicky Clark,Scotland,Attack,right,178.0,SC1,St. Johnstone FC,300000.0,0,0,6,0,1040,33
+Yanis Issoufou,France,Attack,left,182.0,FR1,Montpellier HSC,300000.0,0,0,0,0,12,18
+Kiki,Portugal,Attack,left,172.0,PO1,Casa Pia AC,300000.0,3,0,0,1,1188,26
+Joaquín Panichelli,Argentina,Attack,right,187.0,ES1,Deportivo Alavés,300000.0,0,0,0,0,222,22
+Vladyslav Vakula,Ukraine,Attack,right,173.0,UKR1,FK Minaj,300000.0,2,0,1,4,1445,25
+André Pereira,Portugal,Attack,left,188.0,PO1,Rio Ave FC,300000.0,3,0,1,0,651,29
+Ramik Gadzhyev,Ukraine,Attack,left,180.0,UKR1,SK Dnipro-1,300000.0,3,0,1,0,369,19
+Ibou Sané,Senegal,Attack,right,179.0,FR1,FC Metz,300000.0,1,0,1,0,121,19
+Shio Fukuda,Japan,Attack,right,178.0,L1,Borussia Mönchengladbach,300000.0,0,0,0,0,32,20
+Othmane Maamma,Morocco,Attack,right,180.0,FR1,Montpellier HSC,300000.0,0,0,1,0,88,19
+Santiago Rosales,Argentina,Attack,right,180.0,GR1,PAS Giannina,300000.0,0,0,0,0,98,29
+Rodrigo Martins,Portugal,Attack,right,177.0,PO1,Portimonense SC,300000.0,1,0,1,1,372,26
+Robert Mühren,Netherlands,Attack,right,187.0,NL1,FC Volendam,300000.0,0,1,8,1,1577,35
+Etta Eyong,Cameroon,Attack,right,181.0,ES1,Cádiz CF,300000.0,0,0,0,0,20,21
+Adrián Butzke,Spain,Attack,right,193.0,PO1,Vitória Guimarães SC,300000.0,0,0,0,0,453,25
+Aleksandr Dolgov,Russia,Attack,right,183.0,RU1,Fakel Voronezh,300000.0,1,0,1,0,511,26
+Albian Ajeti,Switzerland,Attack,right,181.0,TR1,Gaziantep FK,300000.0,0,0,1,0,55,27
+Andrews Tetteh,Greece,Attack,right,188.0,GR1,AE Kifisias,300000.0,4,0,1,1,1474,23
+Sergiy Myakushko,Ukraine,Attack,both,170.0,UKR1,Vorskla Poltava,300000.0,5,0,3,1,1724,31
+Yusuf Lawal,Nigeria,Attack,right,175.0,PO1,FC Arouca,300000.0,1,0,0,1,258,26
+Tunahan Taşçı,Türkiye,Attack,left,172.0,NL1,Fortuna Sittard,300000.0,1,0,0,0,45,22
+Vladyslav Sharay,Ukraine,Attack,left,175.0,UKR1,NK Veres Rivne,300000.0,8,0,4,0,1807,27
+Youssef El Arabi,Morocco,Attack,right,183.0,GR1,Olympiacos Piraeus,300000.0,0,0,4,1,375,37
+Berna,Angola,Attack,left,169.0,PO1,Boavista FC,300000.0,2,0,0,0,305,21
+Jardel,Guinea-Bissau,Attack,right,184.0,PO1,FC Vizela,300000.0,0,0,0,1,256,27
+Liam Boyce,Northern Ireland,Attack,left,184.0,SC1,Heart of Midlothian FC,300000.0,2,0,1,3,849,33
+Nordin Amrabat,Morocco,Attack,right,179.0,GR1,AEK Athens,300000.0,3,0,4,7,1666,37
+Vladyslav Dmytrenko,Ukraine,Attack,both,170.0,UKR1,Metalist 1925 Kharkiv,300000.0,2,0,4,0,880,24
+Noah Shamoun,Syria,Attack,right,183.0,DK1,Randers FC,300000.0,0,0,0,0,148,22
+Curtis Main,England,Attack,right,178.0,SC1,Dundee FC,300000.0,2,0,0,0,434,32
+Rostyslav Taranukha,Ukraine,Attack,right,178.0,UKR1,Obolon Kyiv,300000.0,4,0,3,1,1574,28
+Emil Højlund,Denmark,Attack,right,191.0,DK1,FC Copenhagen,300000.0,0,0,0,0,1,20
+Diego Pineda,Mexico,Attack,right,177.0,SC1,Dundee FC,300000.0,0,0,0,0,24,29
+Emrehan Gedikli,Türkiye,Attack,right,187.0,TR1,Istanbulspor,275000.0,0,0,1,0,444,21
+Moryké Fofana,Cote d'Ivoire,Attack,right,175.0,TR1,Samsunspor,275000.0,4,0,0,4,1047,33
+Darius Johnson,Grenada,Attack,right,182.0,NL1,FC Volendam,275000.0,2,0,1,2,1265,24
+Admiral Muskwe,Zimbabwe,Attack,right,183.0,GB1,Luton Town,275000.0,0,0,0,0,85,26
+Mame Mor Faye,Senegal,Attack,right,182.0,TR1,Caykur Rizespor,275000.0,0,0,0,0,100,19
+Tolis Vellios,Greece,Attack,right,191.0,NL1,PEC Zwolle,275000.0,4,0,3,2,803,33
+Federico Macheda,Italy,Attack,right,185.0,TR1,MKE Ankaragücü,275000.0,1,0,3,0,485,33
+Moses Ebiye,Nigeria,Attack,both,185.0,SC1,Motherwell FC,275000.0,0,0,1,0,36,27
+Michiel Kramer,Netherlands,Attack,right,196.0,NL1,RKC Waalwijk,275000.0,5,0,8,0,1866,36
+Paulinho,Portugal,Attack,right,186.0,PO1,Portimonense SC,275000.0,9,0,19,10,4148,25
+David Mamutovic,Germany,Attack,left,189.0,L1,1.FSV Mainz 05,250000.0,0,0,0,0,9,24
+Rashaan Fernandes,Netherlands,Attack,right,170.0,NL1,Go Ahead Eagles,250000.0,0,0,0,0,61,26
+İlker Karakaş,Türkiye,Attack,right,187.0,TR1,Gaziantep FK,250000.0,0,0,0,1,86,26
+Edgar Babayan,Armenia,Attack,both,180.0,DK1,Randers FC,250000.0,1,0,0,0,364,29
+Dmytro Shastal,Ukraine,Attack,right,179.0,UKR1,NK Veres Rivne,250000.0,3,0,3,3,1270,29
+Rajiv van La Parra,Netherlands,Attack,right,181.0,NL1,Almere City FC,250000.0,1,0,2,1,1828,33
+Samuele Longo,Italy,Attack,right,185.0,GR1,PAS Lamia 1964,250000.0,2,0,1,2,405,33
+Capita,Angola,Attack,left,171.0,PO1,CF Estrela Amadora SAD,250000.0,0,0,0,0,26,23
+Sekou Diawara,Belgium,Attack,left,187.0,IT1,Udinese Calcio,250000.0,0,0,0,0,31,20
+Ilya Kukharchuk,Russia,Attack,right,186.0,RU1,FC Pari Nizhniy Novgorod,250000.0,0,0,1,0,636,34
+Oli Shaw,Scotland,Attack,right,188.0,SC1,Motherwell FC,250000.0,1,0,0,2,434,26
+Antonio Jakolis,Croatia,Attack,right,175.0,RU1,Fakel Voronezh,250000.0,1,0,0,0,310,32
+Álex Mula,Spain,Attack,right,178.0,GR1,PAS Lamia 1964,250000.0,0,0,0,0,155,28
+Alberto Dadie,Spain,Attack,right,170.0,ES1,Real Sociedad,250000.0,0,0,0,1,140,22
+Alfred Finnbogason,Iceland,Attack,right,184.0,BE1,KAS Eupen,250000.0,3,0,3,4,1446,35
+Marko Mrvaljevic,Montenegro,Attack,right,188.0,UKR1,NK Veres Rivne,250000.0,1,1,3,0,529,23
+Egor Ushakov,Russia,Attack,right,177.0,RU1,CSKA Moscow,250000.0,0,0,0,0,20,22
+Andriy Remenyuk,Ukraine,Attack,right,170.0,UKR1,Metalist 1925 Kharkiv,250000.0,1,0,1,0,303,25
+Vladyslav Pogorilyi,Ukraine,Attack,right,183.0,UKR1,FK Oleksandriya,250000.0,0,0,1,0,553,21
+Alejandro Cabeza,Ecuador,Attack,right,186.0,RU1,FC Sochi,250000.0,0,0,0,0,11,27
+Igor Medynskyi,Ukraine,Attack,right,173.0,UKR1,Obolon Kyiv,250000.0,3,0,0,0,1706,32
+Aleksandr Chupayov,Russia,Attack,right,190.0,RU1,Dynamo Moscow,250000.0,0,0,0,0,1,20
+Benjamin Kimpioka,Sweden,Attack,right,183.0,SC1,St. Johnstone FC,250000.0,2,0,2,0,567,24
+Ben Parkinson,England,Attack,right,183.0,GB1,Newcastle United,250000.0,0,0,0,0,24,19
+Sindre Walle Egeli,Norway,Attack,left,182.0,DK1,FC Nordsjaelland,250000.0,0,0,0,0,10,18
+Kostyantyn Bychek,Ukraine,Attack,left,180.0,UKR1,Metalist 1925 Kharkiv,250000.0,3,0,0,1,534,24
+Néné Gbamblé,Cote d'Ivoire,Attack,right,173.0,RU1,Akhmat Grozny,250000.0,0,0,0,1,252,22
+Zakaria Bakkali,Belgium,Attack,right,170.0,NL1,RKC Waalwijk,250000.0,0,0,0,0,765,29
+Andriy Andreychuk,Ukraine,Attack,right,187.0,UKR1,FK Oleksandriya,250000.0,0,0,0,0,393,21
+Viktor Klonaridis,Belgium,Attack,right,179.0,GR1,AE Kifisias,250000.0,1,0,0,0,274,32
+Juan Garro,Argentina,Attack,right,179.0,GR1,PAS Giannina,250000.0,2,0,1,0,419,32
+Carlitos,Spain,Attack,right,176.0,GR1,PAS Lamia 1964,250000.0,4,0,10,4,1660,34
+Khyzyr Appaev,Russia,Attack,right,192.0,RU1,Fakel Voronezh,250000.0,7,0,0,2,2258,35
+Hernâni,Portugal,Attack,left,180.0,PO1,Rio Ave FC,250000.0,0,0,1,1,549,33
+David Toshevski,North Macedonia,Attack,right,187.0,RU1,FK Rostov,250000.0,0,0,0,0,63,23
+Alhaji Kamara,Sierra Leone,Attack,right,180.0,DK1,Randers FC,250000.0,1,0,1,0,143,30
+Rikelmi,Brazil,Attack,right,160.0,BE1,RWD Molenbeek,250000.0,2,0,0,0,268,23
+Joselpho Barnes,Ghana,Attack,right,187.0,BE1,Sint-Truidense VV,250000.0,2,0,1,0,419,23
+Midana Cassamá,Guinea-Bissau,Attack,right,185.0,PO1,Portimonense SC,250000.0,2,1,1,0,282,22
+Stevie May,Scotland,Attack,right,178.0,SC1,St. Johnstone FC,250000.0,3,0,0,1,712,32
+Johannes Selvén,Sweden,Attack,right,175.0,DK1,Odense Boldklub,250000.0,0,0,2,0,483,21
+Ziguy Badibanga,Belgium,Attack,right,172.0,UKR1,Chornomorets Odessa,250000.0,4,0,2,5,1989,33
+Innes Cameron,Scotland,Attack,right,190.0,SC1,Kilmarnock FC,225000.0,1,0,1,0,163,24
+Antonio Satriano,Italy,Attack,right,185.0,NL1,Heracles Almelo,225000.0,0,0,0,0,160,21
+Issah Abass,Ghana,Attack,right,173.0,PO1,GD Chaves,225000.0,1,0,0,2,306,26
+Görkem Bitin,Türkiye,Attack,left,190.0,TR1,Pendikspor,225000.0,1,0,0,1,324,26
+Diallang Jaiyesimi,England,Attack,right,181.0,SC1,St. Johnstone FC,225000.0,1,1,1,1,734,26
+Tommaso De Nipoti,Italy,Attack,left,180.0,IT1,Atalanta BC,200000.0,0,0,0,1,1,21
+Lasse Wehmeyer,Germany,Attack,right,177.0,NL1,Heracles Almelo,200000.0,0,0,0,0,208,22
+Rodrigo Macedo,Portugal,Attack,right,181.0,PO1,Moreirense FC,200000.0,0,0,0,0,61,21
+Maksym Marusych,Ukraine,Attack,right,182.0,UKR1,NK Veres Rivne,200000.0,1,1,0,2,686,31
+Andriy Bliznichenko,Ukraine,Attack,left,179.0,UKR1,NK Veres Rivne,200000.0,2,0,1,0,395,30
+Oso,Spain,Attack,left,183.0,ES1,Sevilla FC,200000.0,0,0,0,0,1,21
+Marley Watkins,Wales,Attack,right,178.0,SC1,Kilmarnock FC,200000.0,2,0,11,1,2651,34
+Juan Alvina,Brazil,Attack,left,165.0,UKR1,FK Oleksandriya,200000.0,1,0,3,4,415,21
+Admir Bajrovic,Sweden,Attack,right,181.0,GR1,Panserraikos,200000.0,1,0,0,0,274,29
+Miguel Monteiro,Portugal,Attack,right,187.0,PO1,Gil Vicente FC,200000.0,0,0,1,1,264,21
+Achraf Douiri,Netherlands,Attack,right,180.0,NL1,FC Volendam,200000.0,1,0,0,2,381,25
+Fabricio Alvarenga,Argentina,Attack,right,178.0,UKR1,Chornomorets Odessa,200000.0,1,0,0,0,463,28
+Andriy Chyruk,Ukraine,Attack,right,184.0,UKR1,Metalist 1925 Kharkiv,200000.0,3,0,0,0,425,24
+Simon Murray,Scotland,Attack,right,182.0,SC1,Ross County FC,200000.0,6,0,11,4,2607,32
+Marco Ramkilde,Denmark,Attack,right,190.0,DK1,Hvidovre IF,200000.0,0,0,0,0,83,26
+Sergio Rodelas,Spain,Attack,left,168.0,ES1,Granada CF,200000.0,0,0,0,1,122,20
+Miro,Angola,Attack,left,184.0,PO1,Gil Vicente FC,200000.0,0,0,0,0,163,21
+Mikael Mandron,France,Attack,left,191.0,SC1,St. Mirren FC,200000.0,2,0,7,2,1769,30
+Talha Sarıarslan,Türkiye,Attack,right,186.0,TR1,Kayserispor,200000.0,0,0,0,1,83,21
+Nani,Portugal,Attack,both,177.0,TR1,Adana Demirspor,200000.0,6,0,4,2,1093,38
+Raymond Owusu,Ghana,Attack,right,178.0,UKR1,Metalist 1925 Kharkiv,200000.0,1,0,1,1,375,22
+Dmitriy Barkov,Russia,Attack,right,181.0,RU1,Baltika Kaliningrad,200000.0,0,0,4,1,257,32
+Alex Samuel,Wales,Attack,right,183.0,SC1,Ross County FC,200000.0,0,0,1,1,328,29
+Christian Gammelgaard,Denmark,Attack,left,185.0,DK1,Vejle Boldklub,200000.0,0,0,0,0,277,21
+Mehmet Ali Büyüksayar,Türkiye,Attack,right,166.0,TR1,Konyaspor,200000.0,0,0,0,0,2,20
+José de León,Dominican Republic,Attack,right,185.0,ES1,Deportivo Alavés,200000.0,0,0,0,0,3,20
+Georgios Tzovaras,Greece,Attack,left,186.0,GR1,Atromitos Athens,200000.0,0,0,0,1,118,25
+Joseph Efford,United States,Attack,right,176.0,GR1,PAS Giannina,200000.0,0,0,0,0,130,28
+Zé Gomes,Portugal,Attack,right,181.0,UKR1,Chornomorets Odessa,200000.0,1,0,0,0,92,25
+Mike van Duinen,Netherlands,Attack,right,185.0,NL1,Excelsior Rotterdam,200000.0,1,0,0,0,92,33
+Trévis Dago,France,Attack,right,185.0,FR1,LOSC Lille,200000.0,1,0,0,1,21,20
+Rubén Martínez,Spain,Attack,left,167.0,GR1,PAS Lamia 1964,200000.0,2,1,3,1,1212,35
+Mohamed-Amine Bouchenna,France,Attack,right,179.0,FR1,Clermont Foot 63,200000.0,1,0,0,0,27,18
+Djakaridja Junior Traoré,Cote d'Ivoire,Attack,right,193.0,TR1,Istanbulspor,200000.0,1,0,1,0,480,26
+Nazariy Nych,Ukraine,Attack,left,184.0,UKR1,LNZ Cherkasy,200000.0,0,0,0,0,135,25
+Mirza Cihan,Türkiye,Attack,right,175.0,TR1,Gaziantep FK,200000.0,0,0,0,0,126,24
+John-Kymani Gordon,England,Attack,right,181.0,GB1,Crystal Palace,200000.0,0,0,0,0,111,21
+Divaio Bobson,Netherlands,Attack,right,182.0,NL1,PEC Zwolle,200000.0,0,0,0,0,52,20
+Cassiano,Brazil,Attack,right,184.0,PO1,GD Estoril Praia,200000.0,2,0,11,3,2065,35
+Marcin Listkowski,Poland,Attack,both,178.0,IT1,US Lecce,200000.0,0,0,0,0,7,26
+Anton Glushchenko,Ukraine,Attack,right,185.0,UKR1,Vorskla Poltava,200000.0,3,0,1,0,384,20
+Christian Doidge,Wales,Attack,right,188.0,SC1,Hibernian FC,200000.0,3,0,5,2,973,32
+Luke Jephcott,Wales,Attack,right,177.0,SC1,St. Johnstone FC,200000.0,0,0,0,0,289,25
+Greg Stewart,Scotland,Attack,left,178.0,SC1,Kilmarnock FC,200000.0,1,0,0,0,158,34
+Pavel Popov,Russia,Attack,right,191.0,RU1,Krylya Sovetov Samara,200000.0,0,0,0,0,78,22
+Kaiyne Woolery,England,Attack,right,182.0,GR1,Panserraikos,200000.0,1,0,0,0,411,30
+Alexandros Lolis,Greece,Attack,left,180.0,GR1,PAS Giannina,200000.0,1,0,0,0,50,22
+İbrahim Yılmaz,Türkiye,Attack,right,184.0,TR1,Istanbulspor,200000.0,2,0,2,0,446,30
+Flosard Malçi,Albania,Attack,left,180.0,GR1,PAS Lamia 1964,200000.0,1,0,4,0,539,30
+Oleg Vyshnevskyi,Ukraine,Attack,right,179.0,UKR1,Obolon Kyiv,200000.0,2,0,0,1,1051,29
+Viktor Bliznichenko,Ukraine,Attack,right,174.0,UKR1,Kryvbas Kryvyi Rig,200000.0,1,0,1,0,171,22
+Stav Nachmani,Israel,Attack,right,182.0,SC1,St. Mirren FC,200000.0,0,0,1,0,230,22
+Nils Mortimer,Spain,Attack,left,178.0,DK1,Viborg FF,200000.0,1,0,0,0,27,23
+Berat Kalkan,North Macedonia,Attack,right,171.0,TR1,Kasimpasa,200000.0,0,0,0,0,5,21
+Thuram,Brazil,Attack,right,183.0,TR1,Pendikspor,200000.0,1,0,3,1,851,33
+Alexandros Maskanakis,Greece,Attack,right,173.0,GR1,Panserraikos,200000.0,2,0,1,0,490,20
+Motez Nourani,Tunisia,Attack,right,177.0,TR1,Adana Demirspor,175000.0,0,0,0,0,166,23
+Muhammet Demir,Türkiye,Attack,right,180.0,TR1,Konyaspor,175000.0,1,0,0,1,41,33
+Dion Pereira,Antigua and Barbuda,Attack,left,180.0,GB1,Luton Town,175000.0,0,0,2,0,159,25
+Zean Dalügge,Denmark,Attack,right,185.0,DK1,Lyngby BK,175000.0,0,0,0,0,5,21
+Anton Savin,Ukraine,Attack,right,177.0,UKR1,LNZ Cherkasy,175000.0,3,0,0,3,462,34
+Johnny Kenny,Ireland,Attack,right,177.0,SC1,Celtic FC,175000.0,0,0,0,0,156,21
+Batuhan Çelik,Türkiye,Attack,right,187.0,TR1,Basaksehir FK,175000.0,0,0,0,0,1,20
+Antonis Trimmatis,Greece,Attack,both,176.0,GR1,Atromitos Athens,150000.0,0,0,1,0,153,25
+Ibrahim El Kadiri,Morocco,Attack,right,170.0,NL1,FC Volendam,150000.0,0,0,0,0,75,23
+Laurent Depoitre,Belgium,Attack,right,191.0,BE1,KAA Gent,150000.0,0,0,1,1,387,36
+Danylo Goncharuk,Ukraine,Attack,right,176.0,UKR1,Kryvbas Kryvyi Rig,150000.0,0,0,0,0,1,22
+Mohamed Bechikh,France,Attack,right,183.0,FR1,RC Strasbourg Alsace,150000.0,0,0,0,0,12,19
+Junior Hoilett,Canada,Attack,right,174.0,SC1,Aberdeen FC,150000.0,2,0,0,3,540,34
+Conor McMenamin,Northern Ireland,Attack,left,183.0,SC1,St. Mirren FC,150000.0,4,0,1,2,1435,29
+Mykhaylo Shestakov,Ukraine,Attack,right,175.0,UKR1,NK Veres Rivne,150000.0,4,0,1,1,849,34
+Trivante Stewart,Jamaica,Attack,right,183.0,IT1,US Salernitana 1919,150000.0,0,0,0,0,141,24
+Jean-Baptiste Léo,France,Attack,left,192.0,GR1,PAS Giannina,150000.0,0,0,1,2,569,28
+Pablo Sáenz,Spain,Attack,left,175.0,ES1,Granada CF,150000.0,0,0,0,0,18,23
+Aboubacar Ali Abdallah,France,Attack,right,182.0,FR1,RC Strasbourg Alsace,150000.0,0,0,0,1,126,18
+Kurtis Guthrie,England,Attack,right,191.0,SC1,Livingston FC,150000.0,2,0,1,1,1207,31
+Lewis Jamieson,Scotland,Attack,left,169.0,SC1,St. Mirren FC,150000.0,0,0,1,0,735,22
+Aaron Malouda,France,Attack,right,183.0,FR1,LOSC Lille,150000.0,0,0,0,0,1,19
+Igor Henrique,Brazil,Attack,left,172.0,UKR1,Metalist 1925 Kharkiv,150000.0,1,0,0,0,146,20
+Kosmas Tsilianidis,Greece,Attack,right,177.0,GR1,PAS Lamia 1964,150000.0,1,0,0,0,106,30
+Andy Visser,Netherlands,Attack,left,193.0,NL1,Vitesse Arnhem,150000.0,0,0,0,0,336,20
+Iñigo Arguibide,Spain,Attack,right,178.0,ES1,CA Osasuna,150000.0,0,0,0,0,16,19
+Fodé Koita,Guinea,Attack,right,186.0,TR1,Sivasspor,150000.0,5,1,8,0,1304,34
+Pedro Conde,Spain,Attack,right,181.0,GR1,PAS Giannina,150000.0,2,0,7,1,1247,36
+Kiril Popov,Ukraine,Attack,right,187.0,UKR1,FK Minaj,150000.0,0,1,0,0,182,21
+Richard Sukuta-Pasu,Germany,Attack,right,190.0,DK1,Vejle Boldklub,125000.0,0,0,0,0,24,34
+Conor Wilkinson,Ireland,Attack,left,191.0,SC1,Motherwell FC,125000.0,3,0,3,1,646,30
+Quincy Hoeve,Bonaire,Attack,right,190.0,NL1,FC Volendam,125000.0,2,0,0,1,341,21
+Onur Arı,Türkiye,Attack,left,195.0,TR1,Hatayspor,125000.0,0,0,0,0,11,23
+Maxuel,Brazil,Attack,right,186.0,PO1,SC Farense,125000.0,1,0,0,0,33,25
+Diego van Oorschot,Netherlands,Attack,both,173.0,NL1,Heracles Almelo,125000.0,0,0,0,0,23,19
+Kirill Moiseev,Russia,Attack,right,178.0,RU1,FK Rostov,125000.0,0,0,0,0,13,20
+Guilherme Smith,Brazil,Attack,right,183.0,UKR1,Zorya Lugansk,100000.0,0,0,0,0,11,21
+Dominic Sadi,England,Attack,left,174.0,GB1,AFC Bournemouth,100000.0,0,0,0,0,8,21
+Ruslan Nepeypiev,Ukraine,Attack,right,178.0,UKR1,Rukh Lviv,100000.0,0,0,0,0,36,21
+Adel Mahamoud,Comoros,Attack,right,178.0,FR1,FC Nantes,100000.0,0,0,0,0,9,21
+Danylo Kolesnyk,Ukraine,Attack,right,188.0,UKR1,FK Minaj,100000.0,0,0,0,0,8,23
+Anton Shamonin,Russia,Attack,right,194.0,RU1,FK Rostov,100000.0,0,0,0,0,1,19
+Marco Matias,Portugal,Attack,right,177.0,PO1,SC Farense,100000.0,4,0,3,5,2646,35
+Jonathan Obika,England,Attack,right,182.0,SC1,Motherwell FC,100000.0,0,0,1,0,270,34
+Baran Demiroğlu,Türkiye,Attack,right,185.0,TR1,Galatasaray,100000.0,0,0,0,0,15,19
+Danylo Golub,Ukraine,Attack,right,176.0,UKR1,FK Minaj,100000.0,1,0,0,0,183,21
+Ichem Ferrah,France,Attack,left,171.0,FR1,LOSC Lille,100000.0,0,0,0,0,2,19
+Wendell,Brazil,Attack,right,172.0,UKR1,Zorya Lugansk,100000.0,12,0,4,2,2570,20
+Tiago Machado,Portugal,Attack,left,185.0,PO1,Boavista FC,100000.0,0,0,0,0,20,20
+Samu,Portugal,Attack,right,180.0,PO1,Casa Pia AC,100000.0,7,0,5,2,2953,18
+Ozan Demirbağ,Türkiye,Attack,right,178.0,TR1,Adana Demirspor,100000.0,0,0,0,0,73,16
+Luka Bagatelia,Russia,Attack,right,183.0,RU1,Fakel Voronezh,100000.0,1,0,0,0,206,20
+Amine Rehmi,Netherlands,Attack,left,186.0,PO1,Rio Ave FC,100000.0,0,0,0,0,90,22
+Denys Svityukha,Ukraine,Attack,left,186.0,UKR1,NK Veres Rivne,100000.0,0,0,0,1,144,22
+Thiago Cunha,Brazil,Attack,left,172.0,UKR1,Vorskla Poltava,100000.0,0,0,0,0,59,21
+Imran Aznaurov,Russia,Attack,right,175.0,RU1,FK Rostov,100000.0,1,0,0,1,268,20
+Darío Serra,Spain,Attack,right,180.0,NL1,Go Ahead Eagles,100000.0,0,0,0,1,20,22
+Ukra,Portugal,Attack,right,176.0,PO1,Rio Ave FC,100000.0,1,0,0,0,91,36
+Ivan Bober,Russia,Attack,right,179.0,RU1,Krylya Sovetov Samara,100000.0,0,0,0,0,71,19
+Denys Oliynyk,Ukraine,Attack,both,176.0,UKR1,LNZ Cherkasy,100000.0,4,0,3,1,906,37
+Louie Marsh,England,Attack,right,186.0,GB1,Sheffield United,100000.0,0,0,0,0,45,20
+Hayrullah Erkip,Türkiye,Attack,left,175.0,TR1,Kayserispor,100000.0,0,0,0,0,61,21
+Tammer Bany,Denmark,Attack,right,181.0,DK1,Randers FC,100000.0,1,0,0,0,192,21
+Oğuzhan Akgün,Türkiye,Attack,left,175.0,TR1,Besiktas JK,100000.0,0,0,0,0,1,23
+Leandro Kappel,Suriname,Attack,left,183.0,TR1,Pendikspor,100000.0,0,0,1,1,368,35
+Zé Manuel,Portugal,Attack,right,181.0,PO1,Rio Ave FC,100000.0,2,0,2,0,690,34
+Ivan Golovkin,Ukraine,Attack,left,178.0,UKR1,Zorya Lugansk,100000.0,0,0,0,0,33,24
+Nikolaos Tsoukalos,Greece,Attack,left,183.0,GR1,PAS Lamia 1964,100000.0,0,0,0,0,67,32
+Adam Le Fondre,England,Attack,right,180.0,SC1,Hibernian FC,100000.0,0,0,5,2,1045,38
+Zoran Tosic,Serbia,Attack,left,171.0,GR1,PAS Lamia 1964,100000.0,2,0,0,4,776,37
+Simon Makienok,Denmark,Attack,right,201.0,DK1,Hvidovre IF,100000.0,1,0,5,1,651,34
+Nikita Burmistrov,Russia,Attack,left,186.0,RU1,FC Sochi,100000.0,4,0,4,2,1548,35
+Denis Yanakov,Ukraine,Attack,right,185.0,UKR1,NK Veres Rivne,100000.0,0,0,3,0,459,26
+Efecan Barlık,Türkiye,Attack,right,193.0,TR1,Basaksehir FK,100000.0,0,0,0,0,9,22
+Matvey Ivakhnov,Russia,Attack,right,188.0,RU1,Fakel Voronezh,75000.0,1,0,0,0,197,21
+Abdulla Abdullaev,Ukraine,Attack,right,184.0,UKR1,Metalist 1925 Kharkiv,75000.0,0,0,0,1,137,22
+Andreas Bredahl,Denmark,Attack,right,182.0,DK1,Vejle Boldklub,75000.0,0,0,0,0,118,21
+Oumar Diouf,Senegal,Attack,left,180.0,TR1,Caykur Rizespor,75000.0,0,0,0,0,52,21
+Ege Bilsel,Türkiye,Attack,right,175.0,TR1,Antalyaspor,75000.0,1,0,0,0,59,21
+Arda Kılıç,Türkiye,Attack,right,179.0,TR1,Besiktas JK,75000.0,1,0,0,0,91,20
+Güvenç Usta,Türkiye,Attack,left,180.0,TR1,Caykur Rizespor,75000.0,0,0,0,0,9,20
+Ali Demirel,Türkiye,Attack,right,182.0,TR1,Kasimpasa,75000.0,0,0,0,1,11,22
+Sarp Yavrucu,Türkiye,Attack,right,180.0,TR1,Kasimpasa,75000.0,0,0,0,0,2,19
+Danny Lloyd,England,Attack,left,173.0,SC1,Livingston FC,75000.0,1,0,0,0,81,33
+Brahim Darri,Netherlands,Attack,right,175.0,TR1,Fatih Karagümrük,75000.0,0,0,0,0,44,30
+Gökhan Töre,Türkiye,Attack,left,176.0,TR1,Konyaspor,75000.0,0,0,0,0,45,33
+Amilcar Djau Codjovi,Spain,Attack,left,182.0,UKR1,Vorskla Poltava,50000.0,0,0,0,0,11,22
+İzzet Topatar,Türkiye,Attack,right,177.0,TR1,Istanbulspor,50000.0,1,0,0,0,39,23
+Azad Demir,Türkiye,Attack,right,181.0,TR1,Besiktas JK,50000.0,0,0,0,0,5,20
+Dylan Wells,Scotland,Attack,right,170.0,SC1,Motherwell FC,50000.0,0,0,0,0,9,18
+Vladyslav Ostrovskyi,Ukraine,Attack,right,185.0,UKR1,Vorskla Poltava,50000.0,0,0,0,0,53,20
+Artem Slesar,Ukraine,Attack,right,181.0,UKR1,Zorya Lugansk,50000.0,1,0,0,0,128,20
+Artem Gusol,Ukraine,Attack,right,184.0,UKR1,Kolos Kovalivka,50000.0,0,0,0,0,71,19
+Eren Arda Şan,Türkiye,Attack,right,193.0,TR1,Istanbulspor,50000.0,0,0,0,0,32,18
+Yassin Tallal,Morocco,Attack,right,173.0,ES1,Getafe CF,50000.0,0,0,0,0,2,19
+Ivan Demydenko,Ukraine,Attack,right,193.0,UKR1,FK Minaj,50000.0,0,0,0,0,142,21
+Klayver,Brazil,Attack,right,178.0,UKR1,Rukh Lviv,50000.0,0,0,0,0,6,21
+Denis Rubanov,Russia,Attack,right,192.0,RU1,FC Sochi,50000.0,0,0,0,0,111,20
+Michael Opoku,Denmark,Attack,right,181.0,DK1,Lyngby BK,50000.0,0,0,0,0,18,19
+Pavlo Tyshchuk,Ukraine,Attack,right,180.0,UKR1,FK Minaj,50000.0,0,0,0,0,7,27
+Rocco Vata,Ireland,Attack,right,184.0,SC1,Celtic FC,50000.0,1,0,1,0,29,19
+Breyton Fougeu,France,Attack,right,175.0,TR1,Adana Demirspor,50000.0,0,0,0,0,10,21
+Kieran Offord,Scotland,Attack,right,171.0,SC1,St. Mirren FC,50000.0,0,0,0,0,15,20
+Rafael Martins,Brazil,Attack,right,177.0,PO1,Casa Pia AC,50000.0,1,0,0,0,78,35
+Sofiane Sidi Ali,France,Attack,right,175.0,FR1,Olympique Marseille,50000.0,0,0,0,0,16,29
+Berkay Tekke,Türkiye,Attack,right,186.0,TR1,Istanbulspor,25000.0,0,0,0,0,1,21
+Maksym Yermolenko,Ukraine,Attack,left,190.0,UKR1,Obolon Kyiv,25000.0,0,0,0,0,45,26
+Emirhan Delibaş,Türkiye,Attack,left,183.0,TR1,Besiktas JK,25000.0,0,0,0,0,9,22
+Harry McKirdy,England,Attack,right,175.0,SC1,Hibernian FC,20000.0,0,0,0,0,27,27
